@@ -5,7 +5,7 @@ Liste des modifications du projet
 Released: 2018-03-17
 
 ```
-* On attaque à partir de la version disponible sur le Bibliothèque Nationale de France.
+- On attaque à partir de la version disponible sur le Bibliothèque Nationale de France.
 ```
 
 

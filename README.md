@@ -1,10 +1,10 @@
 Le guide du brasseur
 ====================
 
-[![License](https://picocms.github.io/badges/pico-license.svg)](https://github.com/picocms/Pico/blob/master/LICENSE.md)
-[![Version](https://picocms.github.io/badges/pico-version.svg)](https://github.com/picocms/Pico/releases/latest)
-[![Build Status](https://api.travis-ci.org/picocms/Pico.svg?branch=master)](https://travis-ci.org/picocms/Pico)
-[![Freenode IRC Webchat](https://picocms.github.io/badges/pico-chat.svg)](https://webchat.freenode.net/?channels=%23picocms)
+[![License](https://img.shields.io/github/license/Marcussacapuces91/Le-guide-du-brasseur-Pico-CMS.png)](https://github.com/picocms/Pico/blob/master/LICENSE.md)
+[![Version](https://img.shields.io/badge/release-V0.1-blue.png)](https://github.com/Marcussacapuces91/Le-guide-du-brasseur-PICO-CMS/releases/latest)
+[![Mise en page](https://img.shields.io/badge/Avancement%20mise%20en%20page-faible-orange.png)](https://github.com/picocms/Pico/blob/master/content)
+[![Style](https://img.shields.io/badge/Avancement%20du%20style-faible-orange.png)](https://github.com/picocms/Pico/blob/master/theme/site)
 
 C'est un site web complet contenant à la fois :
 * un moteur de publication : [Pico](http://picocms.org/) (voir aussi [Au sujet de Pico](http://picocms.org/about/) pour plus d'informations.) ;
@@ -99,9 +99,10 @@ Vous voulez contribuer au projet ? J'apprécierais beaucoup ! Vous pouvez m'aide
 [contribuant au code][PullRequests] ou en [remontant des problèmes][Issues], 
 mais s'il vous plait tenez compte [règles de contribution][ContributionGuidelines].
 
-Dasn tous les cas, c'est simple : ouvrer un `fork` depuis le site 
+Dans tous les cas, c'est simple : ouvrer un `fork` depuis le site 
 https://github.com/Marcussacapuces91/Le-guide-du-brasseur-Pico-CMS, modifiez les 
 fichiers et faite [une demande de mise à jour (`pull request`)][PullRequests].
+
 J'attends vos contributions ! 
 
 [LatestRelease]: https://github.com/Marcussacapuces91/Le-guide-du-brasseur-Pico-CMS/releases/latest

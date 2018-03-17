@@ -1,6 +1,12 @@
-Contributing to Pico
-====================
+Contribuer au Guide du brasseur
+===============================
 
+Pour le moment, c'est léger...
+
+Je viendrais compléter tout ça plus tard.
+
+
+<!--
 Pico aims to be a high quality Content Management System (CMS) but at the same time wants to give contributors freedom when submitting fixes or improvements.
 
 As such we want to *encourage* but not obligate you, the contributor, to follow these guidelines. The only exception to this are the guidelines elucidated in the *Prevent `merge-hell`* section.
@@ -130,3 +136,4 @@ Issues and pull requests labeled with `info: Information Needed` indicate that w
 Issues and pull requests, which are rather related to upstream projects (i.e. projects Pico depends on, like Twig), are additionally labeled with `info: Upstream`.
 
 When a issue or pull request isn't directly related to Pico's core, but the project as a whole, it is labeled with `info: Meta`.  The same applies to the `info: Website` label, however, in this case it is usually expedient to move the issue to the [`picocms.github.io` repo](https://github.com/picocms/picocms.github.io) containing Pico's website.
+-->

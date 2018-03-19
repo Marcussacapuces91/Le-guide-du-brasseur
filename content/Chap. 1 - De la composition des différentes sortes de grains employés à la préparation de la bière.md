@@ -1,10 +1,8 @@
 ---
-Title: Chap.  1 
-Description: De la composition des différentes sortes de grains employés à la préparation de la bière 
+Title: Chapitre premier 
+Description: De la composition des différentes sortes de grains employés à la préparation de la bière
+Menu: Chap.  1<sup>er</sup> 
 ---
-
-# Chapitre premier
-# De la composition des différentes sortes de grains employés à la préparation de la bière
 
 Si l'on voulait s'occuper des diverses semences au moyen desquelles on peut 
 préparer de la bière, ce n'est qu'avec difficulté que l'on pourrait en fixer le 

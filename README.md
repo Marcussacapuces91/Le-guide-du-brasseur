@@ -5,7 +5,7 @@ Le guide du brasseur
 [![Version](https://img.shields.io/badge/release-V0.1-blue.png)](https://github.com/Marcussacapuces91/Le-guide-du-brasseur-PICO-CMS/releases/latest)
 [![Mise en page](https://img.shields.io/badge/Avancement%20mise%20en%20page-faible-orange.png)](https://github.com/picocms/Pico/blob/master/content)
 [![Style](https://img.shields.io/badge/Avancement%20du%20style-faible-orange.png)](https://github.com/picocms/Pico/blob/master/theme/site)
-[![PHP tested](https://img.shields.io/badge/PHP%20tested-5.6%20%26%207.1-brightgreen.png)]
+![PHP tested](https://img.shields.io/badge/PHP%20tested-5.6%20%26%207.1-brightgreen.png)
 
 C'est un site web complet contenant à la fois :
 * un moteur de publication : [Pico](http://picocms.org/) (voir aussi [Au sujet de Pico](http://picocms.org/about/) pour plus d'informations.) ;

@@ -1,6 +1,7 @@
 ---
-Title:
+Title: Chapitre 2 
 Description: Du houblon.
+Menu: Chap.  2 
 ---
 
 CHAPITRE II

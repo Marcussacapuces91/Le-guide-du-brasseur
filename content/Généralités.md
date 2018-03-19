@@ -3,8 +3,6 @@ Title: Généralités
 Description: De la bière.
 ---
 
-# Généralités.
-
 La bière est une boisson que l'on obtient en traitant par l'eau des grains 
 modifiés par une germination modérée et en faisant fermenter le liquide ainsi 
 obtenu : elle est donc plus ou moins alcoolique.

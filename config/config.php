@@ -26,9 +26,10 @@ $config['rewrite_url'] = true;               // A boolean indicating forced URL 
 /*
  * THEME
  */
-$config['theme'] = 'default';                // Set the theme (defaults to "default")
+$config['theme'] = 'site';                   // Set the theme (defaults to "default")
 $config['twig_config'] = array(              // Twig settings
-    'cache' => 'cache/',                      // To enable Twig caching change this to a path to a writable directory
+//    'cache' => 'cache/',                   // To enable Twig caching change this to a path to a writable directory
+    'cache' => false,
     'autoescape' => false,                   // Auto-escape Twig vars
     'debug' => false                         // Enable Twig debug
 );
@@ -39,7 +40,7 @@ $config['twig_config'] = array(              // Twig settings
 $config['date_format'] = '%D %T';            // Set the PHP date format as described here: http://php.net/manual/en/function.strftime.php
 $config['pages_order_by'] = 'alpha';         // Order pages by "alpha" or "date"
 $config['pages_order'] = 'asc';              // Order pages "asc" or "desc"
-$config['content_dir'] = 'content/';  // Content directory
+$config['content_dir'] = 'content/';         // Content directory
 $config['content_ext'] = '.md';              // File extension of content files to serve
 
 /*

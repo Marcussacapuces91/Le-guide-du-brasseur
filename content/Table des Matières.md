@@ -2,8 +2,6 @@
 Title: Table des Matières
 ---
 
-# Table des Matières
-
 * [Généralités](Généralités)
 * [Chapitre premier. De la composition des différentes sortes de grains employés à la préparation de la bière.](Chap.%201%20-%20De%20la%20composition%20des%20différentes%20sortes%20de%20grains%20employés%20à%20la%20préparation%20de%20la%20bière)
   * Orge 
@@ -41,6 +39,3 @@ Title: Table des Matières
 * Falsification de la bière
 * De la déperdition des principes nutritifs qui se produit dans la préparation de la bière
 * Des substances dont on peut se servir en place de grains pour préparer une bonne boisson
-
--------------------
-Paris. — Imp. Gauthier-Villars, 55, quai des Augustin.

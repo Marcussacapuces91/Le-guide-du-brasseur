@@ -21,27 +21,19 @@ social:
     icon: mail
 ---
 # Le guide du brasseur
-# ou
+## ou
 # l'Art de faire la bière 
-## traité élémentaire théorique et pratique (Ed. rev.) / par G.-J. Mulder,... ; trad. du hollandais et annoté par L.-F. Dubief,...
 
-Auteur : Mulder, Gerardus Johannis (1802-1880). Auteur du texte
+## Traité élémentaire théorique et pratique (Ed. rev.) / par G.-J. Mulder,... ; trad. du hollandais et annoté par L.-F. Dubief,...
 
-Éditeur : J. Hetzel et Cie (Paris)
-
-Date d'édition : 1884
-
-Contributeurs : Baye, Charles. Éditeur scientifique, Dubief, L. F. (18..-186.). Traducteur
-
-Droits : domaine public
-
-Source : Bibliothèque nationale de France, département Sciences et techniques, 8-V-5320 (53)
-
-Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30991919x
-
-Provenance : Bibliothèque nationale de France
-
-Date de mise en ligne : 30/08/2010
+- Auteur : Mulder, Gerardus Johannis (1802-1880). Auteur du texte
+- Éditeur : J. Hetzel et Cie (Paris)
+- Date d'édition : 1884
+- Contributeurs : Baye, Charles. Éditeur scientifique, Dubief, L. F. (18..-186.). Traducteur
+- Droits : domaine public
+- Source : Bibliothèque nationale de France, département Sciences et techniques, 8-V-5320 (53)
+  - Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30991919x
+- Provenance : Bibliothèque nationale de France
 
 ![Bibliothèque les professions
 Industrielles, commerciales et agricoles

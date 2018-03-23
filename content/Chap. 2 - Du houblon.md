@@ -4,10 +4,6 @@ Description: Du houblon.
 Menu: Chap.  2 
 ---
 
-Chapitre 2
-
-Du houblon.
-
 La matière que l'on désigne en industrie sous le nom de houblon, est la fleur 
 femelle de l'*humulus lupulus* dont les botanistes désignent l'inflorescence 
 sous le nom d'inflorescence en chatons. Cette substance est généralement 

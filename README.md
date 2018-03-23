@@ -16,6 +16,8 @@ dans le domaine public, et disponible sous la forme de scan / OCR auprès de la
 Le but de ce fork est donc de faire un lieu permettant à chacun la correction et 
 le maintient à jour de cette édition, et pourquoi pas son enrichissement.
 
+Le résultat est visible à http://sibert.cluster003.ovh.net/le-guide-du-brasseur
+
 Couverture
 ----------
 ![Couverture](https://github.com/Marcussacapuces91/Le-guide-du-brasseur-Pico-CMS/blob/master/images/Le_guide_du_brasseur_ou_%5B...%5DMulder_Gerardus_bpt6k130227v.jpeg)

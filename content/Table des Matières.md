@@ -8,7 +8,7 @@ Title: Table des Matières
   * Froment 
   * Examen comparatif de l'orge et du froment
 * [Chapitre 2. Du Houblon](Chap.%202%20-%20Du%20houblon)
-* De l'eau
+* [Chapitre 3. De l'eau](Chap.%20%20-%20De%20l%27eau)
 * Maltage ou préparation du malt
   * Humidité
   * Chaleur

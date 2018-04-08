@@ -52,9 +52,9 @@ ferment, et par conséquent à la fermentation. — Si l'on ajoute à cela que l
 chaux contenue dans l'eau peut enlever une partie de l'acide phosphorique de la 
 liqueur et former du phosphate de chaux insoluble, et que la magnésie est 
 précipitée, avec l'acide phosphorique et l'ammoniaque qui a pris naissance 
-pendant la fermentation[^1] à l'état de phosphate ammoniaco-magnésien, il paraît en 
-ressortir incontestablement qu'une eau dure ne peut jamais donner une bière très 
-forte.
+pendant la fermentation[^1] à l'état de phosphate ammoniaco-magnésien, il paraît 
+en ressortir incontestablement qu'une eau dure ne peut jamais donner une bière 
+très forte.
 
 Pour le maltage, il paraît donc préférable d'employer une eau douce : mais, pour 
 l'empâtage, une eau calcaire ne paraît pas être nuisible, ainsi que l'expérience 

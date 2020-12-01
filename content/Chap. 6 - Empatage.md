@@ -3,11 +3,21 @@ Title: Chapitre 6
 Description: Empâtage.
 Menu: Chap.  6
 ---
-Nous avons rendu compte jusqu'ici de deux opérations principales par lesquelles le grain destiné à la préparation de la bière doit passer avant de pouvoir servir à cette préparation.
+Nous avons rendu compte jusqu'ici de deux opérations principales par lesquelles
+le grain destiné à la préparation de la bière doit passer avant de pouvoir 
+servir à cette préparation.
 
-Une troisième opération dont le but principal est surtout de transformer en dextrine la masse de l'amidon qui n'a pas encore été modifiée et de transformer en sucre la dextrine qui a déjà été formée, mais en outre de dissoudre autant que possible dans l'eau toutes les parties constituantes qui y sont solubles, est celle que l'on a désignée sous le nom de détrempage ou d'empâtage[^1].
+Une troisième opération dont le but principal est surtout de transformer en 
+dextrine la masse de l'amidon qui n'a pas encore été modifiée et de transformer
+en sucre la dextrine qui a déjà été formée, mais en outre de dissoudre autant
+que possible dans l'eau toutes les parties constituantes qui y sont solubles,
+est celle que l'on a désignée sous le nom de détrempage ou d'empâtage[^1].
 
-Nous ne devons pas oublier de faire observer que le malt desséché, soit qu'il ait été desséché à l'air, ou bien au moyen de la chaleur artificielle, doit être moulu ou écrasé, afin que toutes les parties du grain puissent être pénétrées, autant que possible, par l'eau, s'y disséminer et réagir les unes sur les autres pour arriver enfin à se dissoudre.
+Nous ne devons pas oublier de faire observer que le malt desséché, soit qu'il 
+ait été desséché à l'air, ou bien au moyen de la chaleur artificielle, doit 
+être moulu ou écrasé, afin que toutes les parties du grain puissent être 
+pénétrées, autant que possible, par l'eau, s'y disséminer et réagir les unes 
+sur les autres pour arriver enfin à se dissoudre.
 
 La manière d'opérer le broiement du malt et du grain non malté que l'on doit ultérieurement soumettre ensemble au traitement dans la cuve-matière, s'opère de différentes manières. Dans quelques localités, on écrase simplement le grain et on en sépare la partie corticale ainsi que la plus grande partie de la matière cellulaire : dans d'autres endroits, on transforme par la mouture le grain en une farine grossière, jamais en une farine très fine. Dans ces derniers temps, on a proposé d'écraser le grain en le faisant passer entre deux cylindres. Cette méthode paraît présenter de grands avantages.
 

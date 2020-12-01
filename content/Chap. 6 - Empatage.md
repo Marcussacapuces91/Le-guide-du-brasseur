@@ -241,6 +241,7 @@ Ce malt, épuisé par l'empâtage, a laissé différentes sortes de drêche pré
 </figure>
 
 <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
+
   <figcaption><center>*B*</center></figcaption>
   <table style="width: 100%;">
 	<tr><th>Fibre ligneuse                    </th><td>29,7</td><td>24,6</td><td>29,0</td><td>27,8</td></tr>
@@ -484,135 +485,44 @@ Cette diminution est encore plus notable lorsqu'il se produit une substance qui 
 
 Graham, Hofmann et Redwood ont trouvé pour la pesanteur spécifique des dissolutions les résultats suivants :
 
+<figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
+  <table style="width: 100%;">
+	<tr>
+	  <th>QUANTITÉ DE SUCRE<br/>contenu dans 1000 parties de dissolution</th>
+	  <th>SUCRE DE CANNE</th>
+	  <th>SUCRE D'AMIDON</th>
+	  <th>CARAMEL</th>
+	  <th>DEXTRINE</th>
+	  <th>MATIÈRE EXTRACTIVE<br/>après la fermentation</th>
+	  <th>MOÛT OBTENU<br/>avec du malt pâle</th>
+	  <th>MOÛT OBTENU<br/>avec du malt brun</th>
+	  <th>QUANTITÉ<br/>de carbone</th>
+	</tr>
+	<tr><td> 50</td><td>1020</td><td>1021</td><td>1017</td><td>1019</td><td>1018</td><td>1020</td><td>1020</td><td> 21</td></tr>
+	<tr><td>100</td><td>1040</td><td>1042</td><td>1035</td><td>1038</td><td>1036</td><td>1041</td><td>1041</td><td> 42</td></tr>
+	<tr><td>150</td><td>1062</td><td>1065</td><td>1052</td><td>1057</td><td>1054</td><td>1063</td><td>1063</td><td> 63</td></tr>
+	<tr><td>200</td><td>1084</td><td>1088</td><td>1072</td><td>1068</td><td>1073</td><td>1086</td><td>1086</td><td>  8</td></tr>
+	<tr><td>250</td><td>1107</td><td>1111</td><td>1091</td><td>1096</td><td>    </td><td>1109</td><td>1109</td><td>105</td></tr>
+  </table>
+</figure>
 
-
-
-
-
-o
-
-D
-
-50
-
-1020
-
-1021
-
-1017
-
-1019
-
-1018
-
-1020
-
-1020
-
-21
-
-100
-
-1040
-
-1042
-
-1035
-
-1038
-
-1036
-
-1041
-
-1041
-
-42
-
-150
-
-1062
-
-1065
-
-1052
-
-1057
-
-1054
-
-1063
-
-1063
-
-63
-
-200
-
-1084
-
-1088
-
-1072
-
-1068
-
-1073
-
-1086
-
-1086
-
-8
-
-250
-
-1107
-
-1111
-
-1091
-
-1096
-
-1109
-
-1109
-
-105
-
-La première colonne représente la quantité de sucre de canne contenue dans 1000 parties de dissolution ; la seconde
-
-et les suivantes donnent la pesanteur spécifique des dissolutions qui contiennent des substances présentant toutes, non seulement une même quantité de carbone, mais, en outre, une quantité de carbone égale à celle du sucre qui est contenu dans la première colonne. La quantité de carbone se trouve dans la dernière colonne.
+La première colonne représente la quantité de sucre de canne contenue dans 1000 parties de dissolution ; la seconde et les suivantes donnent la pesanteur spécifique des dissolutions qui contiennent des substances présentant toutes, non seulement une même quantité de carbone, mais, en outre, une quantité de carbone égale à celle du sucre qui est contenu dans la première colonne. La quantité de carbone se trouve dans la dernière colonne.
 
 De ces expériences, qui concordent assez bien avec le principe sur lequel repose la méthode de Balling, il ressort que, pour un même poids, le sucre d'amidon, en se dissolvant dans l'eau, donne une dissolution d'une pesanteur spécifique plus grande que le sucre de canne, et la dextrine une dissolution d'une pesanteur spécifique moindre, et que, pour un certain rapport entre leurs poids, ils donnent une dissolution présentant à peu près la même pesanteur spécifique que la dissolution obtenue au moyen du sucre de canne seul. — Pour le moût, la méthode de Balling peut donc être considérée comme tout à fait convenable. Mais, pour l'extrait de bière dont on a séparé l'alcool par la distillation et que l'on a ramené à son volume primitif par une addition d'eau, les différences sont considérables. Il existe moins de compensation pour la dextrine qui détermine l'abaissement de la pesanteur spécifique ; en effet, le sucre d'amidon diminue beaucoup par la fermentation. En outre, il se produit par la fermentation une matière extractive qui détermine une diminution notable de la pesanteur spécifique.
 
-La conclusion générale des expériences indiquées est donc que, pour l'extrait de bière, la méthode saccharimétrique indique une quantité d'extrait plus forte que celle qui existe réellement; que, lorsque, dans le moût, il existe à peu près autant de sucre que de dextrine, comme cela arrive toujours dans les infusions peu riches en matières solides, la méthode saccharimétrique indique alors une quantité trop faible de matières solides 1.
-
-1. La manière dont on doit opérer l'essai halimétrique lorsqu'on veut s'en servir pour apprécier la qualité d'une bière, est expliquée avec détails dans un grand nombre d'endroits et notamment dans le Polyt. Centralblatt, 1837, p. 33; la méthode optique de Steinheil se trouve également décrite dans le même recueil, 1844, p. 117 et 1846, p. 387. Je me contenterai de donner ces indications ; aucun sujet n'a été examiné avec plus de détail dans les journaux scientifiques depuis quelques années. — Dans le recueil que nous venons d'indiquer, on trouve citées en différents endroits des analyses de Kaiser et d'autres chimistes qui sont indiquées comme provenant du Baierisches Kunst-und Gewerbe-Blatt, et que je ne connais pas.
-
-Si, dans ce traité, je ne m'arrête pas davantage sur la détermination
+La conclusion générale des expériences indiquées est donc que, pour l'extrait de bière, la méthode saccharimétrique indique une quantité d'extrait plus forte que celle qui existe réellement; que, lorsque, dans le moût, il existe à peu près autant de sucre que de dextrine, comme cela arrive toujours dans les infusions peu riches en matières solides, la méthode saccharimétrique indique alors une quantité trop faible de matières solides[^28].
 
 Le passage du moût à l'aigre, ce danger si redouté du brassage, mérite sans contredit d'être examiné par nous au point de vue chimique avec quelque détail. Il peut se produire, soit pendant l'empâtage dans la cuve-matière, soit pendant le refroidissement dans les bacs refroidissoirs, soit pendant la fermentation dans la cuve-guilloire, ou bien, enfin, dans la liqueur fermentée. Dans le dernier cas, la production de l'acide acétique a lieu aux dépens de l'alcool, et tout ce qui s'applique à la production du vinaigre de vin, du vinaigre de raisin et du vinaigre de bière, s'applique également au passage de la bière à l'aigre.
 
 Mais les causes pour lesquelles le moût tourne à l'aigre dans la cuve-matière, ou pour lesquelles la liqueur qui a déjà été soumise à l'ébullition subit la même transformation dans les bacs refroidissoirs, sont, au contraire, tout autres. En effet, ces liqueurs ne contiennent pas encore d'alcool : il ne peut donc pas s'y produire d'acide acétique par oxydation de l'alcool.
 
-Un trop long séjour dans les cuves au contact de l'air, et surtout la malpropreté des cuves, qui peuvent retenir encore des traces de matières organiques provenant d'une opération antérieure et devenues acides, peuvent prédisposer la liqueur à cette transformation. L'agent transformateur de l'amidon agit directement sur le sucre contenu dans la liqueur et le fait passer à l'aigre, sans qu'il se soit formé préalablement de l'alcool 1.
+Un trop long séjour dans les cuves au contact de l'air, et surtout la malpropreté des cuves, qui peuvent retenir encore des traces de matières organiques provenant d'une opération antérieure et devenues acides, peuvent prédisposer la liqueur à cette transformation. L'agent transformateur de l'amidon agit directement sur le sucre contenu dans la liqueur et le fait passer à l'aigre, sans qu'il se soit formé préalablement de l'alcool[^29].
 
-On sait qu'une certaine quantité de substances d'origine organique, et notamment les infusions végétales, peuvent devenir acides et que l'on ne peut que rarement les conserver en été pendant quelque temps, sans qu'elles subissent cette transformation. C'est un fait bien connu que, dans la prépade
-
-prépade force de l'extrait de malt de la bière, cela tient à ce que j'ai déjà traité cette question dans mon ouvrage sur le vin. On pourra du reste consulter sur ce sujet les ouvrages de Balling, de Müller et de Habich, etc., etc.
-
-Relativement aux saccharimètres de Allen, de Bate, de Dring, de Fage et de Long, et relativement à l'influence de la température sur la pesanteur spécifique du malt, on peut consulter l'ouvrage anglais de Sheridan Muspratt : Chemistry theoretical, practical and analyticalas applied and relating to the arts and manufactures, t.1, art. Beer, ou bien la traduction allemande du même ouvrage : Muspratt ; Theoretische, praktische und analytische Chemie, in Anwendungauf Künste und Gewerbe, von Stohmann und Gerding, 1854,t.1, art. Bier.
-
-1 On réussit très bien à neutraliser les substances acides qui peuvent adhérer aux cuves-matières en bois, en nettoyant ces cuves de temps en temps avec de la chaux.
-
-ration du sucre de betterave, cette transformation se produit quelquefois dans le jus obtenu par expression.
+On sait qu'une certaine quantité de substances d'origine organique, et notamment les infusions végétales, peuvent devenir acides et que l'on ne peut que rarement les conserver en été pendant quelque temps, sans qu'elles subissent cette transformation. C'est un fait bien connu que, dans la préparation du sucre de betterave, cette transformation se produit quelquefois dans le jus obtenu par expression.
 
 Dans les liqueurs qui deviennent ainsi acides, il se produit quelquefois de l'acide lactique et quelquefois de l'acide acétique. Il s'agirait donc de savoir quel est l'acide qui prend naissance dans le moût.
 
 J'examinerai un peu plus loin cette question, en parlant du refroidissement du moût ; j'ajouterai seulement ici qu'un moût exposé pendant quelque temps à l'air n'a pas donné d'acide acétique par la distillation, mais que, par l'ébullition avec du carbonate de zinc, il a donné une quantité considérable de lactate de zinc.
-
 
 
 
@@ -662,7 +572,7 @@ Lorsque nous nous occuperons d'expliquer le mode de réaction chimique qui prend
 
 [^20]: Muspratt, *loc. cit.*
 
-[^21]. *Polyt. Centralbl*, 1856, p. 190.
+[^21]: *Polyt. Centralbl*, 1856, p. 190.
 
 [^22]: *Handbuch der Bierbrauer*, p. 190.
 
@@ -675,3 +585,9 @@ Lorsque nous nous occuperons d'expliquer le mode de réaction chimique qui prend
 [^26]: *De Wijn*, p. 240.
 
 [^27]: *Jahresbericht von Liebig und Hermann Kopp*, 1852, p. 801.
+
+[^28]: La manière dont on doit opérer l'essai halimétrique lorsqu'on veut s'en servir pour apprécier la qualité d'une bière, est expliquée avec détails dans un grand nombre d'endroits et notamment dans le *Polyt. Centralblatt*, 1837, p. 33; la méthode optique de Steinheil se trouve également décrite dans le même recueil, 1844, p. 117 et 1846, p. 387. Je me contenterai de donner ces indications ; aucun sujet n'a été examiné avec plus de détail dans les journaux scientifiques depuis quelques années. — Dans le recueil que nous venons d'indiquer, on trouve citées en différents endroits des analyses de Kaiser et d'autres chimistes qui sont indiquées comme provenant du *Baierisches Kunst-und Gewerbe-Blatt*, et que je ne connais pas.
+Si, dans ce traité, je ne m'arrête pas davantage sur la détermination de force de l'extrait de malt de la bière, cela tient à ce que j'ai déjà traité cette question dans mon ouvrage sur le vin. On pourra du reste consulter sur ce sujet les ouvrages de Balling, de Müller et de Habich, *etc.*, *etc.*
+Relativement aux saccharimètres de Allen, de Bate, de Dring, de Fage et de Long, et relativement à l'influence de la température sur la pesanteur spécifique du malt, on peut consulter l'ouvrage anglais de Sheridan Muspratt : *Chemistry theoretical, practical and analytical as applied and relating to the arts and manufactures*, t.1, art. Beer, ou bien la traduction allemande du même ouvrage : Muspratt : *Theoretische, praktische und analytische Chemie, in Anwendungauf Künste und Gewerbe, von Stohmann und Gerding*, 1854,t.1, art. Bier.
+
+[^29]: On réussit très bien à neutraliser les substances acides qui peuvent adhérer aux cuves-matières en bois, en nettoyant ces cuves de temps en temps avec de la chaux.

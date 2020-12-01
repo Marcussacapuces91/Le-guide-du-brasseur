@@ -1,18 +1,11 @@
-CHAPITRE VI.
-
-EMPATAGE.
-
+---
+Title: Chapitre 6
+Description: Empâtage.
+Menu: Chap.  6
+---
 Nous avons rendu compte jusqu'ici de deux opérations principales par lesquelles le grain destiné à la préparation de la bière doit passer avant de pouvoir servir à cette préparation.
 
-Une troisième opération dont le but principal est surtout de transformer en dextrine la masse de l'amidon qui n'a pas encore été modifiée et de transformer en sucre la dextrine qui a déjà été formée, mais en outre de dissoudre autant que possible dans l'eau toutes les parties constituantes qui y sont solubles, est celle que l'on a désignée sous le nom de détrempage ou d'empâtage 1.
-
-1. Le nom sous lequel on désigne cette opération, varie suivant les
-
-pays : en Hollande, elle porte le nom de beslag maken (empâtage) ou de bestaan (détrempage) ; en Allemagne, on lui donne généralement le nom de Maischen (d'élayage, démélage) ; en Angleterre, celui de mashing (démélage). En France, on la désigne généralement sous le nom de macération ou de brasage, d'où dérivent les expressions brasseur, brasserie, brassin, etc., et qui lui vient de la manière dont on l'exécute généralement encore dans un grand nombre de localités, c'est-à-dire à force de bras.
-
-L'appareil dans lequel le brassage s'opère est désigné suivant les pays : en Hollande, sous le nom de beslag-kuip ; en Allemagne, sous le
-
-nom de Maiscbottich ; en Angleterre, sous le nom de mashing-lun, et en France, sous le nom de cuve-matière.
+Une troisième opération dont le but principal est surtout de transformer en dextrine la masse de l'amidon qui n'a pas encore été modifiée et de transformer en sucre la dextrine qui a déjà été formée, mais en outre de dissoudre autant que possible dans l'eau toutes les parties constituantes qui y sont solubles, est celle que l'on a désignée sous le nom de détrempage ou d'empâtage[^1].
 
 Nous ne devons pas oublier de faire observer que le malt desséché, soit qu'il ait été desséché à l'air, ou bien au moyen de la chaleur artificielle, doit être moulu ou écrasé, afin que toutes les parties du grain puissent être pénétrées, autant que possible, par l'eau, s'y disséminer et réagir les unes sur les autres pour arriver enfin à se dissoudre.
 
@@ -22,43 +15,39 @@ Le malt desséché se crève ainsi sur beaucoup de points et se détache de la p
 
 L'empâtage s'effectue dans des cuves de bois ou de fer. Ces dernières méritent la préférence en ce qu'elles peuvent être nettoyées plus facilement et plus rapidement : en effet on peut facilement détacher d'une surface métallique les matières qui la saliraient, tandis que des matières étrangères peuvent facilement adhérer à une surface ligneuse pénétrée d'humidité et ne peuvent en être détachées qu'avec difficulté.
 
-Les cuves sont munies d'un faux-fond sur lequel on doit placer le malt. Dans les cuves en fer bien disposées, ce faux-fond est formé d'un certain nombre de pièces séparées, ce qui permet de les enlever avec facilité et de les nettoyer
+Les cuves sont munies d'un faux-fond sur lequel on doit placer le malt. Dans les cuves en fer bien disposées, ce faux-fond est formé d'un certain nombre de pièces séparées, ce qui permet de les enlever avec facilité et de les nettoyer complètement.
 
-complètement.
-
-Chacune des pièces contient des trous qui permettent,
-
-lorsque le malt est placé sur le faux-fond, de faire arriver de l'eau par les trous ; cette eau se trouve en contact avec le malt, et après l'avoir épuisé, peut s'en séparer.
+Chacune des pièces contient des trous qui permettent, lorsque le malt est placé sur le faux-fond, de faire arriver de l'eau par les trous ; cette eau se trouve en contact avec le malt, et après l'avoir épuisé, peut s'en séparer.
 
 Les cuves doivent en outre être disposées de telle manière que l'eau y pénètre par l'espace intermédiaire entre les deux fonds et par conséquent par en bas et que l'orifice par lequel le moût sort de la cuve se trouve également à la partie inférieure de cette dernière.
 
-En ce qui concerne les machines, les moyens que l'on emploie pour opérer le débattage de la masse dans la cuve-matière et tout ce qui n'a pas de rapport ultérieur avec l'action chimique, je crois pouvoir les passer sous silence.
+En ce qui concerne les machines, les moyens que l'on emploie pour opérer le *débattage* de la masse dans la cuve-matière et tout ce qui n'a pas de rapport ultérieur avec l'action chimique, je crois pouvoir les passer sous silence.
 
-L'empâtage doit être effectué dans une cuve spacieuse dans laquelle on fait arriver de l'eau et dans laquelle on introduit les substances qui doivent concourir avec cette eau a la préparation de la bière.
+L'empâtage doit être effectué dans une cuve spacieuse dans laquelle on fait arriver de l'eau et dans laquelle on introduit les substances qui doivent concourir avec cette eau à la préparation de la bière.
 
 Nous devons d'abord arrêter notre attention sur les différentes substances qui, dans l'empâtage, concourent à la préparation de la bière.
 
-Le mode d'opérer le plus ordinaire consiste à mettre en contact avec de l'eau chaude le malt préalablement moulu. Or la matière que l'on mélange avec de l'eau peut être ou du malt d'orge seul, ou du malt d'orge et d'autres espèces de malts, du malt de froment par exemple.
+- Le mode d'opérer le plus ordinaire consiste à mettre en contact avec de l'eau chaude le malt préalablement moulu. Or la matière que l'on mélange avec de l'eau peut être ou du malt d'orge seul, ou du malt d'orge et d'autres espèces de malts, du malt de froment par exemple.
 
-Ou bien elle peut être formée de malt d'orge et d'autres espèces de grains moulus, mais non maltés, de froment par exemple.
+- Ou bien elle peut être formée de malt d'orge et d'autres espèces de grains moulus, mais non maltés, de froment par exemple.
 
-Quelquefois aussi, elle peut être composée de malt d'orge ou de malts d'autres espèces de grains, et de fécule de pommes de terre, de farines de riz et de maïs.
+- Quelquefois aussi, elle peut être composée de malt d'orge ou de malts d'autres espèces de grains, et de fécule de pommes de terre, de farines de riz et de maïs.
 
-crois pouvoir m'abstenir de m'arrêter sur l'emploi du riz ainsi que sur celui du maïs concurremment avec du grain malté : en ce qui concerne la fécule de pommes de terre, j'en
+Je crois pouvoir m'abstenir de m'arrêter sur l'emploi du riz ainsi que sur celui du maïs concurremment avec du grain malté : en ce qui concerne la fécule de pommes de terre, j'en parlerai plus tard.
 
-parlerai plus tard.
+Nous devons donc nous arrêter plus longtemps sur les trois modes de brassage que l'on doit suivre, suivant que l' on emploie l'une des sortes de matières que nous venons d'indiquer : 
 
-Nous devons donc nous arrêter plus longtemps sur les trois modes de brassage que l'on doit suivre, suivant que l' on emploie l'une des sortes de matières que nous venons d'indiquer 1° le malt d'orge seul, 2° le malt d'orge avec les autres espèces de grains, 3° le malt d'orge avec les autres grains non maltés. Ces trois modes de brassage qui sont usités aussi bien en Hollande qu'ailleurs, donnent né-
+1. le malt d'orge seul, 
+2. le malt d'orge avec les autres espèces de grains, 
+3. le malt d'orge avec les autres grains non maltés.
 
-cessairement des bières très diverses, et leur diversité augmente encore par la différence de quantité des substances que l'on mélange et surtout par la différence d'espèce de grain employé, froment ou autres.
+Ces trois modes de brassage qui sont usités aussi bien en Hollande qu'ailleurs, donnent nécessairement des bières très diverses, et leur diversité augmente encore par la différence de quantité des substances que l'on mélange et surtout par la différence d'espèce de grain employé, froment ou autres.
 
 On peut se faire une idée générale de l'ensemble de l'opération, en ce qui a rapport aux substances que l'on soumet à l'empâtage, c'est-à-dire au traitement du grain moulu par l'eau chaude : en effet, dans l'orge maltée, il existe une quantité considérable d'agent de transformation de l'amidon qui peut se dissoudre dans l'eau tiède. L'agent de transformation de l'amidon peut réagir sur l'amidon qui reste encore dans le malt d'orge et le transformer en dextrine, puis en sucre. Mais l'agent de transformation peut aussi réagir sur de l'amidon provenant d'une autre source, du froment ou du seigle, du riz, du maïs, ou même des pommes de terre, et faire subir à cet amidon la même transformation.
 
 Il est seulement important ici de savoir s'il est resté dans le malt d'orge une quantité d'agent de transformation suffisante pour pouvoir opérer encore la transformation d'une grande quantité d'amidon et, d'autre part, si l'on veut obtenir une infusion qui contienne beaucoup de dextrine ou beaucoup de sucre. Dans ce dernier cas, lorsque par conséquent on veut obtenir une bière corsée, épaisse, on doit employer un mélange de malt d'orge avec du grain non malté, avec du froment par exemple, préalablement écrasé. Si l'on veut obtenir une bière riche en alcool, on emploie seulement du malt, soit seul, soit mélangé avec du malt de froment.
 
-Dans le malt de froment, il existe, de même que dans le malt d'orge, une certaine quantité d'agent de transformation : dans la transformation de l'un aussi bien que dans la transformation de l'autre en malt, l'amidon est transformé en dextrine et une partie de cette dextrine est transformée en sucre. — Si, donc, on traite simplement du malt (provenant d'une espèce de grain quelconque) par de l'eau chaude, il est évident que, puisqu'il y a déjà une certaine quantité d'amidon qui a été transformée en dextrine, puis en sucre, la grande quantité d'agent de transformation qui existe dans le malt devra transformer d'abord facilement en dextrine la grande quantité d'amidon qui y existe encore, mais qu'elle devra aussi transformer la dextrine en sucre,
-
-en sorte que l'on obtiendra ainsi un liquide limpide, très riche en sucre, qui pourra ultérieurement donner par la fermentation une boisson très riche en alcool. Cet agent transforme donc l'amidon en dextrine, et l'excès de cet agent convertit ensuite la dextrine en sucre.
+Dans le malt de froment, il existe, de même que dans le malt d'orge, une certaine quantité d'agent de transformation : dans la transformation de l'un aussi bien que dans la transformation de l'autre en malt, l'amidon est transformé en dextrine et une partie de cette dextrine est transformée en sucre. — Si, donc, on traite simplement du malt (provenant d'une espèce de grain quelconque) par de l'eau chaude, il est évident que, puisqu'il y a déjà une certaine quantité d'amidon qui a été transformée en dextrine, puis en sucre, la grande quantité d'agent de transformation qui existe dans le malt devra transformer d'abord facilement en dextrine la grande quantité d'amidon qui y existe encore, mais qu'elle devra aussi transformer la dextrine en sucre, en sorte que l'on obtiendra ainsi un liquide limpide, très riche en sucre, qui pourra ultérieurement donner par la fermentation une boisson très riche en alcool. Cet agent transforme donc l'amidon en dextrine, et l'excès de cet agent convertit ensuite la dextrine en sucre.
 
 Du reste, pour qu'il se produise de la dextrine aux dépens de l'amidon, une certaine quantité d'agent de transformation est nécessaire, mais, après qu'il a été employé à cet usage, cet agent n'est plus en état d'effectuer la conversion de la dextrine en sucre.
 
@@ -76,13 +65,11 @@ Une pareille bière ne contiendra toujours qu'une petite quantité de sucre et n
 
 Tout dépend cependant ici, non seulement de la quantité d'eau employée et de beaucoup de circonstances de l'opération, mais aussi des quantités respectives de grain malté et de grain non malté que l'on a introduites simultanément dans la cuve-matière.
 
-A ces observations générales, nous allons en ajouter d'autres qui se rattachent plus spécialement à l'opération même.
+À ces observations générales, nous allons en ajouter d'autres qui se rattachent plus spécialement à l'opération même.
 
 Le but de l'empâtage est de traiter par de l'eau chaude du grain malté, soit seul, soit mélangé, après l'avoir préalablement écrasé ou moulu, afin d'arriver à une dissolution des parties constituantes solubles dans l'eau, telles que le sucre, la dextrine, certaines combinaisons salines, l'agent de transformation de l'amidon, d'autres substances albumineuses solubles. On pourrait très bien dans ce but employer de l'eau froide ; mais on se sert d'eau chaude parce que, en employant cette dernière, la transformation de l'amidon s'effectue beaucoup plus rapidement.
 
-L'expérience a démonté qu'une température de 70° à 75° était la plus avantageuse. L'amidon se transforme d'abord
-
-en empois, puis en dextrine, et cette dernière se transforme en sucre, Une température supérieure à 75° déterminerait bien, en présence d'une quantité suffisante d'agent de transformation, une production de dextrine au moyen de l'amidon, mais elle ne déterminerait aucune production de sucre.
+L'expérience a démonté qu'une température de 70 à 75°C était la plus avantageuse. L'amidon se transforme d'abord en empois, puis en dextrine, et cette dernière se transforme en sucre, Une température supérieure à 75°C déterminerait bien, en présence d'une quantité suffisante d'agent de transformation, une production de dextrine au moyen de l'amidon, mais elle ne déterminerait aucune production de sucre.
 
 La manière dont on soumet le malt et le grain à cette température, peut différer beaucoup.
 
@@ -90,95 +77,65 @@ Une différence générale vient de la quantité d'eau que l'on ajoute en une se
 
 Outre ces méthodes, nous citerons encore les méthodes suivantes :
 
-On introduit dans la cuve de l'eau qui ait une température d'environ 80°, puis on y ajoute le malt et, s'il y a lieu, le grain, de manière que, après l'introduction de ces substances qui sont à la température de l'air ambiant, le tout soit précisément à une température de 75°.
+On introduit dans la cuve de l'eau qui ait une température d'environ 80°C, puis on y ajoute le malt et, s'il y a lieu, le grain, de manière que, après l'introduction de ces substances qui sont à la température de l'air ambiant, le tout soit précisément à une température de 75°C.
 
-Ou bien on met le malt dans la cuve et l'on fait arriver de
+Ou bien on met le malt dans la cuve et l'on fait arriver de l'eau chaude sur ce malt par la partie inférieure, par les ouvertures du faux-fond, jusqu'à ce que le tout atteigne une température de 75°C.
 
-l'eau chaude sur ce malt par la partie inférieure, par les ouvertures du faux-fond, jusqu 'à ce que le tout atteigne une température de 75°.
+Ou bien on agite le malt avec de l'eau froide ou tiède, puis on ajoute de l'eau bouillante jusqu'à ce que le tout ait atteint une température de 75°C.
 
-Ou bien on agite le malt avec de l'eau froide ou tiède, puis on ajoute de l'eau bouillante jusqu'à ce que le tout ait atteint une température de 75°.
+Ou bien on agite le malt avec de l'eau tiède et l'on fait arriver dans le liquide ainsi obtenu de la vapeur jusqu'à ce que la vapeur atteigne 75°C[^2].
 
-Ou bien on agite le malt avec de l'eau tiède et l'on fait arriver dans le liquide ainsi obtenu de la vapeur jusqu'à ce que la vapeur atteigne 75° 1.
+On comprend toutes ces méthodes sous la dénomination générale de *méthodes par infusion*.
 
-On comprend toutes ces méthodes sous la dénomination genérale de méthodes par infusion.
+Ou bien on termine l’œuvre commencée par l'une des méthodes que nous venons d'indiquer en faisant bouillir, soit une partie de la liqueur infusée seule (*métier*, *trempe claire*, en hollandais, **dun van het beslag* ; en allemand, *Dünnmaische*), soit une portion de la masse pâteuse (*fardeau*, *trempe épaisse* ; en hollandais, *dik van het beslag* ; en allemand, *Dickmaische*), que l'on ajoute ensuite dans la cuve-matière à une autre portion de la masse pâteuse qui a subi seulement le traitement par infusion.
 
-Ou bein on termine l'oeuvre commencée par l'une des methodes que nous venons d'indiquer en faisant bouillir, soit une partie de la liqueur infusée seule (métier, trempe claire, en hollandais, dun van het beslag ; en allemand,
+Ces dernières méthodes ont reçu le nom de *méthodes par décoction*.
 
-1. Relativement à l'emploi de la vapeur dans l'empâtage, voir Habich (Taschenbuch der Chemie des Bierea, 1858, p. 38).
-
-Dünnmaische), soit une portion de la masse pâteuse (fardeau, trempe épaisse ; en hollandais, dik van het beslag; en allemand, Dickmaische), que l'on ajoute ensuite dans la cuve-matière à une autre portion de la masse pâteuse qui a subi seulement le traitement par infusion.
-
-Ces dernières méthodes ont reçu le nom de méthodes par décoction.
-
-Ces différents modes d'opérer qui sont en usage, les uns dans un pays, les autres dans un autre, peuvent encore, dans d'autres pays, être remplacés par d'autres méthodes qui soient différentes; elles donnent comme résultat un produit différent.
+Ces différents modes d'opérer qui sont en usage, les uns dans un pays, les autres dans un autre, peuvent encore, dans d'autres pays, être remplacés par d'autres méthodes qui soient différentes ; elles donnent comme résultat un produit différent.
 
 Quelle que soit la méthode suivie, on doit travailler avec soin la masse dans la cuve-matière, afin que la température se répartisse également dans toute la masse, et afin que la dissolution et la transformation chimique s'y opèrent d'une manière aussi uniforme que possible.
 
 Après avoir laissé le tout en contact pendant un espace de temps qui varie avec la méthode que l'on emploie, on fait écouler la liqueur, puis on y ajoute de nouveau de l'eau chaude, afin de dissoudre les substances encore aptes à la préparation de la bière qui étaient restées dans le malt après une première opération : nous ferons d'abord remarquer que le marc qui reste après la première opération est imprégné de la liqueur qui s'est écoulée et doit par conséquent retenir une certaine quantité des principes constituants de la bière : une petite quantité d'eau chaude peut enlever la liqueur dont le marc est ainsi imprégné. Mais, par suite de l'abaissement de température qui a eu lieu pendant la première opération, l'action chimique qui a lieu dans cette opération, reste quelquefois incomplète. On fait par suite subir au résidu de la première opération un nouveau traitement par l'eau chaude, non pas tant pour dissoudre les principes utiles qu'une première opération n'avait pas enlevés, que plutôt pour déterminer la continuation dé l'action chimique pendant une période de temps plus prolongée.
 
-Après avoir travaillé la masse pendant quelque temps, on laisse écouler la deuxième liqueur, et, quelquefois, on soumet une troisième fois le résidu au traitement par une nouvelle quantité d'eau chaude. Après le troisième traitement, le résidu est, dans la plupart des cas, tellement épuisé qu'un traitement ultérieur ne présenterait plus aucun avan-
+Après avoir travaillé la masse pendant quelque temps, on laisse écouler la deuxième liqueur, et, quelquefois, on soumet une troisième fois le résidu au traitement par une nouvelle quantité d'eau chaude. Après le troisième traitement, le résidu est, dans la plupart des cas, tellement épuisé qu'un traitement ultérieur ne présenterait plus aucun avantage[^3]. On mélange les différentes infusions, ou bien on travaille à part la deuxième et la troisième pour en faire de la petite bière.
 
-tage 1. On mélange les différentes infusions, ou bien on travaille à part la deuxième et la troisième pour en faire de la petite bière.
-
-Nous allons maintenant examiner en détail quelques méthodes et surtout celles que l'on suit le plus généralement en Angleterre, en France, en Autriche et en Hollande. On verse dans la cuve-matière de l'eau qui soit à une température de 40° à 60°, suivant la température de l'air ambiant. On y introduit ensuite le malt que l'on agite avec l'eau rapidement et avec beaucoup de soin, de manière à en former une bouillie, puis on laisse le tout en contact pendant une demi-heure. On verse alors de l'eau chaude dans la cuve, de manière que la température s'élève à 60° ou 70°, puis on brasse fortement le tout. Le premier traitement (trempe préparatoire) a pour but d'arriver à ce que le malt soit bien pénétré par l'eau ; le second a pour but d'obtenir la température à laquelle l'action chimique désirée s'ffectue le mieux. Peut-être paraîtrait-il désirable d'employer plus de temps que cela n'est réellement possible : l'amidon doit passer d'abord à l'état de dextrine, et cette dextrine à l'état de sucre. Un contact plus prolongé paraîtrait devoir permettre d'obtenir une transformation plus complète de la dextrine en sucre ; mais le mélange a beaucoup de tendance à devenir acide. Par un contact prolongé, le sucre déjà formé se transformerait en acide lactique et le brassin serait perdu. On sait avec quelle rapidité la caséine contenue dans le lait peut transformer, à la température indiquée, non
-
-1. Dans le but d'extraire du résidu des trempes l'amidon qui y est reste (dont la présence est la cause pour laquelle, entre autres, on emploie avec avantage ce résidu pour la nourriture des bestiaux) et de le transformer en dextrine, puis en sucre, Piesse (Phil. Map., t. XXI, p. 317) conseille de mettre de côté une portion du malt, 1/30 par exemple. — Lorsqu'on effectue la deuxième trempe, on y ajoute la portion de malt que l'on a ainsi mise de côté. L'agent de transformation de l'amidon qu''lle cotient peut alors agir sur l'amidon que contient le résidu et
-
-lui faire subir la transformation indiquée. donc du malt dans totalité de l'agent de transformation se séparerait dans le résidu préparation de la première trempe, en laissant dans le résidu une quantité relativement plus considérable d'amidon. En outre, suivant lui,la puissance active de l'agent de transformation tremne par suite damoindrie pendant la préparation de la première trempe par suite de la production de dextrine ou de sucre qui a eu lieu,
-
-ce qui est conforme à ce qui a lieu pour la levure dont la puissance active est amoindrie par la production d'une grande quantité d'alcool.
-
-Lorsque nous nous occuperons d'expliquer le mode de réaction chimique qui prend naissance dans cette opération, nous examinerons avec plus de détail si le conseil de Piesse est bon ou s'il ne l'est pas
-
-seulement le sucre du lait, mais aussi le sucre de fruits en acide lactique. C12H14O 14 = 2C6H5O 5 + 4HO. Surtout en été et particulièrement dans les temps d'orage, on a besoin de veiller à ce que, dans le brassin, il ne se produise pas une certaine quantité de cet acide. On conseille, avec raison, de recouvrir la cuve-matière dans laquelle se trouve le brassin, pendant qu'on ne le travaille pas. On peut aussi retarder le refroidissement, en couvrant la cuve-matière.
+Nous allons maintenant examiner en détail quelques méthodes et surtout celles que l'on suit le plus généralement en Angleterre, en France, en Autriche et en Hollande. On verse dans la cuve-matière de l'eau qui soit à une température de 40 à 60°C, suivant la température de l'air ambiant. On y introduit ensuite le malt que l'on agite avec l'eau rapidement et avec beaucoup de soin, de manière à en former une bouillie, puis on laisse le tout en contact pendant une demi-heure. On verse alors de l'eau chaude dans la cuve, de manière que la température s'élève à 60 ou 70°C, puis on brasse fortement le tout. Le premier traitement (*trempe préparatoire*) a pour but d'arriver à ce que le malt soit bien pénétré par l'eau ; le second a pour but d'obtenir la température à laquelle l'action chimique désirée s'effectue le mieux. Peut-être paraîtrait-il désirable d'employer plus de temps que cela n'est réellement possible : l'amidon doit passer d'abord à l'état de dextrine, et cette dextrine à l'état de sucre. Un contact plus prolongé paraîtrait devoir permettre d'obtenir une transformation plus complète de la dextrine en sucre ; mais le mélange a beaucoup de tendance à devenir acide. Par un contact prolongé, le sucre déjà formé se transformerait en acide lactique et le brassin serait perdu. On sait avec quelle rapidité la caséine contenue dans le lait peut transformer, à la température indiquée, non seulement le sucre du lait, mais aussi le sucre de fruits en acide lactique. C<sub>12</sub>H<sub>14</sub>O<sub>14</sub> = 2 C<sub>6</sub>H<sub>5</sub>O<sub>5</sub> + 4 HO. Surtout en été et particulièrement dans les temps d'orage, on a besoin de veiller à ce que, dans le brassin, il ne se produise pas une certaine quantité de cet acide. On conseille, avec raison, de recouvrir la cuve-matière dans laquelle se trouve le brassin, pendant qu'on ne le travaille pas. On peut aussi retarder le refroidissement, en couvrant la cuve-matière.
 
 Ce n'est pas toujours sur le brassin même que l'on peut observer qu'il est passé depuis longtemps à cet état : en effet, le sucre qui s'est produit peut masquer la présence de l'acide lactique qui s'est produit en même temps. Un pareil brassin porte avec lui un germe de détérioration qu'il transmettra à la bière qu'il servira à préparer ultérieurement. En effet, l'acide lactique dissout facilement le gluten et les substances albumineuses en général, et sa production dans la cuve-matière peut devenir par conséquent un motif pour que, dans la bière, une certaine quantité d'acide acétique prenne naissance : en effet, les substances albumineuses, dissoutes dans l'acide lactique, prédisposent à une formation d'acide acétique.
 
-Après avoir ajouté de l'eau chaude, on laisse le tout pendant une heure dans la cuve, puis on soutire la liqueur. On traite une seconde fois le même malt de la même manière, en ayant soin que la température atteigne 75°, et si, pour le premier et le second traitement, on n'a employé qu'une petite quantité d'eau, on soumet le résidu à un troisième traitement.
+Après avoir ajouté de l'eau chaude, on laisse le tout pendant une heure dans la cuve, puis on soutire la liqueur. On traite une seconde fois le même malt de la même manière, en ayant soin que la température atteigne 75°C, et si, pour le premier et le second traitement, on n'a employé qu'une petite quantité d'eau, on soumet le résidu à un troisième traitement.
 
 On peut mettre à part la liqueur obtenue dans chacune des opérations successives et préparer, au moyen de la première, une bière forte, et, au moyen de la seconde, une bière légère, moins savoureuse, ou bien verser ensemble toutes les liqueurs dans la chaudière à brasser pour les faire bouillir et les évaporer. Mais, par une évaporation prolongée, la bière devient moins savoureuse et fait en outre une consommation assez forte de combustible. C'est par cette raison que l'on trouve préférable de supporter une perte provenant d'un épuisement incomplet du malt plutôt que d'obtenir, en ajoutant une grande quantité d'eau, une liqueur très étendue qu'il faudrait concentrer fortement et soumettre dans ce but à une évaporation prolongée.
 
-Dans la méthode par infusion, on ne doit surtout pas
+Dans la méthode par infusion, on ne doit surtout pas oublier qu'il est préférable d'opérer la première trempe à une température peu élevée, afin que le malt puisse être pénétré par l'eau. Un mélange intime du malt avec l'eau, une humectation uniforme du grain, est une condition essentielle : on peut obtenir immédiatement la température nécessaire par une addition d'eau chaude. Si l'on versait brusquement de l'eau très chaude, il s'effectuerait ainsi une production d'empois et de grumeaux, ce qui ne pourrait présenter que de l'inconvénient pour le fabricant.
 
-oublier qu'il est préférable d'opérer la première trempe à une température peu élevée, afin que le malt puisse être pénétré par l'eau. Un mélange intime du malt avec l'eau, une humectation uniforme du grain, est une condition essentielle : on peut obtenir immédiatement la température nécessaire par une addition d'eau chaude. Si l'on versait brusquement de l'eau très chaude, il s'effectuerait ainsi une production d'empois et de grumeaux, ce qui ne pourrait présenter que de l'inconvénient pour le fabricant.
+Mais surtout, en se servant d'abord, dans la méthode par infusion, d'une eau qui soit à une température peu élevée, on donne à l'agent de transformation de l'amidon le temps de se développer et de transformer l'amidon successivement en amylo-dextrine, en dextrine, et enfin en sucre ; ces transformations successives paraissent du reste suivre beaucoup mieux et beaucoup plus complètement leur cours lorsque la quantité de l'agent de transformation de l'amidon augmente peu à peu, que lorsque la totalité de cet agent de transformation atteint tout d'un coup le degré le plus élevé d'activité chimique. On peut facilement s'en convaincre lorsqu'on considère que la production de la dextrine peut très bien s'opérer à une température de 20 à 30°C. — Si l'on remplit la cuve d'eau à une température de 35°C, et si l'on ajoute du malt préalablement amené à un certain degré de division, la température s'abaisse notablement, puisque le malt est à la température de l'air ambiant.
 
-Mais surtout, en se servant d'abord, dans la méthode par infusion, d'une eau qui soit à une température peu élevée, on donne à l'agent de transformation de l'amidon le temps de se développer et de transformer l'amidon successivement en amylo-dextrine, en dextrine, et enfin en sucre ; ces transformations successives paraissent du reste suivre beaucoup mieux et beaucoup plus complètement leur cours lorsque la quantité de l'agent de transformation de l'amidon augmente peu à peu, que lorsque la totalité de cet agent de transformation atteint tout d'un coup le degré le plus élevé d'activité chimique. On peut facilement s'en convaincre lorsqu'on considère que la production de la dextrine peut très bien s'opérer à une température de 20° à 30°. — Si l'on remplit la cuve d'eau à une température de 35°, et si l'on ajoute du malt préalablement amené à un certain degré de division, la température s'abaisse notablement, puisque le malt est à la température de l'air ambiant.
+C'est par le même motif qu'il est préférable de ne pas faire arriver d'eau bouillante dans la cuve-matière, mais d'y verser seulement de l'eau qui, soit suffisamment chaude pour que la masse qui est dans la cuve atteigne le degré de chaleur voulu. C'est également par le même motif que, par la première addition d'eau chaude, on ne fait pas monter la température jusqu'à 75°C, qui est le degré auquel la production du sucre s'effectue avec le plus d'activité ; on la maintient au contraire plus basse pour qu'il se forme d'abord autant que possible de la dextrine ; mais, après que l'on a soutiré la première infusion, soit dans une cuve, soit immédiatement dans la chaudière à brasser, on porte, par une nouvelle addition d'eau, la température jusqu'à 75°C, et on maintient le tout ainsi jusqu'à ce que l'opération soit terminée, c'est-à-dire jusqu'à ce qu'il se soit formé une quantité de sucre aussi grande que possible.
 
-C'est par le même motif qu'il est préférable de ne pas faire arriver d'eau bouillante dans la cuve-matière, mais d'y verser seulement de l'eau qui, soit suffisamment chaude pour que la masse qui est dans la cuve atteigne le degré de chaleur voulu. C'est également par le même motif que, par la première addition d'eau chaude, on ne fait pas monter la température jusqu'à 75°, qui est le degré auquel la production du sucre s'effectue avec le plus d'activité ; on la maintient au contraire plus basse pour qu'il se forme d'abord autant que possible de la dextrine ; mais, après que l'on a soutiré la première infusion, soit dans une cuve, soit immédiatement dans la chaudière à brasser, on porte, par une nouvelle addition d'eau, la température jusqu'à 75°, et on maintient le tout ainsi jusqu'à ce que l'opération soit terminée, c'est-à-dire jusqu'à ce qu'il se soit formé une quantité de sucre aussi grande que possible.
-
-La méthode par infusion que je viens de développer brièvement par un exemple, est pratiquée dans un très grand nombre de localités. Je crois cependant devoir indiquer encore la méthode suivante au moyen de laquelle je sais pertinemment que l'on a obtenu dans une brasserie une bière de qualité supérieure. On introduit d'abord dans la cuve de l'eau à 35°; on fait le débattage avec beaucoup de soin; on laisse le tout en contact pendant quelque temps, afin que le malt soit bien pénétré par l'eau ; puis on ajoute une quantité d'eau chaude assez peu considérable pour que six à sept traitements, effectués à une température de 75°, soient nécessaires pour épuiser le même malt. Pour éviter que, pendant la durée totale de l'opération qui est alors de douze heures, le malt ne devienne acide, on verse successivement chacune des infusions partielles dans une chaudière dans laquelle il se trouve du houblon, et l'on attend, pour faire bouillir ensemble les six ou sept infusions, que la dernière soit obtenue.
+La méthode par infusion que je viens de développer brièvement par un exemple, est pratiquée dans un très grand nombre de localités. Je crois cependant devoir indiquer encore la méthode suivante au moyen de laquelle je sais pertinemment que l'on a obtenu dans une brasserie une bière de qualité supérieure. On introduit d'abord dans la cuve de l'eau à 35°C ; on fait le débattage avec beaucoup de soin; on laisse le tout en contact pendant quelque temps, afin que le malt soit bien pénétré par l'eau ; puis on ajoute une quantité d'eau chaude assez peu considérable pour que six à sept traitements, effectués à une température de 75°C, soient nécessaires pour épuiser le même malt. Pour éviter que, pendant la durée totale de l'opération qui est alors de douze heures, le malt ne devienne acide, on verse successivement chacune des infusions partielles dans une chaudière dans laquelle il se trouve du houblon, et l'on attend, pour faire bouillir ensemble les six ou sept infusions, que la dernière soit obtenue.
 
 Sans me prononcer sur les avantages ou les inconvénients de cette méthode, je crois pouvoir considérer comme certain que la matière solide contenue dans la cuve-matière joue ici le rôle de filtre par rapport à la liqueur qui s'écoule et qui passe claire sans qu'il soit besoin d'en opérer ultérieurement la filtration, et, en outre que la drêche est, autant que j'en puis juger, aussi exempte d'amidon, c'est-à-dire aussi fortement épuisée, que possible.
 
-Dans la méthode de brassage usitée en Bavière, on suit une marche toute différente : j'en donnerai deux exemples. On mélange le malt préalablement concassé avec une petite quantité d'eau à la température ordinaire et on laisse digérer le tout pendant une heure; on ajoute ensuite une quantité d'eau chaude suffisante pour que le tout, après avoir été convenablement mélangé, présente une température de 40°. On transvase ensuite dans la chaudière à brasser le résidu solide et une portion de la liqueur, et l'on fait bouillir avec une petite quantité d'eau le tout que l'on verse ensuite de nouveau dans la cuve-matière et que l'on réunit ainsi à la première infusion : on brasse avec soin le contenu de la cuve qui se trouve ainsi porté à une température de 56°. On fait bouillir de nouveau le résidu solide dans la chaudière avec une petite quantité de là liqueur et l'on réunit de nouveau le tout dans la cuve à la liqueur dont la température s'élève
-
-maintenait à environ 75°. On brasse de nouveau le tout avec soin et on laisse reposer pendant une heure. On soutire la liqueur et l'on verse de l'eau chaude sur le résidu solide pour en séparer l'infusion concentrée de malt dont il est imprégné; on brasse le tout avec soin et l'on ajoute encore une fois de l'eau chaude au résidu.— On obtient donc trois liqueurs : 1° une liqueur que l'on obtient par infusion et par décoction; 29 une première ablution du malt ; 3° une deuxième ablution du malt. Ces deux dernières, qui sont obtenues au moyen de la méthode ordinaire par infusion, enlèvent de plus au résidu la dextrine et le sucre nouvellement formés. Les trois liqueurs que l'on obtient par cette méthode ne peuvent pas donner chacune séparément de la bière : en effet, les deux dernières sont trop faibles. Après les avoir réunies toutes les trois dans la chaudière à brasser, on les y fait bouillir, et la bière se trouve ainsi toute préparée.
+Dans la méthode de brassage usitée en Bavière, on suit une marche toute différente : j'en donnerai deux exemples. On mélange le malt préalablement concassé avec une petite quantité d'eau à la température ordinaire et on laisse digérer le tout pendant une heure; on ajoute ensuite une quantité d'eau chaude suffisante pour que le tout, après avoir été convenablement mélangé, présente une température de 40°C. On transvase ensuite dans la chaudière à brasser le résidu solide et une portion de la liqueur, et l'on fait bouillir avec une petite quantité d'eau le tout que l'on verse ensuite de nouveau dans la cuve-matière et que l'on réunit ainsi à la première infusion : on brasse avec soin le contenu de la cuve qui se trouve ainsi porté à une température de 56°. On fait bouillir de nouveau le résidu solide dans la chaudière avec une petite quantité de là liqueur et l'on réunit de nouveau le tout dans la cuve à la liqueur dont la température s'élève maintenait à environ 75°C. On brasse de nouveau le tout avec soin et on laisse reposer pendant une heure. On soutire la liqueur et l'on verse de l'eau chaude sur le résidu solide pour en séparer l'infusion concentrée de malt dont il est imprégné; on brasse le tout avec soin et l'on ajoute encore une fois de l'eau chaude au résidu. — On obtient donc trois liqueurs : 1. une liqueur que l'on obtient par infusion et par décoction ; 2. une première ablution du malt ; 3. une deuxième ablution du malt. Ces deux dernières, qui sont obtenues au moyen de la méthode ordinaire par infusion, enlèvent de plus au résidu la dextrine et le sucre nouvellement formés. Les trois liqueurs que l'on obtient par cette méthode ne peuvent pas donner chacune séparément de la bière : en effet, les deux dernières sont trop faibles. Après les avoir réunies toutes les trois dans la chaudière à brasser, on les y fait bouillir, et la bière se trouve ainsi toute préparée.
 
 Pour la bonne bière, on emploie 100 livres de malt pour 750 litres d'eau.
 
-Cette méthode, qui paraît différer entièrement de la méthode anglaise, s'appuie sur les faits suivants. L'eau froide détermine d'abord l'humectation du malt : par l'addition d'une certaine quantité d'eau bouillante et par l'élévation du tout à une température de 40°, l'agent de transformation de l'amidon passe dans la liqueur, avec la dextrine et le sucre qui se sont formés. Lorsqu'on fait ensuite bouillir le malt en mettant de côté une portion de la liqueur, tout l'amidon est transformé en empois, et, par suite de l'élévation de température, l'agent de transformation, qui perd une grande partie de sa puissance active par l'action de la température de l'ébullition, ne transforme pas l'amidon en sucre, mais le tranforme partiellement en dextrine. Lorsqu'on verse ensuite de nouveau dans la cuve-matière cette dissolution de dextrine et d'empois, et lorsqu'on la réunit à l'agent de transformation qui s'y trouve, l'empois, qui est à une température de 75°, en présence de l'agent de transformation, est transformé en dextrine, et cette dernière est transformée en sucre.
+Cette méthode, qui paraît différer entièrement de la méthode anglaise, s'appuie sur les faits suivants. L'eau froide détermine d'abord l'humectation du malt : par l'addition d'une certaine quantité d'eau bouillante et par l'élévation du tout à une température de 40°C, l'agent de transformation de l'amidon passe dans la liqueur, avec la dextrine et le sucre qui se sont formés. Lorsqu'on fait ensuite bouillir le malt en mettant de côté une portion de la liqueur, tout l'amidon est transformé en empois, et, par suite de l'élévation de température, l'agent de transformation, qui perd une grande partie de sa puissance active par l'action de la température de l'ébullition, ne transforme pas l'amidon en sucre, mais le transforme partiellement en dextrine. Lorsqu'on verse ensuite de nouveau dans la cuve-matière cette dissolution de dextrine et d'empois, et lorsqu'on la réunit à l'agent de transformation qui s'y trouve, l'empois, qui est à une température de 75°C, en présence de l'agent de transformation, est transformé en dextrine, et cette dernière est transformée en sucre.
 
-Mais une certaine portion de l'agent de transformation dissous dans la liqueur passe de nouveau dans le résidu solide. Si, par suite, on le fait bouillir de nouveau, il se produit de nouveau de la dextrine. Cette ébullition enlève au malt une quantité d'amidon aussi grande que possible,
+Mais une certaine portion de l'agent de transformation dissous dans la liqueur passe de nouveau dans le résidu solide. Si, par suite, on le fait bouillir de nouveau, il se produit de nouveau de la dextrine. Cette ébullition enlève au malt une quantité d'amidon aussi grande que possible, en sorte que, après deux ébullitions successives, le malt peut être considéré comme suffisamment exempt d'amidon. Le liquide obtenu par la deuxième ébullition peut contenir encore de l'empois ou seulement de la dextrine : lorsque, par suite, on transvase le liquide dans la cuve-matière, les deux substances sont ainsi mises en contact avec l'agent de transformation qui s'y trouve et doivent être transformées en sucre : on obtient donc ainsi un moût dans lequel presque tout l'amidon du malt qui a servi à le préparer est contenu à l'état de dextrine et de sucre.
 
-en sorte que, après deux ébullitions successives, le malt peut être considéré comme suffisamment exempt d'amidon. Le liquide obtenu par la deuxième ébullition peut contenir encore de l'empois ou seulement de la dextrine : lorsque, par suite, on transvase le liquide dans la cuve-matière, les deux substances sont ainsi mises en contact avec l'agent de transformation qui s'y trouve et doivent être transformées en sucre : on obtient donc ainsi un moût dans lequel presque tout l'amidon du malt qui a servi à le préparer est contenu à l'état de dextrine et de sucre.
+Dans cette méthode, une forte proportion des substances albumineuses solubles passe par l'ébullition à l'état insoluble, en sorte qu'il est impossible que la fermentation de la totalité du moût, lorsque ce moût a été soumis encore une fois à l'ébullition, puisse jamais être très vive : cette méthode de brassage est donc indubitablement susceptible de donner naissance à la fermentation par dépôt (en hollandais, *ondergisting* ; en allemand, *Untergährung*). Si cependant on ajoute au moût une quantité considérable de levure superficielle (en hollandais, *bovengist* ; en allemand, *Oberhefe*), cette levure superficielle peut y déterminer la fermentation avec levure superficielle (en hollandais, *bovengisting* ; en allemand, *Obergährung*).
 
-Dans cette méthode, une forte proportion des substances albumineuses solubles passe par l'ébullition à l'état insoluble, en sorte qu'il est impossible que la fermentation de la totalité du moût, lorsque ce moût a été soumis encore une fois à l'ébullition, puisse jamais être très vive : cette méthode de brassage est donc indubitablement susceptible de donner naissance à la fermentation par dépôt (en hollandais, ondergisting ; en allemand, Untergährung). Si cependant on ajoute au moût une quantité considérable de levure superficielle (en hollandais, bovengist ; en allemand, Oberhefe), cette levure superficielle peut y déterminer la fermentation avec levure superficielle (en hollandais, bovengisting ; en allemand, Obergährung).
+La méthode suivante, que l'on emploie également en Bavière, peut en être considérée comme un second exemple. On laisse, afin qu'il s'humecte bien, le malt préalablement moulu, pendant trois ou quatre heures en contact avec de l'eau froide, ce qui détermine déjà la formation d'une quantité plus ou moins grande de l'amylo-dextrine dont nous avons parlé (p. 87) ; on ajoute ensuite de l'eau chaude de manière que le tout prenne une température de 30 à 38°C, à laquelle l'agent de transformation commence à réagir sur l'amidon, et l'on brasse bien le tout. On prend une quantité plus ou moins grande du mélange, environ un tiers ; on la fait bouillir pendant une heure dans la chaudière à brasser, puis on la verse de nouveau dans la cuve-matière. Par l'ébullition d'une portion du mélange, l'agent de transformation qui s'y trouve est détruit et la matière albumineuse est coagulée, mais, d'autre part, l'amidon est transformé en empois. En ajoutant, pendant qu'elle est encore chaude, la portion qui a subi l'ébullition au reste du mélange, l'agent de transformation contenu dans ce dernier passe à l'état actif. En faisant bouillir une seconde fois une portion du mélange et en l'ajoutant ensuite à la portion qui est restée dans la cuve-matière, on arrive à ce que la température de la matière contenue dans la cuve atteigne 60°C : on brasse alors le tout avec soin, puis on fait bouillir dans la chaudière à brasser, sans y ajouter de résidu, une quantité de liqueur suffisante pour que, quand on la transvase dans la cuve-matière, le contenu de cette cuve atteigne une température de 75°C. Après avoir laissé reposer pendant une heure et demie le contenu de la cuve, on soutire la liqueur claire et on la tranvase dans la chaudière à brasser pour l'y faire bouillir, soit seule, soit avec du houblon. Le grain qui a été ainsi traité est soumis à une ablution avec de l'eau chaude, et la liqueur que l'on obtient ainsi peut, ou bien servir à fabriquer de la petite bière, ou bien être ajoutée à la première infusion.
 
-La méthode suivante, que l'on emploie également en Bavière, peut en être considérée comme un second exemple. On laisse, afin qu'il s'humecte bien, le malt préalablement moulu, pendant trois ou quatre heures en contact avec de l'eau froide, ce qui détermine déjà la formation d'une quantité plus ou moins grande de l'amylo-dextrine dont nous avons parlé (p. 87) ; on ajoute ensuite de l'eau chaude de manière que le tout prenne une température de 30° à 38°, à laquelle l'agent de transformation commence à réagir sur l'amidon, et l'on brasse bien le tout. On prend une quantité plus ou moins grande du mélange, environ un tiers ; on la fait bouillir pendant une heure dans la chaudière à brasser, puis on la verse de nouveau dans la cuve-matière. Par l'ébullition d'une portion du mélange, l'agent de transformation qui s'y trouve est détruit et la matière albumineuse est coagulée, mais, d'autre part, l'amidon est transformé en empois. En ajoutant, pendant qu'elle est encore chaude, la portion qui a subi l'ébullition au reste du mélange, l'agent de transformation contenu dans ce dernier passe à l'état
-
-actif. En faisant bouillir une seconde fois une portion du mélange et en l'ajoutant ensuite à la portion qui est restée dans la cuve-matière, on arrive à ce que la température de la matière contenue dans la cuve atteigne 60° : on brasse alors le tout avec soin, puis on fait bouillir dans la chaudière à brasser, sans y ajouter de résidu, une quantité de liqueur suffisante pour que, quand on la transvase dans la cuve-matière, le contenu de cette cuve atteigne une température de 75°. Après avoir laissé reposer pendant une heure et demie le contenu de la cuve, on soutire la liqueur claire et on la tranvase dans la chaudière à brasser pour l'y faire bouillir, soit seule, soit avec du houblon. Le grain qui a été ainsi traité est soumis à une ablution avec de l'eau chaude, et la liqueur que l'on obtient ainsi peut, ou bien servir à fabriquer de la petite bière, ou bien être ajoutée à la première infusion.
-
-Pour 100 livres de malt, on emploie dans cette méthode environ 800 litres d'eau 1.
+Pour 100 livres de malt, on emploie dans cette méthode environ 800 litres d'eau[^3].
 
 Dans la méthode belge enfin, on emploie, concurremment avec l'orge, d'autres grains, surtout du froment ; on réduit par la mouture le malt et le grain en farine très ténue ; on suit du reste la méthode par infusion, mais on fait bouillir une portion plus ou moins considérable de la première infusion, sans y ajouter de résidu : et, après l'avoir fait bouillir, on la verse de nouveau dans la cuve-matière, dans laquelle on agite bien le tout ensemble. Après avoir laissé reposer le tout pendant quelque temps dans la cuve-matière, on soutire la liqueur claire, on la transvase dans la chaudière à brasser et on la fait bouillir avec du houblon. — Ce que le résidu contient encore de parties constituantes utiles en est séparé au moyen de la méthode ordinaire par infusion, et les liqueurs que l'on obtient ainsi servent dans la plupart des cas à la préparation d'une bière de qualité inférieure.
 
 Dans cette méthode, une portion plus ou moins grande de l'agent de transformation est décomposée et l'on obtient par suite une bière qui est prédisposée à la fermentation par dépôt.
 
-Dans la préparation de beaucoup de bières belges, le
-
-Siemens, Supplement von Prechtl's Encyclopoedie, con Karmarsch,
-
-moût, immédiatement après qu'on l'a fait bouillir, n'est pas versé dans la cuve à fermenter (cuve-guilloire), mais il est transvasé dans des tonneaux dans lesquels il subit, sans qu'on y ajoute du ferment, une fermentation spontanée. Cette fermentation spontanée est une véritable fermentation par dépôt qui dure de 10 à 15 jours.
+Dans la préparation de beaucoup de bières belges, le moût, immédiatement après qu'on l'a fait bouillir, n'est pas versé dans la cuve à fermenter (cuve-guilloire), mais il est transvasé dans des tonneaux dans lesquels il subit, sans qu'on y ajoute du ferment, une fermentation spontanée. Cette fermentation spontanée est une véritable fermentation par dépôt qui dure de 10 à 15 jours.
 
 Dans d'autres localités, on met tout ensemble dans la chaudière à brasser, malt, grain et liquide ; dans d'autres localités, on opère encore autrement.
 
@@ -188,25 +145,21 @@ On peut très bien employer le froment non malté et le malt d'orge par parties 
 
 Pour le brassage d'un pareil mélange pour lequel on doit avoir soin de n'employer que du froment moulu très fin, parce qu'il n'existe dans les grains de froment que de l'amidon, tandis que, dans le malt d'orge, l'amidon est déjà partiellement en voie de se transformer en dextrine, on doit commencer le débattage à une température peu élevée pour éviter qu'il se forme de l'empois : en effet, par la formation de l'empois, le tout formerait une masse agglutinée et il pourrait passer des grumeaux dans le brassin. La formation de l'empois ne doit cependant pas être rejetée entièrement ; elle est même désirable : nous voulons seulement dire qu'on doit éviter la formation d'un empois qui ne se répartisse pas immédiatement dans toute la liqueur; s'il en était autrement, il se formerait des grumeaux dont la présence serait contraire à une bonne fabrication. — Cette observation s'applique du reste à toutes les méthodes de brassage.
 
-Il est du ressort de la pratique, et non du nôtre, de
+Il est du ressort de la pratique, et non du nôtre, de pénétrer plus avant dans les particularités que présentent les différentes méthodes d'empâtage : ceux de nos lecteurs qui voudraient en faire une étude plus approfondie, peuvent consulter avec avantage les ouvrages spéciaux de Siemens, de Balling, de Lacambre, de Müller, de Thomson. Nous croyons cependant nécessaire d'appeler encore ici l'attention sur quelques points essentiels qui ont besoin, pour être élucidés, d'un examen tout spécial[^5].
 
-pénétrer plus avant dans les particularités que présentent les différentes méthodes d'empâtage : ceux de nos lecteurs qui voudraient en faire une étude plus approfondie, peuvent consulter avec avantage les ouvrages spéciaux de Siemens, de Balling, de Lacambre, de Müller, de Thomson. Nous croyons cependant nécessaire d'appeler encore ici l'attention sur quelques points essentiels qui ont besoin, pour être élucidés, d'un examen tout spécial 1.
-
-Pourquoi cette variété si grande de méthodes de brasSage, variété que l'on peut considérer comme étant sans limites, lorsqu'on remarque que chaque méthode peut devenir une méthode différente dès que la quantité des matériaux que l'on soumet ainsi à une opération déterminée, est modifiée ? A cette question, on peut répondre, non seulement que chaque brasseur considère sa méthode comme étant le nec plus ultra d'une bonne fabrication, mais en outre que le consommateur est habitué à l'usage de la bière fabriquée par cette méthode.
+Pourquoi cette variété si grande de méthodes de brassage, variété que l'on peut considérer comme étant sans limites, lorsqu'on remarque que chaque méthode peut devenir une méthode différente dès que la quantité des matériaux que l'on soumet ainsi à une opération déterminée, est modifiée ? A cette question, on peut répondre, non seulement que chaque brasseur considère sa méthode comme étant le *nec plus ultra* d'une bonne fabrication, mais en outre que le consommateur est habitué à l'usage de la bière fabriquée par cette méthode.
 
 Je pense qu'il n'est pas besoin de faire observer que c'est précisément dans ce que nous avons indiqué que se trouve la cause principale des différences de propriétés de la bière : en effet le malt peut être épuisé, soit par infusion, soit par décoction ; une partie de ce malt peut être traitée Par infusion, l'autre par décoction ; on peut faire bouillir la liqueur avec le résidu, ou la faire bouillir seule ; on peut traiter, par infusion ou par décoction, des portions variables de matières ; les matières peuvent rester plus ou moins longtemps en contact ; les matières peuvent être soumises, tant au commencement que pendant la durée de l'opération, à des températures différentes ; on peut ajouter aux matières qui doivent servir à la préparation de la bière toute l'eau en une seule fois, ou en plusieurs fois. Ces différents modes d'opérer sont des sources indéfinies de différence dans la qualité du produit.
 
 Ce serait une question qui n'aurait aucun sens que celle dans laquelle on demanderait quelle méthode est la meilleure. La meilleure méthode est assurément celle qui satisfait le plus complètement le goût des consommateurs : elle peut donc varier avec le goût dés consommateurs.
 
-1. En ce qui concerne la séparation de la quantité d'infusion de malt que retien la drêche, on trouvera des renseignements utiles dans l'ouvrage de Habich (Der Bierbrauer, 1859, p. 8, m 1.
-
 Mais on peut émettre une opinion sur les questions suivantes.
 
 Quelle est la méthode par laquelle on enlève du malt la portion la plus considérable des parties constituantes utiles, et par laquelle il en reste par conséquent le moins dans la drêche ?
 
-Ou bien quelle est la méthode par laquelle on obtient le moût qui présente la saveur la plus douce, le moût qui contient le plus de sucre?
+Ou bien quelle est la méthode par laquelle on obtient le moût qui présente la saveur la plus douce, le moût qui contient le plus de sucre ?
 
-Ou bien quelle est la méthode par laquelle on obtient le moût le plus épais, le plus riche en dextrine, qui, par la fermentation, donne une bière qui ne soit pas très alcoolique, mais qui soit très nourrissante?
+Ou bien quelle est la méthode par laquelle on obtient le moût le plus épais, le plus riche en dextrine, qui, par la fermentation, donne une bière qui ne soit pas très alcoolique, mais qui soit très nourrissante ?
 
 Ou bien quelle est la méthode au moyen de laquelle on obtient une liqueur qui, après la fermentation, contienne une quantité considérable de dextrine et de sucre, et qui soit en même temps très alcoolique ?
 
@@ -216,29 +169,25 @@ On peut répondre à chacune de ces questions.
 
 Dans la méthode par décoction dans laquelle on soumet à l'ébullition, soit la totalité, soit une partie du malt, on retire de ce malt la plus grande partie des parties constituantes utiles, ou du moins la plus grande quantité de l'amidon. Mais, en même temps, on coagule la matière albumineuse et l'on détruit l'agent de transformation. La méthode par décoction donne donc un moût dans lequel il existe seulement une petite quantité de sucre tandis qu'il s'y trouve une quantité considérable de dextrine, mais dans lequel il reste seulement une petite quantité d'agent de transformation de l'amidon et une petite quantité de matière albumineuse pouvant servir à la production de la levure : ce moût doit donc donner par la fermentation une bière nourrissante, mais qui ne soit pas très alcoolique et qui ne présente pas une saveur douce, sucrée. — La méthode par décoction donne donc une drêche qui contient peu d'amidon, mais qui est très riche en matière albumineuse.
 
-La méthode par infusion, lorsqu'on opère à une température qui n'est pas supérieure à 70° ou 75°, donne une drêche riche en amidon et an moût qui ne contient que peu de dextrine, tandis qu'il contient une grande quantité de sucre et donne, par suite, une bière fortement alcoolique.
+La méthode par infusion, lorsqu'on opère à une température qui n'est pas supérieure à 70 ou 75°C, donne une drêche riche en amidon et en moût qui ne contient que peu de dextrine, tandis qu'il contient une grande quantité de sucre et donne, par suite, une bière fortement alcoolique.
 
 La méthode par infusiez, lorsqu'on opère à une température plus élevée, donne une bière qui, par ses propriétés, tient le milieu entre les deux précédentes.
 
 Je ne crois pas qu'un examen plus approfondi de la question puisse l'élucider davantage : les explications que nous venons de donner expliquent avec une clarté suffisante ce qui se passe.
 
-A toutes ces causes de différence dans les propriétés du moût, vient s'en ajouter encore une autre : je veux parler ici de l'addition que l'on fait d'une certaine quantité d'orge non maltée, de froment non malté, de froment malté, ou d'autres grains à l'état malté ou à l'état non malté, ou bien encore de racines amylacées, ou même de fécule de pomme fie terre que l'on mélange dans quelques localités avec le malt d'orge dans la préparation de la bière. — Au point de vue chimique, l'addition de ces matières ne nécessite aucune explication nouvelle, à part toutefois l'observation que, lorsqu'on ajoute ainsi au malt d'orge des matières comme l'orge non germée, le froment non germé, la fécule de pomme de terre, etc., etc., qui ne contiennent pas d'agent de transformation, la méthode par infusion peut seule être employée pour brasser de pareils mélanges et que l'on doit se servir, dans ce cas, de malt desséché à l'air ou de malt faiblement touraillé. Par l'ébullition, l'agent de transformation est détruit : une forte dessiccation produit le même effet. Or il est nécessaire que le malt d'orge contienne une quantité considérable d'agent de transformation, afin que cet agent puisse déterminer la transformation en dextrine et en sucre, de l'amidon contenu dans les substances amylacées que l'on a ajoutées.
+À toutes ces causes de différence dans les propriétés du moût, vient s'en ajouter encore une autre : je veux parler ici de l'addition que l'on fait d'une certaine quantité d'orge non maltée, de froment non malté, de froment malté, ou d'autres grains à l'état malté ou à l'état non malté, ou bien encore de racines amylacées, ou même de fécule de pomme de terre que l'on mélange dans quelques localités avec le malt d'orge dans la préparation de la bière. — Au point de vue chimique, l'addition de ces matières ne nécessite aucune explication nouvelle, à part toutefois l'observation que, lorsqu'on ajoute ainsi au malt d'orge des matières comme l'orge non germée, le froment non germé, la fécule de pomme de terre, *etc.*, *etc.*, qui ne contiennent pas d'agent de transformation, la méthode par infusion peut seule être employée pour brasser de pareils mélanges et que l'on doit se servir, dans ce cas, de malt desséché à l'air ou de malt faiblement touraillé. Par l'ébullition, l'agent de transformation est détruit : une forte dessiccation produit le même effet. Or il est nécessaire que le malt d'orge contienne une quantité considérable d'agent de transformation, afin que cet agent puisse déterminer la transformation en dextrine et en sucre, de l'amidon contenu dans les substances amylacées que l'on a ajoutées.
 
 En ce qui concerne les règles pratiques qui ressortent d'une manière suffisamment claire des explications que nous venons de donner, nous croyons devoir faire les observations suivantes :
 
 La meilleure manière d'opérer est celle qui consiste à mettre l'eau dans la cuve-matière et à y introduire ainsi le malt, parce que, en agitant le tout avec soin, on peut éviter entièrement qu'il se forme des grumeaux et parce que, en outre, l'agent de transformation se dissout immédiatement dans l'eau et peut ainsi exercer de tous les côtés à la fois son action sur l'amidon.
 
-La température du mélange contenu dans la cuve-matière
-
-ne doit s'élever que lentement et graduellement, afin qu'il s'opère d'abord une dissolution de la dextrine et que l'agent de transformation, qui détermine déjà très vivement à 50° la transformation de l'amidon en sucre, puisse avoir occasion d'exercer son action sur l'amidon, si facile à transformer, qui est contenu à la surface des grains de malt préalablement écrasés : ce n'est que lorsqu'il s'agit d'opérer la transformation de l'amidon qui se trouve renfermé à l'intérieur des cellules des grains de malt que l'on expose le grain de malt à une température plus élevée, à la température de 70 à 75°, à laquelle la transformation du sucre en amidon s'opère avec le plus de force.
+La température du mélange contenu dans la cuve-matière ne doit s'élever que lentement et graduellement, afin qu'il s'opère d'abord une dissolution de la dextrine et que l'agent de transformation, qui détermine déjà très vivement à 50° la transformation de l'amidon en sucre, puisse avoir occasion d'exercer son action sur l'amidon, si facile à transformer, qui est contenu à la surface des grains de malt préalablement écrasés : ce n'est que lorsqu'il s'agit d'opérer la transformation de l'amidon qui se trouve renfermé à l'intérieur des cellules des grains de malt que l'on expose le grain de malt à une température plus élevée, à la température de 70 à 75°C, à laquelle la transformation du sucre en amidon s'opère avec le plus de force.
 
 Pour obtenir un moût très riche en sucre, on doit laisser séjourner le mélange pendant une durée de temps aussi prolongée qu'on le peut sans que cela présente aucun inconvénient : en effet l'amidon passe d'abord à l'état de dextrine et se transforme seulement ensuite en sucre, et, pour que ce dernier puisse prendre naissance, un temps assez long est nécessaire. Lorsque, au contraire, on veut obtenir un moût qui ne soit pas très riche en sucre et qui, par suite, donne par la fermentation une bière qui ne soit pas très alcoolique, la durée de l'empâtage ne doit pas être très longue et la transformation de l'amidon doit se restreindre surtout à une production de dextrine.
 
 Lorsqu'on veut obtenir par l'empâtage un moût riche en dextrine, on doit exposer rapidement le mélange à une température élevée au moyen de laquelle l'amidon du malt qui doit avoir été ici préalablement moulu en farine ténue, passe à l'état d'empois et se transforme bientôt en dextrine. Cette formation d'empois a lieu dans l'empâtage lorsqu'on l'opère à une température élevée : dans ce cas, on observe déjà la formation d'empois dans la cuve-matière : le liquide qui était limpide, s'épaissit, mais, dans la suite de l'opération, il redevient liquide. Plus on arrête promptement l'empâtage, plus la liqueur qui en résulte contient de la dextrine ; plus on prolonge au contraire le contact, plus est. grande la quantité de sucre qui se forme.
 
-Dans la méthode par infusion, on doit, immédiatement après que l'on a soutiré la première infusion, ajouter de l'eau pour préparer la seconde et, immédiatement après la deuxième, préparer la troisième afin d'éviter que le résidu se trouve en contact avec l'air, parce que le sucre qui y
-
-existe pourrait subir un commencement de transformation en acide lactique qui serait transmis à l'infusion suivante.
+Dans la méthode par infusion, on doit, immédiatement après que l'on a soutiré la première infusion, ajouter de l'eau pour préparer la seconde et, immédiatement après la deuxième, préparer la troisième afin d'éviter que le résidu se trouve en contact avec l'air, parce que le sucre qui y existe pourrait subir un commencement de transformation en acide lactique qui serait transmis à l'infusion suivante.
 
 Ces particularités ne concernent que la méthode par infusion. Relativement à la méthode par décoction, on peut encore faire les observations suivantes.
 
@@ -246,231 +195,112 @@ La décoction d'une partie de l'infusion du malt qui doit servir bientôt à un 
 
 L'ébullition du résidu même exerce une action de la même nature ; mais, dans ce dernier cas, l'amidon est dissous plus complètement, ou du moins il est transformé en empois, ce qui facilite beaucoup sa transformation en dextrine et en sucre : une conséquence de cette ébullition du résidu est donc que, par suite de cette transformation de l'amidon en empois, il n'est pas besoin d'une quantité aussi considérable de l'agent de transformation pour arriver au but de l'opération.
 
-Pour connaître la quantité de bière d'une force déterminée que peut donner un malt, on considère comme nécessaire de savoir quelle est la quantité de substances solubles contenue dans le malt et l'on fait pour cela une expérience en petit. Dans le malt qui a été desséché, soit par l'action d'un courant d'air, soit par la chaleur artificielle, et que l'on a ensuite laissé exposé à l'air, on peut admettre de 8 à 15 pour 100 d'eau. Admettons 10 pour 100. Un pareil malt, traité par l'eau chaude, donne 25 à 37 pour 100 de substances insolubles. Les substances solubles s'y élèvent donc à une quantité de 65 à 53 pour 100. — Admettons 60 pour 100.
+Pour connaître la quantité de bière d'une force déterminée que peut donner un malt, on considère comme nécessaire de savoir quelle est la quantité de substances solubles contenue dans le malt et l'on fait pour cela une expérience en petit. Dans le malt qui a été desséché, soit par l'action d'un courant d'air, soit par la chaleur artificielle, et que l'on a ensuite laissé exposé à l'air, on peut admettre de 8 à 15% d'eau. Admettons 10%. Un pareil malt, traité par l'eau chaude, donne 25 à 37% de substances insolubles. Les substances solubles s'y élèvent donc à une quantité de 65 à 53%. — Admettons 60%.
 
-Pour donner une infusion qui fournisse 10. pour 100 d'extrait, il faut nécessairement employer 540 parties d'eau pour 100 parties de malt. Ces 540 parties d'eau forment avec 60 parties d'extrait retiré du malt 600 parties d'une liqueur à 10 pour 100 d'extrait. En d'autres termes : Veut-on une infusion de malt à 10 pour 100 d'extrait, il faut, pour 100 parties de malt, employer 540 parties d'eau. Dans ce
-
-chiffre, on ne comprend cependant pas l'eau qui reste dans la drêche. Nous reviendrons plus loin sur ce sujet.
+Pour donner une infusion qui fournisse 10% d'extrait, il faut nécessairement employer 540 parties d'eau pour 100 parties de malt. Ces 540 parties d'eau forment avec 60 parties d'extrait retiré du malt 600 parties d'une liqueur à 10% d'extrait. En d'autres termes : veut-on une infusion de malt à 10% d'extrait, il faut, pour 100 parties de malt, employer 540 parties d'eau. Dans ce chiffre, on ne comprend cependant pas l'eau qui reste dans la drêche. Nous reviendrons plus loin sur ce sujet.
 
 Pour que les résultats obtenus de cette manière puissent avoir quelque valeur, il faut que, dans la préparation de l'extrait de malt provenant d'une portion de malt, on opère tout à fait de la même manière que l'on devra opérer sur toute la masse lorsqu'on s'en servira pour la préparation de la bière. C'est seulement en opérant ainsi que l'on pourra émettre une appréciation du résultat que donnera la masse totale ; mais même alors cette appréciation sera défectueuse : en effet, ce n'est pas seulement la quantité, mais c'est aussi la qualité de l'extrait qui peut permettre d'apprécier la valeur d'un pareil malt au point de vue de la fabrication de la bière.
 
-C'est Balling qui a indiqué cette méthode, c'est-à-dire le traitement d'une petite quantité de malt par de l'eau à 75° comme pouvant servir à la préparation d'un extrait qui permette de juger de la qualité d'un malt. Lorsque la température du mélange est descendue à 17°, on détermine au moyen du saccharimètre la quantité de matières solubles qui y est contenue. Mais, en petit, on doit toujours obtenir un résultat inférieur à celui que l'on obtiendrait en grand : en effet, dans ce dernier cas, on est bien mieux en mesure de remplir les conditions précisément nécessaires pour que l'agent de transformation transforme l'amidon ou bien en dextrine et en sucre, ou bien principalement en sucre, suivant qu'on le désire dans le but de préparer des bières différentes. Il serait excessivement difficile d'obtenir exactement en petit des circonstances identiques avec celles qui se présentent lorsqu'on opère en grand ; cependant, si cela n'est pas, les résultats ne sont pas comparables.
+C'est Balling qui a indiqué cette méthode, c'est-à-dire le traitement d'une petite quantité de malt par de l'eau à 75°C comme pouvant servir à la préparation d'un extrait qui permette de juger de la qualité d'un malt. Lorsque la température du mélange est descendue à 17°C, on détermine au moyen du saccharimètre la quantité de matières solubles qui y est contenue. Mais, en petit, on doit toujours obtenir un résultat inférieur à celui que l'on obtiendrait en grand : en effet, dans ce dernier cas, on est bien mieux en mesure de remplir les conditions précisément nécessaires pour que l'agent de transformation transforme l'amidon ou bien en dextrine et en sucre, ou bien principalement en sucre, suivant qu'on le désire dans le but de préparer des bières différentes. Il serait excessivement difficile d'obtenir exactement en petit des circonstances identiques avec celles qui se présentent lorsqu'on opère en grand ; cependant, si cela n'est pas, les résultats ne sont pas comparables.
 
 Je pense que les essais en petit ne peuvent donner qu'un résultat approximatif dont on ne peut pas tirer, relativement à ce qui arrivera lorsqu'on opérera en grand, les conséquences que l'on voudrait en tirer. Mais, bien que ces essais ne donnent pas un résultat satisfaisant au point de vue scientifique, ils donnent cependant, au point de vue pratique, un résultat qui suffit généralement aux besoins de l'industrie.
 
-Les substances utiles qui existaient originairement dans le grain donnent, après de nombreux traitements par l'eau, un résidu qui ne fournit plus aucun principe utile au point de
+Les substances utiles qui existaient originairement dans le grain donnent, après de nombreux traitements par l'eau, un résidu qui ne fournit plus aucun principe utile au point de vue de la préparation de la bière et que nous avons besoin de soumettre à un examen approfondi. Comme, par la germination et la dessiccation au moyen de la chaleur artificielle, il avait commencé à se produire dans le grain une transformation chimique, et comme cette transformation atteint son maximum dans l'empâtage, il est évident que le résidu du grain ne doit plus contenir, après tous ces traitements, une grande quantité de principes utiles. La connaissance de la quantité de matières utiles que ce résidu contient présente une grande importance : en effet, elle donne les moyens de déterminer la force plus ou moins grande de l'infusion de malt, d'apprécier la valeur de la méthode suivie, tant au point de vue pratique qu'au point de vue économique, d'apprécier la perte de parties constituantes utiles qui s'effectue dans le brassage et d'évaluer la valeur de la drêche, ou résidu du brassage du grain, comme aliment pour les bestiaux.
 
-vue de la préparation de la bière et que nous avons besoin de soumettre à un examen approfondi. Comme, par la germination et la dessiccation au moyen de la chaleur artificielle, il avait commencé à se produire dans le grain une transformation chimique, et comme cette transformation atteint son maximum dans l'empâtage, il est évident que le résidu du grain ne doit plus contenir, après tous ces traitements, une grande quantité de principes utiles. La connaissance de la quantité de matières utiles que ce résidu contient présente une grande importance : en effet, elle donne les moyens de déterminer la force plus ou moins grande de l'infusion de malt, d'apprécier la valeur de la méthode suivie, tant au point de vue pratique qu'au point de vue économique, d'apprécier la perte de parties constituantes utiles qui s'effectue dans le brassage et d'évaluer la valeur de la drêche, ou résidu du brassage du grain, comme aliment pour les bestiaux.
+Dans le résidu que laisse le grain après l'empâtage, on doit distinguer deux substances : la drêche (*bostel*), qui constitue le résidu proprement dit, et une substance grise, pulvérulente, que l'infusion de malt laisse déposer dans les bacs dans lesquels on la transvase au sortir de la cuve-matière pour la laisser reposer, ou dans la cuve-matière même à la surface de la drêche. Cette poudre grise porte en général le nom de *moutdeeg* (en allemand, *Malzteig*, boue de malt) : dans le premier cas, on la désigne spécialement sous le nom de *onderdeeg* (en allemand, *Unterteig* ; boue se déposant en dessous), et, dans le second, sous le nom de *bovendeeg* (en allemand, *Oberteig* ; boue se rendant en dessus ; boue superficielle). — La quantité de cette boue n'est pas considérable et elle est généralement mélangée et employée avec la drêche.
 
-Dans le résidu que laisse le grain après l'empâtage, on doit distinguer deux substances : la drêche (bostel), qui constitue le résidu proprement dit, et une substance grise, pulvérulente, que l'infusion de malt laisse déposer dans les bacs dans lesquels on la transvase au sortir de la cuve-matière pour la laisser reposer, ou dans la cuve-matière même à la surface de la drêche. Cette poudre grise porte en général le nom de moutdeeg (en allemand, Malzteig, boue de malt) : dans le premier cas, on la désigne spécialement sous le nom de onderdeeg (en allemand, Unterteig; boue se déposant en dessous), et, dans le second, sous le nom de bovendeeg (en allemand, Oberteig ; boue se rendant en dessus ; boue superficielle). — La quantité de cette boue n'est pas considérable et elle est généralement mélangée et employée avec la drêche.
-
-Ce dépôt gris contient des débris des cellules du malt, des grains d'amidon, de l'albumine insoluble : d'après Knapp, la quantité de cette dernière peut s'élever à 24 et même 30 pour 1001. Schlossberger a analysé une boue superficielle recommandée par Essig comme pouvant servir pour fabriquer du pain, et il y a trouvé 78 pour 100 d'eau, de 4 à 7 pour 100 d'amidon, de 3,9 à 4,8 pour 100 d'azote et une quantité considérable d'acide phosphorique : si l'on
-
-1. Loc. cit., p. 325.
-
-admet la quantité d'azote contenue dans les substances albumineuses comme étant égale à 15,5, on obtient 25 à 31 pour 100 d'albumine 1.
+Ce dépôt gris contient des débris des cellules du malt, des grains d'amidon, de l'albumine insoluble : d'après Knapp, la quantité de cette dernière peut s'élever à 24 et même 30%[^6]. Schlossberger a analysé une boue superficielle recommandée par Essig comme pouvant servir pour fabriquer du pain, et il y a trouvé 78% d'eau, de 4 à 7% d'amidon, de 3,9 à 4,8% d'azote et une quantité considérable d'acide phosphorique : si l'on admet la quantité d'azote contenue dans les substances albumineuses comme étant égale à 15,5, on obtient 25 à 31% d'albumine[^7].
 
 Cette matière ne joue du reste aucun rôle particulier dans la préparation de la bière, et, comme on ne l'emploie en Hollande à aucun usage particulier, je n'examinerai pas séparément chacune des matières qui constituent le résidu insoluble qui reste après le brassage et qui est perdu pour la préparation de la bière. Mais je m'appliquerai de préférence à l'étude de leur ensemble.
 
 Je dois d'abord faire une observation, c'est qu'il ne doit pas passer dans la chaudière à brasser la plus petite quantité, tant de ces substances que d'autres substances insolubles. La liqueur que l'on y met doit être complètement claire.
 
-Ritthausen 2 a fait une analyse du résidu que laisse ainsi le grain de malt après avoir été soumis à l'empâtage ; l'un a provenait de la fabrication d'une bonne bière de garde (en hollandais, belegenbier ; en allemand, Lagerbier), tandis que l'autre b provenait d'une fabrication de petite bière (en hollandais, dun bier ; en allemand, Dünnbier).
+Ritthausen[^8] a fait une analyse du résidu que laisse ainsi le grain de malt après avoir été soumis à l'empâtage ; l'un a provenait de la fabrication d'une bonne bière de garde (en hollandais, *belegenbier* ; en allemand, *Lagerbier*), tandis que l'autre *b* provenait d'une fabrication de petite bière (en hollandais, *dun bier* ; en allemand, *Dünnbier*).
 
-Ce malt contenait 4,2 pour 100 d'eau 3. — Desséché à 110°, il présentait la composition suivante :
+Ce malt contenait 4,2% d'eau [^9]. — Desséché à 110°C, il présentait la composition suivante :
 
-Fibre ligneuse
+<figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
+  <table style="width: 100%;">
+  <tr><th> Fibre ligneuse                   </th><td>  9,0 </td></tr>
+  <tr><th> Substance albumineuse            </th><td>  9,0 </td></tr>
+  <tr><th> Parties constituante non azotées </th><td> 79,2 </td></tr>
+  <tr><th> Substances inorganiques          </th><td>  2,8 </td></tr>
+  </table>
+</figure>
 
-9,0
+Ce malt, épuisé par l'empâtage, a laissé différentes sortes de drêche présentant la composition qui va suivre. Nous admettons en a une proportion d'eau de 71 à 78, et en *b* une proportion d'eau de 76 à 78 : cette eau était déterminée par la dessiccation à 110°C[^10]. — Les drêches ainsi desséchées présentaient la composition suivante :
 
-Substance albumineuse
+<figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
+  <figcaption>*A*</figcaption>
+  <table style="width: 100%;">
+	<tr><th>Fibre ligneuse</th><td>27,1</td><td>25,6</td><td>34,6</td><td>29,2</td><td>29,1</td></tr>
+	<tr><th>Substances albumineuses</th><td>16,9</td><td>22,7</td><td>19,3</td><td>18,9</td><td>19,4</td></tr>
+	<tr><th>Parties constituantes non azotées</th><td>51,6</td><td>46,3</td><td>43,3</td><td>46,8</td><td>46,4</td></tr>
+	<tr><th>Substances inorganiques</th><td> 4,4</td><td> 5,4</td><td> 5,1</td><td> 5,1</td><td> 5,0</td></tr>
+  </table>
+</figure>
 
-9,0
+<figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
+  <figcaption>*B*</figcaption>
+  <table style="width: 100%;">
+	<tr><th>Fibre ligneuse</th><td>29,7</td><td>24,6</td><td>29,0</td><td>27,8</td></tr>
 
-Parties constituantes non azotées
+	<tr><th>Substances albumineuses</th><td>21,3</td><td>23,5</td><td>19,5</td><td>21,4</td></tr>
+	<tr><th>Parties constituantes non azotées</th><td>43,4</td><td>46,6</td><td>46,2</td><td>45,4</td></tr>
+	<tr><th>Substances inorganiques</th><td> 5,5</td><td> 5,3</td><td> 5,3</td><td> 5,4</td></tr>
+  </table>
+</figure>
 
-79,2
+Les drêches donnaient 5% de cendres : le malt en contenait 2,78%. Les cendres présentaient, d'après Scheven, la composition suivante[^11] :
 
-Substances inorganiques
-
-2,8
-
-Ce malt, épuisé par l'empâtage, a laissé différentes sortes de drêche présentant la composition qui va suivre. Nous admettons en a une proportion d'eau de 71 à 78, et en b une proportion d'eau de 76 à 78 : cette eau était déterminée par la dessiccation à 110° 4. — Les drêches ainsi desséchées présentaient la composition suivante :
-
-a
-
-Fibre ligneuse
-
-27,1 25,6 34,6 29,2 29,1
-
-Substances albumineuses
-
-16,9 22,7 19,3 18,9 19,4
-
-1. Dingler's Polyt. Journal, t. CIII, p. 375.
-
-2. Erdmann's Journal, t. LXVI, p. 312.
-
-3. Cette quantité me parait trop faible. (Voir p.18 .)
-
-4. A cette température, ces substances ne peuvent pas perdre complètement l'eau qu'elles contiennent.
-
-Parties constituantes non azotées.
-
-51,6 46,3 43,3 46,8 46,4
-
-Substances inorganiques
-
-4,4 5,4 5,1 5,1 5,0
-
-b
-
-Fibre ligneuse
-
-29,7 24,6 29,0 27,8
-
-Substances albumineuses
-
-21,3 23,5 19,5 21,4
-
-Parties constituantes non azotées.
-
-43,4 46,6 46,2 45,4
-
-Substances inorganiques
-
-5,5 5,3 5,3 5,4
-
-Les drêches donnaient 5 pour 100 de cendres : le malt en contenait 2,78 pour 100. Les cendres présentaient, d'après Scheven, la composition suivante 1 :
-
-Malt.
-
-Drêche.
-
-Acide silicique
-
-33,2
-
-39,1
-
-Acide phosphorique
-
-36,5
-
-35,4
-
-Sesquioxyde de fer
-
-0,8
-
-—
-
-Chaux
-
-3,8
-
-11,3
-
-Magnésie
-
-8,4
-
-8,7
-
-Potasse
-
-17,3
-
-4,4
-
-Soude
-
-1,1
-
-Acide sulfurique
-
-des traces.
+<figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
+  <table markdown='1'>
+  <tr><td></td><th>Malt</th><th>Drêche</th></tr>
+  <tr><td> Acide silicique    </td><td> 33,2 </td><td>39,1</td></tr>
+  <tr><td> Acide phosphorique </td><td> 36,5 </td><td>35,4</td></tr>
+  <tr><td> Sesquioxyde de fer </td><td>  0,8 </td><td> -- </td></tr>
+  <tr><td> Chaux              </td><td>  3,8 </td><td>11,3</td></tr>
+  <tr><td> Magnésie           </td><td>  8,4 </td><td> 8,7</td></tr>
+  <tr><td> Potasse            </td><td> 17,3 </td><td> 4,4</td></tr>
+  <tr><td> Soude              </td><td>  --  </td><td> 1,1</td></tr>
+  <tr><td> Acide sulfurique   </td><td>traces</td><td> -- </td></tr>
+  </table>
+</figure>
 
 Quelque importants que soient ces résultats, l'analyse n'a pas été poussée assez loin pour qu'on puisse en tirer une conclusion positive.
 
-Mayer 2 a analysé la drêche d'une bière d'été ( en hollandais, zomer bier ; en allemand, Sommerbier) provenant d'une brasserie de Munich. La drêche contenait 74,7 pour 100 d'eau et avait été desséchée à 100°. Woiff 3 a analysé la drêche d'une bière de garde qui avait été brassée à l'établissement industriel d'Hohenheim. La quantité d'eau s'élevait à 77,6 pour 100.
+Mayer[^12] a analysé la drêche d'une bière d'été (en hollandais, *zomer bier* ; en allemand, *Sommerbier*) provenant d'une brasserie de Munich. La drêche contenait 74,7% d'eau et avait été desséchée à 100°C. Wolff[^13] a analysé la drêche d'une bière de garde qui avait été brassée à l'établissement industriel d'Hohenheim. La quantité d'eau s'élevait à 77,6%.
 
-Mayer
+<figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
+  <table markdown='1'>
+  <tr><td>                                   </td><th>Mayer </th><th>Wolff </th></tr>
+  <tr><td> Matière cellulaire                </td><td> 33,2 </td><td> 39,1 </td></tr>
+  <tr><td> Matière grasse                    </td><td> 36,5 </td><td> 35,4 </td></tr>
+  <tr><td> Parties constituantes non azotées </td><td>  0,8 </td><td>  --  </td></tr>
+  <tr><td> Parties constituantes azotées     </td><td> 24,7 </td><td> 14,1 </td></tr>
+  <tr><td> Cendres                           </td><td>  4,2 </td><td>  6,2 </td></tr>
+  </table>
+</figure>
 
-Wolff.
+Mayer a trouvé que la cendre de la drêche présentait la composition suivante :
 
-Matière cellulaire
-
-12,1
-
-27,4
-
-Matière grasse
-
-6,7
-
-Parties constituantes non azotées.
-
-52,3
-
-52,4
-
-Parties constituantes azotées
-
-24,7
-
-14,1
-
-Cendres
-
-4,2
-
-6,2
-
-Mayer a trouvé que la cendre de la drêche présentait l composition suivante :
-
-1. Erdmann's Journal, t. LXVI, p. 316.
-
-2. Wagner's Jahresbericht, 1856, p. 231.
-
-Sesquioxyde de fer
-
-4,4
-
-Chaux
-
-11,9
-
-Magnésie
-
-11,5
-
-Soude
-
-0,5
-
-Potasse
-
-3,9
-
-Acide phosphorique
-
-40,5
-
-Acide sulfurique
-
-1,5
-
-Acide silicique
-
-25,3
-
-Chlore
-
-des traces.
+<figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
+  <table markdown='1'>
+  <tr><td> Sesquioxyde de fer                </td><td>  4,4 </td></tr>
+  <tr><td> Chaux                             </td><td> 11,9 </td></tr>
+  <tr><td> Magnésie                          </td><td> 11,5 </td></tr>
+  <tr><td> Soude                             </td><td>  0,5 </td></tr>
+  <tr><td> Potasse                           </td><td>  3,9 </td></tr>
+  <tr><td> Acide phosphorique                </td><td> 40,5 </td></tr>
+  <tr><td> Acide sulfurique                  </td><td>  1,5 </td></tr>
+  <tr><td> Acide silicique                   </td><td> 25,3 </td></tr>
+  <tr><td> Chlore                            </td><td>traces</td></tr>
+  </table>
+</figure>
 
 Les expériences de Oudemans dont les résultats ont été indiqués p. 17, nous serviront encore à nous guider. Nous ne devons pas oublier de faire remarquer que l'analyse que nous donnons ici et qui représente seulement les résultats fournis par la drêche d'une brasserie, ne peut être considérée que comme un exemple.
 
-Composition de la drêche d'une brasserie où l'on opère par la méthode indiquée p. 157.
+**Composition de la drêche d'une brasserie où l'on opère par la méthode indiquée p. 157.**
 
 Drêche d'orge provenant d'un malt
 
@@ -642,7 +472,7 @@ Ces résultats sont importants et nous apprennent ce que nous pouvions désirer 
 
 Le sucre et la dextrine ont disparu. Je ne m'arrêterai pas sur les résultats obtenus pour les cendres : j'y reviendrai lorsque je m'occuperai des substances inorganiques de la bière. La matière grasse paraît avoir peu diminué : en effet nous voyons qu'elle est encore en proportion presque aussi forte qu'elle se trouvait originairement dans le grain (2,1).
 
-Ces résultats, tels qu'ils sont, ne sont cependant pas bien comparables, ni entre eux, ni avec ceux obtenus pour le grain qui a servi à préparer les malts. Pour obtenir un point de comparaison sérieux, nous devons prendre pour point de départ les matières cellulaires qui n'ont subi dans l'émpâtage aucune modification. Prenons donc pour exemple la première drêche fournie par un malt touraillé et la dernière fournie par un malt fortement touraillé, et comparons-les respectivement avec le malt touraillé, et le malt fortement touraillé (p. 141,142), en partant, pour un malt et une drêche de même ordre, d'une quantité de matières cellulaires identique.
+Ces résultats, tels qu'ils sont, ne sont cependant pas bien comparables, ni entre eux, ni avec ceux obtenus pour le grain qui a servi à préparer les malts. Pour obtenir un point de comparaison sérieux, nous devons prendre pour point de départ les matières cellulaires qui n'ont subi dans l'empâtage aucune modification. Prenons donc pour exemple la première drêche fournie par un malt touraillé et la dernière fournie par un malt fortement touraillé, et comparons-les respectivement avec le malt touraillé, et le malt fortement touraillé (p. 141,142), en partant, pour un malt et une drêche de même ordre, d'une quantité de matières cellulaires identique.
 
 Malt d'orge touraillé.
 
@@ -1163,3 +993,39 @@ ration du sucre de betterave, cette transformation se produit quelquefois dans l
 Dans les liqueurs qui deviennent ainsi acides, il se produit quelquefois de l'acide lactique et quelquefois de l'acide acétique. Il s'agirait donc de savoir quel est l'acide qui prend naissance dans le moût.
 
 J'examinerai un peu plus loin cette question, en parlant du refroidissement du moût ; j'ajouterai seulement ici qu'un moût exposé pendant quelque temps à l'air n'a pas donné d'acide acétique par la distillation, mais que, par l'ébullition avec du carbonate de zinc, il a donné une quantité considérable de lactate de zinc.
+
+
+
+
+
+
+
+[^1]: Le nom sous lequel on désigne cette opération, varie suivant les pays : en Hollande, elle porte le nom de *beslag maken* (empâtage) ou de *bestaan* (détrempage) ; en Allemagne, on lui donne généralement le nom de *Maischen* (d'élayage, démélage) ; en Angleterre, celui de *mashing* (démélage). En France, on la désigne généralement sous le nom de *macération* ou de *brassage*, d'où dérivent les expressions brasseur, brasserie, brassin, *etc.*, et qui lui vient de la manière dont on l'exécute généralement encore dans un grand nombre de localités, c'est-à-dire à force de bras.
+L'appareil dans lequel le brassage s'opère est désigné suivant les pays : en Hollande, sous le nom de *beslag-kuip* ; en Allemagne, sous le nom de *Maiscbottich* ; en Angleterre, sous le nom de *mashing-lun*, et en France, sous le nom de *cuve-matière*.
+
+[^2]: Relativement à l'emploi de la vapeur dans l'empâtage, voir Habich (*Taschenbuch der Chemie des Bierea*, 1858, p. 38).
+
+[^3]: Dans le but d'extraire du résidu des trempes l'amidon qui y est reste (dont la présence est la cause pour laquelle, entre autres, on emploie avec avantage ce résidu pour la nourriture des bestiaux) et de le transformer en dextrine, puis en sucre, Piesse (*Phil. Map.*, t. XXI, p. 317) conseille de mettre de côté une portion du malt, 1/30 par exemple. — Lorsqu'on effectue la deuxième trempe, on y ajoute la portion de malt que l'on a ainsi mise de côté. L'agent de transformation de l'amidon qu'elle contient peut alors agir sur l'amidon que contient le résidu et lui faire subir la transformation indiquée.
+D'après Piesse, la totalité de l'agent de transformation se séparerait donc du malt dans la préparation de la première trempe, en laissant dans le résidu une quantité relativement plus considérable d'amidon. En outre, suivant lui, la puissance active de l'agent de transformation est plus ou moins amoindrie pendant la préparation de la première trempe par suite de la production de dextrine ou de sucre qui a eu lieu, ce qui est conforme à ce qui a lieu pour la levure dont la puissance active est amoindrie par la production d'une grande quantité d'alcool.
+Lorsque nous nous occuperons d'expliquer le mode de réaction chimique qui prend naissance dans cette opération, nous examinerons avec plus de détail si le conseil de Piesse est bon ou s'il ne l'est pas.
+
+[^4]: Siemens, *Supplement von Prechtl's Encyclopaedie, von Karmarsch*, c, p. 414.
+
+[^5]: En ce qui concerne la séparation de la quantité d'infusion de malt que retient la drêche, on trouvera des renseignements utiles dans l'ouvrage de Habich (*Der Bierbrauer*, 1859, p. 8, n. 1)
+
+[^6]: *Loc. cit.*, p. 325.
+
+[^7]: *Dingler's Polyt. Journal*, t. CIII, p. 375.
+
+[^8]: *Erdmann's Journal*, t. LXVI, p. 312.
+
+[^9]: Cette quantité me parait trop faible. (Voir p. 18)
+
+[^10]: À cette température, ces substances ne peuvent pas perdre complètement l'eau qu'elles contiennent.
+
+[^11]: *Erdmann's Journal*, t. LXVI, p. 316.
+
+[^12]: *Wagner's Jahresbericht*, 1856, p. 231.
+
+[^13]: *Id.*, 1856, p. 232.
+

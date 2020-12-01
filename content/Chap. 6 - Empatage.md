@@ -77,17 +77,17 @@ Une différence générale vient de la quantité d'eau que l'on ajoute en une se
 
 Outre ces méthodes, nous citerons encore les méthodes suivantes :
 
-On introduit dans la cuve de l'eau qui ait une température d'environ 80°C, puis on y ajoute le malt et, s'il y a lieu, le grain, de manière que, après l'introduction de ces substances qui sont à la température de l'air ambiant, le tout soit précisément à une température de 75°C.
+- On introduit dans la cuve de l'eau qui ait une température d'environ 80°C, puis on y ajoute le malt et, s'il y a lieu, le grain, de manière que, après l'introduction de ces substances qui sont à la température de l'air ambiant, le tout soit précisément à une température de 75°C.
 
-Ou bien on met le malt dans la cuve et l'on fait arriver de l'eau chaude sur ce malt par la partie inférieure, par les ouvertures du faux-fond, jusqu'à ce que le tout atteigne une température de 75°C.
+- Ou bien on met le malt dans la cuve et l'on fait arriver de l'eau chaude sur ce malt par la partie inférieure, par les ouvertures du faux-fond, jusqu'à ce que le tout atteigne une température de 75°C.
 
-Ou bien on agite le malt avec de l'eau froide ou tiède, puis on ajoute de l'eau bouillante jusqu'à ce que le tout ait atteint une température de 75°C.
+- Ou bien on agite le malt avec de l'eau froide ou tiède, puis on ajoute de l'eau bouillante jusqu'à ce que le tout ait atteint une température de 75°C.
 
-Ou bien on agite le malt avec de l'eau tiède et l'on fait arriver dans le liquide ainsi obtenu de la vapeur jusqu'à ce que la vapeur atteigne 75°C[^2].
+- Ou bien on agite le malt avec de l'eau tiède et l'on fait arriver dans le liquide ainsi obtenu de la vapeur jusqu'à ce que la vapeur atteigne 75°C[^2].
 
 On comprend toutes ces méthodes sous la dénomination générale de *méthodes par infusion*.
 
-Ou bien on termine l’œuvre commencée par l'une des méthodes que nous venons d'indiquer en faisant bouillir, soit une partie de la liqueur infusée seule (*métier*, *trempe claire*, en hollandais, **dun van het beslag* ; en allemand, *Dünnmaische*), soit une portion de la masse pâteuse (*fardeau*, *trempe épaisse* ; en hollandais, *dik van het beslag* ; en allemand, *Dickmaische*), que l'on ajoute ensuite dans la cuve-matière à une autre portion de la masse pâteuse qui a subi seulement le traitement par infusion.
+- Ou bien on termine l’œuvre commencée par l'une des méthodes que nous venons d'indiquer en faisant bouillir, soit une partie de la liqueur infusée seule (*métier*, *trempe claire*, en hollandais, **dun van het beslag* ; en allemand, *Dünnmaische*), soit une portion de la masse pâteuse (*fardeau*, *trempe épaisse* ; en hollandais, *dik van het beslag* ; en allemand, *Dickmaische*), que l'on ajoute ensuite dans la cuve-matière à une autre portion de la masse pâteuse qui a subi seulement le traitement par infusion.
 
 Ces dernières méthodes ont reçu le nom de *méthodes par décoction*.
 
@@ -127,7 +127,7 @@ Mais une certaine portion de l'agent de transformation dissous dans la liqueur p
 
 Dans cette méthode, une forte proportion des substances albumineuses solubles passe par l'ébullition à l'état insoluble, en sorte qu'il est impossible que la fermentation de la totalité du moût, lorsque ce moût a été soumis encore une fois à l'ébullition, puisse jamais être très vive : cette méthode de brassage est donc indubitablement susceptible de donner naissance à la fermentation par dépôt (en hollandais, *ondergisting* ; en allemand, *Untergährung*). Si cependant on ajoute au moût une quantité considérable de levure superficielle (en hollandais, *bovengist* ; en allemand, *Oberhefe*), cette levure superficielle peut y déterminer la fermentation avec levure superficielle (en hollandais, *bovengisting* ; en allemand, *Obergährung*).
 
-La méthode suivante, que l'on emploie également en Bavière, peut en être considérée comme un second exemple. On laisse, afin qu'il s'humecte bien, le malt préalablement moulu, pendant trois ou quatre heures en contact avec de l'eau froide, ce qui détermine déjà la formation d'une quantité plus ou moins grande de l'amylo-dextrine dont nous avons parlé (p. 87) ; on ajoute ensuite de l'eau chaude de manière que le tout prenne une température de 30 à 38°C, à laquelle l'agent de transformation commence à réagir sur l'amidon, et l'on brasse bien le tout. On prend une quantité plus ou moins grande du mélange, environ un tiers ; on la fait bouillir pendant une heure dans la chaudière à brasser, puis on la verse de nouveau dans la cuve-matière. Par l'ébullition d'une portion du mélange, l'agent de transformation qui s'y trouve est détruit et la matière albumineuse est coagulée, mais, d'autre part, l'amidon est transformé en empois. En ajoutant, pendant qu'elle est encore chaude, la portion qui a subi l'ébullition au reste du mélange, l'agent de transformation contenu dans ce dernier passe à l'état actif. En faisant bouillir une seconde fois une portion du mélange et en l'ajoutant ensuite à la portion qui est restée dans la cuve-matière, on arrive à ce que la température de la matière contenue dans la cuve atteigne 60°C : on brasse alors le tout avec soin, puis on fait bouillir dans la chaudière à brasser, sans y ajouter de résidu, une quantité de liqueur suffisante pour que, quand on la transvase dans la cuve-matière, le contenu de cette cuve atteigne une température de 75°C. Après avoir laissé reposer pendant une heure et demie le contenu de la cuve, on soutire la liqueur claire et on la tranvase dans la chaudière à brasser pour l'y faire bouillir, soit seule, soit avec du houblon. Le grain qui a été ainsi traité est soumis à une ablution avec de l'eau chaude, et la liqueur que l'on obtient ainsi peut, ou bien servir à fabriquer de la petite bière, ou bien être ajoutée à la première infusion.
+La méthode suivante, que l'on emploie également en Bavière, peut en être considérée comme un second exemple. On laisse, afin qu'il s'humecte bien, le malt préalablement moulu, pendant trois ou quatre heures en contact avec de l'eau froide, ce qui détermine déjà la formation d'une quantité plus ou moins grande de l'amylo-dextrine dont nous avons parlé (p. 87) ; on ajoute ensuite de l'eau chaude de manière que le tout prenne une température de 30 à 38°C, à laquelle l'agent de transformation commence à réagir sur l'amidon, et l'on brasse bien le tout. On prend une quantité plus ou moins grande du mélange, environ un tiers ; on la fait bouillir pendant une heure dans la chaudière à brasser, puis on la verse de nouveau dans la cuve-matière. Par l'ébullition d'une portion du mélange, l'agent de transformation qui s'y trouve est détruit et la matière albumineuse est coagulée, mais, d'autre part, l'amidon est transformé en empois. En ajoutant, pendant qu'elle est encore chaude, la portion qui a subi l'ébullition au reste du mélange, l'agent de transformation contenu dans ce dernier passe à l'état actif. En faisant bouillir une seconde fois une portion du mélange et en l'ajoutant ensuite à la portion qui est restée dans la cuve-matière, on arrive à ce que la température de la matière contenue dans la cuve atteigne 60°C : on brasse alors le tout avec soin, puis on fait bouillir dans la chaudière à brasser, sans y ajouter de résidu, une quantité de liqueur suffisante pour que, quand on la transvase dans la cuve-matière, le contenu de cette cuve atteigne une température de 75°C. Après avoir laissé reposer pendant une heure et demie le contenu de la cuve, on soutire la liqueur claire et on la transvase dans la chaudière à brasser pour l'y faire bouillir, soit seule, soit avec du houblon. Le grain qui a été ainsi traité est soumis à une ablution avec de l'eau chaude, et la liqueur que l'on obtient ainsi peut, ou bien servir à fabriquer de la petite bière, ou bien être ajoutée à la première infusion.
 
 Pour 100 livres de malt, on emploie dans cette méthode environ 800 litres d'eau[^3].
 
@@ -231,23 +231,22 @@ Ce malt contenait 4,2% d'eau [^9]. — Desséché à 110°C, il présentait la c
 Ce malt, épuisé par l'empâtage, a laissé différentes sortes de drêche présentant la composition qui va suivre. Nous admettons en a une proportion d'eau de 71 à 78, et en *b* une proportion d'eau de 76 à 78 : cette eau était déterminée par la dessiccation à 110°C[^10]. — Les drêches ainsi desséchées présentaient la composition suivante :
 
 <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
-  <figcaption>*A*</figcaption>
+  <figcaption><center>*A*</center></figcaption>
   <table style="width: 100%;">
-	<tr><th>Fibre ligneuse</th><td>27,1</td><td>25,6</td><td>34,6</td><td>29,2</td><td>29,1</td></tr>
-	<tr><th>Substances albumineuses</th><td>16,9</td><td>22,7</td><td>19,3</td><td>18,9</td><td>19,4</td></tr>
-	<tr><th>Parties constituantes non azotées</th><td>51,6</td><td>46,3</td><td>43,3</td><td>46,8</td><td>46,4</td></tr>
-	<tr><th>Substances inorganiques</th><td> 4,4</td><td> 5,4</td><td> 5,1</td><td> 5,1</td><td> 5,0</td></tr>
+	<tr><th>Fibre ligneuse                    </th><td>27,1</td><td>25,6</td><td>34,6</td><td>29,2</td><td>29,1</td></tr>
+	<tr><th>Substances albumineuses           </th><td>16,9</td><td>22,7</td><td>19,3</td><td>18,9</td><td>19,4</td></tr>
+	<tr><th>Parties constituantes non azotées </th><td>51,6</td><td>46,3</td><td>43,3</td><td>46,8</td><td>46,4</td></tr>
+	<tr><th>Substances inorganiques           </th><td> 4,4</td><td> 5,4</td><td> 5,1</td><td> 5,1</td><td> 5,0</td></tr>
   </table>
 </figure>
 
 <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
-  <figcaption>*B*</figcaption>
+  <figcaption><center>*B*</center></figcaption>
   <table style="width: 100%;">
-	<tr><th>Fibre ligneuse</th><td>29,7</td><td>24,6</td><td>29,0</td><td>27,8</td></tr>
-
-	<tr><th>Substances albumineuses</th><td>21,3</td><td>23,5</td><td>19,5</td><td>21,4</td></tr>
-	<tr><th>Parties constituantes non azotées</th><td>43,4</td><td>46,6</td><td>46,2</td><td>45,4</td></tr>
-	<tr><th>Substances inorganiques</th><td> 5,5</td><td> 5,3</td><td> 5,3</td><td> 5,4</td></tr>
+	<tr><th>Fibre ligneuse                    </th><td>29,7</td><td>24,6</td><td>29,0</td><td>27,8</td></tr>
+	<tr><th>Substances albumineuses           </th><td>21,3</td><td>23,5</td><td>19,5</td><td>21,4</td></tr>
+	<tr><th>Parties constituantes non azotées </th><td>43,4</td><td>46,6</td><td>46,2</td><td>45,4</td></tr>
+	<tr><th>Substances inorganiques           </th><td> 5,5</td><td> 5,3</td><td> 5,3</td><td> 5,4</td></tr>
   </table>
 </figure>
 
@@ -256,14 +255,14 @@ Les drêches donnaient 5% de cendres : le malt en contenait 2,78%. Les cendres p
 <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
   <table markdown='1'>
   <tr><td></td><th>Malt</th><th>Drêche</th></tr>
-  <tr><td> Acide silicique    </td><td> 33,2 </td><td>39,1</td></tr>
-  <tr><td> Acide phosphorique </td><td> 36,5 </td><td>35,4</td></tr>
-  <tr><td> Sesquioxyde de fer </td><td>  0,8 </td><td> -- </td></tr>
-  <tr><td> Chaux              </td><td>  3,8 </td><td>11,3</td></tr>
-  <tr><td> Magnésie           </td><td>  8,4 </td><td> 8,7</td></tr>
-  <tr><td> Potasse            </td><td> 17,3 </td><td> 4,4</td></tr>
-  <tr><td> Soude              </td><td>  --  </td><td> 1,1</td></tr>
-  <tr><td> Acide sulfurique   </td><td>traces</td><td> -- </td></tr>
+  <tr><th>Acide silicique    </th><td> 33,2 </td><td>39,1</td></tr>
+  <tr><th>Acide phosphorique </th><td> 36,5 </td><td>35,4</td></tr>
+  <tr><th>Sesquioxyde de fer </th><td>  0,8 </td><td> -- </td></tr>
+  <tr><th>Chaux              </th><td>  3,8 </td><td>11,3</td></tr>
+  <tr><th>Magnésie           </th><td>  8,4 </td><td> 8,7</td></tr>
+  <tr><th>Potasse            </th><td> 17,3 </td><td> 4,4</td></tr>
+  <tr><th>Soude              </th><td>  --  </td><td> 1,1</td></tr>
+  <tr><th>Acide sulfurique   </th><td>traces</td><td> -- </td></tr>
   </table>
 </figure>
 
@@ -273,12 +272,12 @@ Mayer[^12] a analysé la drêche d'une bière d'été (en hollandais, *zomer bie
 
 <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
   <table markdown='1'>
-  <tr><td>                                   </td><th>Mayer </th><th>Wolff </th></tr>
-  <tr><td> Matière cellulaire                </td><td> 33,2 </td><td> 39,1 </td></tr>
-  <tr><td> Matière grasse                    </td><td> 36,5 </td><td> 35,4 </td></tr>
-  <tr><td> Parties constituantes non azotées </td><td>  0,8 </td><td>  --  </td></tr>
-  <tr><td> Parties constituantes azotées     </td><td> 24,7 </td><td> 14,1 </td></tr>
-  <tr><td> Cendres                           </td><td>  4,2 </td><td>  6,2 </td></tr>
+  <tr><th>                                  </th><th>Mayer </th><th>Wolff </th></tr>
+  <tr><th>Matière cellulaire                </th><td> 33,2 </td><td> 39,1 </td></tr>
+  <tr><th>Matière grasse                    </th><td> 36,5 </td><td> 35,4 </td></tr>
+  <tr><th>Parties constituantes non azotées </th><td>  0,8 </td><td>  --  </td></tr>
+  <tr><th>Parties constituantes azotées     </th><td> 24,7 </td><td> 14,1 </td></tr>
+  <tr><th>Cendres                           </th><td>  4,2 </td><td>  6,2 </td></tr>
   </table>
 </figure>
 
@@ -286,15 +285,15 @@ Mayer a trouvé que la cendre de la drêche présentait la composition suivante 
 
 <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
   <table markdown='1'>
-  <tr><td> Sesquioxyde de fer                </td><td>  4,4 </td></tr>
-  <tr><td> Chaux                             </td><td> 11,9 </td></tr>
-  <tr><td> Magnésie                          </td><td> 11,5 </td></tr>
-  <tr><td> Soude                             </td><td>  0,5 </td></tr>
-  <tr><td> Potasse                           </td><td>  3,9 </td></tr>
-  <tr><td> Acide phosphorique                </td><td> 40,5 </td></tr>
-  <tr><td> Acide sulfurique                  </td><td>  1,5 </td></tr>
-  <tr><td> Acide silicique                   </td><td> 25,3 </td></tr>
-  <tr><td> Chlore                            </td><td>traces</td></tr>
+  <tr><th>Sesquioxyde de fer </th><td>  4,4 </td></tr>
+  <tr><th>Chaux              </th><td> 11,9 </td></tr>
+  <tr><th>Magnésie           </th><td> 11,5 </td></tr>
+  <tr><th>Soude              </th><td>  0,5 </td></tr>
+  <tr><th>Potasse            </th><td>  3,9 </td></tr>
+  <tr><th>Acide phosphorique </th><td> 40,5 </td></tr>
+  <tr><th>Acide sulfurique   </th><td>  1,5 </td></tr>
+  <tr><th>Acide silicique    </th><td> 25,3 </td></tr>
+  <tr><th>Chlore             </th><td>traces</td></tr>
   </table>
 </figure>
 
@@ -302,171 +301,34 @@ Les expériences de Oudemans dont les résultats ont été indiqués p. 17, nous
 
 **Composition de la drêche d'une brasserie où l'on opère par la méthode indiquée p. 157.**
 
-Drêche d'orge provenant d'un malt
-
-touraillé,
-
-plus fortement touraillé,
-
-encore plus fortement touraillé,
-
-fortement touraillé.
-
-Dextrine
-
-0,0
-
-0,0
-
-0,0
-
-0,0
-
-Amidon
-
-9,5
-
-6,7
-
-5,3
-
-3,8
-
-Sucre
-
-0,0
-
-0,0
-
-0,0
-
-0,0
-
-Matières cellulaires
-
-6,2
-
-7,8
-
-7,7
-
-Substances albumineuses.
-
-4,1
-
-4,7
-
-5,4
-
-4,3
-
-Matière grasse
-
-0,4
-
-0,3
-
-0,4
-
-0,3
-
-Cendres
-
-1,1
-
-1,3
-
-1,2
-
-1,1
-
-Eau
-
-79,3
-
-79,1
-
-78,6
-
-82,5
-
-100,3
-
-99,9
-
-100,3
-
-99,7
+<figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
+  <table style="width: 100%;">
+	<tr><th>Drêche d'orge provenant d'un malt</th><th>touraillé</th><th>plus fortement touraillé</th><th>encore plus fortement touraillé</th><th>fortement touraillé</th></tr>
+	<tr><th>Dextrine                         </th><td>  0,0</td><td> 0,0</td><td>  0,0</td><td> 0,0</td></tr>
+	<tr><th>Amidon                           </th><td>  9,5</td><td> 6,7</td><td>  5,3</td><td> 3,8</td></tr>
+	<tr><th>Sucre                            </th><td>  0,0</td><td> 0,0</td><td>  0,0</td><td> 0,0</td></tr>
+	<tr><th>Matières cellulaires             </th><td>  6,2</td><td> 7,8</td><td>  9,4</td><td> 7,7</td></tr>
+	<tr><th>Substances albumineuses          </th><td>  4,1</td><td> 4,7</td><td>  5,4</td><td> 4,3</td></tr>
+	<tr><th>Matière grasse                   </th><td>  0,4</td><td> 0,3</td><td>  0,4</td><td> 0,3</td></tr>
+	<tr><th>Cendres                          </th><td>  1,1</td><td> 1,3</td><td>  1,2</td><td> 1,1</td></tr>
+	<tr><th>Eau                              </th><td> 79,3</td><td>79,1</td><td> 78,6</td><td>82,5</td></tr>
+	<tr><th>                                 </th><th>100,3</th><th>99,9</th><th>100,3</th><th>99,7</th></tr>
+  </table>
+</figure>
 
 Si nous ramenons par le calcul les résultats à ce qu'ils seraient pour 100 parties de drêche supposée anhydre, nous obtiendrons :
 
-Drêche d'orge provenant d'un malt
-
-touraillé
-
-plus fortement , touraillé,
-
-encore plus fortement touraillé,
-
-fortement touraillé.
-
-Amidon
-
-44,6
-
-32,2
-
-24,4
-
-22,1
-
-Matières cellulaires
-
-29,1
-
-37,5
-
-43,3
-
-44,8
-
-Substances albumineuses.
-
-19,2
-
-22,6
-
-25,0
-
-25,0
-
-Matière grasse
-
-1,9
-
-1,5
-
-1,8
-
-1,7
-
-Gendre
-
-5,2
-
-6,2
-
-5,5
-
-6,4
-
-100,0
-
-100,0
-
-100,0
-
-100,0
+<figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
+  <table style="width: 100%;">
+	<tr><th>Drêche d'orge provenant d'un malt</th><th>touraillé</th><th>plus fortement touraillé</th><th>encore plus fortement touraillé</th><th>fortement touraillé</th></tr>
+	<tr><th>Amidon                           </th><td> 44,6</td><td> 32,2</td><td> 24,4</td><td> 22,1</td></tr>
+	<tr><th>Matières cellulaires             </th><td> 29,1</td><td> 37,5</td><td> 43,3</td><td> 44,8</td></tr>
+	<tr><th>Substances albumineuses          </th><td> 19,2</td><td> 22,6</td><td> 25,0</td><td> 25,0</td></tr>
+	<tr><th>Matière grasse                   </th><td>  1,9</td><td>  1,5</td><td>  1,8</td><td>  1,7</td></tr>
+	<tr><th>Cendres                          </th><td>  5,2</td><td>  6,2</td><td>  5,5</td><td>  6,4</td></tr>
+	<tr><th>                                 </th><th>100,0</th><th>100,0</th><th>100,0</th><th>100,0</th></tr>
+  </table>
+</figure>
 
 Ces résultats sont importants et nous apprennent ce que nous pouvions désirer savoir.
 
@@ -474,173 +336,69 @@ Le sucre et la dextrine ont disparu. Je ne m'arrêterai pas sur les résultats o
 
 Ces résultats, tels qu'ils sont, ne sont cependant pas bien comparables, ni entre eux, ni avec ceux obtenus pour le grain qui a servi à préparer les malts. Pour obtenir un point de comparaison sérieux, nous devons prendre pour point de départ les matières cellulaires qui n'ont subi dans l'empâtage aucune modification. Prenons donc pour exemple la première drêche fournie par un malt touraillé et la dernière fournie par un malt fortement touraillé, et comparons-les respectivement avec le malt touraillé, et le malt fortement touraillé (p. 141,142), en partant, pour un malt et une drêche de même ordre, d'une quantité de matières cellulaires identique.
 
-Malt d'orge touraillé.
+<figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
+  <table style="width: 100%;">
+	<tr><td></td><th>Malt d'orge touraillé</th><th>Drêche de malt d'orge touraillé</th></tr>
+	<tr><th>Produits de torréfaction         </th><td>  7,8</td><td>  0,0</td></tr>
+	<tr><th>Dextrine                         </th><td>  6,6</td><td>  0,0</td></tr>
+	<tr><th>Amidon                           </th><td> 58,6</td><td> 16,6</td></tr>
+	<tr><th>Sucre                            </th><td>  0,7</td><td>  0,0</td></tr>
+	<tr><th>Matières cellulaires             </th><td> 10,8</td><td> 10,8</td></tr>
+	<tr><th>Substances albumineuses          </th><td> 10,4</td><td>  7,1</td></tr>
+	<tr><th>Matière grasse                   </th><td>  2,4</td><td>  0,7</td></tr>
+	<tr><th>Substances inorganiques          </th><td>  2,7</td><td>  2,0</td></tr>
+	<tr><td>                                 </td><th>100,0</th><th> 37,2</th></tr>
+  </table>
+</figure>
 
-Drêche de malt d'orge touraillé.
+<figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
+  <table style="width: 100%;">
+	<tr><td></td><th>Malt d'orge fortem<sup>t</sup> touraillé</th><th>Drêche de malt fortem<sup>t</sup> touraillé</th></tr>
+	<tr><th>Produits de torréfaction         </th><td> 14,0</td><td>  0,0</td></tr>
+	<tr><th>Dextrine                         </th><td> 10,2</td><td>  0,0</td></tr>
+	<tr><th>Amidon                           </th><td> 47,6</td><td>  5,7</td></tr>
+	<tr><th>Sucre                            </th><td>  0,9</td><td>  0,0</td></tr>
+	<tr><th>Matières cellulaires             </th><td> 11,5</td><td> 11,5</td></tr>
+	<tr><th>Substances albumineuses          </th><td> 10,5</td><td>  6,4</td></tr>
+	<tr><th>Matière grasse                   </th><td>  2,6</td><td>  0,4</td></tr>
+	<tr><th>Substances inorganiques          </th><td>  2,7</td><td>  1,6</td></tr>
+	<tr><td>                                 </td><th>100,0</th><th> 25,6</th></tr>
+  </table>
+</figure>
 
-Produits de torréfaction
 
-7,8
-
-0 0
-
-Dextrine
-
-0,0
-
-Amidon
-
-.... 58,6
-
-16,6
-
-Sucre
-
-0,0
-
-Matières cellulaires
-
-10,8
-
-10,8
-
-Substances albumineuses
-
-.... 10,4
-
-7,1
-
-Matière grasse
-
-.... 2,4
-
-0,7
-
-Substances inorganiques
-
-2,0
-
-100,0
-
-37,2
-
-Malt d'orge fortem 1 touraillé,
-
-Drêche de malt fortem 1 touraillé
-
-Produits de torréfaction
-
-0,0
-
-Dextrine
-
-0,0
-
-Amidon
-
-47,6
-
-5,7
-
-Sucre
-
-... 0,9
-
-0 0
-
-Matières cellulaires
-
-11,5
-
-11,5
-
-10,5
-
-6,4
-
-Matière grasse
-
-2,6
-
-0,4
-
-Substances inorganiques
-
-.... 2,7
-
-1,6
-
-100,0
-
-25,6
-
-De la comparaison du malt touraillé avec la drêche du malt touraillé, il résulte qu'il reste 2/7 d'amidon dans le malt épuisé ; qu'il s'y trouve encore une quantité considérable de substances albumineuses et presque les 2/3 de ce
-
-qu'il y avait originairement dans le malt, en sorte que 1/3 seulement des matières albumineuses est passé dans le moût ; que la quantité de la matière grasse et des substances inorganiques a diminué et qu'il en est passé par conséquent une certaine portion dans le moût. On ne doit du reste pas être étonné de la grande quantité de matières albumineuses contenue dans la drêche. La température de 75°, à laquelle l'agent de transformation agit le plus puissamment, est déjà plus que suffisante pour déterminer la coagulation des substances albumineuses.
+De la comparaison du malt touraillé avec la drêche du malt touraillé, il résulte qu'il reste 2/7 d'amidon dans le malt épuisé ; qu'il s'y trouve encore une quantité considérable de substances albumineuses et presque les 2/3 de ce qu'il y avait originairement dans le malt, en sorte que 1/3 seulement des matières albumineuses est passé dans le moût ; que la quantité de la matière grasse et des substances inorganiques a diminué et qu'il en est passé par conséquent une certaine portion dans le moût. On ne doit du reste pas être étonné de la grande quantité de matières albumineuses contenue dans la drêche. La température de 75°C, à laquelle l'agent de transformation agit le plus puissamment, est déjà plus que suffisante pour déterminer la coagulation des substances albumineuses.
 
 La comparaison du malt fortement desséché avec la drêche correspondante nous apprend que 1/8 de l'amidon seulement a échappé à l'empâtage, ce qui démontre jusqu'à l'évidence l'influence de la torréfaction sur la nature de la bière : elle nous apprend en outre qu'il est resté dans la drêche une quantité proportionnellement moindre de substance albumineuse représentée par les 4/7 de la quantité qui existait originairement dans le grain; elle nous fait voir également que la quantité de matière grasse et de cendres a diminué et qu'il en est passé une certaine quantité dans le moût.
 
-Dans les brasseries françaises, on admet, d'après Payen une perte de 5 à 20 pour 100 d'amidon.
+Dans les brasseries françaises, on admet, d'après Payen[^14] une perte de 5 à 20% d'amidon.
 
-D'après les indications de Knapp 2, la drêche d'orge contient de 4 à 8 pour 100 d'amidon et de 6 à 7 pour 100 de substances albumineuses 3, tandis que, d'autre part, il s'y trouve 75 pour 100 d'eau. Ses résultats s'accordent donc avec les résultats des expériences d'Oudemans.
+D'après les indications de Knapp[^15], la drêche d'orge contient de 4 à 8% d'amidon et de 6 à 7% de substances albumineuses[^16], tandis que, d'autre part, il s'y trouve 75% d'eau. Ses résultats s'accordent donc avec les résultats des expériences d'Oudemans.
 
 En ce qui concerne la quantité totale de substances utiles, que l'eau, en se transformant en moût dans l'empâtage, dissout et soustrait ainsi au malt, il résulte des deux exemples que nous avons indiqués et qui provenaient d'une brasserie dans laquelle on fabrique la bière au moyen de la méthode par infusion, que, les substances étant supposées anhydres : 100 parties de malt touraillé perdent, par l'action de l'eau dans l'empâtage, 100 — 37,2 = 62,8.
 
-100 parties de malt fortement touraillé abandonnent à l'eau 100 — 25,6 = 74,4.
-
-1. Chimie industrielle, 4e édit., t. Il, p. 316.
-
-2. Loc. cit., p. 125.
-
-3. Knapp rectifie, p. 325 (loc. cit.), l'indication inexacte de 21 à 26 p. 100 de matières albumineuses dans la drêche, qu'il avait donnée, p. 125.
+100 parties de malt fortement touraillé abandonnent à l'eau `100 — 25,6 = 74,4`.
 
 Admettons, en nombres ronds, de 65 à 75.
 
-Ces quantités sont à peu près celles que l'on obtient d'après Muspratt 1 en Angleterre. Il admet en effet 78,3 pour 100 de principes utiles dans lé malt d'orge : d'après ses indications, pour un quarter ou 352 livres, il doit se dissoudre, dans le traitement par l'eau, 234 à 249 livres; ce qui représente 66 à 71 pour 100. La différence n'est pas grande ; mais chaque centième en moins ôte à la bière qui en résulte une certaine quantité des principes constituants du grain. Dans tous les cas, ces résultats nous apprennent que la différence qui existe entre les bièrès anglaises et les bières hollandaises ne vient pas de la manière défectueuse dont on traite en Hollande le grain dans l'empâtage ; elle ne provient pas non plus des quantités relatives d'eau et de malt que l'on emploie.
+Ces quantités sont à peu près celles que l'on obtient d'après Muspratt[^17] en Angleterre. Il admet en effet 78,3% de principes utiles dans lé malt d'orge : d'après ses indications, pour un quarter ou 352 livres, il doit se dissoudre, dans le traitement par l'eau, 234 à 249 livres; ce qui représente 66 à 71%. La différence n'est pas grande ; mais chaque centième en moins ôte à la bière qui en résulte une certaine quantité des principes constituants du grain. Dans tous les cas, ces résultats nous apprennent que la différence qui existe entre les bières anglaises et les bières hollandaises ne vient pas de la manière défectueuse dont on traite en Hollande le grain dans l'empâtage ; elle ne provient pas non plus des quantités relatives d'eau et de malt que l'on emploie.
 
-Balling, en traitant 10 loths 2 de malt par 43 1/3 loths d'eau à 75°, a obtenu 50 loths de moût et 3 1/2 loths de drêche sèche. Essayés au môyen de son saccharimètre, ces 50 loths ont fourni 6 loths d'extraits : 100 parties de malt, traitées par l'eau, perdraient donc 60 parties de substances solubles. Ce résultat, qui est le résultat le moins élevé que l'on obtienne en Hollande, est cependant considéré par Balling comme satisfaisant ; il paraît probable qu'il ne s'applique qu'à du malt contenant de l'eau.
+Balling, en traitant 10 loths[^18] de malt par 43 1/3 loths d'eau à 75°C, a obtenu 50 loths de moût et 3 1/2 loths de drêche sèche. Essayés au moyen de son saccharimètre, ces 50 loths ont fourni 6 loths d'extraits : 100 parties de malt, traitées par l'eau, perdraient donc 60 parties de substances solubles. Ce résultat, qui est le résultat le moins élevé que l'on obtienne en Hollande, est cependant considéré par Balling comme satisfaisant ; il paraît probable qu'il ne s'applique qu'à du malt contenant de l'eau.
 
-Knapp 3 admet, pour le malt desséché, une perte moyenne de 65 pour 100.
+Knapp[^19] admet, pour le malt desséché, une perte moyenne de 65%.
 
-D'après Casartelli 4, un quarter, ou 352 livres de malt fournit, par un premier traitement, 275,5 d'extrait, c'est-à-dire 78 pour 100, et il prétend en outre que le résidu de ce traitement contient encore une quantité de principes utiles assez forte pour qu'il soit convenable de le soumettre à un second traitement. Une quantité de 70 pour 100 est déjà bien élevée. Si, de 100 parties de malt touraillé et de 100 parties de malt fortement touraillé (p. 141), nous retranchons la quantité d'eau et de matières cellulaires, c'est-à-dire 11,1+ 9,4 = 20,5 et 8,2 + 10,6 = 18,8, que nous pouvons présenter en nombre rond par 20 pour 100, la proportion de substances
+D'après Casartelli[^20], un quarter, ou 352 livres de malt fournit, par un premier traitement, 275,5 d'extrait, c'est-à-dire 78%, et il prétend en outre que le résidu de ce traitement contient encore une quantité de principes utiles assez forte pour qu'il soit convenable de le soumettre à un second traitement. Une quantité de 70% est déjà bien élevée. Si, de 100 parties de malt touraillé et de 100 parties de malt fortement touraillé (p. 141), nous retranchons la quantité d'eau et de matières cellulaires, c'est-à-dire `11,1 + 9,4 = 20,5` et `8,2 + 10,6 = 18,8`, que nous pouvons présenter en nombre rond par 20%, la proportion de substances solubles la plus élevée que pourrait contenir le malt serait de `100 - 20 = 80` ; mais il faudrait admettre pour cela que la cendre, la matière grasse et la totalité des substances albumineuses se soient entièrement dissoutes, ce qui n'est assurément pas exact. L'évaluation de Casartelli est donc beaucoup trop élevée. En admettant même que le malt fût entièrement sec, nous obtiendrions, en retranchant seulement la cellulose qui s'élève (p. 143) à 10,8 pour le malt touraillé et à 11,5 pour le malt fortement touraillé, une quantité de principes utiles égale à 89 et 88%, y compris la matière grasse et la cendre. Mais même alors l'évaluation à 78% est encore trop élevée.
 
-1. Mupratt-Stohmann, loc. cit., p. 578. à 2. La livre de Vienne (Autriche) de 32 loths présente une valeur égale
-
-3. Loc cit, p. 326. est doue de 17gr, 50.
-
-4. Muspratt, loc. cit.
-
-solubles la plus élevée que pourrait contenir le malt serait de 100 - 20 = 80 ; mais il faudrait admettre pour cela que la cendre, la matière grasse et la totalité des substances albumineuses se soient entièrement dissoutes, ce qui n'est assurément pas exact. L'évaluation de Casartelli est donc beaucoup trop élevée. En admettant même que le malt fût entièrement sec, nous obtiendrions, en retranchant seulement la cellulose qui s'élève (p. 143) à 10,8 pour le malt touraillé et à 11,5 pour le malt fortement touraillé, une quantité de principes utiles égale à 89 et 88 pour 100, y compris la matière grasse et la cendre. Mais même alors l'évaluation à 78 p. 100 est encore trop élevée.
-
-Il paraît douteux que, même lorsqu'on suit le meilleur mode d'opérer, les principes utiles que l'on retire du malt puissent s'élever à une quantité aussi considérable, lorsque, dans l'exemple que nous avons indiqué (p. 173), nous avons trouvé que la drêche sèche, provenant d'un malt fortement touraillé, contenait encore 5,7 p. 100 d'amidon et 6,4 p. 100 de matières albumineuses.
+Il paraît douteux que, même lorsqu'on suit le meilleur mode d'opérer, les principes utiles que l'on retire du malt puissent s'élever à une quantité aussi considérable, lorsque, dans l'exemple que nous avons indiqué (p. 173), nous avons trouvé que la drêche sèche, provenant d'un malt fortement touraillé, contenait encore 5,7% d'amidon et 6,4% de matières albumineuses.
 
 Si, pour comparer, nous rapprochons les résultats obtenus par Ritthausen (p. 170) de ceux fournis par les expériences d'Oudemans, cette comparaison nous montrera que, dans la brasserie dans laquelle Ritthausen avait pris la drêche qu'il a analysée, il se perdait une forte proportion d'amidon, tandis que, dans la brasserie d'où provenait la drêche, analysée par Oudemans, qui avait été obtenue au moyen de la méthode par infusion, ainsi que nous l'avons indiqué (p. 157), on opérait beaucoup mieux. Si, dans cette comparaison, nous prenons pour point de départ les matières cellulaires considérées comme = 1, nous trouvons, pour les cinq sortes de drêche analysées par Ritthausen, la perte d'amidon représentée par
 
-Drêche a
-
-1,9
-
-1,8
-
-1,2
-
-1,6
-
-1,6
-
-Moyenne 1,5
-
-Drêche b
-
-1,5
-
-1,9
-
-1,6
-
-1,6
-
-— 1,6
+<figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
+  <table style="width: 100%;">
+	<tr><th>Drêche *a* </th><td>1,9</td><td>1,8</td><td>1,2</td><td>1,6</td><td>Moyenne</td><td>1,5</td></tr>
+	<tr><th>Drêche *b* </th><td>1,5</td><td>1,9</td><td>1,6</td><td>1,6</td><td>   --  </td><td>1,6</td></tr>
+  </table>
+</figure>
 
 Quel résultat nous donne la drêche des expériences de Oudemans, en partant du même point de départ ? Le malt touraillé donne, pour la perte d'amidon, 1,5 ; celui qui a été plus fortement touraillé, donne 0,9 ; celui qui a été encore plus fortement touraillé, donne 0,6, et celui qui a été fortement touraillé, donne 0,5.
 
@@ -648,219 +406,75 @@ Au point de vue pratique, il serait nécessaire de savoir la quantité de la per
 
 Quoi qu'il en soit, le meilleur brasseur est celui qui extrait du grain la plus grande quantité de parties constituantes utiles : en effet, la bière qu'il fabrique est la meilleure et la plus forte, et sa manière de travailler est la plus profitable. Il n'est pas besoin de faire remarquer que toutes les opérations que nous étudions successivement ici concourent à ce but et que l'empâtage est seulement une des phases de la fabrication de la bière.
 
-On a recommaudé maintes fois l'emploi, dans la panification, des principes utiles qui, dans la préparation de la bière, restent dans la drêche et constituent ainsi une perte. Récemment encore, Neu 1 a proposé de traiter la drêche par l'eau et d'agiter avec soin le tout : les matières albumineuses contenues dans la drêche restent ainsi en suspension dans l'eau et peuvent être séparées des parties corticales du grain de malt. On filtre la liqueur trouble ainsi obtenue. La liqueur filtrée passe claire et l'on trouve sur le filtre les matières albumineuses que l'on mélange avec de la farine de seigle pour en faire du pain.
+On a recommandé maintes fois l'emploi, dans la panification, des principes utiles qui, dans la préparation de la bière, restent dans la drêche et constituent ainsi une perte. Récemment encore, Neu[^a] a proposé de traiter la drêche par l'eau et d'agiter avec soin le tout : les matières albumineuses contenues dans la drêche restent ainsi en suspension dans l'eau et peuvent être séparées des parties corticales du grain de malt. On filtre la liqueur trouble ainsi obtenue. La liqueur filtrée passe claire et l'on trouve sur le filtre les matières albumineuses que l'on mélange avec de la farine de seigle pour en faire du pain.
 
-En Hollande, ainsi que dans d'autres pays, on donne la drêche aux bestiaux. Les brasseurs devraient se la faire bien payer : en effet, c'est une substance essentiellement nutritive, bien qu'elle le paraisse peu. Quelle est en effet la matière nutritive, servant à l'alimentation des bestiaux, qui contient 4 à 4,5 pour 100 de substances albumineuses pour une proportion d'eau de 78 à 82 pour 100, et qui contient en outre de 4 à 9 pour 100 d'amidon ?
+En Hollande, ainsi que dans d'autres pays, on donne la drêche aux bestiaux. Les brasseurs devraient se la faire bien payer : en effet, c'est une substance essentiellement nutritive, bien qu'elle le paraisse peu. Quelle est en effet la matière nutritive, servant à l'alimentation des bestiaux, qui contient 4 à 4,5% de substances albumineuses pour une proportion d'eau de 78 à 82%, et qui contient en outre de 4 à 9% d'amidon ?
 
-Jusqu'ici, je ne me suis presque pas occupé de la quantité d'eau par laquelle on doit traiter le malt pour obtenir une bonne bière. En général, moins la quantité d'eau employée est considérable, plus la bière que l'on obtient est forte : cela n'a pas besoin de plus d'explication. La quantité d'eau la plus faible que l'on puisse employer est celle à laquelle l'action chimique qui constitue essentiellement l'empâtage, peut encore avoir lieu sans être entravée en aucune manière. Si l'on ajoute au malt une trop grande quantité d'eau, cela
-
-1. Polyt. Centralbl, 1856, p. 190.
-
-détermine une trop grande dilution de l'agent de transformation et paralyse son action sur l'amidon qui existe encore dans le malt; si l'on n'ajoute pas assez d'eau, l'agent de transformation se trouve enveloppé d'une solution de dextrine trop épaisse pour qu'il puisse exercer son action d'une manière convenable.
+Jusqu'ici, je ne me suis presque pas occupé de la quantité d'eau par laquelle on doit traiter le malt pour obtenir une bonne bière. En général, moins la quantité d'eau employée est considérable, plus la bière que l'on obtient est forte : cela n'a pas besoin de plus d'explication. La quantité d'eau la plus faible que l'on puisse employer est celle à laquelle l'action chimique qui constitue essentiellement l'empâtage, peut encore avoir lieu sans être entravée en aucune manière. Si l'on ajoute au malt une trop grande quantité d'eau, cela détermine une trop grande dilution de l'agent de transformation et paralyse son action sur l'amidon qui existe encore dans le malt ; si l'on n'ajoute pas assez d'eau, l'agent de transformation se trouve enveloppé d'une solution de dextrine trop épaisse pour qu'il puisse exercer son action d'une manière convenable.
 
 Pour ces raisons, la quantité d'eau à employer doit être comprise entre ces deux extrêmes : une quantité d'eau trop considérable et une quantité d'eau trop faible conduisent également à ce résultat que la drêche retient une quantité considérable de principes utiles.
 
-Une forte proportion de l'eau employée reste dans la drêche. Balling admet que la drêche provenant de 100 livres de malt retient, dans certains cas, 120, et, dans d'autres, de 150 à 170 livres d'eau ; or, nous avons vu que 100 livres de malt desséché donnent 25 à 37 pour 100 de drêche. Combien devait-il Se trouver d'eau dans cette drêche lorsqu'elle était humide ? Les expériences d'Oudemans (p. 172) donnent 79- 79-79-83 pour 100, ce qui fait, pour 1 livre de drêche sèche, 4 livres d'eau, et pour 25 à 37 livres, de 100 à 148 livres d'eau, résultat qui concorde à peu près avec celui que Balling a obtenu par un autre procédé. Mais l'eau qui reste ainsi dans le malt représente une perte égale d'infusion de malt qui reste dans la drêche si l'on n'opère pas le lavage de cette dernière. L'exactitude de notre observation est confirmée par ce qui a lieu généralement dans les substances organiques humides. Les substances cellulaires imprégnées d'humidité retiennent une quantité d'eau triple de leur poids ; mais les matières albumineuses imprégnées d'humidité et l'amidon transformé en empois en retiennent beaucoup plus.
+Une forte proportion de l'eau employée reste dans la drêche. Balling admet que la drêche provenant de 100 livres de malt retient, dans certains cas, 120, et, dans d'autres, de 150 à 170 livres d'eau ; or, nous avons vu que 100 livres de malt desséché donnent 25 à 37% de drêche. Combien devait-il Se trouver d'eau dans cette drêche lorsqu'elle était humide ? Les expériences d'Oudemans (p. 172) donnent 79%-79%-79%-83%, ce qui fait, pour 1 livre de drêche sèche, 4 livres d'eau, et pour 25 à 37 livres, de 100 à 148 livres d'eau, résultat qui concorde à peu près avec celui que Balling a obtenu par un autre procédé. Mais l'eau qui reste ainsi dans le malt représente une perte égale d'infusion de malt qui reste dans la drêche si l'on n'opère pas le lavage de cette dernière. L'exactitude de notre observation est confirmée par ce qui a lieu généralement dans les substances organiques humides. Les substances cellulaires imprégnées d'humidité retiennent une quantité d'eau triple de leur poids ; mais les matières albumineuses imprégnées d'humidité et l'amidon transformé en empois en retiennent beaucoup plus.
 
-C'est pour éviter cette perte que l'on est dans la nécessité d'épuiser encore plus d'une fois le résidu par l'eau : la quantité des parties constituantes utiles dissoutes dans la dernière infusion qui se perd ainsi s'élève à la valeur indiquée précédemment, Müller ( 1) dit positivement que c'est en traitant à deux reprises le résidu par une nouvelle quantité d'eau qu'il est possible d'arriver à enlever au malt l'infusion concentrée qu'il retient.
+C'est pour éviter cette perte que l'on est dans la nécessité d'épuiser encore plus d'une fois le résidu par l'eau : la quantité des parties constituantes utiles dissoutes dans la dernière infusion qui se perd ainsi s'élève à la valeur indiquée précédemment, Müller[^22] dit positivement que c'est en traitant à deux reprises le résidu par une nouvelle quantité d'eau qu'il est possible d'arriver à enlever au malt l'infusion concentrée qu'il retient.
 
-Une question nous reste encore à résoudre, celle de sa-
+Une question nous reste encore à résoudre, celle de savoir quelle est la quantité de principes utiles qui ne s'est pas dissoute et qui est restée dans le résidu après le premier traitement par l'eau.
 
-1. Handbuch der Bierbrauer, p. 190.
+La quantité d'eau que l'on doit employer pour la préparation d'une bonne bière peut être déterminée de la manière suivante. Si l'on admet que 1/12 de l'eau, en moyenne, se perd par l'ébullition de peu de durée à laquelle on soumet l'infusion, et par l'évaporation qui a lieu pendant le refroidissement, nous devons encore retrancher la quantité d'eau qui reste dans la drêche, pour obtenir la quantité de liquide qui se trouve dans l'infusion. Si, comme cela se fait en Hollande dans quelques localités, on brasse une bière en employant 700 livres d'eau pour 100 livres de malt dont la proportion d'eau s'élève à 1/10, il peut rester par exemple 30 livres de drêche sèche qui retiennent `30 x 4 = 120` livres d'eau : `700 — 120 = 580` ; 1/12 des 700 livres d'eau s'évapore par une ébullition de peu de durée et par le refroidissement : `1/12 de 700 = 58`. Nous obtenons donc `580 - 58 = 522` livres d'eau pour la bière, dans lesquelles se sont dissoutes 60 parties de principes utiles dont une partie se transforme ultérieurement en alcool par la fermentation. Si l'on veut connaître la quantité d'extrait contenue dans le moût, on doit ajouter ensemble 580 et 60 : ce qui donne 640 dans lesquels il se trouve 60 parties d'extrait : c'est-à-dire 9,3%. Ces 9,3% contiennent une quantité plus ou moins considérable de sucre qui est décomposée ultérieurement par la fermentation. Plus la quantité de sucre qui se décompose ainsi est considérable, plus la quantité d'extrait diminue par la transformation du moût en bière.
 
-voir quelle est la quantité de principes utiles qui ne s'est pas dissoute et qui est restée dans le résidu après le premier traitement par l'eau.
+D'après Payen[^23], on emploie dans les brasseries françaises les proportions suivantes de matières premières[^24].
 
-La quantité d'eau que l'on doit employer pour la préparation d'une bonne bière peut être déterminée de la manière suivante. Si l'on admet que 1/12 de l'eau, en moyenne, se perd par l'ébullition de peu de durée à laquelle on soumet l'infusion, et par l'évaporation qui a lieu pendant le refroidissement, nous devons encore retrancher la quantité d'eau qui reste dans la drêche, pour obtenir la quantité de liquide qui se trouve dans l'infusion. Si, comme cela se fait en Hollande dans quelques localités, on brasse une bière en employant 700 livres d'eau pour 100 livres de malt dont la proportion d'eau s'élève à 1/10, il peut rester par exemple 30 livres de drêche sèche qui retiennent 30 x 4 = 120 livres d'eau : 700 —120 = 580 ; 1/12 des 700 livres d'eau s'évapore par une ébullition de peu de durée et par le refroidissement : 1/12 de 700 = 58. Nous obtenons donc 580 - 58 = 522 livres d'eau pour la bière, dans lesquelles se sont dissoutes 60 parties de principes utiles dont une partie se transforme ultérieurement en alcool par la fermentation. Si l'on veut connaître la quantité d'extrait contenue dans le moût, on doit ajouter ensemble 580 et 60 : ce qui donne 640 dans lesquels il se trouve 60 parties d'extrait : c'est-àrdire 9,3 pour 100. Ces 9,3 pour 100 contiennent une quantité plus ou moins considérable de sucre qui est décomposée ultérieurement par la fermentation. Plus la quantité de sucre qui se décompose ainsi est considérable, plus la quantité d'extrait diminue par la transformation du moût en bière.
+Pour 2000 kg de malt et 200 kg de sirop à 33°C que l'on a épuisés successivement au moyen de 2500 litres d'eau à 60°C, de 2500 litres d'eau à 90°C et de 1200 litres d'eau à 100°C, formant en tout 6200 litres, on obtient 6000 litres de bière double.
 
-D'après Payen 1, on emploie dans les brasseries françaises les proportions suivantes de matières premières 2.
+Dans un second traitement du même malt, on a employé 4000 litres d'eau à 100°C qui ont donné 4000 litres de petite bière représentant 2000 litres de bière double. (La distinction que fait ici Payen ne serait pas exacte pour tout autre pays que la France : en effet, dans les autres pays, entre la petite bière et la bière double vient se ranger la bonne bière ordinaire ; mais, en France, la loi du 27 avril 1816 qui régit la fabrication des bières, n'admettant que deux sortes de bières, la bière double ou bière forte et la petite bière, la bière ordinaire qui serait l'intermédiaire entre la bière forte et la petite bière, serait assujettie aux mêmes droits que la bière forte : aussi ne s'y fabrique-t-il réellement, conformément à l'indication de Payen, que deux espèces de bières, la bière double et la petite bière.)
 
-Pour 2000 kilogrames de malt et 200 kilogrammes de sirop à, 33° que l'on a épuisés successivement au moyen de 2500 litres d'eau à 60°, de 2500 litres d'eau à 90° et de 1200 litres d'eau à 100°, formant en tout 6200 litres, on obtient 6000 litres de bière double.
+En réunissant ensemble les résultats des deux opérations, nous voyons que 2000 kilogrammes de malt auxquels on a ajouté 200 kilogrammes de sirop fournissent `6000 + 4000 = 10000` litres. La quantité de malt que l'on emploie représente donc à elle seule 1/5 de la quantité de bière que l'on veut obtenir.
 
-Dans un second traitement du même malt, on a employé 4000 litres d'eau à 100° qui ont donné 4000 litres de petite bière représentant 2000 litres de bière double. (La distinc-
-
-1. Chimie industrielle 1859, 4e édit., t. II, p. 312
-
-2. Nous admettons ici, pour simplifier, que le malt présente la même pesanteur spécifique que l'orge (100 litres d'orge pèsent 64 à 67 kil.)
-
-tion que fait ici Payen ne serait pas' exacte pour tout autre pays que la France : en effet, dans les autres pays, entre la petite bière et la bière double vient se ranger la bonne bière ordinaire ; mais, en France, la loi du 27 avril 1816 qui régit la fabrication des bières, n'admettant que deux sortes de bières, la bière double ou bière forte et la [petite bière, la bière ordinaire qui serait l'intermédiaire entre la bière forte et la petite bière, serait assujettie aux mêmes droits que labière forte : aussi ne s'y fabrique-t-il réellement, conformément à l'indication de Payen, que deux espèces de bières, la bière double et la petite bière.)
-
-En réunissant ensemble les résultats des deux opérations, nous voyons que 2000 kilogrammes de malt auxquels on a ajouté 200 kilogrammes de sirop fournissent 6000+4000 = 10000 litres. La quantité de malt que l'on emploie représente donc à elle seule 1/5 de la quantité de bière que l'or veut obtenir.
-
-La proportion de malt que l'on emploie dans la fabrication des bières anglaises, est encore un peu plus élevée. Pour préparer 5000 à 6000 kilogrammes d'ale, on emploie 4000 kilogrammes de malt, et pour obtenir 5000 à 6000 kilogrammes de porter, on emploie 2100 kilogrammes de malt pâle, 1600 kilogrammes de malt ambré et 800 kilogrammes de malt brun, en tout 4500 kilogrammes de malt.
+La proportion de malt que l'on emploie dans la fabrication des bières anglaises, est encore un peu plus élevée. Pour préparer 5000 à 6000 kg d'ale, on emploie 4000 kg de malt, et pour obtenir 5000 à 6000 kg de porter, on emploie 2100 kilogrammes de malt pâle, 1600 kg de malt ambré et 800 kg de malt brun, en tout 4500 kg de malt.
 
 La quantité de malt que l'on emploie en Hollande peut être déduite de la composition des bières que nous donnerons plus tard.
 
 Mais, sous ce rapport, il existe de si grandes différences que la détermination de cette quantité ne peut présenter aucune utilité pour le but que nous nous proposons. Je crois devoir seulement faire remarquer que, dans ces dernières années, on s'est efforcé d'arriver à n'avoir pas besoin de vaporiser par l'ébullition une quantité d'eau considérable, dans le but de concentrer la liqueur, parce que cette évaporation occasionne une perte de combustible qui ne serait pas compensée par la production d'un effet utile.
 
-En prenant pour point de départ les bières légères de consommation usuelle et en remontant jusqu'aux bières fortes de consommation usuelle, nous observons une pesanteur spécifique de la décoction, variant de 1,04 à 1,074, qui correspond à une proportion d'extrait de malt de 10 à 18
+En prenant pour point de départ les bières légères de consommation usuelle et en remontant jusqu'aux bières fortes de consommation usuelle, nous observons une pesanteur spécifique de la décoction, variant de 1,04 à 1,074, qui correspond à une proportion d'extrait de malt de 10 à 18%. Mais il existe des bières encore plus légères et des bières encore plus fortes. On admet que, pour une bonne bière légère, l'infusion de malt qui a été bouillie doit présenter une pesanteur spécifique de 1,03 à 1,05 qui correspond à une quantité d'extrait variant de 8 à 12%. Pour les bières les meilleures, on trouve une pesanteur spécifique de 1,06 à 1,07, qui correspond à une quantité de 15 à 17%. Pour des bières plus fortes, on obtient une pesanteur spécifique plus élevée qui correspond par suite à une quantité d'extrait plus forte.
 
-pour 100. Mais il existe des bières encore plus légères et des bières encore plus fortes. On admet que, pour une bonne bière légère, l'infusion de malt qui a été bouillie doit présenter une pesanteur spécifique de 1,03 à 1,05 qui correspond à une quantité d'extrait variant de 8 à 12 pour 100. Pour les bières les meilleures, on trouve une pesanteur spécifique de 1,06 à 1,07, qui correspond à une quantité de 15 à 17 pour 100 d'extrait. Pour des bières plus fortes, on obtient une pesanteur spécifique plus élevée qui correspond par suite à une quantité d'extrait plus forte.
+Nous pouvons, en partant de là, déterminer à peu près la nature de la bière que peut donner un moût déterminé, en faisant abstraction de la perte d'alcool qui a lieu par volatilisation dans la fermentation et en admettant, pour plus de simplicité, que le rapport de l'équivalent de sucre de fruits (C<sub>12</sub>H<sub>12</sub>O<sub>12</sub> = 2250) aux 2 équivalents d'alcool (= 1150) est de 2:1.
 
-Nous pouvons, en partant de là, déterminer à peu près la nature de la bière que peut donner un moût déterminé, en faisant abstraction de la perte d'alcool qui a lieu par volatilisation dans la fermentation et en admettant, pour plus de simplicité, que le rapport de l'équivalent de sucre de fruits (C12H12O12=2250) aux 2 équivalents d'alcool ( = 1150) est de 2:1.
+Si, en effet, un moût contient avant la fermentation 8% d'extrait dans lesquels il se trouve 6 de sucre et si, sur les 6 de sucre, 5 viennent à fermenter, la bière qui en résultera contiendra 3% d'extrait et 2,5% d'alcool : ce sera donc une bière légère et faiblement alcoolique.
 
-Si, en effet, un moût contient avant la fermentation 8 pour 100 d'extrait dans lesquels il se trouve 6 de sucre et si, sur les 6 de sucre, 5 viennent à fermenter, la bière qui| en résultera contiendra 3 pour 100 d'extrait et 2,5 pour 100 d'alcool : ce sera donc une bière légère et faiblement alcoolique.
+Si, avant la fermentation, un moût contient 16% d'extrait dans lesquels il se trouve 10 de sucre, et si, sur les 10 de sucre, 9 viennent à fermenter, ce moût fournira une bière qui contiendra 7% d'extrait et 4,5% d'alcool : cette bière sera donc nourrissante et suffisamment alcoolique.
 
-Si, avant la fermentation, un moût contient 16 pour 100 d'extrait dans lesquels il se trouve 10 de sucre, et si, sur les 10 de sucre, 9 viennent à fermenter, ce moût fournira une bière qui contiendra 7 pour 100 d'extrait et 4,5 d'alcool : cette bière sera donc nourrissante et suffisamment alcoolique.
+Si, avant la fermentation, un moût contient 16% d'extrait dans lesquels il se trouve 13 de sucre, et si, sur ces 13 de sucre, 12 viennent à fermenter, la bière que l'on obtiendra ainsi contiendra 4% d'extrait et 6% d'alcool : cette bière sera donc forte et alcoolique.
 
-Si, avant la fermentation, un moût contient 16 pour 100 d'extrait dans lesquels il se trouve 13 de sucre, et si, sur ces 13 de sucre, 12 viennent à fermenter, la bière que l'on obtiendra ainsi contiendra 4 pour 100 d'extrait et 6 pour 100 d'alcool : cette bière sera donc forte et alcoolique.
-
-Les indications que nous avons données sur les quantités respectives d'eau et de malt que l'on doit employer, lorsqu'on veut obtenir une infusion de malt d'une force déterminée, s'appliquent également à l'infusion de malt, bouillie et évaporée, dont les brasseurs doivent connaître la concentration, c'est-à-dire la quantité d'extrait, pour pouvoir obtenir une bière d'une force déterminée. Prenons encore ici comme point de départ un malt qui donne 60 pour 100 d'ex¬
-
-trait, et nous trouverons par exemple, pour le liquide bouilli et évaporé d'une pesanteur spécifique de 1,074, les résultats suivants : 18 : 100 :: 60 ; : x ; d'où x = 333. Ce qui veut dire que, en traitant par l'eau 100 parties de malt et en faisant bouillir, puis évaporer la liqueur, etc., etc., jusqu'à ce qu'il ne reste plus que 333 parties, on obtient un moût qui est composé de 273 d'eau et de 60 d'extrait de malt. La bière que l'on préparera au moyen de ce moût sera donc une bière forte. Une infusion de malt qui, après avoir été bouillie et évaporée, présentera une pesanteur spécifique de 1,04 devra contenir 10 pour 100 d'extrait et par suite, pour 540 d'eau, 60 parties d'extrait de malt.
+Les indications que nous avons données sur les quantités respectives d'eau et de malt que l'on doit employer, lorsqu'on veut obtenir une infusion de malt d'une force déterminée, s'appliquent également à l'infusion de malt, bouillie et évaporée, dont les brasseurs doivent connaître la concentration, c'est-à-dire la quantité d'extrait, pour pouvoir obtenir une bière d'une force déterminée. Prenons encore ici comme point de départ un malt qui donne 60% d'extrait, et nous trouverons par exemple, pour le liquide bouilli et évaporé d'une pesanteur spécifique de 1,074, les résultats suivants : `18 : 100 :: 60` ; `: x` ; d'où `x = 333`. Ce qui veut dire que, en traitant par l'eau 100 parties de malt et en faisant bouillir, puis évaporer la liqueur, *etc.*, *etc.*, jusqu'à ce qu'il ne reste plus que 333 parties, on obtient un moût qui est composé de 273 d'eau et de 60 d'extrait de malt. La bière que l'on préparera au moyen de ce moût sera donc une bière forte. Une infusion de malt qui, après avoir été bouillie et évaporée, présentera une pesanteur spécifique de 1,04 devra contenir 10% d'extrait et par suite, pour 540 d'eau, 60 parties d'extrait de malt.
 
 Les bières légères de consommation usuelle et les bières fortes de consommation usuelle sont représentées par ces deux extrêmes : nous voyons donc que 100 parties de malt doivent donner 600 parties de petite bière et 333 parties de bière forte.
 
-Dans notre pensée, ces nombres ne sont du. reste que l'expression générale des quantités respectives de malt et d'eau que l'on doit employer dans la préparation de la bière. Mais ils n'expriment que les quantités mêmes de malt et d'eau que l'on doit employer. Le malt peut contenir une quantité d'eau supérieure ou inférieure à 10 pour 100. D'autre part, le malt desséché et le malt touraillé ne fournissent pas la même quantité d'extrait. Par les différentes méthodes de brassage, on retire du malt des proportions plus ou moins grandes de principes solubles. Enfin on doit de plus tenir compte tant de l'évaporation qui a lieu par l'ébullition que de l'évaporation qui a lieu pendant le refroidissement ultérieur de la liqueur : on en évalue la quantité à 1/12 de la quantité totale ; mais ce n'est qu'une estimation générale : sa valeur peut varier avec le mode de brassage que l'on emploie.
+Dans notre pensée, ces nombres ne sont du reste que l'expression générale des quantités respectives de malt et d'eau que l'on doit employer dans la préparation de la bière. Mais ils n'expriment que les quantités mêmes de malt et d'eau que l'on doit employer. Le malt peut contenir une quantité d'eau supérieure ou inférieure à 10%. D'autre part, le malt desséché et le malt touraillé ne fournissent pas la même quantité d'extrait. Par les différentes méthodes de brassage, on retire du malt des proportions plus ou moins grandes de principes solubles. Enfin on doit de plus tenir compte tant de l'évaporation qui a lieu par l'ébullition que de l'évaporation qui a lieu pendant le refroidissement ultérieur de la liqueur : on en évalue la quantité à 1/12 de la quantité totale ; mais ce n'est qu'une estimation générale : sa valeur peut varier avec le mode de brassage que l'on emploie.
 
 Les exemples indiqués suffisent cependant très bien pour nous faire connaître approximativement les quantités relatives des substances que l'on doit employer : ils nous apprennent que 1 partie de malt fournit 6 parties de bière faible et 3 parties 1/2 de bière très bonne.
 
-Dans le but de donner le moyen de connaître la quantité de matières extractives contenues dans un moût, Balling 1
-
-1. Gahrungs Chemie, t.1, fascicule I, tableau E.
-
-a effectué la détermination du rapport qui existe entre la pesanteur spécifique de l'infusion de malt et la quantité d'extrait ; dans cette détermination, dont j'ai, du reste, déjà parlé ailleurs 1, Balling prend pour point de départ la densité d'une dissolution de sucre qui, suivant lui, peut être considérée comme égale à celle d'une infusion de malt de même concentration : nous pouvons réellement admettre qu'il y a concordance, ou plutôt que les différences sont très peu considérables. En effet, la liqueur, lorsqu'elle sort de la cuve-matière ou de la chaudière à brasser, est une dissolution aqueuse de différentes matières, parmi lesquelles vient se mettre au premier rang le sucre, et qui, en outre, contient surtout de la dextrine ; il s'y trouve, de plus, une certaine quantité de substances albumineuses, des sels inorganiques, et, dans le second cas, une certaine proportion des principes du houblon. Le sucre et la dextrine sont les substances les plus importantes en poids ; or, lorsqu'on dissout dans l'eau des quantités égales de dextrine et de sucre, on obtient des dissolutions dont les pesanteurs spécifiques ne présentent que des différences insignifiantes.
-
-On peut trouver un tableau détaillé dans l'endroit indiqué ; j'en extrais seulement les résultats suivants, dont la détermination a eu lieu à 17°,7 :
-
-PESANTEUR spécifique.
-
-QUANTITÉ d'extrait de malt pour 100 de moût.
-
-PESANTEUR spécifique.
-
-QUANTITÉ d'extrait de malt pour 100 de moût.
-
-PESANTEUR spécifique.
-
-QUANTITÉ d'extrait de malt pour 100 de moût.
-
-1,0040
-
-1
-
-1,0446
-
-11
-
-1,0877
-
-21
-
-1,0080
-
-2
-
-1,0488
-
-12
-
-1,0922
-
-22
-
-1,0120
-
-3
-
-1,0530
-
-13
-
-1,0967
-
-23
-
-1,0160
-
-4
-
-1,0572
-
-14
-
-1,1013
-
-24
-
-1,0200
-
-5
-
-1,0614
-
-15
-
-1,1059
-
-25
-
-1,0240
-
-6
-
-1,0657
-
-16
-
-1,1106
-
-26
-
-1,0281
-
-7
-
-1,0700
-
-17
-
-1,1153
-
-27
-
-1,0322
-
-8
-
-1,0744
-
-18
-
-1,1200
-
-28
-
-1,0363
-
-9
-
-1,0788
-
-19
-
-1,1247
-
-29
-
-1,0404
-
-10
-
-1,0832
-
-20
-
-1,1295
-
-30
-
-Graham, Hofmann et Redwood 2 ont fait, dans le but de
-
-1. De Wijn, p. 240.
-
-2. Jahresbericht von Liebig und Hermann Kopp, 1852, p. 801.
-
-déterminer le rapport entre la pesanteur spécifique du moût ou de la bière et des dissolutions de leurs parties constituantes, des expériences qui les ont conduits à des résultats importants. Il ressort de leurs expériences que l'hypothèse de Balling, d'après laquelle des quantités égales d'extrait de bière et de sucre donnent des dissolutions de même pesanteur spécifique, se rapproche beaucoup de la vérité. Je crois devoir indiquer ici quelques-uns des faits que ces recherches nous ont fait connaître.
+Dans le but de donner le moyen de connaître la quantité de matières extractives contenues dans un moût, Balling[^25] a effectué la détermination du rapport qui existe entre la pesanteur spécifique de l'infusion de malt et la quantité d'extrait ; dans cette détermination, dont j'ai, du reste, déjà parlé ailleurs[^26], Balling prend pour point de départ la densité d'une dissolution de sucre qui, suivant lui, peut être considérée comme égale à celle d'une infusion de malt de même concentration : nous pouvons réellement admettre qu'il y a concordance, ou plutôt que les différences sont très peu considérables. En effet, la liqueur, lorsqu'elle sort de la cuve-matière ou de la chaudière à brasser, est une dissolution aqueuse de différentes matières, parmi lesquelles vient se mettre au premier rang le sucre, et qui, en outre, contient surtout de la dextrine ; il s'y trouve, de plus, une certaine quantité de substances albumineuses, des sels inorganiques, et, dans le second cas, une certaine proportion des principes du houblon. Le sucre et la dextrine sont les substances les plus importantes en poids ; or, lorsqu'on dissout dans l'eau des quantités égales de dextrine et de sucre, on obtient des dissolutions dont les pesanteurs spécifiques ne présentent que des différences insignifiantes.
+
+On peut trouver un tableau détaillé dans l'endroit indiqué ; j'en extrais seulement les résultats suivants, dont la détermination a eu lieu à 17,7°C :
+
+<figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
+  <table style="width: 100%;">
+	<tr><th>PESANTEUR<br/>spécifique</th><th>QUANTITÉ<br/>d'extrait de malt pour 100 de moût</th><th>PESANTEUR<br/>spécifique</th><th>QUANTITÉ<br/>d'extrait de malt pour 100 de moût</th><th>PESANTEUR<br/>spécifique</th><th>QUANTITÉ<br/>d'extrait de malt pour 100 de moût</th></tr>
+	<tr><td> 1,0040 </td><td>  1 </td><td> 1,0446 </td><td> 11 </td><td> 1,0877 </td><td> 21 </td></tr>
+	<tr><td> 1,0080 </td><td>  2 </td><td> 1,0488 </td><td> 12 </td><td> 1,0922 </td><td> 22 </td></tr>
+	<tr><td> 1,0120 </td><td>  3 </td><td> 1,0530 </td><td> 13 </td><td> 1,0967 </td><td> 23 </td></tr>
+	<tr><td> 1,0160 </td><td>  4 </td><td> 1,0572 </td><td> 14 </td><td> 1,1013 </td><td> 24 </td></tr>
+	<tr><td> 1,0200 </td><td>  5 </td><td> 1,0614 </td><td> 15 </td><td> 1,1059 </td><td> 25 </td></tr>
+	<tr><td> 1,0240 </td><td>  6 </td><td> 1,0657 </td><td> 16 </td><td> 1,1106 </td><td> 26 </td></tr>
+	<tr><td> 1,0281 </td><td>  7 </td><td> 1,0700 </td><td> 17 </td><td> 1,1153 </td><td> 27 </td></tr>
+	<tr><td> 1,0322 </td><td>  8 </td><td> 1,0744 </td><td> 18 </td><td> 1,1200 </td><td> 28 </td></tr>
+	<tr><td> 1,0363 </td><td>  9 </td><td> 1,0788 </td><td> 19 </td><td> 1,1247 </td><td> 29 </td></tr>
+	<tr><td> 1,0404 </td><td> 10 </td><td> 1,0832 </td><td> 20 </td><td> 1,1295 </td><td> 30 </td></tr>
+  </table>
+</figure>
+
+Graham, Hofmann et Redwood[^27] ont fait, dans le but de déterminer le rapport entre la pesanteur spécifique du moût ou de la bière et des dissolutions de leurs parties constituantes, des expériences qui les ont conduits à des résultats importants. Il ressort de leurs expériences que l'hypothèse de Balling, d'après laquelle des quantités égales d'extrait de bière et de sucre donnent des dissolutions de même pesanteur spécifique, se rapproche beaucoup de la vérité. Je crois devoir indiquer ici quelques-uns des faits que ces recherches nous ont fait connaître.
 
 Lorsqu'on dissout dans l'eau du sucre de canne et lorsqu'on y ajoute de la levure, on observe que la liqueur qui n'a pas encore commencé à fermenter augmente de pesanteur spécifique au moment où la transformation du sucre de canne en sucre de raisins s'effectue.
 
@@ -869,6 +483,11 @@ Dans la transformation de la dextrine en sucre, la pesanteur spécifique de la l
 Cette diminution est encore plus notable lorsqu'il se produit une substance qui paraît être, dans tous les cas, le dernier degré de la transformation du sucre par la fermentation et qui ne paraît faire défaut dans aucune espèce de bière. (Je m'occuperai plus loin avec détail de cette substance.)
 
 Graham, Hofmann et Redwood ont trouvé pour la pesanteur spécifique des dissolutions les résultats suivants :
+
+
+
+
+
 
 o
 
@@ -1029,3 +648,30 @@ Lorsque nous nous occuperons d'expliquer le mode de réaction chimique qui prend
 
 [^13]: *Id.*, 1856, p. 232.
 
+[^14]: *Chimie industrielle*, 4e édit., t. II, p. 316.
+
+[^15]: *Loc. cit.*, p. 125.
+
+[^16]: Knapp rectifie, p. 325 (*loc. cit.*), l'indication inexacte de 21 à 26 p. 100 de matières albumineuses dans la drêche, qu'il avait donnée, p. 125.
+
+[^17]: Mupratt-Stohmann, *loc. cit.*, p. 578.
+
+[^18]: La livre de Vienne (Autriche) de 32 loths présente une valeur égale à 0,560kg : la valeur du loth en grammes est donc de 17,50g.
+
+[^19]: *Loc. cit.*, p. 326.
+
+[^20]: Muspratt, *loc. cit.*
+
+[^21]. *Polyt. Centralbl*, 1856, p. 190.
+
+[^22]: *Handbuch der Bierbrauer*, p. 190.
+
+[^23]: *Chimie industrielle* 1859, 4e édit., t. II, p. 312
+
+[^24]: Nous admettons ici, pour simplifier, que le malt présente la même pesanteur spécifique que l'orge (100 litres d'orge pèsent 64 à 67 kg)
+
+[^25]: *Gahrungs Chemie*, t.1, fascicule I, tableau E.
+
+[^26]: *De Wijn*, p. 240.
+
+[^27]: *Jahresbericht von Liebig und Hermann Kopp*, 1852, p. 801.

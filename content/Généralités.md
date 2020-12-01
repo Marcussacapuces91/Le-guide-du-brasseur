@@ -1,6 +1,6 @@
 ---
 Title: Généralités
-Description: De la bière.
+Description : De la bière.
 ---
 
 La bière est une boisson que l'on obtient en traitant par l'eau des grains 
@@ -24,7 +24,7 @@ quantité considérable.
 
 On peut donc, incontestablement, dire que l'on trouve réunies dans la bière 
 toutes les parties constituantes que l'on rencontre séparées les unes des autres 
-dans la plupart des eaux minérales gazeuzes, dans le vin et même dans le pain.
+dans la plupart des eaux minérales gazeuses, dans le vin et même dans le pain.
 
 La bière peut être préparée avec d'autres semences que les grains (semences des 
 graminées), et même avec beaucoup de substances autres que des semences : mais à 
@@ -147,7 +147,7 @@ albumineuses du grain. Du reste, cette transformation ne s'opère jamais d'une
 manière complète, mais une fois qu'elle a commencé à se produire, elle s'étend 
 peu à peu jusqu'à un certain degré et donne ainsi naissance à la première phase 
 des phénomènes qui doivent déterminer la production de la bière. Le second agent 
-de la fermentation, la levûre, se produit plus tard.
+de la fermentation, la levure, se produit plus tard.
 
 On moud le malt et on le fait digérer pendant quelque temps avec de l'eau 
 chaude, ce qui accélère la production de la dextrine et du sucre. On fait 

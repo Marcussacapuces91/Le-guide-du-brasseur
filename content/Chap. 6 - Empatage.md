@@ -3,6 +3,7 @@ Title: Chapitre 6
 Description: Empâtage.
 Menu: Chap.  6
 ---
+
 Nous avons rendu compte jusqu'ici de deux opérations principales par lesquelles
 le grain destiné à la préparation de la bière doit passer avant de pouvoir 
 servir à cette préparation.

@@ -4,7 +4,9 @@ Description: De la cuisson du moût.
 Menu: Chap.  7
 ---
 
-Quelle que soit la manière dont le moût a été préparé, on le fait bouillir, et quelquefois même on l'évapore pour le concentrer; dans ce dernier cas, la cuisson doit durer plus longtemps[^1].
+Quelle que soit la manière dont le moût a été préparé, on le fait bouillir, et 
+quelquefois même on l'évapore pour le concentrer; dans ce dernier cas, la 
+cuisson doit durer plus longtemps[^1].
 
 Pour cette cuisson, on introduit dans une chaudière le moût qui doit être aussi
 clair que possible, et on le chauffe jusqu'à l'ébullition. Cette cuisson doit

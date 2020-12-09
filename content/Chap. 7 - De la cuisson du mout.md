@@ -136,9 +136,9 @@ pour coaguler les matières albumineuses et pour chasser l'air contenu dans le
 moût, soit pour évaporer et concentrer le moût, on n'ajoute généralement le 
 houblon que lorsque la plus grande partie des substances albumineuses est 
 coagulée, puis on fait bouillir légèrement le tout. La quantité de houblon que 
-l'on ajoute peut varier de 1/4 (elle peut même être inférieure à ce chiffre) à 
-4% de malt employés primitivement. Plus on emploie de houblon, plus la bière 
-est amère et mieux elle peut se conserver[^3].
+l'on ajoute peut varier de <sup>1</sup>/<sub>4</sub> (elle peut même être
+inférieure à ce chiffre) à 4% de malt employés primitivement. Plus on emploie
+de houblon, plus la bière est amère et mieux elle peut se conserver[^3].
 
 Nous avons dit p. 39 que quatre des parties constituantes du houblon se 
 dissolvent surtout dans le moût : le principe amer du houblon, l'acide 

@@ -1,34 +1,84 @@
-CHAPITRE VIII
+---
+Title: Chapitre 8
+Description: Du refroidissement du moût.
+Menu: Chap. 8
+---
 
-DU REFROIDISSEMENT DU MOUT
+La liqueur claire que l'on a soutirée de la chaudière, doit fermenter pour
+passer à l'état de bière. Mais, avant que cette liqueur puisse fermenter, on
+doit la faire refroidir ; et, suivant la nature de la fermentation que l'on
+veut y déterminer, son refroidissement doit atteindre une température
+particulière. Le refroidissement doit avoir lieu rapidement : en effet, cette
+liqueur est encore très exposée à devenir acide.
 
-La liqueur claire que l'on a soutirée de la chaudière, doit fermenter pour passer à l'état de bière.
+Les causes pour lesquelles la liqueur devient acide peuvent être très
+différentes : elles peuvent avoir leur origine, soit dans les circonstances
+extérieures, soit dans le moût lui-même. Plus le moût est clair, moins il a de
+tendance à devenir acide : ce fait, que l'expérience a démontré exact, est
+d'une grande valeur tant au point de vue pratique qu'au point de vue théorique.
+Mais une température chaude et par suite un refroidissement plus lent, un
+orage, ainsi que les autres circonstances atmosphériques mal connues, qui
+déterminent l'altération rapide des sucs végétaux, du lait, de la viande,
+*etc.*, peuvent exercer ici une action fâcheuse.
 
-Mais, avant que cette liqueur puisse fermenter, on doit la
+La malpropreté des bacs refroidissoirs, l'existence d'un agent de
+transformation susceptible de déterminer l'acidité, peuvent faire devenir
+instantanément acide la liqueur même la plus claire : en même temps, on voit
+quelquefois se produire tous les phénomènes d'une fermentation, et une certaine
+quantité de gaz acide carbonique se dégage à la surface de la liqueur
+refroidie. Il est par conséquent d'une grande importance de maintenir les bacs
+aussi propres que possible.
 
-1. Polyt. Centr. il., 1855, p. 319.
+Si, du reste, la liqueur claire présente dès le maltage même une tendance à
+devenir acide, cette tendance se développera encore par la suite : si la
+liqueur est claire, cela ne l'empêche donc pas positivement de devenir acide.
+Mais, si elle est trouble, elle présente, dans tous les cas, une grande
+tendance à se décomposer.
 
-2. Id., 1853, p. 1147.
+Tout le monde sait que, en été, lorsque les sucs des plantes deviennent acides,
+il s'y produit de l'acide lactique, et tout le monde sait également que cet
+acide prend naissance lorsque le lait devient acide. Boutron et Fremy ont fait
+sur ce sujet des travaux dans lesquels ils en ont approfondi les particularités
+les plus intimes. Presque toutes les substances albumineuses possèdent la
+faculté de faire subir cette transformation à différentes espèces de sucre et
+notamment au sucre de fruits.
 
-faire refroidir ; et, suivant la nature de la fermentation que l'on veut y déterminer, son refroidissement doit atteindre une température particulière. Le refroidissement doit avoir lieu rapidement : en effet, cette liqueur est encore très exposée à devenir acide.
+Aucune matière n'est plus apte à déterminer cette transformation que les
+particules d'albumine très divisée qui sont exposées au contact de l'air. Cette
+albumine devient alors un agent de transformation du sucre en acide lactique.
+La caséine et les substances albumineuses du malt possèdent également cette
+propriété à un très haut degré. Après l'ébullition du moût, ces substances
+albumineuses ne contiennent plus d'agent transformateur de l'amidon ; mais,
+sous leur nouvel état, les matières albumineuses qui restent insolubles
+jouissent de la propriété d'absorber de l'oxygène et de se transformer en agent
+susceptible de déterminer la transformation du sucre en acide lactique. Il ne
+se produit ici, ni assimilation, ni séparation d'aucun des éléments du sucre :
+une simple modification du groupement moléculaire suffit (p. 155 et 186).
 
-Les causes pour lesquelles la liqueur devient acide peuvent être très différentes : elles peuvent avoir leur origine, soit dans les circonstances extérieures, soit dans le moût lui-même. Plus le moût est clair, moins il a de tendance à devenir acide : ce fait, que l'expérience a démontré exact, est d'une grande valeur tant au point de vue pratique qu'au point de vue théorique. Mais une température chaude et par suite un refroidissement plus lent, un orage, ainsi que les autres circonstances atmosphériques mal connues, qui déterminent l'altération rapide des sucs végétaux, du lait, de la viande, etc., peuvent exercer ici une action fâcheuse.
+Pour obtenir une grande quantité d'acide lactique, on moud le malt en farine
+fine ; on l'humecte avec de l'eau et on le laisse exposé à l'air : la pâte
+contient au bout de peu de jours une grande quantité d'acide lactique. Il en
+est de même d'une infusion aqueuse de malt préparée à froid. Déjà, dans
+l'empâtage, la liqueur sucrée présente une très grande tendance à donner
+naissance à de l'acide lactique : en effet, le moût, même après la cuisson,
+présente une grande tendance à devenir acide, si on ne le fait pas fermenter
+aussi rapidement que possible.
 
-La malpropreté des bacs refroidissoirs, l'existence d'un agent de transformation susceptible de déterminer l'acidité, peuvent faire devenir instantanément acide la liqueur même la plus claire : en même temps, on voit quelquefois se produire tous les phénomènes d'une fermentation, et une certaine quantité de gaz acide carbonique se dégage à la surface de la liqueur refroidie. Il est par conséquent d'une grande importance de maintenir les bacs aussi propres que possible.
+Une température élevée est favorable à la production de l'acide lactique ; une
+température basse au contraire détermine dans la même liqueur la fermentation
+alcoolique. Il n'existe aucune raison d'admettre que ce soient deux matières
+albumineuses différentes qui donnent naissance à ces deux fermentations. La
+même matière albumineuse peut, à des températures différentes, devenir l'agent
+de la transformation du sucre en acide lactique ou l'agent du dédoublement du
+sucre en alcool et en acide carbonique.
 
-Si, du reste, la liqueur claire présente dès le maltage même une tendance à devenir acide, cette tendance se développera encore par la suite : si la liqueur est claire, cela ne l'empêche donc pas positivement de devenir acide. Mais, si elle est trouble, elle présente, dans tous les cas, une grande tendance à se décomposer.
-
-Tout le monde sait que, en été, lorsque les sucs des plantes deviennent acides, il s'y produit de l'acide lactique, et tout le monde sait également que cet acide prend naissance lorsque le lait devient acide. Boutron et Fremy ont fait sur ce sujet des travaux dans lesquels ils en ont approfondi les particularités les plus intimes. Presque toutes les substances albumineuses possèdent la faculté de faire subir cette transformation à différentes espèces de sucre et notamment au sucre de fruits.
-
-Aucune matière n'est plus apte à déterminer cette trans¬
-
-formation que les particules d'albumine très divisée qui sont exposées au contact de l'air. Cette albumine devient alors un agent de transformation du sucre en acide lactique. La caséine et les substances albumineuses du malt possèdent également cette propriété à un très haut degré. Après l'ébullition du moût, ces substances albumineuses ne contiennent plus d'agent transformateur de l'amidon ; mais, sous leur nouvel état, les matières albumineuses qui restent insolubles jouissent de la propriété d'absorber de l'oxygène et de se transformer en agent susceptible de déterminer la transformation du sucre en acide lactique. Il ne se produit ici, ni assimilation, ni séparation d'aucun des éléments du sucre : une simple modification du groupement moléculaire suffit (p. 155 et 186).
-
-Pour obtenir une grande quantité d'acide lactique, on moud le malt en farine fine; on l'humecte avec de l'eau et on le laisse exposé à l'air : la pâte contient au bout de peu de jours une grande quantité d'acide lactique. Il en est de même d'une infusion aqueuse de malt préparée à froid. Déjà, dans l'empâtage, la liqueur sucrée présente une très grande tendance à donner naissance à de l'acide lactique : en effet, le moût, même après la cuisson, présente une grande tendance à devenir acide, si on ne le fait pas fermenter aussi rapidement que possible.
-
-Une température élevée est favorable à la production de l'acide lactique ; une température basse au contraire détermine dans la même liqueur la fermentation alcoolique. Il n'existe aucune raison d'admettre que ce soient deux matières albumineuses différentes qui donnent naissance à ces deux fermentations. La même matière albumineuse peut, à des températures différentes, devenir l'agent de la transformation du sucre en acide lactique ou l'agent du dédoublement du sucre en alcool et en acide carbonique.
-
-Ce dernier mode d'action est celui qui doit se produire dans la préparation de la bière : il est donc nécessaire de faire refroidir aussi rapidement que possible le moût après sa sortie de la chaudière, afin de le faire passer aussi rapidement que possible à une température inférieure à celle de 30° à 25° qui est surtout favorable à la production de l'acide lactique, pour lui faire atteindre celle à laquelle le dédoublement du sucre en acide carbonique et en alcool a lieu.
+Ce dernier mode d'action est celui qui doit se produire dans la préparation de
+la bière : il est donc nécessaire de faire refroidir aussi rapidement que
+possible le moût après sa sortie de la chaudière, afin de le faire passer aussi
+rapidement que possible à une température inférieure à celle de 30 à 25°C qui
+est surtout favorable à la production de l'acide lactique, pour lui faire
+atteindre celle à laquelle le dédoublement du sucre en acide carbonique et en
+alcool a lieu.
 
 Pour faire refroidir le moût, on le transvase en général dans des bacs peu profonds où on le fait séjourner pendant quelque temps : les bacs doivent être aussi propres que possible, afin de ne contenir aucun agent susceptible de déterminer une production d'acide lactique. C'est dans ce but que l'on s'est servi, dans ces derniers temps, de bacs refroidissoirs en fer ou d'un mode de disposition tout différent au moyen duquel on peut amoindrir le contact de l'air, qui favorise beaucoup la transformation du sucre. contenu dans le moût en acide lactique. Je renverrai aux ouvrages qui traitent de la bière au point de vue pratique ceux de mes lecteurs qui voudraient étudier ce sujet avec détail.
 
@@ -193,3 +243,10 @@ Le dépôt dont il vient d'être question contient de plus une petite quantité 
 1. Loc. cit.,p. 338.
 
 Lorsque la liqueur a atteint le degré de refroidissement désiré, on la filtre avec soin pour en séparer toute trace de dépôt, puis on la fait fermenter.
+
+
+
+
+[^1]: Polyt. Centr. il., 1855, p. 319.
+
+[^2]: Id., 1853, p. 1147.

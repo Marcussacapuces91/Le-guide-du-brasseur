@@ -190,189 +190,536 @@ c'est-à-dire de 36 à 4[^4]. Cette substance est une partie constituante
 essentielle de la levure : c'est un premier produit de cette décomposition de
 la levure qui est la cause de la fermentation.
 
-Si nous comparons la composition de cette substance avec celle des substances albumineuses, nous trouvons qu'elle est exprimée par la formule C36H25N4O 15 + 8HO. On obtient donc:
-
-Groupement organique de l'albumine
-
-C35H25Az4O 10
-
-Groupement organique de la substance qui se pro-
-
-C35H25AZ4O 13
-
-duit par l'action de l'eau bouillante sur l'albumine
-
-Groupement organique de l'extraitaqueux de levure.
-
-C36H25Az4O 15
-
-La deuxième substance, celle par conséquent qui se produit dans le moût par l'ébullition, est donc en voie de se transformer en extrait de levure, c'est-à-dire en une substance qui existe dans la levure et qui, pouvant être enlevée à la levure par l'eau froide, forme par conséquent une des parties constituantes de la bière.
-
-Nous pouvons bien ne pas connaître parfaitement leur nature, mais ce n'est pas une raison pour ne pas reconnaître leur existence, lors même qu'elle ne serait pas favorable aux idées de certaines personnes.— Nous savons du moins que, par l'ébullition de l'albumine qui s'était d'abord coagulée, il passe dans le moût une substance soluble qui contient plus d'oxygène que l'albumine et qui, en s'assimilant encore une nouvelle quantité d'oxygène, peut se transformer en cet extrait aqueux de levure qui doit devenir ultérieurement une des parties constituantes de la bière.
-
-Nous avons vu que 100 livres de malt contiennent 2 livres de substances albumineuses solubles. Il s'y trouve donc des matériaux plus que suffisants pour former le contenu des cellules de levure qui doivent prendre naissance : en ce qui concerne les enveloppes de ces mêmes cellules, elles doivent se former aux dépens de la dextrine dont il existe une grande quantité dans le moûtf.
-
-Si, ainsi que cela existe réellement, nous admettons, dans les cellules de la levure, 3 parties de substances albumineuses pour 2 parties de cellulose et, dans 100 livres de
-
-1. Suivant Pasteur (Annales de Chimie et de Physique, 3e série, t.LVIII, p. 323 et suivantes, 1860), ce serait aux dépens des éléments du sucre que la cellulose de la levure se produit. M. Pasteur se fonde ici sur ce fait qu'il a observé une production de levure dans un milieu formé de sucre,
-
-d'un sel ammoniacal et de phosphates, et sur ce que, dans la fermentation du sucre en présence de matières albuminoldes, il y a dans la levure plus de cellulose après qu'avant la fermentation.
-
-2. Scheih. onderz., t. II, p. 447, 1845.
-
-malt, 2 livres de substances albumineuses solubles, nous reconnaîtrons qu'il y a des matériaux suffisants pour donner naissance à 3,3 livres de levure entièrement sèche. Si, d'autre part, nous admettons 75 p. 100 d'eau dans la levure soi-disant sèche, nous trouvons que 100 livres de malt peuvent donner 13 livres de levure dite sèche, c'est-à-dire de levure solide, non liquide.
-
-On ne doit donc pas être étonné de trouver dans les cuves-guilloires des brasseries une quantité de levure quintuple de celle que l'on avait ajoutée au moût pour en déterminer la fermentation.
-
-Revenons maintenant à l'examen de la fermentation telle qu'elle a lieu dans la cuve-guilloire.
-
-Aussitôt que l'on ajoute de la levure superficielle ou de la levure de dépôt 1 au moût suffisamment refroidi, il commence à se produire dans ce moût, pourvu qu'il soit à une température convenable, une fermentation superficielle ou une fermentation avec dépôt qui, en suivant régulièrement son cours, donne ultérieurement naissance à une nouvelle quantité de levure superficielle ou de levure par dépôt. La levure que l'on ajoute détermine la première fermentation, et de cette première fermentation dépend le fermentation ultérieure ainsi que la formation de la nouvelle levure.
-
-La levure superficielle, ainsi qu'on l'admet généralement, ne se distingue sous aucun rapport de la levure par dépôt, c'est-à-dire que, par l'analyse, on n'a pu constater entre elles aucune différence. Le fait que la levure superficielle monte surtout à la surface sous forme d'écume, tandis que la levure par dépôt se rassemble surtout au fond de la cuve, vient seulement de ce que la levure superficielle détermine une action beaucoup plus vive, tandis que la levure par dépôt détermine une action plus lente. Dans le premier cas, les bulles d'acide carbonique, qui sont beau-
-
-1. Dans son mémoire sur la fermentation alcoolique, M. Pasteur (Annales de Chimie et de Physiques, 3e série, t. LVIII, p.323 et suivantes, 1860), désigne ces deux sortes de levures sous les noms de levure superieure (boven-gist) et de levure inférieure (onder-gist). Les dénominations de levure superficielle et de levure de dépôt qui avaient été adoptées par Gèrhardt (Liebig, Traité de Chimie organique, traduction française, Paris, 1840, t. I, introduction, p. XLII), nous ont paru devoir être préférées et donnent à notre avis une idée plus exacte de la nature des phénomènes.
-
-coup plus fortes, soulèvent la levure et maintiennent à la surface les globules de levure auxquels elles adhèrent. Mais la forme des globules est la même : leur contenu dans les deux sortes de levure est d'abord transparent, puis devient grenu. Dans la levure superficielle, il se forme près d'un globule un autre globule, et sur un autre point un troisième, près desquels il vient s'en former d'autres, en sorte que, au bout de quelque temps, il s'est ainsi produit une suite de globules reliés entre eux, se ramifiant plus ou moins. Dans la fermentation par dépôt, les globules, au contraire, ne sont pas reliés entre eux, mais restent toujours libres, c'est-à-dire qu'ils se séparent de la cellule génératrice (moeder celletjes) aussitôt après leur formation.
-
-L'action des deux sortes de levure consiste, ainsi que nous l'avons indiqué dans un autre ouvrage 1, en une décomposition du contenu des cellules qui se manifeste d'abord par une dissolution de ce contenu et qui, en poursuivant son cours ultérieur, peut même aller jusqu'à une production d'ammoniaque 2. La décomposition que ces deux sortes de levure subissent ainsi s'étend au sucre avec lequel elles se trouvent en contact.
-
-Ainsi, par l'addition de la levure superficielle ou de la levure de dépôt, le sucre du moût préalablement bouilli passe à l'état d'activité chimique, et il se produit d'abord de la levure aux dépens des éléments des parties constituantes de la liqueur ; en même temps la quantité de sucre contenue dans cette liqueur diminue tandis que la quantité d'alcool augmente dans la même proportion, et la réaction a lieu dans un rapport tel que 2475 parties (en poids) de sucre de fruits donnent naissance à 1150 parties (en poids) d'alcool, avec dégagement de 1100 parties (en poids) d'acide carbonique : il reste seulement dans la liqueur une petite quantité de ce dernier qui, même dans le cas où il y en a le plus, est toujours moindre que le volume de la liqueur. — Il se produit donc un poids d'alcool égal à la moitié de celui du sucre décomposé, tandis que l'autre moitié nous représente
-
-1. De Wijn, 1. c.
-
-2. Suivant M. Pasteur (loc. cit., p. 376), « l'azote de la levure ne se transforme jamais en ammoniaque pendant la fermentation alcoolique. Loin qu'il se forme de l'ammoniaque, celle que l'on ajoute peut meme disparaître. » Les expériences que M. Pasteur cite a l'appui de cette proposition ne nous paraissent pas convaincantes, ni démonstratives.
-
-à peu près le poids de l'acide carbonique qui se dégage ; nous prenons ici pour formule du sucre de fruits C12H14O14=2475. — Le reste, qui est de 225 parties (en poids), représente deux équivalents d'eau qui se sont séparés de la combinaison.
-
-Bien que ce soit déjà une transformation importante que subit la liqueur, elle n'est cependant pas la seule : aux dépens des parties constituantes du moût, il se produit de la levure qui se sépare, et cette production de levure enlève au moût, outre le sucre, une quantité d'autres substances nutritives d'autant plus considérable que la quantité de levure produite est plus grande. Les parties constituantes nutritives que la production de la levure enlève ainsi au moût, sont les substances albumineuses qui peuvent assurément être considérées comme tenant le premier rang parmi les substances nutritives, et qui, bien que sous une autre forme, constituent le principe nutritif le plus important des grains, et, d'autre part, la dextrine dont il existe une quantité considérable dans le moût. Cette dernière paraît fournir surtout les matériaux de l'enveloppe des cellules de la levure : la dextrine C12H10O 10, qui est soluble, se transforme alors en cellulose C24H21O 21, qui est insoluble. Plus, par conséquent, la quantité de levure produite est considérable, plus la quantité de dextrine perdue par la liqueur est grande et moins la bière doit être nutritive. Plus la quantité de dextrine qui est transformée en cellulose est grande, plus est considérable la quantité de matière albumineuse qui, formant le contenu des globules de la levure, disparaît de la liqueur avec la levure, et plus la bière doit devenir pauvre en celle de ses parties constituantes qui est la plus nutritive, qui est essentiellement nutritive.
-
-La production de la levure dans la fermentation de la bière n'est donc pas un résultat que l'on doive désirer atteindre par la fermentation ; mais c'est un résultat que l'on ne peut pas éviter. Je ne sais pas si l'on a poussé sur ce sujet les expériences jusqu'au point de déterminer si, suivant que l'on ajoute une quantité plus ou moins grande de levure à la liqueur que l'on fait fermenter, la quantité de levure qui se produit diminue ou augmente, mais il ne paraît pas douteux que l'addition d'une autre quantité de levure ne doive avoir pour conséquence une augmentation ou une diminution de la quantité de levure produite. Il est en outre positif
-
-que, moins il se produit de levure, plus la quantité de substances albumineuses et de dextrine qui reste dans la bière est considérable, et plus la bière est nutritive.
-
-Un champ considérable d'expériences nouvelles s'est ouvert ici depuis que cette théorie si étrange dans laquelle on considérait la fermentation comme la conséquence d'une végétation, a fait place à celle dans laquelle on applique à la fermentation la théorie de Stahl sur les molécules en mouvement. Cela du reste ne s'applique pas seulement au point de vue technique, à la préparation de la bière ; mais cela s'applique aussi au point de vue scientifique.
-
-Si l'on ajoute de la levure à une dissolution de sucre pur, la levure est décomposée; mais, d'autre part, les cellules séparées de la substance propre de la levure se sont épaissies par une adjonction de cellulose qui n'a pu se former qu'aux dépens du sucre : la levure qui avait servi à la fermentation était devenue plus lourde 1.
-
-Nous croyons du reste devoir faire observer que, s'il nous paraît admissible que, partout où il se trouve simultanément de la dextrine et du sucre dans une liqueur fermentée, la substance qui doit servir à la production de la cellulose est la dextrine et non le sucre, cette hypothèse n'a pas encore reçu la confirmation de l'expérience.
-
-Il n'est pas démontré davantage que, dans la production e la levure, les nouvelles cellules sont formées par la dextrine et non par le sucre.
-
-Mais ce qui est encore plus important, si l'on sait actuellement d'une manière positive qu'il peut y avoir fermentation sans production de ferment, on sait aussi qu'il peut y avoir fermentation avec production de ferment. Mais on ne sait pas quelle relation existe entre les deux phénomènes et comment la fermentation sans production de ferment vient Se relier à la fermentation avec production de ferment.
-
-M. Pasteur a publié récemment 2 sur la fermentation des recherches que nous croyons devoir résumer ici. Ce chimiste est un des défenseurs de la théorie dans laquelle
-
-1. Schmidt, Annalender Chem. und Pharm., t. LXI, p. 168. — L'expérience de Schmidt et celle de M. Pasteur que nous avons indiquée dans la note de la page 212, nous paraissent conduire seulement a cette conclusion que, dans une liqueur qui contient seulement du sucre, il peut se produire de la cellulose aux dépens de ce sucre.
-
-2. Comptes rendus de l'Académie des Sciences, t. XLVI, p. 179 et p. 857 — Annales de Chimie et de Physique, 3e série, t. LVIII. 233, 80p 16,
-
-la fermentation est la conséquence d'une production de ferment et non d'une décomposition de ferment. Il prend deux quantités égales de levure fraîche que l'on a préalablement lavée : au moyen de l'une, il fait fermenter de l'eau sucrée, il fait bouillir l'autre avec de l'eau et il filtre pour séparer les cellules de levure. Il ajoute ensuite à la liqueur claire une quantité de sucre égale à celle qu'il a employée dans le premier cas et une trace de levure d'un poids peu important. — Il a observé dans le dernier mélange une production de levure et une décomposition proportionnelle de sucre.
-
-Dans le premier cas, 5 grammes de levure ont accompli en 6 jours la fermentation de 12gr, 9 de sucre, qui, au bout de ce laps de temps, était terminée : dans cette opération, les 5 grammes de levure étaient épuisés.
-
-Dans le dernier cas, l'infusion aqueuse de 5 grammes de levure a accompli en 9 jours la fermentation de 10 grammes de sucre, qui, au bout de ce laps de temps, était terminée : dans cette opération, les cellules de levure qui s'étaient formées, étaient épuisées.
-
-M. Pasteur attribue la différence dans la durée de la fermentation et dans la quantité de sucre qui y a fermenté, en partie à la quantité plus grande d'eau que l'on a employée dans le second cas, en partie à l'impossibilité d'enlever aux cellules de levure au moyen de l'eau la totalité de leurs parties solubles. Il aurait pu ajouter, en outre, un troisième motif : c'est que l'action de l'eau bouillante n'avait pas dû augmenter l'activité de la substance de la levure.
-
-D'après M. Pasteur, la cause de la fermentation n'est pas la moisissure de la levure, mais la production de moisissure de levure ; la cause de la fermentation est le développement des cellules de levure aux dépens des substances dissoutes. Son expérience que nous venons d'indiquer ne peut être en harmonie avec sa proposition que s'il y a une relation entre la quantité de cellules de levure formée et la quantité de sucre détruite : c'est ce qui n'a encore été démontré expérimentalement par personne. Or, tant que cela n'aura pas encore été prouvé, l'opinion de M. Pasteur, et des autres dont il suit en cela la trace, ne pourra pas être considérée comme valable.
-
-En ce qui concerne le fait qu'il se forme quelques cellules nouvelles lorsque le contenu des cellules primitives se trouve
-
-en contact avec l'eau sucrée, cela prouve seulement qu'il peut aussi y avoir de cette manière une production de nouvelle levure, mais cela ne prouve aucunement qu'il y ait une relation génétique entre le développement d'un végétal qui constituerait essentiellement la moisissure de levure et le dédoublement d'un groupe organique, du sucre. La règle est que le dédoublement d'un groupe a détermine le dédoublement d'un groupe b ; mais en ce qui concerne l'hypothèse que la production d'une cellule peut avoir pour conséquence une décomposition d'une substance organique aussi énergique que peut l'être celle du sucre dans la fermentation, elle serait unique dans tout le règne organique, et doit être prouvée d'une manière péremptoire ou doit être rejetée.
-
-Il est en effet suffisamment démontré que, dans la fermentation, il y a dédoublement des parties constituantes de la levure : il est également prouvé que le dédoublement d'un groupe a détermine le dédoublement d'un groupe b. Ceux donc qui admettent le dédoublement de la levure comme cause du dédoublement du sucre partent d'un point de départ parfaitement déterminé qu'ils ne peuvent abandonner sans tomber dans l'arbitraire.
-
-Si, en même temps que le dédoublement de a et le dédoublement de b qui résulte du premier, il se produit un développement de cellules, ce sont des actions qui sont indépendantes l'une de l'autre et qui n'ont aucune relation génétique. Et ceux qui admettent une relation génétique entre la production des cellules et la décomposition du sucre, doivent assurément prendre un fait isolé pour preuve qu'il existe une relation quantitative bien nette en dehors de laquelle il n'existe rien autre que l'arbitraire.
-
-Pasteur parle d'une expérience de Thénard souvent répétée, dans laquelle la levure desséchée à 100° ou chauffée dans l'eau bouillante, conserve la faculté de déterminer la fermentation comme la levure ordinaire, mais exerce une action un peu plus lente. Il l'a rapprochée de son expérience dans laquelle la liqueur obtenue en faisant bouillir la levure et en filtrant a déterminé la fermentation. Il existe en effet un certain rapprochement entre ces deux expériences. Mais en ce qui concerne les conclusions favorables à l'opinion de Pasteur que l'on peut tirer de l'expérience de Thénard, nous rappellerons l'observation que nous avons déjà faite
-
-précédemment et qui s'y applique parfaitement. Il est nécessaire de prouver que, au moyen de la levure desséchée à 100° ou soumise à l'ébullition avec de l'eau, il se produit une quantité de nouvelles cellules proportionnelle à la quantité de sucre décomposée, et c'est ce que personne n'a prouvé.
-
-La question est transportée par M. Pasteur sur un autre terrain, lorsqu'il dit que la levure qui, après avoir été soumise à l'ébullition avec de l'eau, détermine la fermentation, étant devenue de la levure ordinaire, tout se passe comme pour le jus du raisin, qui fermente spontanément : il dit en effet quelque chose d'analogue à ce qui suit : le commencement de la fermentation du jus de raisin a lieu sans cellules de levure; le commencement de la fermentation peut donc avoir également lieu au moyen de cellules de levure épuisées par l'ébullition. — Nous n'avons pas besoin d'aller plus loin.
-
-La production de la fermentation dans du jus de raisin dans lequel on n'a introduit aucune cellule de levure, et la progression simultanée de la fermentation ne viennent apporter aucune preuve en faveur d'une production de cellules de levure comme cause de la fermentation, lorsqu'on en rapproche la production artificielle de la levure telle qu'elle a lieu à Schiedam.
-
-C'est une particularité que l'on a trop oubliée. On peut au moyen de farine de grain préparer une quantité considérable de levure pour une formation d'une petite quantité d'alcool et pour une décomposition d'une petite quantité de sucre, tandis que, dans le jus de raisin, il se décompose une grande quantité de sucre, il se produit une grande quantité d'alcool, mais il ne se forme qu'une petite quantité de levure.
-
-La production de la levure et la production de l'alcool ne suivent pas une marche proportionnelle, et l'opinion de M. Pasteur est par suite dénuée de tout fondement. Celui qui connaît la grande quantité de levure que l'on expédie de Schiedam et sait que 1 1/2 p. 100 de levure à l'état sec est une quantité suffisante pour transformer 100 parties de sucre en alcool et en acide carbonique considère comme inutile la question de savoir où l'on peut retrouver l'alcool qui s'est produit en même temps à Schiedam. Il n'est pas là.
-
-Il existe donc une production de cellules de levure, sans
-
-production proportionnelle d'alcool aux dépens du sucre, et, comme on ne peut pas douter du fait, je ne sais vraiment pas comment on peut être en état de prouver qu'il existe une relation positive entre la production de la levure et la décomposition du sucre.
-
-M. Pasteur pense pouvoir donner du poids à son hypothèse en démontrant que, dans la fermentation, il se perd une certaine quantité de sucre. Il prend deux quantités de levure fraîche égales en poids; il lave l'une avec de l'eau et l'autre avec de l'eau sucrée et les dessèche ensuite toutes les deux : la dernière pèse plus que la première. — Il en conclut qu'une certaine quantité de sucre a servi à la nourriture de la levure. Mais ce résultat n'indique rien autre chose, si ce n'est que, sous cette influence, il s'est produit, si l'on veut, quelques cellules de levure. — Cela ne prouve rien du reste relativement à la cause de ce qui a lieu dans la fermentation ; ou s'il en est ainsi, il faut que, pendant le lavage de la levure avec de l'eau sucrée, il se soit formé un peu d'alcool, dont M. Pasteur ne parle pas.
-
-Le fait que, par le lavage avec de l'eau sucrée, le poids des cellules de levure diminue moins que par le lavage avec de l'eau seule peut du reste dépendre seulement de ce que l'eau sucrée n'est pas un aussi bon dissolvant du contenu des cellules de levure que l'eau seule.
-
-M. Pasteur parle de la production de l'ammoniaque dans la décomposition de la levure. Il admet que l'on a dit que tout l'azote de la levure se transformait en ammoniaque. Mais, autant que cela soit venu à ma connaissance, personne ne l'a prétendu : on a prétendu seulement que, parmi les produits de la décomposition de la levure, il se trouvait de l'ammoniaque 1.
-
-En ce qui concerne le fait que, dans la levure épuisée, il existe moins d'azote que dans la levure fraîche, M. Pasteur l'explique en disant que l'azote de la levure ordinaire se ré-
-
-1. En ce qui est relatif au fait allégué par M. Pasteur (voir la note de la p. 214) que, loin d'y avoir formation d'ammoniaque pendant la fermentation alcoolique, celle que l'on ajoute peut disparaître, il n'a rien qui doive précisément nous étonner : 1° si nous admettons avec M. Pasteur (voir la note de la p. 212) qu'il peut se produire de la levure dans un milieu formé de sucre, d'un sel ammoniacal et de phosphates ; 2° si nous nous rappelons ce fait que, pendant la fermentation, il y a production d'un acide qu'une certaine quantité d'ammoniaque a pu saturer : mais il ne prouve pas que, par la décomposition ultérieure de la levure qui est une matière azotée, il ne puisse pas se produire d'ammoniaque.
-
-partit entre les cellules de cette levure et les nouvelles cellules de levure qui se sont formées aux dépens du sucre.
-
-Nous trouvons ici une nouvelle preuve de l'inexactitude de l'opinion de M. Pasteur et de tous ceux qui attribuent à une production de cellules de levure la cause de la fermentation. Les cellules sont saines ou dégénérées.
-
-Les cellules de levure à l'état sain doivent contenir une quantité déterminée de substance albuminoïde. Cette quantité peut varier entre certaines limites. Pour les cellules de levure à l'état sain, les limites sont fixes.
-
-Introduisons dans de l'eau sucrée des cellules de levure qui, à l'état sain, contiennent par exemple 10 pour 100 d'azote et laissons fermenter le tout. On trouve après la fermentation, dans l'excès d'eau sucrée, de la levure entièrement épuisée qui ne contient plus qu'une très petite quantité d'azote, 3 pour 100, et qui n'est plus en état de déterminer aucune fermentation. La formation de ces produits tout à fait dégénérés, qui ont perdu leurs facultés naturelles, est pour M. Pasteur la cause de la fermentation.
-
-Il faut, en vérité, que l'on mette beaucoup de persistance à soutenir une opinion si elle n'est pas écartée par de tels résultats.
-
-Bien qu'il n'ait aucune preuve plus décisive à ajouter de la consommation du contenu des cellules de levure, pendant la fermentation et par la fermentation, que la perte de substance, M. Pasteur la considère comme une preuve de son opinion. De ce que 100 livres de poudre à canon ont été consommées par le coup de canon de manière à ne laisser que 5 livres de résidu, M. Pasteur en conclut que le coup est la conséquence d'une production de nouvelle poudre à canon.
-
-La pauvreté des cellules nouvellement formées et la vacuité des cellules épuisées prouvent précisément, s'il est besoin d'en donner une preuve nouvelle, que l'épuisement, la transformation, la décomppsition, le dédoublement des matières albumineuses viennent se rattacher intimement à la décomposition du sucre et que les nouvelles cellules dégénérées qui sont rondes et en forme de sac, mais ne sont pas de la levure, qui portent improprement et par manque d'une expression convenable le nom de levure, doivent être sans action ; que, par conséquent, la production de la levure ne se rattache à la fermentation par aucune relation
-
-d'origine. Ou bien, s'il en est ainsi, la fermentation est la conséquence d'une production de levure dégénérée, et non de levure saine; or personne ne l'a encore démontré et la fermentation de la bière peut en être une réfutation. En effet la fermentation de la bière est une bonne fermentation et produit de bonne levure.
-
-Le fait que, dans la fermentation, il peut se produire de la levure dégénérée, aussi bien que de la levure saine, est bien connu : on sait également qu'une petite quantité de sucre échappe au dédoublement en alcool et en acide carbonique. Hoffman, Graham et Redwood ont trouvé comme ésidu de la fermentation une matière extractive s'élevant à une quantité de 3 pour 100. M. Pasteur a indiqué dans ce résidu, comme en faisant partie normalement, l'acide succinique dont la quantité pouvait s'élever à environ 1/2 pour 100 de la quantité de sucre employée. Après avoir concentré le liquide qui reste après la fermentation du sucre, on le précipite par un sel d'argent, puis on décompose le sel d'argent par l'hydrogène sulfuré. — On peut aussi évaporer jusqu'à consistance d'extrait et traiter par l'éther au moyen duquel on obtient immédiatement l'acide succinique, ou, s'il n'apparaît pas de cristaux, ce qui peut venir de ce qu'il y a en même temps de l'acide lactique, on sature par la chaux et on traite par l'alcool faible dans lequel le succinate de chaux est soluble. — M. Pasteur a trouvé également de l'acide succinique dans le vin.
-
-Il a en outre trouvé de la glycérine dans l'extrait qui reste après la fermentation du sucre.
-
-Enfin M. Pasteur 1 émet l'opinion que l'acide lactique n'est pas] un produit particulier de la fermentation alcoolique, mais qu'il provient d'une autre sorte de fermentation qui se produit simultanément par l'action d'une levure de nature particulière dont les globules sont plus petits que ceux de la levure ordinaire. Si donc, en même temps que l'alcool, il se produit de l'acide lactique, il pense que cela vient de ce qu'il se produit simultanément deux sortes de fermentation qui sont toutes deux les produits de leur levure spéciale. — Quant au fait que, dans toute fermentation, la liqueur devient acide, il pense que cela est une conséquence
-
-1. Comptes rendus de l'Académie des sciences, t. XLVII, p. 224. — Annales de Chimie et de Physique, t. LVIII, p. 323 et suivantes, 1860.
-
-de ce qu'il se produit toujours de l'acide succinique. La réaction acide de la liqueur pourrait cependant être attribuée avec plus de raison à la présence de l'acide phosphorique qui apparaît toujours comme produit de décomposition du ferment et qui ne fait défaut dans aucun extrait restant après une fermentation de sucre.
-
-La quantité de levure que l'on ajoute dans la préparation de la bière, varie non seulement suivant l'espèce de bière, mais aussi suivant la température de l'air. Dumas 1 indique la quantité de levure que l'on emploie ordinairement en France comme s'élevant, pour la petite bière, à 18 pour 10 000 en été, à 22 pour 10 000 au printemps et à l'automne, et à 25 pour 10000 en hiver ; et celle que l'on emploie pour la bière forte comme s'élevant, en été, à 20 pour 10 000, au Printemps et à l'automne à 30 pour 10 000, et en hiver à 35 pour 10 000. Mais la nature de la levure doit influer aussi sur la quantité de cette levure que l'on doit employer : en effet Balling indique, pour la même quantité de moût, des quantités de levure beaucoup plus faibles, 5 à 11 et 16 parties, comme étant les plus convenables.
-
-Les bières anglaises, qui fermentent à une température plus basse, nécessitent une quantité de levure plus forte, variant de 25 à 100 pour 10 000 de moût.
-
-Il doit y avoir là une source importante de différence dans la qualité de la bière : mais on n'est pas encore, à cet égard, remonté de la différence à la cause. L'addition d'une quantité considérable de levure doit nécessairement produire, même à une basse température, une fermentation très vive dans laquelle il ne doit se consommer qu'une portion plus faible des substances albumineuses de la bière. Une pareille bière doit être très nutritive. Mais pourrait-elle aussi se conserver longtemps ?
-
-En outre, la levure est composée, en partie, de cellules actives dont le contenu est actif, en partie, de cellules qui ont perdu une quantité plus ou moins grande de leurs
-
-facultés actives et qui peuvent même les avoir perdues tout à fait. Comment peut-on, d'après ce que nous venons de avec précision la quantité de levure que
-
-l'on ajoute ? S'il y avait seulement production de levure, on n'aurait dans la levure que des cellules actives ; mais, comme
-
-1. Chimie appliquée aux arts, t. VI, p. 466.
-
-la production de levure est précédée d'une décomposition de levure, toutes les cellules qui proviennent de la levure, ajoutée d'abord, sont mélangées avec la levure de nouvelle formation.
-
-De là provient, entre autres, une cause de différence dans la composition de la levure, que l'on ne peut pas éviter.
-
-Il se présente ici un inconvénient auquel je ne connais aucun palliatif. Les cellules de levure fermentent et se rassemblent au fond de la cuve sous forme de cellules inactives, vides, épaisses, devenues plus lourdes. Dans la fermentation superficielle, dans laquelle la levure qui se rend à la surface est recueillie pour servir à déterminer une fermentation nouvelle, les cellules inactives ne nuisent pas. Dans la fermentation avec dépôt, au contraire, dans laquelle la levure que l'on doit recueillir pour servir à une fermentation ultérieure, se rassemble au fond de la cuve, une quantité de plus en plus grande de levure épuisée se trouve toujours mélangée avec la levure de dépôt. La levure doit donc, de cette manière, devenir de moins en moins active. J'ai lu du reste que l'on avait conseillé de remplacer de temps en temps la levure par de la levure provenant d'une autre brasserie; mais il paraît résulter de ce que nous avons indiqué qu'il est nécessaire de rejeter de temps en temps la levure de dépôt et de la remplacer par de la levure de dépôt récemment préparée.
-
-Après ces observations générales sur la fermentation, nous pouvons examiner en particulier la fermentation superficielle et la fermentation par dépôt.
-
-Fermentation superficielle. — La fermentation superficielle exige une température plus élevée; elle se produit par l'action de la levure superficielle et présente une marche plus rapide. Il en résulte que, dans le même temps, une quantité plus grande de sucre est transformée en alcool et en acide carbonique ; que le mouvement qui se produit à l'intérieur de la liqueur, est beaucoup plus vif ; qu'il se dégage des bulles d'acide carbonique plus grosses; que ce gaz, plus léger, soulève à la surface une plus grande quantité de levure; que, par conséquent, il apparaît à la surface de la liqueur plus d'écume et qu'il s'y rassemble une plus grande quantité de levure que l'on peut recueillir.
-
-Le moût, qui était clair et qui est devenu plus ou moins trouble par l'addition d'une petite quantité de levure dans la cuve-matière, se trouble toujours de plus en plus jusqu'à un certain degré par suite de la formation de nouvelle levure, qui a lieu. La température du liquide qui fermente s'élève dans ce cas au-dessus de celle de l'air ambiant, et cette élévation de la température suit une marche proportionnelle au développement de la puissance de la fermentation. L'écume, qui s'est rassemblée à la surface et qui était d'abord blanche, brunit par l'action de l'air ; le mouvement qui se produit à l'intérieur de la liqueur diminue peu à peu d'intensité ; l'écume descend au fond, et la température de la liqueur s'abaisse ; la première période de la fermentation, la fermentation primaire, est alors terminée. Le moût est transformé en bière.
-
-Dans la fermentation superficielle, on ne laisse cependant pas la bière fermenter complètement dans la cuve-guilloire. Le moût que l'on a transvasé du bac refroidissoir dans la cuve-guilloire, doit avoir subi d'abord un refroidissement déterminé et avoir été amené à une température qui varie suivant que çe moût doit servir à préparer de la bière que l'on doive consommer immédiatement, ou suivant qu'il doit être employé à la préparation de la bière de garde. Le refroidissement que l'on doit faire subir au moût, avant de le transvaser dans la cuve-guilloire, doit l'avoir amené à une température d'environ 20° pour les bières jeunes que l'on veut faire fermenter par fermentation superficielle : pour les bières de garde que l'on désigne en Hollande sous le nom de oude bieren (vieilles bières), le moût a besoin d'être refroidi préalablement jusqu'à 14°. Le moût, contenu dans la cuve-matière reçoit alors une addition de levure et commence à fermenter. Mais on n'y laisse pas la fermentation s'accomplir entièrement. Pour la préparation des bières jeunes, on soutire le moût dans des tonneaux plus petits, aussitôt que la fermentation est bien en marche, et on laisse la fermentation se terminer dans ces tonneaux plus petits ; ce transvasement, de la cuve-guilloire, dans des tonneaux plus petits, peut, en été, avoir lieu déjà au bout d'une heure et demie.
-
-Le moût destiné à la préparation des bières de garde doit rester plus longtemps dans la cuve-guilloire ; toutefois, dans la préparation de ces bières, on interrompt également
-
-la fermentation primaire et l'on transvase, comme dans la préparation des bières jeunes, la liqueur dans des tonneaux plus petits où on leur fait subir la fermentation dite complémentaire. Cette fermentation complémentaire ne présente du reste rien qui la distingue de la fermentation principale, si ce n'est qu'elle est moins vive.
-
-Pour les deux sortes de bière, les tonneaux sont disposés deux par deux dans le cellier, de telle façon que leurs ouvertures soient légèrement penchées l'une vers l'autre : la levure sort sous forme d'écume par ces ouvertures et est recueillie dans de petites cuves placées sous les tonneaux. On doit avoir soin de remplir de temps en temps les tonneaux pour accélérer autant que possible la séparation de la levure à laquelle la présence d'une certaine quantité de la substance amère du houblon communique une saveur amère et pour pouvoir la faire écouler hors du tonneau que l'on a ainsi complètement rempli. Toutefois, il se dépose aussi du ferment au fond de la cuve. Lorsqu'il cesse de s'élever de l'écume, ce qui a lieu pour les bières jeunes au bout de 3 à 4 jours, on transvase la bière dans d'autres tonneaux, et on la livre à la consommation. Pour la préparation de la bière de garde, on laisse reposer le tout pendant quelque temps dans le tonneau et l'on tranvase au moyen d'une pompe la liqueur claire dans d'autres tonneaux où elle subit tranquillement la fermentation complémentaire et devient ainsi de la bière de garde.
-
-Fermentation par dépôt. — La fermentation par dépôt exige pour sa mise en activité une température plus basse et nécessite l'emploi de levure de dépôt : sa marche est généralement plus lente. La liqueur se trouble également ici par suite d'une production de levure ; mais cette levure se produit plus lentement. L'élévation de température qui se produit pendant la fermentation, est peu considérable et s'élève à peine à plus de 4 à 5 degrés. Il monte à la surface une quantité d'écume bien moins considérable, ce qui vient de ce que les bulles d'acide carbonique qui se produisent dès le commencement de la fermentation, sont trop petites pour soulever les globules de levure jusqu'à la surface de la liqueur, et les y faire flotter : dans tous les cas, les globules de ferment retombent de suite au fond pour être soulevés de nouveau légèrement et retomber de nouveau. La fermentation par dépôt exige, par suite, en général une
-
-quantité de temps plus que double de celle qu'exige la fermentation superficielle et qui dépend, comme cette dernière, de la température de l'air ambiant : la durée de la fermentation par dépôt est généralement de 7 à 9 jours, tandis que la fermentation superficielle peut être terminée au bout de 2 jours et même quelquefois au bout d'un temps encore plus court : rarement, elle dure plus de 4 jours.
+Si nous comparons la composition de cette substance avec celle des substances
+albumineuses, nous trouvons qu'elle est exprimée par la formule
+C<sub>36</sub>H<sub>25</sub>N<sub>4</sub>O<sub>15</sub> + 8HO. On obtient donc:
+
+<tr>
+  <th>Groupement organique de l'albumine</th>
+  <td>C<sub>35</sub>H<sub>25</sub>Az<sub>4</sub>O<sub>10</sub></td>
+</tr>
+<tr>
+  <th>Groupement organique de la substance qui se produit par l'action de l'eau bouillante sur l'albumine</th>
+  <td>C<sub>35</sub>H<sub>25</sub>Az<sub>4</sub>O<sub>13</sub></td>
+</tr>
+<tr>
+  <th>Groupement organique de l'extraitaqueux de levure.</th>
+  <td>C<sub>36</sub>H<sub>25</sub>Az<sub>4</sub>O<sub>15</sub></td>
+</tr>
+
+
+
+
+La deuxième substance, celle par conséquent qui se produit dans le moût par
+l'ébullition, est donc en voie de se transformer en extrait de levure,
+c'est-à-dire en une substance qui existe dans la levure et qui, pouvant être
+enlevée à la levure par l'eau froide, forme par conséquent une des parties
+constituantes de la bière.
+
+Nous pouvons bien ne pas connaître parfaitement leur nature, mais ce n'est pas
+une raison pour ne pas reconnaître leur existence, lors même qu'elle ne serait
+pas favorable aux idées de certaines personnes. — Nous savons du moins que, par
+l'ébullition de l'albumine qui s'était d'abord coagulée, il passe dans le moût
+une substance soluble qui contient plus d'oxygène que l'albumine et qui, en
+s'assimilant encore une nouvelle quantité d'oxygène, peut se transformer en cet
+extrait aqueux de levure qui doit devenir ultérieurement une des parties
+constituantes de la bière.
+
+Nous avons vu que 100 livres de malt contiennent 2 livres de substances
+albumineuses solubles. Il s'y trouve donc des matériaux plus que suffisants
+pour former le contenu des cellules de levure qui doivent prendre naissance :
+en ce qui concerne les enveloppes de ces mêmes cellules, elles doivent se
+former aux dépens de la dextrine dont il existe une grande quantité dans le
+moût[^5].
+
+Si, ainsi que cela existe réellement, nous admettons, dans les cellules de la
+levure, 3 parties de substances albumineuses pour 2 parties de cellulose[^6] et,
+dans 100 livres de malt, 2 livres de substances albumineuses solubles, nous
+reconnaîtrons qu'il y a des matériaux suffisants pour donner naissance à 3,3
+livres de levure entièrement sèche. Si, d'autre part, nous admettons 75% d'eau
+dans la levure soi-disant sèche, nous trouvons que 100 livres de malt peuvent
+donner 13 livres de levure dite sèche, c'est-à-dire de levure solide, non
+liquide.
+
+On ne doit donc pas être étonné de trouver dans les cuves-guilloires des
+brasseries une quantité de levure quintuple de celle que l'on avait ajoutée au
+moût pour en déterminer la fermentation.
+
+Revenons maintenant à l'examen de la fermentation telle qu'elle a lieu dans la
+cuve-guilloire.
+
+Aussitôt que l'on ajoute de la levure superficielle ou de la levure de
+dépôt[^7] au moût suffisamment refroidi, il commence à se produire dans ce
+moût, pourvu qu'il soit à une température convenable, une fermentation
+superficielle ou une fermentation avec dépôt qui, en suivant régulièrement son
+cours, donne ultérieurement naissance à une nouvelle quantité de levure
+superficielle ou de levure par dépôt. La levure que l'on ajoute détermine la
+première fermentation, et de cette première fermentation dépend le fermentation
+ultérieure ainsi que la formation de la nouvelle levure.
+
+La levure superficielle, ainsi qu'on l'admet généralement, ne se distingue sous
+aucun rapport de la levure par dépôt, c'est-à-dire que, par l'analyse, on n'a
+pu constater entre elles aucune différence. Le fait que la levure superficielle
+monte surtout à la surface sous forme d'écume, tandis que la levure par dépôt
+se rassemble surtout au fond de la cuve, vient seulement de ce que la levure
+superficielle détermine une action beaucoup plus vive, tandis que la levure par
+dépôt détermine une action plus lente. Dans le premier cas, les bulles d'acide
+carbonique, qui sont beaucoup plus fortes, soulèvent la levure et maintiennent
+à la surface les globules de levure auxquels elles adhèrent. Mais la forme des
+globules est la même : leur contenu dans les deux sortes de levure est d'abord
+transparent, puis devient grenu. Dans la levure superficielle, il se forme près
+d'un globule un autre globule, et sur un autre point un troisième, près
+desquels il vient s'en former d'autres, en sorte que, au bout de quelque temps,
+il s'est ainsi produit une suite de globules reliés entre eux, se ramifiant
+plus ou moins. Dans la fermentation par dépôt, les globules, au contraire, ne
+sont pas reliés entre eux, mais restent toujours libres, c'est-à-dire qu'ils se
+séparent de la cellule génératrice (moeder celletjes) aussitôt après leur
+formation.
+
+L'action des deux sortes de levure consiste, ainsi que nous l'avons indiqué
+dans un autre ouvrage[^8], en une décomposition du contenu des cellules qui se
+manifeste d'abord par une dissolution de ce contenu et qui, en poursuivant son
+cours ultérieur, peut même aller jusqu'à une production d'ammoniaque[^9]. La
+décomposition que ces deux sortes de levure subissent ainsi s'étend au sucre
+avec lequel elles se trouvent en contact.
+
+Ainsi, par l'addition de la levure superficielle ou de la levure de dépôt, le
+sucre du moût préalablement bouilli passe à l'état d'activité chimique, et il
+se produit d'abord de la levure aux dépens des éléments des parties
+constituantes de la liqueur ; en même temps la quantité de sucre contenue dans
+cette liqueur diminue tandis que la quantité d'alcool augmente dans la même
+proportion, et la réaction a lieu dans un rapport tel que 2475 parties (en
+poids) de sucre de fruits donnent naissance à 1150 parties (en poids) d'alcool,
+avec dégagement de 1100 parties (en poids) d'acide carbonique : il reste
+seulement dans la liqueur une petite quantité de ce dernier qui, même dans le
+cas où il y en a le plus, est toujours moindre que le volume de la liqueur.
+ — Il se produit donc un poids d'alcool égal à la moitié de celui du sucre
+décomposé, tandis que l'autre moitié nous représente à peu près le poids de
+l'acide carbonique qui se dégage ; nous prenons ici pour formule du sucre de
+fruits C<sub>12</sub>H<sub>14</sub>O<sub>14</sub> = 2475. — Le reste, qui est
+de 225 parties (en poids), représente deux équivalents d'eau qui se sont
+séparés de la combinaison.
+
+Bien que ce soit déjà une transformation importante que subit la liqueur, elle
+n'est cependant pas la seule : aux dépens des parties constituantes du moût, il
+se produit de la levure qui se sépare, et cette production de levure enlève au
+moût, outre le sucre, une quantité d'autres substances nutritives d'autant plus
+considérable que la quantité de levure produite est plus grande. Les parties
+constituantes nutritives que la production de la levure enlève ainsi au moût,
+sont les substances albumineuses qui peuvent assurément être considérées comme
+tenant le premier rang parmi les substances nutritives, et qui, bien que sous
+une autre forme, constituent le principe nutritif le plus important des grains,
+et, d'autre part, la dextrine dont il existe une quantité considérable dans le
+moût. Cette dernière paraît fournir surtout les matériaux de l'enveloppe des
+cellules de la levure : la dextrine C<sub>12</sub>H<sub>10</sub>O<sub>10</sub>,
+qui est soluble, se transforme alors en cellulose
+C<sub>24</sub>H<sub>21</sub>O<sub>21</sub>, qui est insoluble. Plus, par
+conséquent, la quantité de levure produite est considérable, plus la quantité
+de dextrine perdue par la liqueur est grande et moins la bière doit être
+nutritive. Plus la quantité de dextrine qui est transformée en cellulose est
+grande, plus est considérable la quantité de matière albumineuse qui, formant
+le contenu des globules de la levure, disparaît de la liqueur avec la levure,
+et plus la bière doit devenir pauvre en celle de ses parties constituantes qui
+est la plus nutritive, qui est essentiellement nutritive.
+
+La production de la levure dans la fermentation de la bière n'est donc pas un
+résultat que l'on doive désirer atteindre par la fermentation ; mais c'est un
+résultat que l'on ne peut pas éviter. Je ne sais pas si l'on a poussé sur ce
+sujet les expériences jusqu'au point de déterminer si, suivant que l'on ajoute
+une quantité plus ou moins grande de levure à la liqueur que l'on fait
+fermenter, la quantité de levure qui se produit diminue ou augmente, mais il ne
+paraît pas douteux que l'addition d'une autre quantité de levure ne doive avoir
+pour conséquence une augmentation ou une diminution de la quantité de levure
+produite. Il est en outre positif que, moins il se produit de levure, plus la
+quantité de substances albumineuses et de dextrine qui reste dans la bière est
+considérable, et plus la bière est nutritive.
+
+Un champ considérable d'expériences nouvelles s'est ouvert ici depuis que cette
+théorie si étrange dans laquelle on considérait la fermentation comme la
+conséquence d'une végétation, a fait place à celle dans laquelle on applique à
+la fermentation la théorie de Stahl sur les molécules en mouvement. Cela du
+reste ne s'applique pas seulement au point de vue technique, à la préparation
+de la bière ; mais cela s'applique aussi au point de vue scientifique.
+
+Si l'on ajoute de la levure à une dissolution de sucre pur, la levure est
+décomposée ; mais, d'autre part, les cellules séparées de la substance propre
+de la levure se sont épaissies par une adjonction de cellulose qui n'a pu se
+former qu'aux dépens du sucre : la levure qui avait servi à la fermentation
+était devenue plus lourde[^10].
+
+Nous croyons du reste devoir faire observer que, s'il nous paraît admissible
+que, partout où il se trouve simultanément de la dextrine et du sucre dans une
+liqueur fermentée, la substance qui doit servir à la production de la cellulose
+est la dextrine et non le sucre, cette hypothèse n'a pas encore reçu la
+confirmation de l'expérience.
+
+Il n'est pas démontré davantage que, dans la production de la levure, les
+nouvelles cellules sont formées par la dextrine et non par le sucre.
+
+Mais ce qui est encore plus important, si l'on sait actuellement d'une manière
+positive qu'il peut y avoir fermentation sans production de ferment, on sait
+aussi qu'il peut y avoir fermentation avec production de ferment. Mais on ne
+sait pas quelle relation existe entre les deux phénomènes et comment la
+fermentation sans production de ferment vient se relier à la fermentation avec
+production de ferment.
+
+M. Pasteur a publié récemment[^11] sur la fermentation des recherches que nous
+croyons devoir résumer ici. Ce chimiste est un des défenseurs de la théorie
+dans laquelle la fermentation est la conséquence d'une production de ferment et
+non d'une décomposition de ferment. Il prend deux quantités égales de levure
+fraîche que l'on a préalablement lavée : au moyen de l'une, il fait fermenter
+de l'eau sucrée, il fait bouillir l'autre avec de l'eau et il filtre pour
+séparer les cellules de levure. Il ajoute ensuite à la liqueur claire une
+quantité de sucre égale à celle qu'il a employée dans le premier cas et une
+trace de levure d'un poids peu important. — Il a observé dans le dernier
+mélange une production de levure et une décomposition proportionnelle de sucre.
+
+Dans le premier cas, 5 grammes de levure ont accompli en 6 jours la
+fermentation de 12g, 9 de sucre, qui, au bout de ce laps de temps, était
+terminée : dans cette opération, les 5 grammes de levure étaient épuisés.
+
+Dans le dernier cas, l'infusion aqueuse de 5 grammes de levure a accompli en 9
+jours la fermentation de 10 grammes de sucre, qui, au bout de ce laps de temps,
+était terminée : dans cette opération, les cellules de levure qui s'étaient
+formées, étaient épuisées.
+
+M. Pasteur attribue la différence dans la durée de la fermentation et dans la
+quantité de sucre qui y a fermenté, en partie à la quantité plus grande d'eau
+que l'on a employée dans le second cas, en partie à l'impossibilité d'enlever
+aux cellules de levure au moyen de l'eau la totalité de leurs parties solubles.
+Il aurait pu ajouter, en outre, un troisième motif : c'est que l'action de
+l'eau bouillante n'avait pas dû augmenter l'activité de la substance de la
+levure.
+
+D'après M. Pasteur, la cause de la fermentation n'est pas la moisissure de la
+levure, mais la production de moisissure de levure ; la cause de la
+fermentation est le développement des cellules de levure aux dépens des
+substances dissoutes. Son expérience que nous venons d'indiquer ne peut être en
+harmonie avec sa proposition que s'il y a une relation entre la quantité de
+cellules de levure formée et la quantité de sucre détruite : c'est ce qui n'a
+encore été démontré expérimentalement par personne. Or, tant que cela n'aura
+pas encore été prouvé, l'opinion de M. Pasteur, et des autres dont il suit en
+cela la trace, ne pourra pas être considérée comme valable.
+
+En ce qui concerne le fait qu'il se forme quelques cellules nouvelles lorsque
+le contenu des cellules primitives se trouve en contact avec l'eau sucrée, cela
+prouve seulement qu'il peut aussi y avoir de cette manière une production de
+nouvelle levure, mais cela ne prouve aucunement qu'il y ait une relation
+génétique entre le développement d'un végétal qui constituerait essentiellement
+la moisissure de levure et le dédoublement d'un groupe organique, du sucre. La
+règle est que le dédoublement d'un groupe a détermine le dédoublement d'un
+groupe b ; mais en ce qui concerne l'hypothèse que la production d'une cellule
+peut avoir pour conséquence une décomposition d'une substance organique aussi
+énergique que peut l'être celle du sucre dans la fermentation, elle serait
+unique dans tout le règne organique, et doit être prouvée d'une manière
+péremptoire ou doit être rejetée.
+
+Il est en effet suffisamment démontré que, dans la fermentation, il y a
+dédoublement des parties constituantes de la levure : il est également prouvé
+que le dédoublement d'un groupe a détermine le dédoublement d'un groupe b. Ceux
+donc qui admettent le dédoublement de la levure comme cause du dédoublement du
+sucre partent d'un point de départ parfaitement déterminé qu'ils ne peuvent
+abandonner sans tomber dans l'arbitraire.
+
+Si, en même temps que le dédoublement de a et le dédoublement de b qui résulte
+du premier, il se produit un développement de cellules, ce sont des actions qui
+sont indépendantes l'une de l'autre et qui n'ont aucune relation génétique. Et
+ceux qui admettent une relation génétique entre la production des cellules et
+la décomposition du sucre, doivent assurément prendre un fait isolé pour preuve
+qu'il existe une relation quantitative bien nette en dehors de laquelle il
+n'existe rien autre que l'arbitraire.
+
+Pasteur parle d'une expérience de Thénard souvent répétée, dans laquelle la
+levure desséchée à 100°C ou chauffée dans l'eau bouillante, conserve la faculté
+de déterminer la fermentation comme la levure ordinaire, mais exerce une action
+un peu plus lente. Il l'a rapprochée de son expérience dans laquelle la liqueur
+obtenue en faisant bouillir la levure et en filtrant a déterminé la
+fermentation. Il existe en effet un certain rapprochement entre ces deux
+expériences. Mais en ce qui concerne les conclusions favorables à l'opinion de
+Pasteur que l'on peut tirer de l'expérience de Thénard, nous rappellerons
+l'observation que nous avons déjà faite précédemment et qui s'y applique
+parfaitement. Il est nécessaire de prouver que, au moyen de la levure desséchée
+à 100°C ou soumise à l'ébullition avec de l'eau, il se produit une quantité de
+nouvelles cellules proportionnelle à la quantité de sucre décomposée, et c'est
+ce que personne n'a prouvé.
+
+La question est transportée par M. Pasteur sur un autre terrain, lorsqu'il dit
+que la levure qui, après avoir été soumise à l'ébullition avec de l'eau,
+détermine la fermentation, étant devenue de la levure ordinaire, tout se passe
+comme pour le jus du raisin, qui fermente spontanément : il dit en effet
+quelque chose d'analogue à ce qui suit : le commencement de la fermentation du
+jus de raisin a lieu sans cellules de levure; le commencement de la
+fermentation peut donc avoir également lieu au moyen de cellules de levure
+épuisées par l'ébullition. — Nous n'avons pas besoin d'aller plus loin.
+
+La production de la fermentation dans du jus de raisin dans lequel on n'a
+introduit aucune cellule de levure, et la progression simultanée de la
+fermentation ne viennent apporter aucune preuve en faveur d'une production de
+cellules de levure comme cause de la fermentation, lorsqu'on en rapproche la
+production artificielle de la levure telle qu'elle a lieu à Schiedam.
+
+C'est une particularité que l'on a trop oubliée. On peut au moyen de farine de
+grain préparer une quantité considérable de levure pour une formation d'une
+petite quantité d'alcool et pour une décomposition d'une petite quantité de
+sucre, tandis que, dans le jus de raisin, il se décompose une grande quantité
+de sucre, il se produit une grande quantité d'alcool, mais il ne se forme
+qu'une petite quantité de levure.
+
+La production de la levure et la production de l'alcool ne suivent pas une
+marche proportionnelle, et l'opinion de M. Pasteur est par suite dénuée de tout
+fondement. Celui qui connaît la grande quantité de levure que l'on expédie de
+Schiedam et sait que 1 1/2 p. 100 de levure à l'état sec est une quantité
+suffisante pour transformer 100 parties de sucre en alcool et en acide
+carbonique considère comme inutile la question de savoir où l'on peut retrouver
+l'alcool qui s'est produit en même temps à Schiedam. Il n'est pas là.
+
+Il existe donc une production de cellules de levure, sans production
+proportionnelle d'alcool aux dépens du sucre, et, comme on ne peut pas douter
+du fait, je ne sais vraiment pas comment on peut être en état de prouver qu'il
+existe une relation positive entre la production de la levure et la
+décomposition du sucre.
+
+M. Pasteur pense pouvoir donner du poids à son hypothèse en démontrant que, dans
+la fermentation, il se perd une certaine quantité de sucre. Il prend deux
+quantités de levure fraîche égales en poids ; il lave l'une avec de l'eau et
+l'autre avec de l'eau sucrée et les dessèche ensuite toutes les deux : la
+dernière pèse plus que la première. — Il en conclut qu'une certaine quantité de
+sucre a servi à la nourriture de la levure. Mais ce résultat n'indique rien
+autre chose, si ce n'est que, sous cette influence, il s'est produit, si l'on
+veut, quelques cellules de levure. — Cela ne prouve rien du reste relativement
+à la cause de ce qui a lieu dans la fermentation ; ou s'il en est ainsi, il
+faut que, pendant le lavage de la levure avec de l'eau sucrée, il se soit formé
+un peu d'alcool, dont M. Pasteur ne parle pas.
+
+Le fait que, par le lavage avec de l'eau sucrée, le poids des cellules de
+levure diminue moins que par le lavage avec de l'eau seule peut du reste
+dépendre seulement de ce que l'eau sucrée n'est pas un aussi bon dissolvant du
+contenu des cellules de levure que l'eau seule.
+
+M. Pasteur parle de la production de l'ammoniaque dans la décomposition de la
+levure. Il admet que l'on a dit que tout l'azote de la levure se transformait
+en ammoniaque. Mais, autant que cela soit venu à ma connaissance, personne ne
+l'a prétendu : on a prétendu seulement que, parmi les produits de la
+décomposition de la levure, il se trouvait de l'ammoniaque[^12].
+
+En ce qui concerne le fait que, dans la levure épuisée, il existe moins d'azote
+que dans la levure fraîche, M. Pasteur l'explique en disant que l'azote de la
+levure ordinaire se répartit entre les cellules de cette levure et les
+nouvelles cellules de levure qui se sont formées aux dépens du sucre.
+
+Nous trouvons ici une nouvelle preuve de l'inexactitude de l'opinion de M.
+Pasteur et de tous ceux qui attribuent à une production de cellules de levure
+la cause de la fermentation. Les cellules sont saines ou dégénérées.
+
+Les cellules de levure à l'état sain doivent contenir une quantité déterminée
+de substance albuminoïde. Cette quantité peut varier entre certaines limites.
+Pour les cellules de levure à l'état sain, les limites sont fixes.
+
+Introduisons dans de l'eau sucrée des cellules de levure qui, à l'état sain,
+contiennent par exemple 10% d'azote et laissons fermenter le tout. On trouve
+après la fermentation, dans l'excès d'eau sucrée, de la levure entièrement
+épuisée qui ne contient plus qu'une très petite quantité d'azote, 3%, et qui
+n'est plus en état de déterminer aucune fermentation. La formation de ces
+produits tout à fait dégénérés, qui ont perdu leurs facultés naturelles, est
+pour M. Pasteur la cause de la fermentation.
+
+Il faut, en vérité, que l'on mette beaucoup de persistance à soutenir une
+opinion si elle n'est pas écartée par de tels résultats.
+
+Bien qu'il n'ait aucune preuve plus décisive à ajouter de la consommation du
+contenu des cellules de levure, pendant la fermentation et par la fermentation,
+que la perte de substance, M. Pasteur la considère comme une preuve de son
+opinion. De ce que 100 livres de poudre à canon ont été consommées par le coup
+de canon de manière à ne laisser que 5 livres de résidu, M. Pasteur en conclut
+que le coup est la conséquence d'une production de nouvelle poudre à canon.
+
+La pauvreté des cellules nouvellement formées et la vacuité des cellules
+épuisées prouvent précisément, s'il est besoin d'en donner une preuve nouvelle,
+que l'épuisement, la transformation, la décomppsition, le dédoublement des
+matières albumineuses viennent se rattacher intimement à la décomposition du
+sucre et que les nouvelles cellules dégénérées qui sont rondes et en forme de
+sac, mais ne sont pas de la levure, qui portent improprement et par manque
+d'une expression convenable le nom de levure, doivent être sans action ; que,
+par conséquent, la production de la levure ne se rattache à la fermentation par
+aucune relation d'origine. Ou bien, s'il en est ainsi, la fermentation est la
+conséquence d'une production de levure dégénérée, et non de levure saine ; or
+personne ne l'a encore démontré et la fermentation de la bière peut en être une
+réfutation. En effet la fermentation de la bière est une bonne fermentation et
+produit de bonne levure.
+
+Le fait que, dans la fermentation, il peut se produire de la levure dégénérée,
+aussi bien que de la levure saine, est bien connu : on sait également qu'une
+petite quantité de sucre échappe au dédoublement en alcool et en acide
+carbonique. Hoffman, Graham et Redwood ont trouvé comme ésidu de la
+fermentation une matière extractive s'élevant à une quantité de 3%. M. Pasteur
+a indiqué dans ce résidu, comme en faisant partie normalement, l'acide
+succinique dont la quantité pouvait s'élever à environ 0,5% de la quantité de
+sucre employée. Après avoir concentré le liquide qui reste après la
+fermentation du sucre, on le précipite par un sel d'argent, puis on décompose
+le sel d'argent par l'hydrogène sulfuré. — On peut aussi évaporer jusqu'à
+consistance d'extrait et traiter par l'éther au moyen duquel on obtient
+immédiatement l'acide succinique, ou, s'il n'apparaît pas de cristaux, ce qui
+peut venir de ce qu'il y a en même temps de l'acide lactique, on sature par la
+chaux et on traite par l'alcool faible dans lequel le succinate de chaux est
+soluble. — M. Pasteur a trouvé également de l'acide succinique dans le vin.
+
+Il a en outre trouvé de la glycérine dans l'extrait qui reste après la
+fermentation du sucre.
+
+Enfin M. Pasteur[^13] émet l'opinion que l'acide lactique n'est pas un produit
+particulier de la fermentation alcoolique, mais qu'il provient d'une autre
+sorte de fermentation qui se produit simultanément par l'action d'une levure de
+nature particulière dont les globules sont plus petits que ceux de la levure
+ordinaire. Si donc, en même temps que l'alcool, il se produit de l'acide
+lactique, il pense que cela vient de ce qu'il se produit simultanément deux
+sortes de fermentation qui sont toutes deux les produits de leur levure
+spéciale. — Quant au fait que, dans toute fermentation, la liqueur devient
+acide, il pense que cela est une conséquence de ce qu'il se produit toujours de
+l'acide succinique. La réaction acide de la liqueur pourrait cependant être
+attribuée avec plus de raison à la présence de l'acide phosphorique qui
+apparaît toujours comme produit de décomposition du ferment et qui ne fait
+défaut dans aucun extrait restant après une fermentation de sucre.
+
+La quantité de levure que l'on ajoute dans la préparation de la bière, varie
+non seulement suivant l'espèce de bière, mais aussi suivant la température de
+l'air. Dumas[^14] indique la quantité de levure que l'on emploie ordinairement
+en France comme s'élevant, pour la petite bière, à 18 pour 10'000 en été, à 22
+pour 10'000 au printemps et à l'automne, et à 25 pour 10'000 en hiver ; et
+celle que l'on emploie pour la bière forte comme s'élevant, en été, à 20 pour
+10'000, au Printemps et à l'automne à 30 pour 10'000, et en hiver à 35 pour
+10'000. Mais la nature de la levure doit influer aussi sur la quantité de cette
+levure que l'on doit employer : en effet Balling indique, pour la même quantité
+de moût, des quantités de levure beaucoup plus faibles, 5 à 11 et 16 parties,
+comme étant les plus convenables.
+
+Les bières anglaises, qui fermentent à une température plus basse, nécessitent
+une quantité de levure plus forte, variant de 25 à 100 pour 10'000 de moût.
+
+Il doit y avoir là une source importante de différence dans la qualité de la
+bière : mais on n'est pas encore, à cet égard, remonté de la différence à la
+cause. L'addition d'une quantité considérable de levure doit nécessairement
+produire, même à une basse température, une fermentation très vive dans
+laquelle il ne doit se consommer qu'une portion plus faible des substances
+albumineuses de la bière. Une pareille bière doit être très nutritive. Mais
+pourrait-elle aussi se conserver longtemps ?
+
+En outre, la levure est composée, en partie, de cellules actives dont le
+contenu est actif, en partie, de cellules qui ont perdu une quantité plus ou
+moins grande de leurs facultés actives et qui peuvent même les avoir perdues
+tout à fait. Comment peut-on, d'après ce que nous venons de avec précision la
+quantité de levure que l'on ajoute ? S'il y avait seulement production de
+levure, on n'aurait dans la levure que des cellules actives ; mais, comme la
+production de levure est précédée d'une décomposition de levure, toutes les
+cellules qui proviennent de la levure, ajoutée d'abord, sont mélangées avec la
+levure de nouvelle formation.
+
+De là provient, entre autres, une cause de différence dans la composition de la
+levure, que l'on ne peut pas éviter.
+
+Il se présente ici un inconvénient auquel je ne connais aucun palliatif. Les
+cellules de levure fermentent et se rassemblent au fond de la cuve sous forme
+de cellules inactives, vides, épaisses, devenues plus lourdes. Dans la
+fermentation superficielle, dans laquelle la levure qui se rend à la surface
+est recueillie pour servir à déterminer une fermentation nouvelle, les cellules
+inactives ne nuisent pas. Dans la fermentation avec dépôt, au contraire, dans
+laquelle la levure que l'on doit recueillir pour servir à une fermentation
+ultérieure, se rassemble au fond de la cuve, une quantité de plus en plus
+grande de levure épuisée se trouve toujours mélangée avec la levure de dépôt.
+La levure doit donc, de cette manière, devenir de moins en moins active. J'ai
+lu du reste que l'on avait conseillé de remplacer de temps en temps la levure
+par de la levure provenant d'une autre brasserie ; mais il paraît résulter de
+ce que nous avons indiqué qu'il est nécessaire de rejeter de temps en temps la
+levure de dépôt et de la remplacer par de la levure de dépôt récemment
+préparée.
+
+Après ces observations générales sur la fermentation, nous pouvons examiner en
+particulier la fermentation superficielle et la fermentation par dépôt.
+
+Fermentation superficielle. — La fermentation superficielle exige une
+température plus élevée ; elle se produit par l'action de la levure
+superficielle et présente une marche plus rapide. Il en résulte que, dans le
+même temps, une quantité plus grande de sucre est transformée en alcool et en
+acide carbonique ; que le mouvement qui se produit à l'intérieur de la liqueur,
+est beaucoup plus vif ; qu'il se dégage des bulles d'acide carbonique plus
+grosses ; que ce gaz, plus léger, soulève à la surface une plus grande quantité
+de levure ; que, par conséquent, il apparaît à la surface de la liqueur plus
+d'écume et qu'il s'y rassemble une plus grande quantité de levure que l'on peut
+recueillir.
+
+Le moût, qui était clair et qui est devenu plus ou moins trouble par l'addition
+d'une petite quantité de levure dans la cuve-matière, se trouble toujours de
+plus en plus jusqu'à un certain degré par suite de la formation de nouvelle
+levure, qui a lieu. La température du liquide qui fermente s'élève dans ce cas
+au-dessus de celle de l'air ambiant, et cette élévation de la température suit
+une marche proportionnelle au développement de la puissance de la fermentation.
+L'écume, qui s'est rassemblée à la surface et qui était d'abord blanche, brunit
+par l'action de l'air ; le mouvement qui se produit à l'intérieur de la liqueur
+diminue peu à peu d'intensité ; l'écume descend au fond, et la température de
+la liqueur s'abaisse ; la première période de la fermentation, la fermentation
+primaire, est alors terminée. Le moût est transformé en bière.
+
+Dans la fermentation superficielle, on ne laisse cependant pas la bière
+fermenter complètement dans la cuve-guilloire. Le moût que l'on a transvasé du
+bac refroidissoir dans la cuve-guilloire, doit avoir subi d'abord un
+refroidissement déterminé et avoir été amené à une température qui varie
+suivant que çe moût doit servir à préparer de la bière que l'on doive consommer
+immédiatement, ou suivant qu'il doit être employé à la préparation de la bière
+de garde. Le refroidissement que l'on doit faire subir au moût, avant de le
+transvaser dans la cuve-guilloire, doit l'avoir amené à une température
+d'environ 20°C pour les bières jeunes que l'on veut faire fermenter par
+fermentation superficielle : pour les bières de garde que l'on désigne en
+Hollande sous le nom de *oude bieren* (vieilles bières), le moût a besoin
+d'être refroidi préalablement jusqu'à 14°C. Le moût, contenu dans la
+cuve-matière reçoit alors une addition de levure et commence à fermenter. Mais
+on n'y laisse pas la fermentation s'accomplir entièrement. Pour la préparation
+des bières jeunes, on soutire le moût dans des tonneaux plus petits, aussitôt
+que la fermentation est bien en marche, et on laisse la fermentation se
+terminer dans ces tonneaux plus petits ; ce transvasement, de la
+cuve-guilloire, dans des tonneaux plus petits, peut, en été, avoir lieu déjà au
+bout d'une heure et demie.
+
+Le moût destiné à la préparation des bières de garde doit rester plus longtemps
+dans la cuve-guilloire ; toutefois, dans la préparation de ces bières, on
+interrompt également la fermentation primaire et l'on transvase, comme dans la
+préparation des bières jeunes, la liqueur dans des tonneaux plus petits où on
+leur fait subir la fermentation dite complémentaire. Cette fermentation
+complémentaire ne présente du reste rien qui la distingue de la fermentation
+principale, si ce n'est qu'elle est moins vive.
+
+Pour les deux sortes de bière, les tonneaux sont disposés deux par deux dans le
+cellier, de telle façon que leurs ouvertures soient légèrement penchées l'une
+vers l'autre : la levure sort sous forme d'écume par ces ouvertures et est
+recueillie dans de petites cuves placées sous les tonneaux. On doit avoir soin
+de remplir de temps en temps les tonneaux pour accélérer autant que possible la
+séparation de la levure à laquelle la présence d'une certaine quantité de la
+substance amère du houblon communique une saveur amère et pour pouvoir la faire
+écouler hors du tonneau que l'on a ainsi complètement rempli. Toutefois, il se
+dépose aussi du ferment au fond de la cuve. Lorsqu'il cesse de s'élever de
+l'écume, ce qui a lieu pour les bières jeunes au bout de 3 à 4 jours, on
+transvase la bière dans d'autres tonneaux, et on la livre à la consommation.
+Pour la préparation de la bière de garde, on laisse reposer le tout pendant
+quelque temps dans le tonneau et l'on tranvase au moyen d'une pompe la liqueur
+claire dans d'autres tonneaux où elle subit tranquillement la fermentation
+complémentaire et devient ainsi de la bière de garde.
+
+Fermentation par dépôt. — La fermentation par dépôt exige pour sa mise en
+activité une température plus basse et nécessite l'emploi de levure de dépôt :
+sa marche est généralement plus lente. La liqueur se trouble également ici par
+suite d'une production de levure ; mais cette levure se produit plus lentement.
+L'élévation de température qui se produit pendant la fermentation, est peu
+considérable et s'élève à peine à plus de 4 à 5 degrés. Il monte à la surface
+une quantité d'écume bien moins considérable, ce qui vient de ce que les bulles
+d'acide carbonique qui se produisent dès le commencement de la fermentation,
+sont trop petites pour soulever les globules de levure jusqu'à la surface de la
+liqueur, et les y faire flotter : dans tous les cas, les globules de ferment
+retombent de suite au fond pour être soulevés de nouveau légèrement et retomber
+de nouveau. La fermentation par dépôt exige, par suite, en général une quantité
+de temps plus que double de celle qu'exige la fermentation superficielle et qui
+dépend, comme cette dernière, de la température de l'air ambiant : la durée de
+la fermentation par dépôt est généralement de 7 à 9 jours, tandis que la
+fermentation superficielle peut être terminée au bout de 2 jours et même
+quelquefois au bout d'un temps encore plus court : rarement, elle dure plus de
+4 jours.
 
 Dans la fermentation par dépôt, le moût doit subir un refroidissement plus fort que dans la fermentation superficielle : pour la préparation de ce qu'on appelle la bière d'été, la température du moût doit être abaissée jusqu'à environ 6°; pour la préparation de la bière dite d'hiver, la température du moût doit être abaissée jusqu'à 8°. On met le moût dans une grande cuve-guilloire et on le mélange avec de la levure de dépôt. On doit, dans ce cas, mélanger le moût et la levure avec beaucoup plus de soin que dans la fermentation superficielle, parce que, sans cela, la fermentation s'opérerait beaucoup plus lentement. Au bout de quelques heures, on observe à la surface une petite quantité d'écume qui augmente et peut se maintenir pendant deux jours et qui diminue ensuite.
 
@@ -935,4 +1282,55 @@ de nouvelles expériences comparatives.
 
 [^4]: *Scheik. onderz.*, t. II, p. 460.
 
+[^5]: Suivant Pasteur (*Annales de Chimie et de Physique*, 3e série, t. LVIII,
+p. 323 et suivantes, 1860), ce serait aux dépens des éléments du sucre que la
+cellulose de la levure se produit. M. Pasteur se fonde ici sur ce fait qu'il a
+observé une production de levure dans un milieu formé de sucre, d'un sel
+ammoniacal et de phosphates, et sur ce que, dans la fermentation du sucre en
+présence de matières albuminoldes, il y a dans la levure plus de cellulose
+après qu'avant la fermentation.
+
+[^6]: *Scheih. onderz.*, t. II, p. 447, 1845.
+
+[^7]: Dans son mémoire sur la fermentation alcoolique, M. Pasteur (*Annales de
+Chimie et de Physiques*, 3e série, t. LVIII, p.323 et suivantes, 1860), désigne
+ces deux sortes de levures sous les noms de levure supérieure (*boven-gist*) et
+de levure inférieure (*onder-gist*). Les dénominations de levure superficielle
+et de levure de dépôt qui avaient été adoptées par Gèrhardt (Liebig, *Traité de
+Chimie organique*, traduction française, Paris, 1840, t. I, introduction, p.
+XLII), nous ont paru devoir être préférées et donnent à notre avis une idée
+plus exacte de la nature des phénomènes.
+
+[^8]: *De Wijn*, 1. c.
+
+[^9]: Suivant M. Pasteur (*loc. cit.*, p. 376), « l'azote de la levure ne se
+transforme jamais en ammoniaque pendant la fermentation alcoolique. Loin qu'il
+se forme de l'ammoniaque, celle que l'on ajoute peut meme disparaître. » Les
+expériences que M. Pasteur cite a l'appui de cette proposition ne nous
+paraissent pas convaincantes, ni démonstratives.
+
+[^10]: Schmidt, *Annalender Chem. und Pharm.*, t. LXI, p. 168. — L'expérience
+de Schmidt et celle de M. Pasteur que nous avons indiquée dans la note de la
+page 212, nous paraissent conduire seulement a cette conclusion que, dans une
+liqueur qui contient seulement du sucre, il peut se produire de la cellulose
+aux dépens de ce sucre.
+
+[^11]: *Comptes rendus de l'Académie des Sciences*, t. XLVI, p. 179 et p. 857
+— Annales de Chimie et de Physique, 3e série, t. LVIII. 233, 80p 16
+
+[^12]: En ce qui est relatif au fait allégué par M. Pasteur (voir la note de la
+p. 214) que, loin d'y avoir formation d'ammoniaque pendant la fermentation
+alcoolique, celle que l'on ajoute peut disparaître, il n'a rien qui doive
+précisément nous étonner : 1° si nous admettons avec M. Pasteur (voir la note
+de la p. 212) qu'il peut se produire de la levure dans un milieu formé de
+sucre, d'un sel ammoniacal et de phosphates ; 2° si nous nous rappelons ce fait
+que, pendant la fermentation, il y a production d'un acide qu'une certaine
+quantité d'ammoniaque a pu saturer : mais il ne prouve pas que, par la
+décomposition ultérieure de la levure qui est une matière azotée, il ne puisse
+pas se produire d'ammoniaque.
+
+[^13]: *Comptes rendus de l'Académie des sciences*, t. XLVII, p. 224.
+— *Annales de Chimie et de Physique*, t. LVIII, p. 323 et suivantes, 1860.
+
+[^14]: *Chimie appliquée aux arts*, t. VI, p. 466.
 

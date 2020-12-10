@@ -1098,69 +1098,150 @@ remarquer plusieurs fois, est préparée avec de l'orge et du froment. On fait
 bouillir une portion de la trempe claire, et on l'ajoute de nouveau à la trempe
 épaisse qui a été laissée dans la cuve matière.
 
-Quelquefois la fermentation ne part pas. Pour qu'elle se produise, on n'ajoute pas alors de la levure dans les tonneaux, mais on y ajoute du moût non houblonné, ce qui fait commencer la fermentation.
+Quelquefois la fermentation ne part pas. Pour qu'elle se produise, on n'ajoute
+pas alors de la levure dans les tonneaux, mais on y ajoute du moût non
+houblonné, ce qui fait commencer la fermentation.
 
-Au point de vue chimique, ce qui est surtout remarquable dans la préparation de ces bières, c'est qu'elles fermentent comme le jus de raisin, sans qu'on y ajoute de la levure. Malgré la température à laquelle les substances albumineuses du malt ont été préalablement soumises, il en reste cependant encore une quantité suffisante pour qu'il se produise, mais lentement, une fermentation avec production simultanée de levure. Relativement au fait qu'une grande partie du sucre passe à l'état d'acide lactique et que, par suite, ces bières sont caractérisées par la présence d'une quantité considérable d'acide lactique, il trouve son explication dans le mode même de préparation.
+Au point de vue chimique, ce qui est surtout remarquable dans la préparation de
+ces bières, c'est qu'elles fermentent comme le jus de raisin, sans qu'on y
+ajoute de la levure. Malgré la température à laquelle les substances
+albumineuses du malt ont été préalablement soumises, il en reste cependant
+encore une quantité suffisante pour qu'il se produise, mais lentement, une
+fermentation avec production simultanée de levure. Relativement au fait qu'une
+grande partie du sucre passe à l'état d'acide lactique et que, par suite, ces
+bières sont caractérisées par la présence d'une quantité considérable d'acide
+lactique, il trouve son explication dans le mode même de préparation.
 
-Habich 1 a cherché à résoudre cette énigme en admettant que des traces de cellules de levure flottent dans l'air de la brasserie, qu'elles sont entraînées par l'acide carbonique et sont transportées dans les liquides qui doivent ultérieurement subir la fermentation. — Mais, d'abord, il faudrait que l'air, à l'époque des vendanges, fût rempli de traces de levure, et c'est ce que personne n'a démontré : on presse le jus de raisins et on le laisse fermenter où l'on veut, pourvu que la température soit seulement assez élevée. Habich a fait également une expérience qui, selon lui, devait prouver l'exactitude de son opinion, mais qui ne prouve rien. — Il a placé près de la cuve-guilloire deux vases de verre pleins de moût bien clair. — Le col de l'un des vases était bouché avec du coton, tandis que le col de l'autre était ouvert. Au
+Habich[^29] a cherché à résoudre cette énigme en admettant que des traces de
+cellules de levure flottent dans l'air de la brasserie, qu'elles sont
+entraînées par l'acide carbonique et sont transportées dans les liquides qui
+doivent ultérieurement subir la fermentation. — Mais, d'abord, il faudrait que
+l'air, à l'époque des vendanges, fût rempli de traces de levure, et c'est ce
+que personne n'a démontré : on presse le jus de raisins et on le laisse
+fermenter où l'on veut, pourvu que la température soit seulement assez élevée.
+Habich a fait également une expérience qui, selon lui, devait prouver
+l'exactitude de son opinion, mais qui ne prouve rien. — Il a placé près de la
+cuve-guilloire deux vases de verre pleins de moût bien clair. — Le col de l'un
+des vases était bouché avec du coton, tandis que le col de l'autre était ouvert.
+Au bout de quatorze jours, la fermentation ne s'était produite ni dans l'un, ni
+dans l'autre. S'il y avait eu des traces de cellules de levure dans l'air de la
+brasserie, il aurait dû se produire des cellules de levure dans le vase ouvert,
+et c'est ce qui n'a pas eu lieu.
 
-1. Dingler's Journal, t. CXLVIII, p. 379.
+Habich pense du reste que, dans les tonneaux en bois que l'on emploie dans la
+méthode belge, il doit rester des traces de cellules de levure, provenant de
+fermentations antérieures, qui sont suffisantes pour produire la fermentation.
 
-bout de quatorze jours, la fermentation ne s'était produite ni dans l'un, ni dans l'autre. S'il y avait eu des traces de cellules de levure dans l'air de la brasserie, il aurait dû se produire des cellules de levure dans le vase ouvert, et c'est ce qui n'a pas eu lieu.
+Nous croyons devoir indiquer encore ici quelques règles pratiques qui
+ressortent de ce que nous venons de dire.
 
-Habich pense du reste que, dans les tonneaux en bois que l'on emploie dans la méthode belge, il doit rester des traces de cellules de levure, provenant de fermentations antérieures, qui sont suffisantes pour produire la fermentation.
+La bière, préparée avec du malt fortement touraillé, exige l'addition d'une
+quantité de levure plus grande que la bière préparée avec du malt faiblement
+touraillé : par une forte dessiccation à la touraillé, la substance génératrice
+de la levure qui doit se former, est détruite.
 
-Nous croyons devoir indiquer encore ici quelques règles pratiques qui ressortent de ce que nous venons de dire.
+Plus la levure que l'on ajoute est fraîche, plus la fermentation suit son cours
+régulier.
 
-La bière, préparée avec du malt fortement touraillé, exige l'addition d'une quantité de levure plus grande que la bière préparée avec du malt faiblement touraillé : par une forte dessiccation à la touraillé, la substance génératrice de la levure qui doit se former, est détruite.
+Plus la température de l'air est basse, plus est grande la quantité de levure
+que l'on doit ajouter pour produire la fermentation, aussi bien la fermentation
+par dépôt que la fermentation superficielle.
 
-Plus la levure que l'on ajoute est fraîche, plus la fermentation suit son cours régulier.
+Quelquefois on ajoute en une fois la quantité de levure qui est nécessaire ;
+quelquefois on l'ajoute peu à peu, suivant que la fermentation marche bien ou
+non.
 
-Plus la température de l'air est basse, plus est grande la quantité de levure que l'on doit ajouter pour produire la fermentation, aussi bien la fermentation par dépôt que la fermentation superficielle.
+En ce qui concerne la levure, on peut encore faire les observations suivantes.
+Si l'on ne brasse pas continuellement, on doit ou bien veiller à la bonne
+conservation de la levure, ou bien en préparer de nouvelle lorsqu'on veut
+brasser.
 
-Quelquefois on ajoute en une fois la quantité de levure qui est nécessaire ; quelquefois on l'ajoute peu à peu, suivant que la fermentation marche bien ou non.
+Pour conserver la levure, on la mélange avec une grande quantité de sucre de
+manière que le mélange prenne un aspect pulvérulent. Un lavage préalable de la
+levure au moyen de l'eau est préférable pour sa conservation : on doit du
+reste, pour la conserver, employer un tonneau que l'on ait soin de bien remplir
+et de bien fermer. Le sucre agit ici comme moyen de dessécher et de diviser la
+matière.
 
-En ce qui concerne la levure, on peut encore faire les observations suivantes. Si l'on ne brasse pas continuellement, on doit ou bien veiller à la bonne conservation de la levure, ou bien en préparer de nouvelle lorsqu'on veut brasser.
+Ou bien on mélange à la levure une quantité de charbon animal assez grande pour
+qu'elle devienne sèche. On remplit entièrement un tonneau de ce mélange et on
+le conserve dans un endroit frais. Si l'on veut prendre une partie du ferment
+ainsi conservé pour l'employer, on agite le mélange avec du moût récemment
+préparé et l'on sépare le charbon par filtration.
 
-Pour conserver la levure, on la mélange avec une grande quantité de sucre de manière que le mélange prenne un aspect pulvérulent. Un lavage préalable de la levure au moyen de l'eau est préférable pour sa conservation : on doit du reste, pour la conserver, employer un tonneau que l'on ait soin de bien remplir et de bien fermer. Le sucre agit ici comme moyen de dessécher et de diviser la matière.
+Pour l'avoir fraîche, on conserve la levure, sans y rien ajouter, en
+remplissant entièrement de cette levure des flacons que l'on ferme bien et en
+conservant ces flacons à une température basse. On peut encore laver une fois
+la levure avec de l'eau, l'exprimer et en remplir des flacons.
 
-Ou bien on mélange à la levure une quantité de charbon animal assez grande pour qu'elle devienne sèche. On remplit entièrement un tonneau de ce mélange et on le conserve dans un endroit frais. Si l'on veut prendre une partie du
+Ou bien on enferme la levure dans un sac que l'on plonge dans un tonneau
+entièrement rempli de vieille bière de garde[^30].
 
-ferment ainsi conservé pour l'employer, on agite le mélange avec du moût récemment préparé et l'on sépare le charbon par filtration.
+Pour préparer de la levure fraîche, on emploie le dépôt de levure que l'on
+trouve au fond des tonneaux dans lesquels on a mis de la bière de garde, et on
+le mélange avec une petite quantité, d'une infusion concentrée de malt. La
+levure qui se produit ainsi est de la levure superficielle ou de la levure de
+dépôt, suivant la manière dont on a réglé la température pendant sa production.
+ — Avec la levure ainsi obtenue, on doit préparer encore, au moyen d'une
+nouvelle infusion de malt, une nouvelle quantité de levure avant d'obtenir une
+levure telle qu'on puisse l'employer avec assurance dans la préparation de la
+bière, pour déterminer une bonne fermentation.
 
-Pour l'avoir fraîche, on conserve la levure, sans y rien ajouter, en remplissant entièrement de cette levure des flacons que l'on ferme bien et en conservant ces flacons à une température basse. On peut encore laver une fois la levure avec de l'eau, l'exprimer et en remplir des flacons.
+Si l'on n'a pas de levure, on peut prendre pour point de départ une petite
+quantité de moût qui soit susceptible de donner naissance à de la levure, sans
+qu'il soit nécessaire d'y ajouter préalablement de la levure. Au moyen de la
+levure ainsi obtenue, on prépare, avec une nouvelle quantité de moût, une
+quantité plus grande de levure et on répète la même opération, non seulement
+jusqu'à ce que l'on ait obtenu une quantité suffisante de levure, mais encore
+jusqu'à ce que l'on ait obtenu de la levure superficielle ou de la levure de
+dépôt qui présente les propriétés convenables pour déterminer la fermentation
+dans la préparation de la bière[^31].
 
-Ou bien on enferme la levure dans un sac que l'on plonge dans un tonneau entièrement rempli de vieille bière de garde 1.
+Lorsqu'on manque de levure, on peut, d'après Fownes, en préparer de la manière
+suivante[^32] :
 
-Pour préparer de la levure fraîche, on emploie le dépôt de levure que l'on trouve au fond des tonneaux dans lesquels on a mis de la bière de garde, et on le mélange avec une petite quantité, d'une infusion concentrée de malt. La levure qui se produit ainsi est de la levure superficielle ou de la levure de dépôt, suivant la manière dont on a réglé la température pendant sa production. — Avec la levure ainsi obtenue, on doit préparer encore, au moyen d'une nouvelle infusion de malt, une nouvelle quantité de levure avant d'obtenir une levure telle qu'on puisse l'employer avec assurance dans la préparation de la bière, pour déterminer une bonne fermentation.
+Après avoir malaxé de la farine de froment avec de l'eau, de manière à en
+former une pâte ferme, on expose le tout à une température modérément élevée.
+Il commence, au bout de trois jours, à se dégager de la masse une odeur aigre,
+désagréable, qui cependant disparaît plus tard : il se produit un dégagement de
+gaz qui augmente, et, vers le sixième ou le septième jour, il se manifeste une
+odeur agréable, spiritueuse. On agite alors cette pâte de froment avec de l'eau
+tiède, et on la mélange avec une infusion de malt à 40°C. La fermentation se
+produit immédiatement. Il se sépare de cette liqueur une levure de très bonne
+qualité.
 
-Si l'on n'a pas de levure, on peut prendre pour point de départ une petite quantité de moût qui soit susceptible de donner naissance à de la levure, sans qu'il soit nécessaire d'y ajouter préalablement de la levure. Au moyen de la levure ainsi obtenue, on prépare, avec une nouvelle quantité de moût, une quantité plus grande de levure et on répète la même opération, non seulement jusqu'à ce que l'on ait obtenu une quantité suffisante de levure, mais encore jusqu'à ce que l'on ait obtenu de la levure superficielle ou de la levure de dépôt qui présente les propriétés convenables pour déterminer la fermentation dans la préparation de la bière 2.
+En ce qui concerne les quantités à employer, Fownes indique une poignée de
+farine de froment, un pot de malt et trois pots d'eau. On doit en retirer un
+demi-pot de bonne levure humide. Ces indications de quantités sont du reste
+défectueuses.
 
-Lorsqu'on manque de levure, on peut, d'après Fownes, en préparer de la manière suivante 3 :
+En outre, Fownes recommande de ne pas employer seulement, pour la préparation
+de la levure artificielle, de l'infusion de malt, mais d'employer du moût qui a
+bouilli avec du houblon. L'emploi du houblon doit toutefois présenter ici
+plutôt de l'inconvénient que de l'avantage, ainsi que cela ressort nettement de
+la préparation de la levure de Schiedam. En effet, serait-ce l'acide tannique,
+la substance amère ou l'huile essentielle du houblon qui serait favorable à la
+production de la levure ?
 
-1. La question de la conservation de la levure a été traitée avec détail par A. Müller dans Erdmann's Journal, t. LVII, p. 162.
+Si, dans la fermentation superficielle, la fermentation n'est pas assez vive,
+et si le moût ne contient pas assez de levure, on peut, en ajoutant une petite
+quantité de malt moulu en farine fine, augmenter la production de la levure.
 
-2. Müller, Handbuch für Bierbrauer, 1854, p. 39.
+En Angleterre, on est dans l'habitude d'enlever plusieurs fois de la levure
+pendant la fermentation afin de ralentir l'action. Il existe donc toujours un
+excès de levure.
 
-3. Philos. Map., t. XXI, p. 352.
+Je n'ai du reste pas l'intention de traiter ici en détail de la production de
+la levure.
 
-Après avoir malaxé de la farine de froment avec de l'eau, de manière à en former une pâte ferme, on expose le tout à une température modérément élevée. Il commence, au bout de trois jours, à se dégager de la masse une odeur aigre, désagréable, qui cependant disparaît plus tard: il se produit un dégagement de gaz qui augmente, et, vers le sixième ou le septième jour, il se manifeste une odeur agréable, spiritueuse. On agite alors cette pâte de froment avec de l'eau tiède, et on la mélange avec une infusion de malt à 40°. La fermentation se produit immédiatement. Il se sépare de cette liqueur une levure de très bonne qualité.
+Bull[^33] et Mitscherlich[^34] ont trouvé pour la composition des cendres de
+levure de bière blanche les résultats suivants :
 
-En ce qui concerne les quantités à employer, Fownes indique une poignée de farine de froment, un pot de malt et trois pots d'eau. On doit en retirer un demi-pot de bonne levure humide. Ces indications de quantités sont du reste défectueuses.
 
-En outre, Fownes recommande de ne pas employer seulement, pour la préparation de la levure artificielle, de l'infusion de malt, mais d'employer du moût qui a bouilli avec du houblon. L'emploi du houblon doit toutefois présenter ici plutôt de l'inconvénient que de l'avantage, ainsi que cela ressort nettement de la préparation de la levure de Schiedam. En effet, serait-ce l'acide tannique, la substance amère ou l'huile essentielle du houblon qui serait favorable à la production de la levure ?
 
-Si, dans la fermentation superficielle, la fermentation n'est pas assez vive, et si le moût ne contient pas assez de levure, on peut, en ajoutant une petite quantité de malt moulu en farine fine, augmenter la production de la levure.
 
-En Angleterre, on est dans l'habitude d'enlever plusieurs fois de la levure pendant la fermentation afin de ralentir l'action. Il existe donc toujours un excès de levure.
 
-Je n'ai du reste pas l'intention de traiter ici en détail de la production de la levure.
 
-Bull 1 et Mitscherlich 2 ont trouvé pour la composition des cendres de levure de bière blanche les résultats suivants :
-
-1 Pogg. Annalen, t. LXXVI, p. 401.
-
-?. Annalen der Chemie und Pharmacie, t. LVI, p. 356.
 
 MITSCHERLICH.
 
@@ -1468,5 +1549,18 @@ cours ultérieur de la fermentation : dans toutes les deux, la marche est la
 même, en sorte que l'acide lactique possède bien la faculté de dissoudre les
 substances albumineuses, mais n'accélère pas plus qu'il ne ralentit la
 fermentation. (*De Wijn*, p. 64.)
+
+[^29]: *Dingler's Journal*, t. CXLVIII, p. 379.
+
+[^30]: La question de la conservation de la levure a été traitée avec détail par A. Müller dans *Erdmann's Journal*, t. LVII, p. 162.
+
+[^31]: Müller, *Handbuch für Bierbrauer*, 1854, p. 39.
+
+[^32]: *Philos. Map.*, t. XXI, p. 352.
+
+[^33]: *Pogg. Annalen*, t. LXXVI, p. 401.
+
+[^34]: *Annalen der Chemie und Pharmacie*, t. LVI, p. 356.
+
 
 

@@ -194,6 +194,8 @@ Si nous comparons la composition de cette substance avec celle des substances
 albumineuses, nous trouvons qu'elle est exprimée par la formule
 C<sub>36</sub>H<sub>25</sub>N<sub>4</sub>O<sub>15</sub> + 8HO. On obtient donc:
 
+<figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
+  <table style="width: 100%;">
 <tr>
   <th>Groupement organique de l'albumine</th>
   <td>C<sub>35</sub>H<sub>25</sub>Az<sub>4</sub>O<sub>10</sub></td>
@@ -206,9 +208,8 @@ C<sub>36</sub>H<sub>25</sub>N<sub>4</sub>O<sub>15</sub> + 8HO. On obtient donc:
   <th>Groupement organique de l'extraitaqueux de levure.</th>
   <td>C<sub>36</sub>H<sub>25</sub>Az<sub>4</sub>O<sub>15</sub></td>
 </tr>
-
-
-
+  </table>
+</figure>
 
 La deuxième substance, celle par conséquent qui se produit dans le moût par
 l'ébullition, est donc en voie de se transformer en extrait de levure,
@@ -1298,61 +1299,146 @@ transformation préalable en sucre qu'on lui fait subir dans la préparation de
 la bière, par l'action de l'agent transformateur, avant de la soumettre à la
 fermentation.
 
-Berthelot a vu que, en opérant à une température de 50°, plusieurs semaines étaient nécessaires pour déterminer le dédoublement des substances indiquées, et il a observé que, outre l'alcool et l'acide carbonique, il se produisait toujours d'autres substances aux dépens de la matière qui était soumise à l'expérience.
+Berthelot a vu que, en opérant à une température de 50°C, plusieurs semaines
+étaient nécessaires pour déterminer le dédoublement des substances indiquées,
+et il a observé que, outre l'alcool et l'acide carbonique, il se produisait
+toujours d'autres substances aux dépens de la matière qui était soumise à
+l'expérience.
 
-On dissolvait les substances dans l'eau ; on employait, pour produire la fermentation, une substance animale, dans la plupart des cas la caséine, et, dans tous les cas, on ajoutait du carbonate de chaux à la masse, afin de neutraliser les acides qui pouvaient se former et de paralyser leur influence contraire. — Le carbonate de chaux n'est pas nécessaire dans la fermentation des sucres proprement dits; mais Berthelot pense que, dans ce cas aussi, il exerce une action avantageuse et favorise la fermentation, ce qu'il explique en disant qu'il se produit toujours, bien qu'en
+On dissolvait les substances dans l'eau ; on employait, pour produire la
+fermentation, une substance animale, dans la plupart des cas la caséine, et,
+dans tous les cas, on ajoutait du carbonate de chaux à la masse, afin de
+neutraliser les acides qui pouvaient se former et de paralyser leur influence
+contraire. — Le carbonate de chaux n'est pas nécessaire dans la fermentation
+des sucres proprement dits ; mais Berthelot pense que, dans ce cas aussi, il
+exerce une action avantageuse et favorise la fermentation, ce qu'il explique en
+disant qu'il se produit toujours, bien qu'en petite quantité, des acides qui
+exerceraient une action contraire et que le carbonate de chaux neutralise.
+Chevreul avait déjà émis cette opinion. J'ai déjà fait observer (p. 45) et j'ai
+démontré que la pratique confirme cette manière de voir.
 
-petite quantité, des acides qui exerceraient une action contraire et que le carbonate de chaux neutralise. Chevreul avait déjà émis cette opinion. J'ai déjà fait observer (p. 45) et j'ai démontré que la pratique confirme cette manière de voir.
+Non seulement l'acide lactique et l'acide acétique qui existent déjà dans la
+bière sont transformés par le carbonate de chaux en sels qui ne sont pas
+nuisibles (c'est-à-dire qui ne sont pas nuisibles à la fermentation), mais le
+carbonate de chaux exerce encore une action utile en ce qu'il neutralise les
+acides qui se produisent par la décomposition de la levure. Berthelot a pu
+remplacer le carbonate de chaux par d'autres carbonates, par des oxydes
+métalliques, et même par du fer et du zinc qui, à l'état d'oxydes, neutralisent
+également les acides qui se forment et les empêchent d'être nuisibles à la
+fermentation.
 
-Non seulement l'acide lactique et l'acide acétique qui existent déjà dans la bière sont transformés par le carbonate de chaux en sels qui ne sont pas nuisibles (c'est-à-dire qui ne sont pas nuisibles à la fermentation), mais le carbonate de chaux exerce encore une action utile en ce qu'il neutralise les acides qui se produisent par la décomposition de la levure. Berthelot a pu remplacer le. carbonate de chaux par d'autres carbonates, par des oxydes métalliques, et même par du fer et du zinc qui, à l'état d'oxydes, neutralisent également les acides qui se forment et les empêchent d'être nuisibles à la fermentation.
+Mais, si la séparation de tous les acides libres par l'action du carbonate de
+chaux dans la préparation de la bière peut exercer une action favorable à la
+fermentation, on ne doit pas oublier que, dans la préparation de la bière,
+cette séparation doit avoir des limites, et que ce que Berthelot considère avec
+juste raison comme étant favorable à la fermentation ne peut pas s'appliquer
+dans toute son étendue à la préparation de la bière. Si, dans la préparation de
+la bière, on introduisait dans la cuve-guilloire un excès de carbonate de
+chaux, on ôterait ainsi à la bière cette saveur fraîche qui, tempérée par le
+sucre et la dextrine, constitue précisément celle que l'on exige de la bière.
+Mais on séparerait, en outre, de la bière tout l'acide phosphorique et toute la
+substance albumineuse, et l'on enlèverait par conséquent à la bière des parties
+constituantes qui en font une boisson utile.
 
-Mais, si la séparation de tous les acides libres par l'action du carbonate de chaux dans la préparation de la bière peut exercer une action favorable à la fermentation, on ne doit pas oublier que, dans la préparation de la bière, cette séparation doit avoir des limites, et que ce que Berthelot considère avec juste raison comme étant favorable à la fermentation ne peut pas s'appliquer dans toute son étendue à la préparation de la bière. Si, dans la préparation de la bière, on introduisait dans la cuve-guilloire un excès de carbonate de chaux, on ôterait ainsi à la bière cette saveur fraîche qui, tempérée par le sucre et la dextrine, constitue précisément celle que l'on exige de la bière. Mais on séparerait, en outre, de la bière tout l'acide phosphorique et toute la substance albumineuse, et l'on enlèverait par conséquent à la bière des parties constituantes qui en font une boisson utile.
+De ce que Berthelot a confirmé par ses expériences ce fait qui, du reste, était
+déjà suffisamment acquis à la science, qu'un ferment alcoolique n'agit pas par
+sa forme, mais agit par sa composition, et que, par conséquent, les globules de
+levure n'agissent pas parce qu'ils possèdent la forme globulaire, mais parce
+qu'ils contiennent une substance albumineuse en décomposition, il n'en résulte
+pas que, dans la fermentation, la forme soit entièrement indifférente, bien que
+Berthelot ait vu la fermentation se produire par l'action de substances
+albumineuses de différentes espèces et aussi par l'action de la gélatine, ce
+qui, du resté était déjà connu[^36]. La différence entre la levure
+superficielle et la levure de dépôt nous démontre suffisamment que la manière
+dont le contenu des cellules agit détermine le caractère particulier de la
+fermentation. Il peut y avoir fermentation sans que l'on ajoute de la levure ;
+mais obtenir telle ou telle fermentation qui soit cependant toujours
+alcoolique, cela dépend de la nature même de la levure.
 
-De ce que Berthelot a confirmé par ses expériences ce fait qui, du reste, était déjà suffisamment acquis à la science, qu'un ferment alcoolique n'agit pas par sa forme, mais agit par sa composition, et que, par conséquent, les globules de levure n'agissent pas parce qu'ils possèdent la forme globulaire, mais parce qu'ils contiennent une substance albumineuse en décomposition, il n'en résulte pas que, dans la fermentation, la forme soit entièrement indifférente, bien que Berthelot ait vu la fermentation se produire par l'action de substances albumineuses de différentes espèces et aussi
+Si, donc, Berthelot a observé que, en opérant complètement à l'abri du contact
+de l'air, il ne se produit pas de cellules de levure, lorsqu'on emploie la
+caséine ou la gélatine comme ferment, bien qu'il se forme de l'alcool et de
+l'acide carbonique aux dépens du sucre, ce fait est une confirmation de ce que
+l'on savait déjà, que la fermentation et la production des cellules de levure
+sont deux phénomènes différents qui ne se rattachent pas nécessairement l'un à
+l'autre ; mais on ne peut pas en conclure qu'il puisse se produire une bonne
+fermentation de la bière sans qu'il y ait en même temps production de cellules
+de levure, et, alors même que cela serait possible, la production de la levure
+dans la fermentation de la bière ne détermine aucun résultat que l'on pourrait
+entièrement supprimer.
 
-par l'action de la gélatine, ce qui, du resté était déjà connu 1. La différence entre la levure superficielle et la levure de dépôt nous démontre suffisamment que la manière dont le contenu des cellules agit détermine le caractère particulier de la fermentation. Il peut y avoir fermentation sans que l'on ajoute de la levure ; mais obtenir telle ou telle fermentation qui soit cependant toujours alcoolique, cela dépend de la nature même de la levure.
+Les résultats que Berthelot a obtenus par exemple dans la fermentation de la
+mannite par l'action de la caséine, en présence du carbonate de chaux, sont
+tout à fait remarquables. En même temps qu'il se produit de l'alcool et qu'il
+se dégage de l'acide carbonique et de l'hydrogène, la caséine ne se putréfie
+pas. Elle ne donne pas un seul produit de putréfaction, mais elle se décompose
+en produits gazeux, et presque tout son azote se dégage à l'état libre.
+Berthelot en conclut que la mannite, à l'état de décomposition, détermine le
+mode de décomposition de la caséine de même que la caséine détermine le mode de
+décomposition de la mannite : cette conclusion pouvait du reste déjà être tirée
+d'une expérience de Schmidt dans laquelle ce chimiste a vu que de la fibrine
+putréfiée, dès qu'elle est mise en contact avec une dissolution de sucre, cesse
+de se putréfier et remplit les fonctions d'un ferment.
 
-Si, donc, Berthelot a observé que, en opérant complètement à l'abri du contact de l'air, il ne se produit pas de cellules de levure, lorsqu'on emploie la caséine ou la gélatine comme ferment, bien qu'il se forme de l'alcool et de l'acide carbonique aux dépens du sucre, ce fait est une confirmation de ce que l'on savait déjà, que la fermentation et la production des cellules de levure sont deux phénomènes différents qui ne se rattachent pas nécessairement l'un à l'autre ; mais on ne peut pas en conclure qu'il puisse se produire une bonne fermentation de la bière sans qu'il y ait en même temps production de cellules de levure, et, alors même que cela serait possible, la production de la levure dans la fermentation de la bière ne détermine aucun résultat que l'on pourrait entièrement supprimer.
+Tous ces résultats présentent une certaine importance lorsqu'on veut arriver à
+la connaissance de la fermentation complémentaire qui se produit dans la bière,
+tant de celle qui mérite réellement ce nom que de celle qui continue à se
+produire dans la bière jusqu'à ce qu'elle cesse d'être de la bière, soit
+qu'elle ait été enfermée dans des tonneaux ou dans d'autres vases.
 
-Les résultats que Berthelot a obtenus par exemple dans la fermentation de la mannite par l'action de la caséine, en présence du carbonate de chaux, sont tout à fait remarquables. En même temps qu'il se produit de l'alcool et qu'il se dégage de l'acide carbonique et de l'hydrogène, la caséine ne se putréfie pas. Elle ne donne pas un seul produit de putréfaction, mais elle se décompose en produits gazeux, et presque tout son azote se dégage à l'état libre. Berthelot en conclut que la mannite, à l'état de décomposition, détermine le mode de décomposition de la caséine de même que la caséine détermine le mode de décomposition de la mannite : cette conclusion pouvait du reste déjà être tirée d'une expérience de Schmidt dans laquelle ce chimiste a vu que de la fibrine putréfiée, dès qu'elle est mise en contact avec une dissolution de sucre, cesse de se putréfier et remplit les fonctions d'un ferment.
+Pour mieux faire comprendre le mode de transformation dont je veux parler ici,
+j'indiquerai encore quelques expériences de Berthelot, qui se rattachent
+entièrement à notre sujet ; il exécutait ces expériences dans des vases
+entièrement pleins qui ne donnaient issue aux gaz qu'au moyen d'un
+tube plongeant sous le mercure. On se trouvait ainsi dans des conditions
+analogues à celles où se trouve la bière lorsqu'elle est dans des tonneaux
+fermés ou bien dans des cruches ou dans des flacons que l'on a bouchés avec des
+bouchons.
 
-Tous ces résultats présentent une certaine importance lorsqu'on veut arriver à la connaissance de la fermentation
+10g de sucre de canne, 120g d'eau, 10g de craie et 2g de fromage étaient
+mélangés ensemble et maintenus en contact pendant six semaines à une
+température de 40°C. On a obtenu 1,2g d'alcool ou 12%. En outre, on a trouvé,
+dans la liqueur, du lactate de chaux, des cellules de levure et 30g de sucre
+modifié.
 
-1. De Wijn, p. 56.
+170g de sucre de canne, 2 litres d'eau, 200g de craie et 200g de fromage ont
+été maintenus ensemble pendant deux mois à une température de 0°C et ont
+produit 10g, c'est-à-dire 6% d'alcool, du lactate de chaux, un peu de butyrate
+de chaux, mais n'ont pas produit de mannite.
 
-complémentaire qui se produit dans la bière, tant de celle qui mérite réellement ce nom que de celle qui continue à se produire dans la bière jusqu'à ce qu'elle cesse d'être de la bière, soit qu'elle ait été enfermée dans des tonneaux ou dans d'autres vases.
+50g de glucose, 800g d'eau, 50g de craie et 20g de fromage ont donné, au bout
+de cinq mois, à la température ordinaire, 1g d'alcool, c'est-à-dire 2%, et du
+butyrate de chaux.
 
-Pour mieux faire comprendre le mode de transformation dont je veux parler ici, j'indiquerai encore quelques expériences de Berthelot, qui se rattachent entièrement à notre sujet; il exécutait ces expériences dans des vases entièrement pleins qui ne donnaient issue aux gaz qu'au moyen d'un tube plongeant sous le mercure. On se trouvait ainsi dans des conditions analogues à celles où se trouve la bière lorsqu'elle est dans des tonneaux fermés ou bien dans des cruches ou dans des flacons que l'on a bouchés avec des bouchons.
+50g de glucose, 800g d'eau, 20g de fromage et 50g de gypse n'ont donné, du 18
+décembre 1855 au 12 mai 1858, aucune trace d'alcool. Il existait dans la
+liqueur une certaine quantité de cellules de levure. Le 2 juin, on a ajouté 50g
+de craie et 20g de fromage. Le 22 juin, la glucose avait disparu ; il s'était
+produit 7g d'alcool, c'est-à-dire 14%, du lactate de chaux, du butyrate de
+chaux, mais il ne s'était pas produit de mannite, ni de sulfure de calcium.
 
-10gr de sucre de canne, 120gr d'eau, 10gr de craie et 2gr de fromage étaient mélangés ensemble et maintenus en contact pendant six semaines à une température de 40°. On a obtenu 1gr, 2 d'alcool ou 12 pour 100. En outre, on a trouvé, dans la liqueur, du lactate de chaux, des cellules de levure et 30gr de sucre modifié.
+Les expériences suivantes ne présentent pas une moindre importance pour le but
+que nous nous proposons.
 
-170gr de sucre de canne, 2 litres d'eau, 200gr de craie et 200gr de fromage ont été maintenus ensemble pendant deux mois à une température de 0°et ont produit 10gr, c'est-à-dire 6 pour 100 d'alcool, du lactate de chaux, un peu de butyrate de chaux, mais n'ont pas produit de mannite.
+10g d'amidon, 120g d'eau, 10g de craie et 2g de fromage ont été maintenus,
+pendant six semaines, à une température de 40°C et ont fourni 1g, 6 d'alcool,
+c'est-à-dire 16%, un sel de chaux soluble, un peu d'amidon non décomposé, mais
+n'ont donné ni sucre, ni levure.
 
-50gr de glucose, 800gr d'eau, 50gr de craie et 20gr de fromage ont donné, au bout de cinq mois, à la température ordinaire, 1gr d'alcool, c'est-à-dire 2 pour 100, et du butyrate de chaux.
+Dans une expérience exécutée sur les mêmes quantités, on a analysé la liqueur
+tous les deux jours et l'on n'a pas trouvé de sucre.
 
-50gr de glucose, 800gr d'eau, 20gr de fromage et 50gr de gypse n'ont donné, du 18 décembre 1855 au 12 mai 1858, aucune trace d'alcool. Il existait dans la liqueur une certaine quantité de cellules de levure. Le 2 juin, on a ajouté 50gr de craie et 20gr de fromage. Le 22 juin, la glucose avait dis paru; il s'était produit 7gr d'alcool, c'est-à-dire 14 pour 100, du lactate de chaux, du butyrate de chaux, mais il ne s'était pas produit de mannite, ni de sulfure de calcium.
+L'amidon peut donc donner de l'alcool, sans passer préalablement à l'état de
+sucre.
 
-Les expériences suivantes ne présentent pas une moindre importance pour le but que nous nous proposons.
+10g de gomme arabique, 120g d'eau, 10g de craie, 2g de fromage maintenus
+ensemble pendant six semaines à une température de 40°C ont produit 1g, 2
+d'alcool, c'est-à-dire 12%, un sel de chaux soluble, mais n'ont fourni ni
+levure, ni sucre, ni glycérine.
 
-10gr d'amidon, 120gr d'eau, 10gr de craie et 2gr de fromage ont été maintenus, pendant six semaines, à une température
-
-de 40° et ont fourni 1gr, 6 d'alcool, c'est-à-dire 16 p. 100, un sel de chaux soluble, un peu d'amidon non décomposé, mais n'ont donné ni sucre, ni levure.
-
-Dans une expérience exécutée sur les mêmes quantités, on a analysé la liqueur tous les deux jours et l'on n'a pas trouvé de sucre.
-
-L'amidon peut donc donner de l'alcool, sans passer préalablement à l'état de sucre.
-
-10gr de gomme arabique, 120gr d'eau, 10gr de craie, 2gr de fromage maintenus ensemble pendant six semaines à une température de 40° ont produit 1gr, 2 d'alcool, c'est-à-dire 12 pour 100, un sel de chaux soluble, mais n'ont fourni ni levure, ni sucre, ni glycérine.
-
-Les expériences de Berthelot ouvrent, à mon avis, une voie qui conduit à une idée beaucoup plus générale que celle que l'on se faisait jusqu'ici de la fermentation alcoolique.
-
-
-
-
-
-
-
-
+Les expériences de Berthelot ouvrent, à mon avis, une voie qui conduit à une
+idée beaucoup plus générale que celle que l'on se faisait jusqu'ici de la
+fermentation alcoolique.
 
 
 
@@ -1501,5 +1587,8 @@ sur la fermentation dans sa *Chimie organique fondée sur la synthèse*, t. II,
 p. 604 et suivantes, à laquelle nous renverrons également ceux de nos lecteurs
 qui désireraient connaître avec plus de détail l'opion de ce chimiste sur le
 sujet si important dont il est ici question.
+
+[^36]: *De Wijn*, p. 56.
+
 
 

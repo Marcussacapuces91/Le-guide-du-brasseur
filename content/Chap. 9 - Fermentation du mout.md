@@ -979,27 +979,55 @@ ou la levure superficielle, donne naissance à une substance qui exerce une
 action vive, et que la levure qui exerce une action lente, donne naissance à de
 la levure de dépôt.
 
-Ces deux faits étant admis, ils peuvent nous être utiles dans l'examen ultérieur du phénomène, lorsque nous soulevons la question suivante : que se passe-t-il dans la fermentation dont la marche est lente ? Que se passe-t-il dans la fermentation dont la marche est rapide ?
+Ces deux faits étant admis, ils peuvent nous être utiles dans l'examen
+ultérieur du phénomène, lorsque nous soulevons la question suivante : que se
+passe-t-il dans la fermentation dont la marche est lente ? Que se passe-t-il
+dans la fermentation dont la marche est rapide ?
 
-Dans la fermentation dont la marche est lente, l'oxygène de l'air a certainement un accès plus facile : mais l'accès
+Dans la fermentation dont la marche est lente, l'oxygène de l'air a
+certainement un accès plus facile : mais l'accès plus ou moins facile de
+l'oxygène de l'air ne détermine pas le phénomène : il n'a même peut-être pas la
+moindre influence[^27].
 
-plus ou moins facile de l'oxygène de l'air ne détermine pas le phénomène : il n'a même peut-être pas la moindre influence
+Dans la fermentation dont la marche est lente, il ne se produit pas une
+élévation de température aussi considérable : mais l'élévation de température
+est la conséquence et n'est assurément pas la cause d'une action quelconque.
 
-Dans la fermentation dont la marche est lente, il ne se produit pas une élévation de température aussi considérable : mais l'élévation de température est la conséquence et n'est assurément pas la cause d'une action quelconque.
+La fermentation lente est la cause qui détermine aux dépens du sucre la
+production non seulement de l'alcool et de l'acide carbonique, mais aussi
+d'autres substances qui ne se produisent pas dans la fermentation dont la
+marche est rapide. C'est là un autre fait dont on peut sans difficulté
+reconnaître la généralité ; il a été du reste pleinement confirmé par
+l'expérience. En effet, dans toutes les bières qui sont le produit d'une
+fermentation par dépôt, il se produit de l'acide lactique : dans la bière
+provenant de fermentation superficielle, l'acide lactique n'est qu'en petite
+quantité. Lorsqu'il y a production d'acide lactique, il ne se produit pas en
+même temps de l'acide acétique : là où il existe une quantité considérable
+d'acide lactique, il ne peut pas facilement se produire de l'acide acétique.
 
-La fermentation lente est la cause qui détermine aux dépens du sucre la production non seulement de l'alcool et de l'acide carbonique, mais aussi d'autres substances qui ne se produisent pas dans la fermentation dont la marche est rapide. C'est là un autre fait dont on peut sans difficulté reconnaître la généralité ; il a été du reste pleinement confirmé par l'expérience. En effet, dans toutes les bières qui sont le produit d'une fermentation par dépôt, il se produit de l'acide lactique : dans la bière provenant de fermentation superficielle, l'acide lactique n'est qu'en petite quantité. Lorsqu'il y a production d'acide lactique, il ne se produit pas en même temps de l'acide acétique : là où il existe une quantité considérable d'acide lactique, il ne peut pas facilement se produire de l'acide acétique.
+Cela nous fournit une différence importante entre les bières produites au moyen
+de la fermentation par dépôt et les bières produites au moyen de la
+fermentation superficielle. Les premières peuvent être exposées à l'air sans
+que l'alcool s'y transforme facilement en acide acétique : en effet, l'acide
+lactique empêche cette transformation. Les dernières au contraire ne
+contiennent que peu d'acide lactique : l'alcool peut donc y passer à l'état
+d'acide acétique par l'action de l'air.
 
-Cela nous fournit une différence importante entre les bières produites au moyen de la fermentation par dépôt et les bières produites au moyen de la fermentation superficielle. Les premières peuvent être exposées à l'air sans que l'alcool s'y transforme facilement en acide acétique : en effet, l'acide lactique empêche cette transformation. Les dernières au contraire ne contiennent que peu d'acide lactique : l'alcool peut donc y passer à l'état d'acide acétique par l'action de l'air.
-
-Il existe cependant entre les bières obtenues au moyen de la fermentation superficielle et les bières obtenues au moyen de la fermentation par dépôt une différence plus prononcée qui se rattache à la différence du mode de fermentation et qui peut en être ou la cause ou bien le résultat.
+Il existe cependant entre les bières obtenues au moyen de la fermentation
+superficielle et les bières obtenues au moyen de la fermentation par dépôt une
+différence plus prononcée qui se rattache à la différence du mode de
+fermentation et qui peut en être ou la cause ou bien le résultat.
 
 Je veux parler de la possibilité de produire de nouveau ferment.
 
-Suivant Liebig, il ne doit rester dans la bière préparée au moyen de la fermentation par dépôt qu'une quantité tout
-
-1. De Wijn scheikundig beschouwd, p. 44.
-
-à fait peu considérable de substances albumineuses, tandis que la bière obtenue par fermentation superficielle doit au contraire en tenir de grandes quantités en dissolution. Si cela était réellement, les bières de Brabant, de Bavière et beaucoup d'autres bières devraient manquer de la partie constituante qui est surtout nutritive et devraient par suite venir après la bière jeune de Hollande la plus simple.
+Suivant Liebig, il ne doit rester dans la bière préparée au moyen de la
+fermentation par dépôt qu'une quantité tout à fait peu considérable de
+substances albumineuses, tandis que la bière obtenue par fermentation
+superficielle doit au contraire en tenir de grandes quantités en dissolution.
+Si cela était réellement, les bières de Brabant, de Bavière et beaucoup
+d'autres bières devraient manquer de la partie constituante qui est surtout
+nutritive et devraient par suite venir après la bière jeune de Hollande la plus
+simple.
 
 Cela n'est positivement pas exact : il n'existe pas moins de matières albumineuses dans les bières obtenues au moyen de la fermentation par dépôt : au contraire, il s'en trouve plus; mais ces matières albumineuses ne sont pas à l'état convenable pour pouvoir servir à la production de la levure, état sous lequel elles se trouvent dans les bières préparées par la fermentation superficielle, du moins tant qu'elles sont jeunes.
 
@@ -1383,4 +1411,6 @@ pas se produire d'ammoniaque.
 [^25]: *Handwörterbuch der reinen und angewandten Chemie*, t. I, p. 785.
 
 [^26]: *Annalen der Chemie und Pharmacie*, t. LXI, p. 177.
+
+[^27]: *De Wijn scheikundig beschouwd*, p. 44.
 

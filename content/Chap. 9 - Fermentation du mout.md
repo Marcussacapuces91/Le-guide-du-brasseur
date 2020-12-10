@@ -1237,137 +1237,70 @@ la levure.
 Bull[^33] et Mitscherlich[^34] ont trouvé pour la composition des cendres de
 levure de bière blanche les résultats suivants :
 
+<figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
+  <figcaption><center>Fermentation du moût</center></figcaption>
+  <table style="width: 100%;">
+    <tr><td></td><th rowspan=2> Bull </th><th colspan=3> Mitscherlich </th></tr>
+    <tr><td></td><th> Levure superficielle fraîche </th><th> Levure de dépôt </th><th> Bière préparée avec cette dernière </th></tr>
+    <tr><th> Potasse                                </th><td> 35,2 </td><td> 39,5 </td><td> 28,3 </td><td> 40,8 </td></tr>
+    <tr><th> Soude                                  </th><td>  0,4 </td><td>  --  </td><td>  --  </td><td>  0,5 </td></tr>
+    <tr><th> Chlorure de potassium                  </th><td>  0,2 </td><td>  --  </td><td>  --  </td><td>  --  </td></tr>
+    <tr><th> Chaux                                  </th><td>  4,2 </td><td>  --  </td><td>  --  </td><td>  --  </td></tr>
+    <tr><th> Magnésie                               </th><td>  4,0 </td><td>  --  </td><td>  --  </td><td>  --  </td></tr>
+    <tr><th> Sexquioxyde de fer                     </th><td>  0,6 </td><td>  --  </td><td>  --  </td><td>  --  </td></tr>
+    <tr><th> Acide phosphorique                     </th><td> 54,7 </td><td> 41,8 </td><td> 39,5 </td><td> 20,0 </td></tr>
+    <tr><th> Acide sulfurique                       </th><td>  0,1 </td><td>  --  </td><td>  --  </td><td>  --  </td></tr>
+    <tr><th> Acide silicique                        </th><td>  --  </td><td>  --  </td><td>  --  </td><td> 16,6 </td></tr>
+    <tr><th> Phosph. de magn. 2MgO, PhO<sub>5</sub> </th><td>  --  </td><td> 16,8 </td><td> 22,6 </td><td> 20,0 </td></tr>
+    <tr><th> Phosph. de chaux 2CaO, PhO<sub>5</sub> </th><td>  --  </td><td>  2,3 </td><td>  9,7 </td><td>  2,6 </td></tr>
+    <tr><th> Quantité de centre (%)                 </th><td>  --  </td><td>  7,7 </td><td>  7,5 </td><td>  0,3 </td></tr>
+  </table>
+</figure>
 
+La bière perd donc une quantité de ces combinaisons d'autant plus grande qu'il
+se forme plus de levure.
 
+Ce qui va suivre nous servira à passer de la fermentation proprement dite à la
+*fermentation complémentaire* dont nous nous occuperons un peu plus loin.
 
+Jusque dans ces derniers temps, on croyait que les sucres proprement dits (le
+sucre de canne, les différentes espèces de sucre de raisin et le sucre de lait)
+étaient seuls susceptibles de subir la fermentation alcoolique. Berthelot[^35] a
+réussi à faire subir par l'action de la levure une décomposition du même ordre
+à d'autres substances : et ces substances sont précisément celles qui
+paraissent se rapprocher des sucres proprement dits par leur saveur douceâtre,
+mais dont cependant la composition n'est pas, comme pour ces derniers, telle
+que l'hydrogène et l'oxygène s'y trouvent dans le même rapport que dans l'eau.
+Parmi ces substances, viennent se ranger :
 
+<figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
+  <table style="width: 100%;">
+    <tr><th> La mannite   </th><td> C<sub>6</sub>H<sub>8</sub>O<sub>6</sub> </td></tr>
+    <tr><th> La glycérine </th><td> C<sub>6</sub>H<sub>7</sub>O<sub>8</sub> </td></tr>
+    <tr><th> La dulcine   </th><td> C<sub>6</sub>H<sub>7</sub>O<sub>6</sub> </td></tr>
+  </table>
+</figure>
 
+Toutes ces substances contiennent plus d'hydrogène qu'il n'en faut à l'oxygène
+pour former de l'eau. Pour qu'elles puissent être dédoublées en alcool et en
+acide carbonique, il faudrait qu'il se produisît en même temps une autre
+combinaison qui pût prendre l'excès d'hydrogène, ou bien il faudrait que la
+fermentation fût accompagnée d'un dégagement simultané d'hydrogène. Berthelot a
+trouvé que cette dernière hypothèse était une réalité. Il a rendu ainsi
+positivement un grand service à la science.
 
-MITSCHERLICH.
-
-?
-
-Potasse
-
-35,2
-
-39,5
-
-28,3
-
-40,8
-
-Soude
-
-0,4
-
-...
-
-0,5
-
-Chlorure de potassium
-
-0,2
-
-...
-
-...
-
-Chaux
-
-4,2
-
-...
-
-. . .
-
-Magnésie
-
-4,0
-
-...
-
-...
-
-Sexquioxyde de fer
-
-0,6
-
-•••
-
-Acide phosphorique
-
-54,7
-
-41,8
-
-39,5
-
-20,0
-
-Acide sulfurique
-
-0,1
-
-Acide silicique
-
-...
-
-.
-
-16,6
-
-Phosph. de magn. 2MgO, PhO 5
-
-16,8
-
-22,6
-
-20,0
-
-Phosph. de chaux 2CaO, PhO 5.
-
-. .
-
-2,3
-
-9,7
-
-2,6
-
-Quantité de cendres pour 100...
-
-7,7
-
-7,5
-
-0,3
-
-La bière perd donc une quantité de ces combinaisons d'autant plus grande qu'il se forme plus de levure.
-
-Ce qui va suivre nous servira à passer de la fermentation proprement dite à la fermentation complémentaire dont nous nous occuperons un peu plus loin.
-
-Jusque dans ces derniers temps, on croyait que les sucres proprement dits (le sucre de canne, les différentes espèces de sucre dé raisin et le sucre de lait) étaient seuls susceptibles de subir la fermentation alcoolique. Berthelot 1 a. réussi à faire subir par l'action de la levure une décomposition du même ordre à d'autres substances : et ces substances sont précisément celles qui paraissent se rapprocher des sucres proprement dits par leur saveur douceâtre, mais dont cependant la composition n'est pas, comme pour ces derniers, telle que l'hydrogène et l'oxygène s'y trouvent
-
-1. Annales de Chimie et de Physique, 3e série, t. L, p. 322. — Depuis la publication de l'édition hollandaise de ce traité, Berthelot a résumé ses idées sur la fermentation dans sa Chimie organique fondée sur la synthèse, t. II, p. 604 et suivantes, à laquelle nous renverrons également ceux de nos lecteurs qui désireraient connaître avec plus de détail l'opion de ce chimiste sur le sujet si important dont il est ici question.
-
-dans le même rapport que dans l'eau. Parmi ces substances, viennent se ranger :
-
-Toutes ces substances contiennent plus d'hydrogène qu'il n'en faut à l'oxygène pour former de l'eau. Pour qu'elles puissent être dédoublées en alcool et en acide carbonique, il faudrait qu'il se produisît en même temps une autre combinaison qui pût prendre l'excès d'hydrogène, ou bien il faudrait que la fermentation fût accompagnée d'un dégagement simultané d'hydrogène. Berthelot a trouvé que cette dernière hypothèse était une réalité. Il a rendu ainsi positivement un grand service à la science.
-
-Mais, ce qui est surtout important pour notre sujet, il a essayé de déterminer la fermentation alcoolique de la gomme et de l'amidon, en opérant de la même manière que pour la mannite, etc., ce qui ne peut être obtenu au moyen de la levure ordinaire, et il a trouvé que la gomme et l'amidon peuvent également se décomposer en alcool et en acide carbonique, sans avoir besoin de subir la transformation préalable en sucre qu'on lui fait subir dans la préparation de la bière, par l'action de l'agent transformateur, avant de la soumettre à la fermentation.
+Mais, ce qui est surtout important pour notre sujet, il a essayé de déterminer
+la fermentation alcoolique de la gomme et de l'amidon, en opérant de la même
+manière que pour la mannite, *etc.*, ce qui ne peut être obtenu au moyen de la
+levure ordinaire, et il a trouvé que la gomme et l'amidon peuvent également se
+décomposer en alcool et en acide carbonique, sans avoir besoin de subir la
+transformation préalable en sucre qu'on lui fait subir dans la préparation de
+la bière, par l'action de l'agent transformateur, avant de la soumettre à la
+fermentation.
 
 Berthelot a vu que, en opérant à une température de 50°, plusieurs semaines étaient nécessaires pour déterminer le dédoublement des substances indiquées, et il a observé que, outre l'alcool et l'acide carbonique, il se produisait toujours d'autres substances aux dépens de la matière qui était soumise à l'expérience.
 
 On dissolvait les substances dans l'eau ; on employait, pour produire la fermentation, une substance animale, dans la plupart des cas la caséine, et, dans tous les cas, on ajoutait du carbonate de chaux à la masse, afin de neutraliser les acides qui pouvaient se former et de paralyser leur influence contraire. — Le carbonate de chaux n'est pas nécessaire dans la fermentation des sucres proprement dits; mais Berthelot pense que, dans ce cas aussi, il exerce une action avantageuse et favorise la fermentation, ce qu'il explique en disant qu'il se produit toujours, bien qu'en
-
-La mannite
-
-La glycérine
-
-La dulcine
-
-C6H8O 6 C6H7O 8 C6H 706
 
 petite quantité, des acides qui exerceraient une action contraire et que le carbonate de chaux neutralise. Chevreul avait déjà émis cette opinion. J'ai déjà fait observer (p. 45) et j'ai démontré que la pratique confirme cette manière de voir.
 
@@ -1562,5 +1495,11 @@ fermentation. (*De Wijn*, p. 64.)
 
 [^34]: *Annalen der Chemie und Pharmacie*, t. LVI, p. 356.
 
+[^35]: *Annales de Chimie et de Physique*, 3e série, t. L, p. 322. — Depuis la 
+publication de l'édition hollandaise de ce traité, Berthelot a résumé ses idées
+sur la fermentation dans sa *Chimie organique fondée sur la synthèse*, t. II,
+p. 604 et suivantes, à laquelle nous renverrons également ceux de nos lecteurs
+qui désireraient connaître avec plus de détail l'opion de ce chimiste sur le
+sujet si important dont il est ici question.
 
 

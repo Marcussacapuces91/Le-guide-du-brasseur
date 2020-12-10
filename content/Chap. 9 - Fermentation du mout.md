@@ -1029,25 +1029,74 @@ d'autres bières devraient manquer de la partie constituante qui est surtout
 nutritive et devraient par suite venir après la bière jeune de Hollande la plus
 simple.
 
-Cela n'est positivement pas exact : il n'existe pas moins de matières albumineuses dans les bières obtenues au moyen de la fermentation par dépôt : au contraire, il s'en trouve plus; mais ces matières albumineuses ne sont pas à l'état convenable pour pouvoir servir à la production de la levure, état sous lequel elles se trouvent dans les bières préparées par la fermentation superficielle, du moins tant qu'elles sont jeunes.
+Cela n'est positivement pas exact : il n'existe pas moins de matières
+albumineuses dans les bières obtenues au moyen de la fermentation par dépôt :
+au contraire, il s'en trouve plus ; mais ces matières albumineuses ne sont pas
+à l'état convenable pour pouvoir servir à la production de la levure, état sous
+lequel elles se trouvent dans les bières préparées par la fermentation
+superficielle, du moins tant qu'elles sont jeunes.
 
-Si l'on verse d'une cruche de la bière que l'on désigne en Hollande sous le nom de versch bier (bière jeune), elle est d'abord claire au moment où on la verse. Mais si on la laisse reposer quelque temps dans le verre, elle mousse et se trouble, d'autant plus qu'elle séjourne plus longtemps dans le verre. Ce trouble provient d'une production de nouvelle levure.
+Si l'on verse d'une cruche de la bière que l'on désigne en Hollande sous le nom
+de *versch bier* (bière jeune), elle est d'abord claire au moment où on la
+verse. Mais si on la laisse reposer quelque temps dans le verre, elle mousse et
+se trouble, d'autant plus qu'elle séjourne plus longtemps dans le verre. Ce
+trouble provient d'une production de nouvelle levure.
 
-La bière, obtenue au moyen de la fermentation par dépôt, ne présente pas ce caractère : elle ne mousse pas, mais elle ne se trouble pas non plus au contact de l'air ; c'est un fait bien connu que cela n'arrive pas non plus aux bières de garde préparées en Hollande par fermentation superficielle.
+La bière, obtenue au moyen de la fermentation par dépôt, ne présente pas ce
+caractère : elle ne mousse pas, mais elle ne se trouble pas non plus au contact
+de l'air ; c'est un fait bien connu que cela n'arrive pas non plus aux bières
+de garde préparées en Hollande par fermentation superficielle.
 
-On doit reconnaître qu'une pareille bière qui contient encore des substances albumineuses à un état convenable pour produire de la levure, doit être susceptible de se décomposer rapidement ; mais la forme sous laquelle les matières albumineuses se trouvent ne détermine pas en même temps leur quantité. Dans la bière préparée au moyen de la fermentation par dépôt, il n'existe pas du moins une quantité d'une substance azotée, moindre que dans la bière obtenue par fermentation superficielle, ainsi que nous le verrons plus loin et ainsi que l'on peut déjà s'en assurer par une expérience très simple. On mélange du sucre de raisin avec de l'eau et de la levure et on laisse la fermentation se déterminer dans toute la masse : après avoir bien agité le tout, on partage la liqueur en deux portions égales ; si l'on ajoute
+On doit reconnaître qu'une pareille bière qui contient encore des substances
+albumineuses à un état convenable pour produire de la levure, doit être
+susceptible de se décomposer rapidement ; mais la forme sous laquelle les
+matières albumineuses se trouvent ne détermine pas en même temps leur quantité.
+Dans la bière préparée au moyen de la fermentation par dépôt, il n'existe pas
+du moins une quantité d'une substance azotée, moindre que dans la bière obtenue
+par fermentation superficielle, ainsi que nous le verrons plus loin et ainsi
+que l'on peut déjà s'en assurer par une expérience très simple. On mélange du
+sucre de raisin avec de l'eau et de la levure et on laisse la fermentation se
+déterminer dans toute la masse : après avoir bien agité le tout, on partage la
+liqueur en deux portions égales ; si l'on ajoute à l'une de l'acide lactique,
+elle s'éclaircit ; l'acide lactique possède donc la faculté de dissoudre les
+substances albumineuses de la levure[^28].
 
-à l'une de l'acide lactique, elle s'éclaircit ; l'acide lactique possède donc la faculté de dissoudre les substances albumineuses de la levure 1.
+En ce qui concerne le fait que, par suite de la faculté que possède l'acide
+lactique de dissoudre les substances albumineuses insolubles de la levure, une
+bière dans laquelle il se trouve une quantité abondante d'acide lactique doit
+contenir plus de substances albumineuses qu'une autre bière qui ne présenterait
+pas le même caractère, il ne peut paraître douteux à personne. Or, les bières
+préparées au moyen de la fermentation par dépôt contiennent plus d'acide
+lactique.
 
-En ce qui concerne le fait que, par suite de la faculté que possède l'acide lactique de dissoudre les substances albumineuses insolubles de la levure, une bière dans laquelle il se trouve une quantité abondante d'acide lactique doit contenir plus de substances albumineuses qu'une autre bière qui ne présenterait pas le même caractère, il ne peut paraître douteux à personne. Or, les bières préparées au moyen de la fermentation par dépôt contiennent plus d'acide lactique.
+On tomberait cependant dans une grave erreur, en admettant entre les bières
+obtenues au moyen de la fermentation superficielle et les bières obtenues au
+moyen de la fermentation par dépôt, une différence aussi tranchée que celle
+admise généralement. La fermentation est distincte ; mais le produit ne l'est
+pas. Une fermentation complémentaire prolongée des bières préparées par
+fermentation superficielle produit une bière que l'on ne peut distinguer de la
+bière préparée au moyen de la fermentation par dépôt : cette bière peut bien se
+conserver, présente une saveur acidule, ne mousse pas et contient beaucoup
+d'alcool. Les bières hollandaises désignées sous le nom de *oude bieren*
+(vieilles bières), que l'on prépare toutes au moyen de la fermentation
+superficielle, sont dans ce cas.
 
-On tomberait cependant dans une grave erreur, en admettant entre les bières obtenues au moyen de la fermentation superficielle et les bières obtenues au moyen de la fermentation par dépôt, une différence aussi tranchée que celle admise généralement. La fermentation est distincte ; mais le produit ne l'est pas. Une fermentation complémentaire prolongée des bières préparées par fermentation superficielle produit une bière que l'on ne peut distinguer de la bière préparée au moyen de la fermentation par dépôt : cette bière peut bien se conserver, présente une saveur acidule, ne mousse pas et contient beaucoup d'alcool. Les bières hollandaises désignées sous le nom de oude bieren (vieilles bières), que l'on prépare toutes au moyen de la fermentation superficielle, sont dans ce cas.
-
-La fermentation spontanée, que l'on fait subir en Belgique au faro et au lambick, mérite d'être examinée par nous en peu de mots : elle n'est du reste pas employée seulement pour la préparation de ces bières ; mais elle trouve encore son application dans un grand nombre d'autres localités. En sortant des bacs refroidissoirs, le moût ne se rend pas dans la cuve-guilloire, mais se rend de suite dans les tonneaux ; on n'y ajoute pas de levure et l'on conserve les tonneaux dans un cellier d'une température basse. La levure se forme spontanément aux dépens des substances albumineuses contenues dans le moût, et la levure qui se forme ainsi est
-
-1. Dans les deux liqueurs, je n'ai observé aucune différence pendant le cours ultérieur de la fermentation : dans toutes les deux, la marche est la même, en sorte que l'acide lactique possède bien la faculté de dissoudre les substances albumineuses, mais n'accélère pas plus qu'il ne ralentit la fermentation. (De Wijn, p. 64.)
-
-de la levure de dépôt. Elle se produit lentement, en sorte que la bière ne se forme que lentement : cette bière reste •longtemps trouble, ce qui vient de ce qu'il se produit toujours de nouvelle levure ; mais lorsque la bière est devenue claire, elle jouit à un très haut degré de la faculté de se conserver. Cette bière, ainsi que je l'ai déjà fait remarquer plusieurs fois, est préparée avec de l'orge et du froment. On fait bouillir une portion de la trempe claire, et on l'ajoute de nouveau à la trempe épaisse qui a été laissée dans la cuve matière.
+La fermentation spontanée, que l'on fait subir en Belgique au faro et au
+lambick, mérite d'être examinée par nous en peu de mots : elle n'est du reste
+pas employée seulement pour la préparation de ces bières ; mais elle trouve
+encore son application dans un grand nombre d'autres localités. En sortant des
+bacs refroidissoirs, le moût ne se rend pas dans la cuve-guilloire, mais se
+rend de suite dans les tonneaux ; on n'y ajoute pas de levure et l'on conserve
+les tonneaux dans un cellier d'une température basse. La levure se forme
+spontanément aux dépens des substances albumineuses contenues dans le moût, et
+la levure qui se forme ainsi est de la levure de dépôt. Elle se produit
+lentement, en sorte que la bière ne se forme que lentement : cette bière reste
+longtemps trouble, ce qui vient de ce qu'il se produit toujours de nouvelle
+levure ; mais lorsque la bière est devenue claire, elle jouit à un très haut
+degré de la faculté de se conserver. Cette bière, ainsi que je l'ai déjà fait
+remarquer plusieurs fois, est préparée avec de l'orge et du froment. On fait
+bouillir une portion de la trempe claire, et on l'ajoute de nouveau à la trempe
+épaisse qui a été laissée dans la cuve matière.
 
 Quelquefois la fermentation ne part pas. Pour qu'elle se produise, on n'ajoute pas alors de la levure dans les tonneaux, mais on y ajoute du moût non houblonné, ce qui fait commencer la fermentation.
 
@@ -1413,4 +1462,11 @@ pas se produire d'ammoniaque.
 [^26]: *Annalen der Chemie und Pharmacie*, t. LXI, p. 177.
 
 [^27]: *De Wijn scheikundig beschouwd*, p. 44.
+
+[^28]: Dans les deux liqueurs, je n'ai observé aucune différence pendant le
+cours ultérieur de la fermentation : dans toutes les deux, la marche est la
+même, en sorte que l'acide lactique possède bien la faculté de dissoudre les
+substances albumineuses, mais n'accélère pas plus qu'il ne ralentit la
+fermentation. (*De Wijn*, p. 64.)
+
 

@@ -635,7 +635,7 @@ préparée.
 Après ces observations générales sur la fermentation, nous pouvons examiner en
 particulier la fermentation superficielle et la fermentation par dépôt.
 
-Fermentation superficielle. — La fermentation superficielle exige une
+*Fermentation superficielle*. — La fermentation superficielle exige une
 température plus élevée ; elle se produit par l'action de la levure
 superficielle et présente une marche plus rapide. Il en résulte que, dans le
 même temps, une quantité plus grande de sucre est transformée en alcool et en
@@ -702,7 +702,7 @@ quelque temps dans le tonneau et l'on tranvase au moyen d'une pompe la liqueur
 claire dans d'autres tonneaux où elle subit tranquillement la fermentation
 complémentaire et devient ainsi de la bière de garde.
 
-Fermentation par dépôt. — La fermentation par dépôt exige pour sa mise en
+*Fermentation par dépôt*. — La fermentation par dépôt exige pour sa mise en
 activité une température plus basse et nécessite l'emploi de levure de dépôt :
 sa marche est généralement plus lente. La liqueur se trouble également ici par
 suite d'une production de levure ; mais cette levure se produit plus lentement.
@@ -721,237 +721,263 @@ fermentation superficielle peut être terminée au bout de 2 jours et même
 quelquefois au bout d'un temps encore plus court : rarement, elle dure plus de
 4 jours.
 
-Dans la fermentation par dépôt, le moût doit subir un refroidissement plus fort que dans la fermentation superficielle : pour la préparation de ce qu'on appelle la bière d'été, la température du moût doit être abaissée jusqu'à environ 6°; pour la préparation de la bière dite d'hiver, la température du moût doit être abaissée jusqu'à 8°. On met le moût dans une grande cuve-guilloire et on le mélange avec de la levure de dépôt. On doit, dans ce cas, mélanger le moût et la levure avec beaucoup plus de soin que dans la fermentation superficielle, parce que, sans cela, la fermentation s'opérerait beaucoup plus lentement. Au bout de quelques heures, on observe à la surface une petite quantité d'écume qui augmente et peut se maintenir pendant deux jours et qui diminue ensuite.
-
-Quoi qu'il en soit, il se dépose de la levure au fond de la cuve, et la quantité de levure qui se dépose ainsi est bien plus considérable que la quantité de levure qui se produit dans la fermentation superficielle. Lorsque la levure s'est ainsi déposée au fond de la cuve et lorsque, par suite, la bière, qui était trouble, pendant que la fermentation était dans toute sa force, est redevenue claire, ce qui a lieu au bout de 7 à 9 jours, on la transvase, en ayant soin de la tenir aussi claire et aussi exempte de ferment que possible, de la cuve-guilloire dans d'autres tonneaux dans lesquels elle continue à fermenter, mais lentement. Il s'y produit également une fermentation complémentaire, qui est d'autant plus vive qu'il est resté plus de ferment dans la bière. Cette circonstance détermine aussi le degré de promptitude avec lequel la bière doit être consommée. La fermentation complémentaire doit ici, sous tous les rapports, être considérée comme se rapprochant de cette période de la fermentation que nous décrirons plus loin sous le nom de fermentation tertiaire, et que nous retrouvons complètement dans la fermentation complémentaire de ces bières que l'on prépare en Hollande au moyen de la fermentation superficielle et
-
-que l'on désigne sous le nom de oude bieren (vieilles bières).
-
-Lorsque la bière a subi la fermentation par dépôt, on la transvase dans d'autres tonneaux que l'on doit placer dans des caves froides, afin que la bière y subisse lentement la fermentation complémentaire.
-
-Dans la fermentation par dépôt, une partie du sucre est également transformée en alcool et en acide carbonique : la saveur de la liqueur devient par suite moins douce, et cette liqueur devient plus alcoolique. En outre, il se sépare de la dextrine et des matières albumineuses sous forme de ferment, et la bière devient par suite proportionnellement moins, nutritive. Mais, dans la fermentation par dépôt, il se produit en outre une transformation particulière qui dépend de la lenteur de l'opération ; je veux parler de la production d'une certaine quantité d'acide lactique qui communique à la bière une saveur acidule. La production de l'acide lactique ne fait pas entièrement défaut dans la fermentation superficielle, mais elle a lieu dans une proportion bien plus faible. Dans la fermentation par dépôt, la quantité d'acide lactique produit est quelquefois considérable. Plus la marche de la fermentation est lente, plus la quantité d'acide lactique produit est considérable. Dans les bières de Bavière et dans un grand nombre de bières belges, qui toutes sont préparées au moyen de la fermentation par dépôt, il existe des quantités considérables d'acide lactique. Il se produit, aux dépens du sucre de fruits, ce qu'on appelle un déplacement de molécules C12H12O 12 = 2C 6 H5O 5 + 2HO. La petite quantité d'acide lactique qui s'y trouve ainsi, ne peut pas être nuisible, puisqu'il y a en même temps de l'alcool.
-
-La bière, préparée avec fermentation par dépôt, est déjà par cela même susceptible de se conserver plus longtemps que celle qui a été préparée par fermentation superficielle. Elle peut très rapidement être obtenue claire et ne plus contenir de levure. Au bout de quelque temps, il se dépose encore de la levure; on soutire alors la bière dans un autre tonneau où on la conserve. Mise en bouteille, elle ne mousse que très peu lorsqu'on la verse : cette particularité mérite à notre avis d'être examinée de plus près.
-
-La différence entre la fermentation superficielle et la fermentation par dépôt est suffisamment importante pour mériter d'arrêter notre attention encore plus longtemps. Les végétaux qui constituent la levure, sont, ainsi que nous
-
-l'avons dit, les mêmes dans la levure superficielle et dans la levure de dépôt. Dans la première, les globules adhèrent ensemble pour la plupart : c'est la seule différence que l'on puisse observer. On ne peut, du reste, trouver aucune différence, ni dans la forme, ni dans la composition, et lors même que l'on aurait trouvé de la différence, il y a quelquefois plus de différence entre deux sortes de levure superficielle qu'entre la levure superficielle et la levure de dépôt.
-
-Strecker », se basant sur les expériences de Schlossberger 2, a assigné à ces deux sortes de levure la composition suivante :
-
-LEVURE
-
-SUPERFICIELLE.
-
-LEVURE DE DÉPÔT.
-
-Carbone
-
-49,4
-
-47,6
-
-Hydrogène
-
-6,7
-
-6,3
-
-Azote
-
-12,4
-
-9,8
-
-Oxygène et soufre
-
-31,5
-
-36,3
-
-Mais on ne trouve pas, pour deux sortes de levure superficielle, la même composition, pas plus que pour deux sortes de levure de dépôt. Trois sortes de levure, provenant de Schiedam, qui ont été analysées comme telles, ont fourni, pour leur composition, les résultats suivants 3 :
-
-Carbone
-
-50,9
-
-50,3
-
-50,0
-
-Hydrogène
-
-7,2
-
-7,0
-
-7,0
-
-Azote
-
-11,0
-
-9,4
-
-8,4
-
-Oxygène et soufre
-
-30,9
-
-33,3
-
-34,6
-
-On reconnaît évidemment, par l'examen des chiffres qui précèdent, qu'il peut exister une grande différence entre deux levures. Il ne peut, du reste, en être autrement, puisque la levure est une vésicule de cellulose, remplie d'un contenu albumineux, et, comme la quantité de contenu albumineux peut varier, cela seul peut déterminer une différence, dans la composition. Le principe actif de ce contenu est toujours le même. Si on l'épuisé par l'acide acétique et si l'on précipite ensuite par l'ammoniaque, le précipité présente exactement la composition de l'albumine végétale, du
-
-1. Kurzes Lehrbuch der organischen Chemie, 1853, p. 401.
-
-2. Annalen der Pharm., t. LI, p. 200.
-
-3. Scheik. onderz., t. II, p. 444
-
-gluten ou de l'albumine animale : on ne doit pas tenir compte du soufre, parce que le soufre de la levure n'a pas encore été déterminé. On a réuni, dans le tableau suivant, la composition de ces diverses substances, afin de pouvoir mieux en faire la comparaison :
-
-5
-
-El
-
-E
-
-Carbone
-
-53,4
-
-53,4
-
-53,8
-
-53,5
-
-53,9
-
-53,8
-
-Hydrogène
-
-7,0
-
-7,1
-
-7,1
-
-7,0
-
-6,9
-
-7,0
-
-Azote
-
-15,8
-
-15,6
-
-15,6
-
-15,5
-
-15,6
-
-15,6
-
-Oxygène et soufre
-
-23,8
-
-23,9
-
-23,5
-
-24,0
-
-23,6
-
-23,6
-
-Si, dans toutes ces substances, la quantité de soufre n'était pas différente (de plus, dans quelques-unes, il existe du phosphore, tandis que, dans d'autres, il n'y en a pas), on pourrait considérer comme identiques toutes ces substances qui se rapprochent également par leurs principales propriétés. Elles ne sont cependant pas identiques, bien qu'elles contiennent toutes le même groupement organique comme partie constituante fondamentale. Assurément, aucun de ceux qui auront observé cette concordance entre les résultats analytiques, ne pourra émettre une opinion contraire à celle que nous exprimons ici. Ce fait, que j'ai déjà signalé il y a dix-neuf ans, je suis encore obligé de le faire ressortir ici de nouveau.
-
-Nous avons, par ce que nous venons de dire, suffisamment élucidé la nature de la partie constituante active de la levure. — Mais nous n'avons pas fait voir les différences qui distinguent ces matières albumineuses les unes des autres.
-
-Il nous suffit de savoir que le contenu des vésicules de
-
-1. Scheik. onderz., t. II, p. 451.
-
-2. Scheih. onderz., t. IV, p. 326.
-
-3. Scheih. onderz., t. IV, p. 396.
-
-4. Scheih. onderz., t. IV, p. 398.
-
-5. Bulletin de Néerlande, 1838, p. 111.
-
-6. Scheik. onderz., t. IV, p. 154 et t. II, p. 404.
-
-levure, dans la fermentation superficielle, aussi bien que dans la fermentation par dépôt, est sous tous les rapports une véritable substance albumineuse qui, avec l'adjonction de quantités variables de cellulose ou de vésicules, C 24 H21O 21, constitue la levure et que cette substance présente une grande tendance à se décomposer et surtout à passer à un degré supérieur d'oxydation .(p. 212).
-
-On peut facilement, au moyen de la levure superficielle, produire de la levure de dépôt : mais le contraire n'est pas facile. En ajoutant de la levure superficielle à un moût que l'on a fait refroidir jusqu'à la température à laquelle la fermentation par dépôt a lieu, il se produit une fermentation partielle par dépôt : si la levure qui s'y produit est ajoutée de nouveau à un moût que l'on a refroidi à une basse température, la levure qui prend naissance dans la fermentation ainsi déterminée présente de plus en plus le caractère d'une levure susceptible de déterminer une fermentation par dépôt. En répétant plusieurs fois la même opération, on prépare, au moyen d'une levure superficielle, de la levure de dépôt.
-
-En ce qui concerne la différence qui existe entre la levure superficielle et la levure de dépôt, elle peut provenir d'une plus grande épaisseur des parois des cellules à travers lesquelles la substance albumineuse doit passer pour se rendre au dehors et déterminer la production de la fermentation, ou d'une moindre tendance à se décomposer que présente le contenu albumineux des cellules de levure de dépôt. Pour parler franchement, on ne connaît pas la raison de leur différence. Mais cela ne présente aucun inconvénient pour le but que nous nous proposons d'atteindre : en effet c'est le degré de force de la levure et non sa nature qui a de l'influence.
-
-Des expériences de Schlossberger 1, on ne peut donc pas conclure que la levure de dépôt contienne moins de substances albumineuses que la levure superficielle, bien qu'il y ait trouvé moins d'azote : en effet, dans deux sortes de levure de Schiedam, j'ai trouvé encore moins d'azote, ainsi qu'on peut le voir par la comparaison des résultats qui suivent :
-
-SCHLOSSBERGER.
-
-MULDER.
-
-Levure superficielle.
-
-Levure de dépot,
-
-Levure de Schiedam.
-
-Azote
-
-11,6 .
-
-... 12,2
-
-... 9,6...
-
-9,6
-
-11,0 ....
-
-9,4 ....
-
-8,4
-
-1. Annalen der Pharm., t. LI, p. 200.
-
-Liebig 1 a donné une explication tout à fait inexacte de la différence qui existe entre la levure superficielle et la levure de dépôt. Suivant ce chimiste, la levure superficielle est atteinte de putréfaction et détermine dans le sucre une décomposition de même ordre : la fermentation par dépôt se produit par le contact avec le gluten qui s'est oxydé. Dans la fermentation superficielle, il doit par conséquent se produire, outre l'alcool et l'acide carbonique, une autre substance, ce qui ne doit pas avoir lieu dans la fermentation par dépôt. Le produit accessoire, qui prend ainsi naissance dans la fermentation superficielle, doit être surtout de l'acide acétique. D'après Liebig, il ne doit donc y avoir presque pas de gluten dans la bière préparée au moyen de la fermentation par dépôt, tandis qu'il doit y en avoir une très grande quantité dans la bière préparée au moyen de la fermentation superficielle, et cette dernière doit présenter beaucoup de tendance à devenir acide, tandis que, dans la première, il ne doit se produire qu'une quantité très faible d'acide acétique.
-
-Si l'on excepte la dernière observation qui est exacte, tout le reste est inexact.
+Dans la fermentation par dépôt, le moût doit subir un refroidissement plus fort
+que dans la fermentation superficielle : pour la préparation de ce qu'on
+appelle la bière d'été, la température du moût doit être abaissée jusqu'à
+environ 6°C ; pour la préparation de la bière dite d'hiver, la température du
+moût doit être abaissée jusqu'à 8°C. On met le moût dans une grande
+cuve-guilloire et on le mélange avec de la levure de dépôt. On doit, dans ce
+cas, mélanger le moût et la levure avec beaucoup plus de soin que dans la
+fermentation superficielle, parce que, sans cela, la fermentation s'opérerait
+beaucoup plus lentement. Au bout de quelques heures, on observe à la surface
+une petite quantité d'écume qui augmente et peut se maintenir pendant deux
+jours et qui diminue ensuite.
+
+Quoi qu'il en soit, il se dépose de la levure au fond de la cuve, et la
+quantité de levure qui se dépose ainsi est bien plus considérable que la
+quantité de levure qui se produit dans la fermentation superficielle. Lorsque
+la levure s'est ainsi déposée au fond de la cuve et lorsque, par suite, la
+bière, qui était trouble, pendant que la fermentation était dans toute sa
+force, est redevenue claire, ce qui a lieu au bout de 7 à 9 jours, on la
+transvase, en ayant soin de la tenir aussi claire et aussi exempte de ferment
+que possible, de la cuve-guilloire dans d'autres tonneaux dans lesquels elle
+continue à fermenter, mais lentement. Il s'y produit également une fermentation
+complémentaire, qui est d'autant plus vive qu'il est resté plus de ferment dans
+la bière. Cette circonstance détermine aussi le degré de promptitude avec
+lequel la bière doit être consommée. La fermentation complémentaire doit ici,
+sous tous les rapports, être considérée comme se rapprochant de cette période
+de la fermentation que nous décrirons plus loin sous le nom de *fermentation
+tertiaire*, et que nous retrouvons complètement dans la fermentation
+complémentaire de ces bières que l'on prépare en Hollande au moyen de la
+fermentation superficielle et que l'on désigne sous le nom de *oude bieren*
+(vieilles bières).
+
+Lorsque la bière a subi la fermentation par dépôt, on la transvase dans
+d'autres tonneaux que l'on doit placer dans des caves froides, afin que la
+bière y subisse lentement la fermentation complémentaire.
+
+Dans la fermentation par dépôt, une partie du sucre est également transformée
+en alcool et en acide carbonique : la saveur de la liqueur devient par suite
+moins douce, et cette liqueur devient plus alcoolique. En outre, il se sépare
+de la dextrine et des matières albumineuses sous forme de ferment, et la bière
+devient par suite proportionnellement moins, nutritive. Mais, dans la
+fermentation par dépôt, il se produit en outre une transformation particulière
+qui dépend de la lenteur de l'opération ; je veux parler de la production d'une
+certaine quantité d'acide lactique qui communique à la bière une saveur
+acidule. La production de l'acide lactique ne fait pas entièrement défaut dans
+la fermentation superficielle, mais elle a lieu dans une proportion bien plus
+faible. Dans la fermentation par dépôt, la quantité d'acide lactique produit
+est quelquefois considérable. Plus la marche de la fermentation est lente, plus
+la quantité d'acide lactique produit est considérable. Dans les bières de
+Bavière et dans un grand nombre de bières belges, qui toutes sont préparées au
+moyen de la fermentation par dépôt, il existe des quantités considérables
+d'acide lactique. Il se produit, aux dépens du sucre de fruits, ce qu'on
+appelle un déplacement de molécules
+C<sub>12</sub>H<sub>12</sub>O<sub>12</sub> = 2C<sub>6</sub>H<sub>5</sub>O<sub>5</sub> + 2HO.
+La petite quantité d'acide lactique qui s'y trouve ainsi, ne peut pas être
+nuisible, puisqu'il y a en même temps de l'alcool.
+
+La bière, préparée avec fermentation par dépôt, est déjà par cela même
+susceptible de se conserver plus longtemps que celle qui a été préparée par
+fermentation superficielle. Elle peut très rapidement être obtenue claire et ne
+plus contenir de levure. Au bout de quelque temps, il se dépose encore de la
+levure ; on soutire alors la bière dans un autre tonneau où on la conserve.
+Mise en bouteille, elle ne mousse que très peu lorsqu'on la verse : cette
+particularité mérite à notre avis d'être examinée de plus près.
+
+La différence entre la fermentation superficielle et la fermentation par dépôt
+est suffisamment importante pour mériter d'arrêter notre attention encore plus
+longtemps. Les végétaux qui constituent la levure, sont, ainsi que nous l'avons
+dit, les mêmes dans la levure superficielle et dans la levure de dépôt. Dans la
+première, les globules adhèrent ensemble pour la plupart : c'est la seule
+différence que l'on puisse observer. On ne peut, du reste, trouver aucune
+différence, ni dans la forme, ni dans la composition, et lors même que l'on
+aurait trouvé de la différence, il y a quelquefois plus de différence entre
+deux sortes de levure superficielle qu'entre la levure superficielle et la
+levure de dépôt.
+
+Strecker[^15], se basant sur les expériences de Schlossberger[^16], a assigné à 
+ces deux sortes de levure la composition suivante :
+
+<figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
+  <table style="width: 100%;">
+  <tr><td>                   </td><th> Levure superficielle </th><th> Levure de dépot </th></tr>
+  <tr><th> Carbone           </th><td> 49,4                 </td><td> 47,6            </td></tr>
+  <tr><th> Hydrogène         </th><td>  6,7                 </td><td>  6,3            </td></tr>
+  <tr><th> Azote             </th><td> 12,4                 </td><td>  9,8            </td></tr>
+  <tr><th> Oxygène et soufre </th><td> 31,5                 </td><td> 36,3            </td></tr>
+  </table>
+</figure>
+
+Mais on ne trouve pas, pour deux sortes de levure superficielle, la même
+composition, pas plus que pour deux sortes de levure de dépôt. Trois sortes de
+levure, provenant de Schiedam, qui ont été analysées comme telles, ont fourni,
+pour leur composition, les résultats suivants[^17] :
+
+<figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
+  <table style="width: 100%;">
+  <tr><td>                   </td><th> Levure superficielle </th><th> Levure de dépot </th></tr>
+  <tr><th> Carbone           </th><td> 50,9                 </td><td> 50,0            </td></tr>
+  <tr><th> Hydrogène         </th><td>  7,2                 </td><td>  7,0            </td></tr>
+  <tr><th> Azote             </th><td> 11,0                 </td><td>  8,4            </td></tr>
+  <tr><th> Oxygène et soufre </th><td> 30,9                 </td><td> 34,6            </td></tr>
+  </table>
+</figure>
+
+On reconnaît évidemment, par l'examen des chiffres qui précèdent, qu'il peut
+exister une grande différence entre deux levures. Il ne peut, du reste, en être
+autrement, puisque la levure est une vésicule de cellulose, remplie d'un
+contenu albumineux, et, comme la quantité de contenu albumineux peut varier,
+cela seul peut déterminer une différence, dans la composition. Le principe
+actif de ce contenu est toujours le même. Si on l'épuisé par l'acide acétique
+et si l'on précipite ensuite par l'ammoniaque, le précipité présente exactement
+la composition de l'albumine végétale, du gluten ou de l'albumine animale : on
+ne doit pas tenir compte du soufre, parce que le soufre de la levure n'a pas
+encore été déterminé. On a réuni, dans le tableau suivant, la composition de
+ces diverses substances, afin de pouvoir mieux en faire la comparaison :
+
+<figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
+  <table style="width: 100%;">
+  <tr>
+    <td></td>
+    <th> Substance albumineuses de la levure[^18] </th>
+    <th> Albumine du sang                   [^19] </th>
+    <th> Caséine animale                    [^20] </th>
+    <th> Albumine de l'oeuf                 [^21] </th>
+    <th> Albumine du froment                [^22] </th>
+    <th> Gluten du froment                  [^23] </th>
+  </tr>
+  <tr><th> Carbone           </th><td> 53,4 </td><td> 53,4 </td><td> 53,8 </td><td> 53,5 </td><td> 53,9 </td><td> 53,8 </td></tr>
+  <tr><th> Hydrogène         </th><td>  7,0 </td><td>  7,1 </td><td>  7,1 </td><td>  7,0 </td><td>  6,9 </td><td>  7,0 </td></tr>
+  <tr><th> Azote             </th><td> 15,8 </td><td> 15,6 </td><td> 15,6 </td><td> 15,5 </td><td> 15,6 </td><td> 15,6 </td></tr>
+  <tr><th> Oxygène et soufre </th><td> 23,8 </td><td> 23,9 </td><td> 23,5 </td><td> 24,0 </td><td> 23,6 </td><td> 23,6 </td></tr>
+  </table>
+</figure>
+
+Si, dans toutes ces substances, la quantité de soufre n'était pas différente
+(de plus, dans quelques-unes, il existe du phosphore, tandis que, dans
+d'autres, il n'y en a pas), on pourrait considérer comme identiques toutes ces
+substances qui se rapprochent également par leurs principales propriétés. Elles
+ne sont cependant pas identiques, bien qu'elles contiennent toutes le même
+groupement organique comme partie constituante fondamentale. Assurément, aucun
+de ceux qui auront observé cette concordance entre les résultats analytiques,
+ne pourra émettre une opinion contraire à celle que nous exprimons ici. Ce
+fait, que j'ai déjà signalé il y a dix-neuf ans, je suis encore obligé de le
+faire ressortir ici de nouveau.
+
+Nous avons, par ce que nous venons de dire, suffisamment élucidé la nature de
+la partie constituante active de la levure. — Mais nous n'avons pas fait voir
+les différences qui distinguent ces matières albumineuses les unes des autres.
+
+Il nous suffit de savoir que le contenu des vésicules de levure, dans la
+fermentation superficielle, aussi bien que dans la fermentation par dépôt, est
+sous tous les rapports une véritable substance albumineuse qui, avec
+l'adjonction de quantités variables de cellulose ou de vésicules,
+C<sub>24</sub>H<sub>21</sub>O<sub>21</sub>, constitue la levure et que cette
+substance présente une grande tendance à se décomposer et surtout à passer à un
+degré supérieur d'oxydation (p. 212).
+
+On peut facilement, au moyen de la levure superficielle, produire de la levure
+de dépôt : mais le contraire n'est pas facile. En ajoutant de la levure
+superficielle à un moût que l'on a fait refroidir jusqu'à la température à
+laquelle la fermentation par dépôt a lieu, il se produit une fermentation
+partielle par dépôt : si la levure qui s'y produit est ajoutée de nouveau à un
+moût que l'on a refroidi à une basse température, la levure qui prend naissance
+dans la fermentation ainsi déterminée présente de plus en plus le caractère
+d'une levure susceptible de déterminer une fermentation par dépôt. En répétant
+plusieurs fois la même opération, on prépare, au moyen d'une levure
+superficielle, de la levure de dépôt.
+
+En ce qui concerne la différence qui existe entre la levure superficielle et la
+levure de dépôt, elle peut provenir d'une plus grande épaisseur des parois des
+cellules à travers lesquelles la substance albumineuse doit passer pour se
+rendre au dehors et déterminer la production de la fermentation, ou d'une
+moindre tendance à se décomposer que présente le contenu albumineux des
+cellules de levure de dépôt. Pour parler franchement, on ne connaît pas la
+raison de leur différence. Mais cela ne présente aucun inconvénient pour le but
+que nous nous proposons d'atteindre : en effet c'est le degré de force de la
+levure et non sa nature qui a de l'influence.
+
+Des expériences de Schlossberger[^24], on ne peut donc pas conclure que la
+levure de dépôt contienne moins de substances albumineuses que la levure
+superficielle, bien qu'il y ait trouvé moins d'azote : en effet, dans deux
+sortes de levure de Schiedam, j'ai trouvé encore moins d'azote, ainsi qu'on
+peut le voir par la comparaison des résultats qui suivent :
+
+<figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
+  <table style="width: 100%;">
+  <tr><td>       </td><th colspan=4> Schlossberger </th><th colspan=3> Mulder </th></tr>
+  <tr><td>       </td><th colspan=2> Levure superficielle </th><th colspan=2> Levure de dépôt </th><th colspan=3> Levure de Schiedam </th></tr>
+  <tr><th> Azote </th><td> 11,6 </td><td> 12,2 </td><td> 9,6 </td><td> 9,6 </td><td> 11,0 </td><td> 9,4 </td><td> 8,4 </td></tr>
+  </table>
+</figure>
+
+Liebig[^25] a donné une explication tout à fait inexacte de la différence qui
+existe entre la levure superficielle et la levure de dépôt. Suivant ce
+chimiste, la levure superficielle est atteinte de putréfaction et détermine
+dans le sucre une décomposition de même ordre : la fermentation par dépôt se
+produit par le contact avec le gluten qui s'est oxydé. Dans la fermentation
+superficielle, il doit par conséquent se produire, outre l'alcool et l'acide
+carbonique, une autre substance, ce qui ne doit pas avoir lieu dans la
+fermentation par dépôt. Le produit accessoire, qui prend ainsi naissance dans
+la fermentation superficielle, doit être surtout de l'acide acétique. D'après
+Liebig, il ne doit donc y avoir presque pas de gluten dans la bière préparée au
+moyen de la fermentation par dépôt, tandis qu'il doit y en avoir une très
+grande quantité dans la bière préparée au moyen de la fermentation
+superficielle, et cette dernière doit présenter beaucoup de tendance à devenir
+acide, tandis que, dans la première, il ne doit se produire qu'une quantité très
+faible d'acide acétique.
+
+Si l'on excepte la dernière observation qui est exacte, tout le reste est
+inexact.
 
 La levure superficielle est-elle atteinte de putréfaction ?
 
-Schmidt 2 a prouvé que la colle forte putréfiée, la viande putréfiée, ou bien la levure putréfiée, introduites dans une dissolution de sucre, perdent tous les caractères de la putréfaction et donnent une liqueur d'une saveur agréable.
+Schmidt[^26] a prouvé que la colle forte putréfiée, la viande putréfiée, ou
+bien la levure putréfiée, introduites dans une dissolution de sucre, perdent
+tous les caractères de la putréfaction et donnent une liqueur d'une saveur
+agréable.
 
-Mais si nous considérons l'expression à un point de vue général, nous ne trouvons rien qui puisse nous satisfaire dans l'ensemble de l'explication de Liebig en ce qui concerne la différence qui existe entre la fermentation superficielle et la fermentation par dépôt. — Il est positif qu'il sera difficile de trouver une explication satisfaisante : en effet la cause et le résultat se réunissent pour rendre difficile la réponse à la question.
+Mais si nous considérons l'expression à un point de vue général, nous ne
+trouvons rien qui puisse nous satisfaire dans l'ensemble de l'explication de
+Liebig en ce qui concerne la différence qui existe entre la fermentation
+superficielle et la fermentation par dépôt. — Il est positif qu'il sera
+difficile de trouver une explication satisfaisante : en effet la cause et le
+résultat se réunissent pour rendre difficile la réponse à la question.
 
-On peut à volonté faire subir à un même moût la fermentation superficielle ou la fermentation par dépôt, en y ajoutant de la levure superficielle ou de la levure de dépôt, pourvu que ce moût ait été préalablement amené à une
+On peut à volonté faire subir à un même moût la fermentation superficielle ou
+la fermentation par dépôt, en y ajoutant de la levure superficielle ou de la
+levure de dépôt, pourvu que ce moût ait été préalablement amené à une
+température convenable. La première impression dépend donc de la nature de la
+levure : or cette première impression est la cause déterminante de tout le
+phénomène, puisque la levure de dépôt, par l'action lente à laquelle elle donne
+lieu, ne peut produire que de la levure de dépôt, tandis que la levure
+superficielle, par l'action vive qu'elle détermine, peut seulement donner
+naissance à de la levure superficielle. Lorsque l'action est lente, l'air est
+moins complètement éloigné de la liqueur, que lorsque l'action est très vive :
+en effet, dans ce dernier, cas, la masse d'acide carbonique qui se dégage
+chasse l'air.
 
-1. Handwörterbuch der reinen und angewandten Chemie, t. I, p. 785.
+La cause de tout le phénomène réside donc dans l'impression primitive que l'une
+ou l'autre des deux sortes de levures a faite sur le moût. Mais de là résulte
+une différence d'action qui réagit d'une manière déterminée sur tout le
+phénomène.
 
-2. Annalen der Chemie und Pharmacie, t. LXI, p. 177.
+Pour pouvoir expliquer la différence qui existe entre la fermentation
+superficielle et la fermentation par dépôt, la connaissance de la différence
+entre la levure superficielle et la levure de dépôt nous serait nécessaire : or
+cette connaissance nous fait entièrement défaut. Dans la levure superficielle,
+il existe une substance plus active : dans la levure de dépôt, il existe une
+substance moins active : c'est tout ce que nous savons. L'une des substances
+agit de la même manière que l'autre ; toutes les deux décomposent en effet le
+sucre ; mais l'une le décompose plus rapidement que l'autre.
 
-température convenable. La première impression dépend donc de la nature de la levure : or cette première impression est la cause déterminante de tout le phénomène, puisque la levure de dépôt, par l'action lente à laquelle elle donne lieu, ne peut produire que de la levure de dépôt, tandis que la levure superficielle, par l'action vive qu'elle détermine, peut seulement donner naissance à de la levure superficielle. Lorsque l'action est lente, l'air est moins complètement éloigné de la liqueur, que lorsque l'action est très vive : en effet, dans ce dernier, cas, la masse d'acide carbonique qui se dégage chasse l'air.
-
-La cause de tout le phénomène réside donc dans l'impression primitive que l'une ou l'autre des deux sortes de levures a faite sur le moût. Mais de là résulte une différence d'action qui réagit d'une manière déterminée sur tout le phénomène.
-
-Pour pouvoir expliquer la différence qui existe entre la fermentation superficielle et la fermentation par dépôt, la connaissance de la différence entre la levure superficielle et la levure de dépôt nous serait nécessaire : or cette connaissance nous fait entièrement défaut. Dans la levure superficielle, il existe une substance plus active : dans la levure de dépôt, il existe une substance moins active : c'est tout ce que nous savons. L'une des substances agit de la même manière que l'autre ; toutes les deux décomposent en effet le sucre ; mais l'une le décompose plus rapidement que l'autre.
-
-Nous pouvons, en nous tenant à l'expression du fait, y joindre en outre la règle que tout corps donne naissance à son semblable et que par conséquent, dans le cas dont nous nous occupons, la substance qui exerce une action vive, ou la levure superficielle, donne naissance à une substance qui exerce une action vive, et que la levure qui exerce une action lente, donne naissance à de la levure de dépôt.
+Nous pouvons, en nous tenant à l'expression du fait, y joindre en outre la
+règle que tout corps donne naissance à son semblable et que par conséquent,
+dans le cas dont nous nous occupons, la substance qui exerce une action vive,
+ou la levure superficielle, donne naissance à une substance qui exerce une
+action vive, et que la levure qui exerce une action lente, donne naissance à de
+la levure de dépôt.
 
 Ces deux faits étant admis, ils peuvent nous être utiles dans l'examen ultérieur du phénomène, lorsque nous soulevons la question suivante : que se passe-t-il dans la fermentation dont la marche est lente ? Que se passe-t-il dans la fermentation dont la marche est rapide ?
 
@@ -1333,4 +1359,28 @@ pas se produire d'ammoniaque.
 — *Annales de Chimie et de Physique*, t. LVIII, p. 323 et suivantes, 1860.
 
 [^14]: *Chimie appliquée aux arts*, t. VI, p. 466.
+
+[^15]: *Kurzes Lehrbuch der organischen Chemie*, 1853, p. 401.
+
+[^16]: *Annalen der Pharm.*, t. LI, p. 200.
+
+[^17]: *Scheik. onderz.*, t. II, p. 444
+
+[^18]: *Scheik. onderz.*, t. II, p. 451.
+
+[^19]: *Scheih. onderz.*, t. IV, p. 326.
+
+[^20]: *Scheih. onderz.*, t. IV, p. 396.
+
+[^21]: *Scheih. onderz.*, t. IV, p. 398.
+
+[^22]: *Bulletin de Néerlande*, 1838, p. 111.
+
+[^23]: *Scheik. onderz.*, t. IV, p. 154 et t. II, p. 404.
+
+[^24]: Annalen der Pharm., t. LI, p. 200.
+
+[^25]: *Handwörterbuch der reinen und angewandten Chemie*, t. I, p. 785.
+
+[^26]: *Annalen der Chemie und Pharmacie*, t. LXI, p. 177.
 

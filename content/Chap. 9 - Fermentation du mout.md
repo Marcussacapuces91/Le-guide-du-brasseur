@@ -1,78 +1,194 @@
-CHAPITRE IX
-
-FERMENTATION DU MOUT.
+---
+Title: Chapitre 10
+Descrption: Fermentation du moût.
+---
 
 Lorsque le moût est refroidi, on le fait fermenter,
 
-Le but de la fermentation est de transformer en alcool et en acide carbonique une très grande partie du sucre contenu dans le moût : on doit toutefois avoir soin qu'il reste encore dans la liqueur une certaine quantité de sucre qui ne soit pas décomposée. Le moût passe enfin ainsi à l'état de bière.
+Le but de la fermentation est de transformer en alcool et en acide carbonique
+une très grande partie du sucre contenu dans le moût : on doit toutefois avoir
+soin qu'il reste encore dans la liqueur une certaine quantité de sucre qui ne
+soit pas décomposée. Le moût passe enfin ainsi à l'état de bière.
 
-Je pense qu'il n'est pas utile d'indiquer de nouveau ici les circonstances déterminantes de la fermentation que j'ai examinées avec détail dans un autre ouvrage 1. J'indiquerai cependant ici quelques particularités qui n'avaient pas trouvé place dans cet ouvrage et qui me paraissent utiles à faire connaître.
+Je pense qu'il n'est pas utile d'indiquer de nouveau ici les circonstances
+déterminantes de la fermentation que j'ai examinées avec détail dans un autre
+ouvrage[^1]. J'indiquerai cependant ici quelques particularités qui n'avaient
+pas trouvé place dans cet ouvrage et qui me paraissent utiles à faire
+connaître.
 
-On fait refroidir le moût dans les bacs refroidissoirs, soit à une température de 14° à 20°, soit à une température de 6° à 8°, suivant que l'on veut s'en servir pour préparer de la bière par fermentation superficielle ou par fermentation avec dépôt, et on le maintient autant que possible à la même température, en ayant soin d'éviter qu'elle ne subisse aucune variation. C'est précisément dans les localités où cette condition est la plus complètement remplie que l'on prépare la meilleure bière.
+On fait refroidir le moût dans les bacs refroidissoirs, soit à une température
+de 14 à 20°C, soit à une température de 6 à 8°C, suivant que l'on veut s'en
+servir pour préparer de la bière par fermentation superficielle ou par
+fermentation avec dépôt, et on le maintient autant que possible à la même
+température, en ayant soin d'éviter qu'elle ne subisse aucune variation. C'est
+précisément dans les localités où cette condition est la plus complètement
+remplie que l'on prépare la meilleure bière.
 
-Les cuves-guilloires sont ouvertes ou fermées. Dans ces dernières, la fermentation s'effectue beaucoup mieux et suit une marche beaucoup plus régulière. Certaines cuves-guilloires sont disposées de telle façon que l'acide carbo-
+Les cuves-guilloires sont ouvertes ou fermées. Dans ces dernières, la
+fermentation s'effectue beaucoup mieux et suit une marche beaucoup plus
+régulière. Certaines cuves-guilloires sont disposées de telle façon que l'acide
+carbonique puisse bien se dégager, mais que l'air ne puisse pas y avoir accès.
 
-1. De Wijn, Scheikundig Onderzocht, p. 42.
+Dans la préparation de certaines bières, comme les bières belges connues sous
+les noms de faro et de lambick, on transvase directement, ainsi que nous
+l'avons déjà indiqué, le moût convenablement refroidi dans des tonneaux où on
+l'abandonne à lui-même, pour qu'il y subisse une fermentation lente, sans qu'on
+y ajoute de ferment.
 
-nique puisse bien se dégager, mais que l'air ne puisse pas y avoir accès.
+Il existe deux sortes de fermentation : la fermentation superficielle (en
+Hollandais, *boven-gisting* ; en allemand, *Obergährung*) et la fermentation
+avec dépôt (en hollandais, *ondergisting* ; en allemand, *Untergährung*) ; la
+première exige la plus élevée et la seconde la plus basse des températures
+indiquées. Leur dénomination indique la nature des deux phénomènes. Dans la
+fermentation superficielle, le ferment monte à la surface sous forme d'écume ;
+dans la fermentation avec dépôt, il reste en grande partie au fond. La
+fermentation superficielle est rapide ; la fermentation avec dépôt est lente.
+Dans la préparation des bières hollandaises, on se sert surtout du premier mode
+de fermentation, tandis que, dans la préparation des bières de Bavière, on
+emploie généralement le second.
 
-Dans la préparation de certaines bières, comme les bières belges connues sous les noms de faro et de lambick, on transvase directement, ainsi que nous l'avons déjà indiqué, le moût convenablement refroidi dans des tonneaux où on l'abandonne à lui-même, pour qu'il y subisse une fermentation lente, sans qu'on y ajoute de ferment.
+Les deux sortes de fermentation sont déterminées par du ferment provenant d'une
+fermentation de même dénomination. Pour la fermentation des bières de Bavière,
+on ajoute donc à la liqueur qui s'écoule du bac refroidissoir dans la
+cuve-guilloire, une petite quantité de ferment provenant d'une fermentation
+avec dépôt qui l'ait précédée. Pour préparer les autres bières, on a besoin
+d'un ferment provenant d'une fermentation superficielle. Le ferment, quelle que
+soit son espèce, exerce la même action chimique sur le sucre contenu dans le
+moût, c'est-à-dire qu'il le transforme en alcool qui reste dans la liqueur et
+en acide carbonique qui se dégage : mais les phénomènes extérieurs qui
+accompagnent cette fermentation diffèrent suivant l'espèce du ferment. Malgré
+cette différence dans les phénomènes extérieurs de la fermentation il se
+produit bien du ferment dans les deux cas : mais, dans l'un des deux cas, le
+ferment qui se produit est susceptible de déterminer une fermentation rapide,
+tandis que, dans l'autre cas, il possède la faculté de déterminer une
+fermentation lente.
 
-Il existe deux sortes de fermentation : la fermentation superficielle (en Hollandais, boven-gisting : en allemand, Obergährung) et la fermentation avec dépôt (en hollandais, ondergisting ; en allemand, Untergährung) ; la première exige la plus élevée et la seconde la plus basse des températures indiquées: Leur dénomination indique la nature des deux phénomènes. Dans la fermentation superficielle, le ferment monte à la surface sous forme d'écume ; dans la fermentation avec dépôt, il reste en grande partie au fond. La fermentation superficielle est rapide ; la fermentation avec dépôt est lente. Dans la préparation des bières hollandaises, on se sert surtout du premier mode de fermentation, tandis que, dans la préparation des bières de Bavière, on on emploie généralement le second.
+Dans la fermentation de la bière, on distingue deux phases principales : la
+fermentation qui commence immédiatement après l'addition du ferment et continue
+lentement jusqu'à un certain degré, en donnant naissance à une écume, et la
+fermentation qui la suit et qui est accompagnée d'une production de ferment.
+Dans la première, le ferment que l'on ajoute est détruit ; dans la seconde qui
+donne naissance à une écume bien distincte de la première, il se produit une
+quantité de ferment cinq fois plus grande que celle qui avait été ajoutée
+d'abord. La première, fermentation peut être désignée sous le nom de
+fermentation produisant de l'écume (en hollandais, *schuim-gisting*; en
+allemand, *Schaumgährung*), et la seconde sous le nom de fermentation
+produisant de la levure (en hollandais, *gist-gisting* ; en allemand,
+*Hefegährung*). La fermentation complémentaire (en hollandais, *na-gisting*, en
+allemand, *Nachgährung*) dont nous nous occuperons plus tard, est différente
+des deux précédentes.
 
-Les deux sortes de fermentation sont déterminées par du ferment provenant d'une fermentation de même dénomination. Pour la fermentation des bières de Bavière, on ajoute donc à la liqueur qui s'écoule du bac refroidissoir dans la cuve-guilloire, une petite quantité de ferment provenant d'une fermentation avec dépôt qui l'ait précédée. Pour préparer les autres bières, on a besoin d'un ferment provenant d'une fermentation superficielle. Le ferment, quelle que soit son espèce, exerce la même action chimique sur le sucre contenu dans le moût, c'est-à-dire qu'il le transforme en alcool qui reste dans la liqueur et en acide carbonique qui se dégage : mais les phénomènes extérieurs qui accompagnent cette fermentation diffèrent suivant l'espèce du ferment. Malgré cette différence dans les phénomènes extérieurs de la fermentation il se produit bien du ferment dans les deux cas : mais, dans l'un des deux cas, le ferment qui se produit est susceptible de déterminer une fermentation rapide, tandis que, dans l'autre cas, il possède la faculté de déterminer une fermentation lente.
+Nous devons rappeler que l'on a fait bouillir le moût et qu'on l'a fait
+bouillir avec du houblon, et que cette ébullition et l'évaporation qui en est
+résultée ont fait perdre au moût, par coagulation, une certaine quantité de
+substances albumineuses : nous avons vu en effet que ces substances
+albumineuses se séparent dans la chaudière par l'ébullition, soit sous forme de
+grumeaux, soit sous forme d'écume. — Cependant le moût tient encore en
+dissolution une assez grande quantité de substances albumineuses à un état tel
+qu'une addition tout à fait peu considérable de ferment provenant d'une
+fermentation antérieure suffit pour déterminer la fermentation du moût et que,
+pendant cette fermentation, il se produit une quantité considérable de ferment.
 
-Dans la fermentation de la bière, on distingue deux phases
+Cette particularité mérite que nous l'examinions avant d'étudier de plus près
+la différence qui existe entre la fermentation superficielle et la fermentation
+avec dépôt. On admet généralement que, par l'ébullition, les matières
+albumineuses contenues dans une liqueur se coagulent et se séparent ainsi de la
+liqueur : la production du ferment dans la fermentation de la bière nous
+apprend que, après l'ébullition du moût, une grande quantité de substance
+albumineuse reste au contraire dissoute tandis qu'une partie seulement est
+coagulée.
 
-principales : la fermentation qui commence immédiatement après l'addition du ferment et continue lentement jusqu'à un certain degré, en donnant naissance à une écume, et la fermentation qui la suit et qui est accompagnée d'une production de ferment. Dans la première, le ferment que l'on ajoute est détruit ; dans la seconde qui donne naissance à une écume bien distincte de la première, il se produit une quantité de ferment cinq fois plus grande que celle qui avait été ajoutée d'abord. La première, fermentation peut être désignée sous le nom de fermentation produisant de l'écume (en hollandais, schuim-gisting, en allemand, Schaumgährung), et la seconde sous le nom de fermentation produisant de la levure (en hollandais gist-gisting ; en allemand, Hefegährung). La fermentation complémentaire (en hollandais, na-gisting, en allemand, Nachgährung) dont nous nous occuperons plus tard, est différente des deux précédentes.
+Il a été question (p. 101) de l'existence de différentes matières albumineuses
+dans le moût, de la diminution des matières albumineuses insolubles par la
+germination et de l'augmentation des matières albumineuses solubles. On a fait
+remarquer qu'il y existait des matières albumineuses coagulables, mais qu'il
+s'y rencontrait aussi d'autres matières albumineuses qui n'étaient pas
+coagulées par la chaleur et qu'il se trouvait dans le moût une quantité
+considérable de ces dernières.
 
-Nous devons rappeler que l'on a fait bouillir le moût et qu'on l'a fait bouillir avec du houblon, et que cette ébullition et l'évaporation qui en est résultée ont fait perdre au moût, par coagulation, une certaine quantité de substances albumineuses : nous avons vu en effet que ces substances albumineuses se séparent dans la chaudière par l'ébullition, soit sous forme de grumeaux, soit sous forme d'écume. — Cependant le moût tient encore en dissolution une assez grande quantité de substances albumineuses à un état tel qu'une addition tout à fait peu considérable de ferment provenant d'une fermentation antérieure suffit pour déterminer la fermentation du moût et que, pendant cette fermentation, il se produit une quantité considérable de ferment.
+Résumons ce que nous avons dit p. 101, et faisons-en l'application à la
+préparation de la bière. Dans 100 livres de malt, il se trouve presque une
+demi-livre de matières albumineuses coagulables par l'action de la chaleur. Une
+demi-livre de matières albumineuses coagulables pour 700 livres d'eau par
+exemple (ce qui représente la proportion relative d'eau que l'on emploie dans
+la préparation de la petite bière) peut déjà manifester bien nettement sa
+présence dans la chaudière, en se rendant à la surface sous forme d'écume.
 
-Cette particularité mérite que nous l'examinions avant d'étudier de plus près la différence qui existe entre la fermentation superficielle et la fermentation avec dépôt. On admet généralement que, par l'ébullition, les matières albumineuses contenues dans une liqueur se coagulent et se séparent ainsi de la liqueur : la production du ferment dans la fermentation de la bière nous apprend que, après l'ébullition du moût, une grande quantité de substance albumineuse reste au contraire dissoute tandis qu'une partie seulement est coagulée.
+Après que l'on a séparé par l'action de la chaleur les substances coagulables
+dont une grande partie s'était déjà séparée dans la cuve matière, un moût
+provenant du traitement de 100 livres de malt par 700 livres d'eau contient
+encore 2 livres de substances albumineuses solubles (p. 101).
 
-Il a été question (p. 101) de l'existence de différentes matières albumineuses dans le moût, de la diminution des ma-
+On ne connaît pas la quantité de ces matières albumineuses qui est précipitée
+par l'acide tannique du houblon ; mais nous avons montré (p.106) qu'une partie
+de ces matières albumineuses échappe à l'action de l'acide tannique : en effet,
+une partie des matières albumineuses n'est pas précipitée par l'acide tannique,
+ce qui vient, entre autres raisons, de la présence d'une certaine quantité
+d'acide lactique.
 
-tières albumineuses insolubles par la germination et de l'augmentation des matières albumineuses solubles. On a fait remarquer qu'il y existait des matières albumineuses coagulables, mais qu'il s'y rencontrait aussi d'autres matières albumineuses qui n'étaient pas coagulées par la chaleur et qu'il se trouvait dans le moût une quantité considérable de ces dernières.
+Dans le vin, c'est la présence de l'acide tartrique qui est la cause pour
+laquelle l'acide tannique peut se trouver en présence de substances
+albumineuses sous forme soluble sans en effectuer la précipitation ; dans le
+moût, c'est, entre autres causes, à la présence d'une certaine quantité d'acide
+lactique (en effet, cet acide ne fait jamais défaut), que l'on doit attribuer
+ce phénomène. Si l'on ajoute de l'acide lactique à du blanc d'oeuf, l'acide
+tannique ne peut plu» y produire de précipité de tannate d'albumine, même par
+l'ébullition.
 
-Résumons ce que nous avons dit p. 101, et faisons-en l'application à la préparation de la bière. Dans 100 livres de malt, il se trouve presque une demi-livre de matières albumineuses coagulables par l'action de la chaleur. Une demi-livre de matières albumineuses coagulables pour 700 livres d'eau par exemple (ce qui représente la proportion relative d'eau que l'on emploie dans la préparation de la petite bière) peut déjà manifester bien nettement sa présence dans la chaudière, en se rendant à la surface sous forme d'écume.
+Il n'existe donc, pas dans le moût une matière albumineuse, de nature spéciale,
+qui ne soit pas précipitée par l'acide tannique : la combinaison se forme bien,
+mais elle est maintenue en dissolution par la présence d'un acide[^2].
 
-Après que l'on a séparé par l'action de la chaleur les substances coagulables dont une grande partie s'était déjà séparée dans la cuve matière, un moût provenant du traitement de 100 livres de malt par 700 livres d'eau contient encore 2 livres de substances albumineuses solubles (p. 101).
+Je pense que nous nous sommes ainsi rendu compte de la possibilité de
+l'existence d'une quantité considérable de matières albumineuses sous forme
+soluble dans le moût, même après son ébullition avec l'acide tannique, d'une
+manière suffisante pour que nous ne soyons pas étonnés de la séparation d'une
+quantité notable de nouveau ferment.
 
-On ne connaît pas la quantité de ces matières albumineuses qui est précipitée par l'acide tannique du houblon ; mais nous avons montré (p.106) qu'une partie de ces matières albumineuses échappe à l'action de l'acide tannique : en effet, une partie des matières albumineuses n'est pas précipitée par l'acide tannique, ce qui vient, entre autres raisons, de la présence d'une certaine quantité d'acide lactique.
+Il ne convient pas, du reste, de désigner par le nom de gluten (*kleber*),
+comme quelques auteurs le font pour abréger, les substances albumineuses qui
+sont restées ainsi en dissolution dans le moût. Nous ne connaissons pas la
+nature des substances albumineuses qui restent dissoutes dans le moût après son
+ébullition, et nous ne savons pas quelle est la substance génératrice de la
+levure. Du reste, cela importe peu ; en effet, la levure peut avoir pour
+substances génératrices des substances très différentes.
 
-Dans le vin, c'est la présence de l'acide tartrique qui est la. cause pour laquelle l'acide tannique peut se trouver en présence de substances albumineuses sous forme soluble sans en effectuer la précipitation ; dans le moût, c'est, entre autres causes, à la présence d'une certaine quantité d'acide lactique (en effet, cet acide ne fait jamais défaut), que l'on doit attribuer ce phénomène. Si l'on ajoute de l'acide lactique à du blanc d'oeuf, l'acide tannique ne peut plu» y produire de précipité de tannate d'albumine, même par l'ébullition.
+Il se présente cependant une particularité sur laquelle nous devons nous
+arrêter : elle est relative au changement particulier que les substances
+albumineuses subissent lorsqu'elles se coagulent au sein d'une liqueur
+bouillante et lorsqu'on les fait bouillir avec cette liqueur. Le moût est porté
+à l'ébullition et, par suite, les matières albumineuses coagulables s'en
+séparent ; mais la liqueur bouillante réagit ensuite sur les matières
+coagulées.
 
-Il n'existe donc, pas dans le moût une matière albumineuse, de nature spéciale, qui ne soit pas précipitée par l'acide tannique : la combinaison se forme bien, mais elle
+Par l'ébullition, l'albumine est tranformée de nouveau partiellement en une
+substance soluble dans l'eau, dont les propriétés se distinguent en partie,
+mais non en totalité, de celles des substances qui appartiennent à la série
+des matières albumineuses : cette substance prend également naissance par
+l'action de l'eau bouillante sur l'albumine animale, sur la fibrine, sur les
+couennes inflammatoires, et sur les autres matières de nature analogue. Je lui
+ai trouvé pour composition
+C<sub>36</sub>H<sub>25</sub>Az<sub>4</sub>O<sub>13</sub>[^3]. Elle se trouvait
+combinée avec de l'ammoniaque et de l'eau. Cette composition ne peut nous
+donner aucune indication relativement à la nature de cette substance. Elle nous
+fait voir seulement que, dans cette matière, le carbone, l'hydrogène et l'azote
+se trouvent dans le même rapport que dans l'albumine qui l'a produite, tandis
+que l'oxygène s'y trouve en plus grande quantité que dans l'albumine, et dans
+un rapport tel que, le groupement organique de l'albumine étant représenté par
+la formule C<sub>36</sub>H<sub>25</sub>Az<sub>4</sub>O<sub>10</sub>, la
+substance indiquée devra contenir O<sub>3</sub> en plus.
 
-est maintenue en dissolution par la présence d'un acide 1.
+Cette substance prend donc naissance aux dépens de l'albumine pendant
+l'ébullition du moût dans la chaudière et se trouve par conséquent contenue
+dans la bière.
 
-Je pense que nous nous sommes ainsi rendu compte de la possibilité de l'existence d'une quantité considérable de matières albumineuses sous forme soluble dans le moût, même après son ébullition avec l'acide tannique, d'une, manière suffisante pour que nous ne soyons pas étonnés de la séparation d'une quantité notable de nouveau ferment.
-
-Il ne convient pas, du reste, de désigner par le nom de gluten (kleber), comme quelques auteurs le font pour abréger, les substances albumineuses qui sont restées ainsi en dissolution dans le moût. Nous ne connaissons pas la nature des substances albumineuses qui restent dissoutes dans le moût après son ébullition, et nous ne savons pas quelle est la substance génératrice de la levure. Du reste, cela importe peu; en effet, la levure peut avoir pour substances génératrices des substances très différentes.
-
-1. Un assez grand nombre d'acides, et notamment l'acide sulfurique, exercent une action contraire à la fermentation. Berzelius avait déjà indiqué que 1/1000 d'acide sulfurique ralentissait la fermentation. Calvert (Journal de Pharmacie et de Chimie, 3e série, t. IX, p. 92, 1846) a fait observer que 1/15000 à 1/16000 d'acide sulfurique, et même une quantité encore plus petite de cet acide, détermine un ralentissement de la fermentation. Tandis que la fermentation du moût s'accomplit en 24 heures, elle dure huit jours pour le même moût auquel on a ajouté une petité quantité d'acide sulfurique. Le moût présente donc alors une grande tendance à subir cette fermentation visqueuse dont j'ai parlé ailleurs. (De Wijn, p. 101.)
-
-Avec une dissolution de sucre additionnée de ferment, on obtient les mêmes résultats.
-
-Cette observation présente une certaine valeur relativement a la préparation dé la bière. En France, où l'on ajoute au moût du sirop de técule qui a été préparé au moyen de l'acide sulfurique, cette observation présente encore une plus grande importance.
-
-L'acide phosphorique ne parait pas jouir de cette propriété : du moins, elle ne parait pas se rencontrer dans les phosphates acides qui existent dans le ferment. L'acide lactique ne parait pas exercer une action contraire à la fermentation alcoolique, du moins lorsqu'il n'est pas en trop grande quantité.
-
-Nous croyons devoir encore mentionner ici sur le môme sujet l'opinion de Berthelot, qui (Chimie organique fondée sur la synthèse, t. II, p. 611) s'exprime ainsi: « La présence des acides minéraux, employés a la dose de quelques centièmes au moins, s'oppose à l'action de la levure. Au contraire, une très faible proportion d'un acide, et surtout d'un acide organique, facilite cette même action. » Cette opinion ne s'accorde, comme on le voit, qu'incomplètement avec celles de Berzelius et de Calvert.
-
-Ce sujet, très important au point de vue de ses conséquences pratiques sur lequel on pourrait encore consulter l'ouvrage de Balling (Gährung's Chemie, t.1, fascicule I, p. 128, 2e édition), mériterait assurément d'être élucidé par de nouvelles expériences comparatives.
-
-Il se présente cependant Une particularité sur laquelle nous devons nous arrêter : elle est relative au changement particulier que les substances albumineuses subissent lorsqu'elles se coagulent au sein d'une liqueur bouillante et lorsqu'on les fait bouillir avec cette liqueur. Le moût est porté à l'ébullition et, par suite, les matières albumineuses coagulables s'en séparent ; mais la liqueur bouillante réagit ensuite sur les matières coagulées.
-
-Par l'ébullition, l'albumine est tranformée de nouveau partiellement en une substance soluble dans l'eau, dont les propriétés se distinguent en partie, mais non en totalité, de celles des substances qui appartiennent à la série des matières albumineuses : cette substance prend également naissance par l'action de l'eau bouillante sur l'albumine animale, sur la fibrine, sur les couennes inflammatoires, et sur les autres matières de nature analogue. Je lui ai trouvé pour composition C36H25Az4O 13 1. Elle se trouvait combinée avec de l'ammoniaque et de l'eau. Cette composition ne peut nous donner aucune indication relativement à la nature de cette substance. Elle nous fait voir seulement que, dans cette matière, le carbone, l'hydrogène et l'azote se trouvent dans le même rapport que dans l'albumine qui l'a produite, tandis que l'oxygène s'y trouve en plus grande quantité que dans l'albumine, et dans un rapport tel que, le groupement organique de l'albumine étant représenté par la formule C36H25Az4O 10, la substance indiquée devra contenir O3 en plus.
-
-Cette substance prend donc naissance aux dépens de l'albumine pendant l'ébullition du moût dans la chaudière et se trouve par conséquent contenue dans la bière.
-
-Lorsqu'on traite la levure par l'eau bouillante ou par l'eau froide, on obtient une substance soluble dans l'eau, qui est un produit de décomposition du contenu albumineux de la levure, et dans laquelle le rapport entre le carbone et l'azote est encore le même que dans toutes les substances albumineuses, c'est-à-dire de 36 à 4 2. Cette substance est une partie constituante essentielle de la levure : c'est un premier produit de cette décomposition de la levure qui est la cause de la fermentation.
-
-1. Scheik. onderz., t. IV, p 283
-
-2. Scheik. onderz., t. II, p. 460.
+Lorsqu'on traite la levure par l'eau bouillante ou par l'eau froide, on obtient
+une substance soluble dans l'eau, qui est un produit de décomposition du
+contenu albumineux de la levure, et dans laquelle le rapport entre le carbone
+et l'azote est encore le même que dans toutes les substances albumineuses,
+c'est-à-dire de 36 à 4[^4]. Cette substance est une partie constituante
+essentielle de la levure : c'est un premier produit de cette décomposition de
+la levure qui est la cause de la fermentation.
 
 Si nous comparons la composition de cette substance avec celle des substances albumineuses, nous trouvons qu'elle est exprimée par la formule C36H25N4O 15 + 8HO. On obtient donc:
 
@@ -765,3 +881,58 @@ L'amidon peut donc donner de l'alcool, sans passer préalablement à l'état de 
 10gr de gomme arabique, 120gr d'eau, 10gr de craie, 2gr de fromage maintenus ensemble pendant six semaines à une température de 40° ont produit 1gr, 2 d'alcool, c'est-à-dire 12 pour 100, un sel de chaux soluble, mais n'ont fourni ni levure, ni sucre, ni glycérine.
 
 Les expériences de Berthelot ouvrent, à mon avis, une voie qui conduit à une idée beaucoup plus générale que celle que l'on se faisait jusqu'ici de la fermentation alcoolique.
+
+
+
+
+
+
+
+
+
+
+
+[^1]: De Wijn, *Scheikundig Onderzocht*, p. 42.
+
+[^2]: Un assez grand nombre d'acides, et notamment l'acide sulfurique, exercent
+une action contraire à la fermentation. Berzelius avait déjà indiqué que 1/1000
+d'acide sulfurique ralentissait la fermentation. Calvert (*Journal de Pharmacie
+et de Chimie*, 3e série, t. IX, p. 92, 1846) a fait observer que 1/15000 à
+1/16000 d'acide sulfurique, et même une quantité encore plus petite de cet
+acide, détermine un ralentissement de la fermentation. Tandis que la
+fermentation du moût s'accomplit en 24 heures, elle dure huit jours pour le
+même moût auquel on a ajouté une petité quantité d'acide sulfurique. Le moût
+présente donc alors une grande tendance à subir cette fermentation visqueuse
+dont j'ai parlé ailleurs. (*De Wijn*, p. 101.)
+
+Avec une dissolution de sucre additionnée de ferment, on obtient les mêmes
+résultats.
+
+Cette observation présente une certaine valeur relativement à la préparation de
+la bière. En France, où l'on ajoute au moût du sirop de técule qui a été
+préparé au moyen de l'acide sulfurique, cette observation présente encore une
+plus grande importance.
+
+L'acide phosphorique ne parait pas jouir de cette propriété : du moins, elle ne
+parait pas se rencontrer dans les phosphates acides qui existent dans le
+ferment. L'acide lactique ne parait pas exercer une action contraire à la
+fermentation alcoolique, du moins lorsqu'il n'est pas en trop grande quantité.
+
+Nous croyons devoir encore mentionner ici sur le môme sujet l'opinion de
+Berthelot, qui (*Chimie organique fondée sur la synthèse*, t. II, p. 611)
+s'exprime ainsi : « La présence des acides minéraux, employés à la dose de
+quelques centièmes au moins, s'oppose à l'action de la levure. Au contraire,
+une très faible proportion d'un acide, et surtout d'un acide organique,
+facilite cette même action. » Cette opinion ne s'accorde, comme on le voit,
+qu'incomplètement avec celles de Berzelius et de Calvert.
+
+Ce sujet, très important au point de vue de ses conséquences pratiques sur
+lequel on pourrait encore consulter l'ouvrage de Balling (*Gährung's Chemie*,
+t.1, fascicule I, p. 128, 2e édition), mériterait assurément d'être élucidé par
+de nouvelles expériences comparatives.
+
+[^3]: *Scheik. onderz.*, t. IV, p 283
+
+[^4]: *Scheik. onderz.*, t. II, p. 460.
+
+

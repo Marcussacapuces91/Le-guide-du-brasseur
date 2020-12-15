@@ -214,27 +214,69 @@ dans les bières jeunes : dans la plupart des cas, l'acide carbonique forme, en
 se dégageant, des perles ou de petites bulles, surtout lorsque la bière
 contient une quantité considérable d'huile empyreumatique de houblon.
 
-Toutes les bières qui sont préparées au moyen de la fermentation dépôt sont du reste plus susceptibles de se conserver. Toutefois, après les avoir transvasées de la cuve-guilloire dans les tonneaux, on leur laisse aussi subir la fermentation complémentaire et l'on ferme les tonneaux. La fermentation continue avec une excessive lenteur et ces bières peuvent en général être tirées directement du tonneau pour être consommées. Si on les soutire dans des flacons ou dans des cruches peu de temps après que la fermentation secondaire est terminée, elles ne moussent lorsqu'on les verse qu'après avoir séjourné longtemps dans des flacons fermés dans lesquels elles se trouvent entièrement à l'abri du contact de l'air ; mais elles donnent rarement autre chose qu'une écume formée de la réunion de bulles simulant des perles, lorsqu'elles n'ont été transvasées dans les flacons qu'après s'être complètement éclaircies dans le tonneau. Plus la levure reste longtemps en contact avec la bière, plus la fermentation s'accomplit rapidement, plus la bière doit être consommée rapidement. Plus, au contraire, la bière se maintient claire, plus elle est susceptible de se conserver longtemps. Plus la température est basse, plus la bière se conserve; plus la température est élevée, plus la bière se décompose rapidement.
+Toutes les bières qui sont préparées au moyen de la fermentation dépôt sont du
+reste plus susceptibles de se conserver. Toutefois, après les avoir transvasées
+de la cuve-guilloire dans les tonneaux, on leur laisse aussi subir la
+fermentation complémentaire et l'on ferme les tonneaux. La fermentation
+continue avec une excessive lenteur et ces bières peuvent en général être
+tirées directement du tonneau pour être consommées. Si on les soutire dans des
+flacons ou dans des cruches peu de temps après que la fermentation secondaire
+est terminée, elles ne moussent lorsqu'on les verse qu'après avoir séjourné
+longtemps dans des flacons fermés dans lesquels elles se trouvent entièrement à
+l'abri du contact de l'air ; mais elles donnent rarement autre chose qu'une
+écume formée de la réunion de bulles simulant des perles, lorsqu'elles n'ont
+été transvasées dans les flacons qu'après s'être complètement éclaircies dans
+le tonneau. Plus la levure reste longtemps en contact avec la bière, plus la
+fermentation s'accomplit rapidement, plus la bière doit être consommée
+rapidement. Plus, au contraire, la bière se maintient claire, plus elle est
+susceptible de se conserver longtemps. Plus la température est basse, plus la
+bière se conserve; plus la température est élevée, plus la bière se décompose
+rapidement.
 
-Pendant toute la durée de ces fermentations plus rapides
+Pendant toute la durée de ces fermentations plus rapides ou plus lentes, la
+quantité d'alcool contenue dans la bière augmente, la quantité de sucre diminue
+et la saveur devient par suite moins douce. La bière reste une bière potable
+aussi longtemps qu'il continue à s'y produire une fermentation d'une nature
+quelconque et par suite aussi longtemps qu'il y existe encore de l'acide
+carbonique en dissolution.
 
-ou plus lentes, la quantité d'alcool contenue dans la bière augmente, la quantité de sucre diminue et la saveur devient par suite moins douce. La bière reste une bière potable aussi longtemps qu'il continue à s'y produire une fermentation d'une nature quelconque et par suite aussi longtemps qu'il y existe encore de l'acide carbonique en dissolution.
+Ce que nous venons de dire nous montre clairement pourquoi les celliers dans
+lesquels on veut conserver des bières de garde, doivent remplir les conditions
+suivantes : 1° une basse température, parce que la fermentation complémentaire
+suit alors une marche très lente ; 2° une température constante, parce qu'elle
+détermine des fermentations du même ordre que celles qui se sont produites dans
+la liqueur par la fermentation dès que l'action a commencé à se produire.
 
-Ce que nous venons de dire nous montre clairement pourquoi les celliers dans lesquels on veut conserver des bières de garde, doivent remplir les conditions suivantes : 1° une basse température, parce que la fermentation complémentaire suit alors une marche très lente; 2° une température constante, parce qu'elle détermine des fermentations du même ordre que celles qui se sont produites dans la liqueur par la fermentation dès que l'action a commencé à se produire.
+Dans aucune sorte de bière, la fermentation complémentaire ne fait défaut : dès
+qu'il cesse de se produire une fermentation dans la liqueur, cette liqueur
+cesse d'être de la bière. Sous ce rapport, la bière est entièrement distincte
+du vin, et par exemplé du vin de Bordeaux. Lorsqu'on le met en bouteilles, le
+vin a cessé de fermenter. Il n'existe aucune espèce de bière, ou du moins
+aucune espèce de bière potable, qui se trouve à cet état.
 
-Dans aucune sorte de bière, la fermentation complémentaire ne fait défaut : dès qu'il cesse de se produire une fermentation dans la liqueur, cette liqueur cesse d'être de la bière. Sous ce rapport, la bière est entièrement distincte du vin, et par exemplé du vin de Bordeaux. Lorsqu'on le met en bouteilles, le vin a cessé de fermenter. Il n'existe aucune espèce de bière, ou du moins aucune espèce de bière potable, qui se trouve à cet état.
+Quelquefois, pendant la fermentation, la bière peut devenir acide. Zimmerman a
+conseillé d'employer dans ce cas le sucre de fruits pour obvier à cet
+inconvénient : son emploi présente en effet quelques avantages. Le sucre
+remplit ici un double but. D'abord, il absorbe, sans exercer aucune action
+nuisible, l'acide acétique qui s'est déjà produit et fait disparaître la saveur
+acide : mais, d'autre part, il rend la levure qui existe dans la liqueur,
+susceptible de fonctionner de nouveau comme ferment ; il détermine la
+production d'une nouvelle fermentation : l'alcool qui a été transformé en acide
+acétique, est remplacé par une nouvelle quantité d'alcool et la liqueur peut
+reprendre le caractère essentiel de la bière : tenir de l'acide carbonique en
+dissolution et subir toujours une fermentation alcoolique plus ou moins
+prononcée. Le sucre que l'on ajoute ainsi imprime une nouvelle impulsion à
+l'activité chimique des substances albumineuses, et la production de l'acide
+acétique est arrêtée. Le sucre de canne rend le même service[^2]. Si ce moyen
+n'agit pas rapidement, on enlève à la bière la levure qui s'y trouve et l'on
+ajoute de la levure fraîche.
 
-Quelquefois, pendant la fermentation, la bière peut devenir acide. Zimmerman a conseillé d'employer dans ce cas le sucre de fruits pour obvier à cet inconvénient : son emploi présente en effet quelques avantages. Le sucre remplit ici un double but. D'abord, il absorbe, sans exercer aucune action nuisible, l'acide acétique qui s'est déjà produit et fait disparaître la saveur acide : mais, d'autre part, il rend la levure qui existe dans la liqueur, susceptible de fonctionner de nouveau comme ferment; il détermine la production d'une nouvelle fermentation : l'alcool qui a été transformé en acide acétique, est remplacé par une nouvelle quantité d'alcool et la liqueur peut reprendre le caractère essentiel de la bière : tenir de l'acide carbonique en dissolution et subir toujours une fermentation alcoolique plus ou moins prononcée. Le sucre que l'on ajoute ainsi imprime une nouvelle impulsion à l'activité chimique des substances albumineuses, et la production de l'acide acétique est arrêtée. Le sucre de canne rend le même service 1. Si ce moyen
-
-t. Müller, loc. cit., p. 357,
-
-n'agit pas rapidement, on enlève à la bière la levure qui s'y trouve et l'on ajoute de la levure fraîche.
-
-Si la bière est devenue acide, on y ajoute du bicarbonate de soude afin de saturer l'acide acétique qu'elle contient. Ce moyen doit toutefois être considéré comme une falsification ; nous y reviendrons plus loin.
-
-
+Si la bière est devenue acide, on y ajoute du bicarbonate de soude afin de
+saturer l'acide acétique qu'elle contient. Ce moyen doit toutefois être
+considéré comme une falsification ; nous y reviendrons plus loin.
 
 
 
 [^1]: *Loc. cit.*, p. 348.
 
+[^2]: Müller, *loc. cit.*, p. 357.

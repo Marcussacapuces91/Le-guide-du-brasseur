@@ -53,4 +53,4 @@ Chimiste manufacturier, auteur du Traité de Vinification, etc., etc.
 Arts et Métiers       Série G N° 10 .
 PARIS J. HETZEL. ET Cie, ÉDITEURS
 18, RUE JACOB, 18
-Tous droits de traduction et de reproduction réservés.](%base_url%/images/Guide%20du%20brasseur%20-%20Couverture.png)
+Tous droits de traduction et de reproduction réservés.](/images/Guide%20du%20brasseur%20-%20Couverture.png)

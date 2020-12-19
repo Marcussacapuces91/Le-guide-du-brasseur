@@ -56,5 +56,8 @@ PARIS J. HETZEL. ET Cie, ÉDITEURS
 Tous droits de traduction et de reproduction réservés.](/images/Guide%20du%20brasseur%20-%20Couverture.png)
 
 {% for repository in site.github.public_repositories %}
+  {% if repository.name == "Le-guide-du-brasseur" %}
+    Le-guide-du-brasseur
+  {% endif %}
   * [{{ repository.name }}]({{ repository.html_url }})
 {% endfor %}

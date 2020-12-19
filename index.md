@@ -55,9 +55,7 @@ PARIS J. HETZEL. ET Cie, ÉDITEURS
 18, RUE JACOB, 18
 Tous droits de traduction et de reproduction réservés.](/images/Guide%20du%20brasseur%20-%20Couverture.png)
 
----
-Title: Table des Matières
----
+## Table des Matières
 
 * [Généralités](Généralités)
 * [Chapitre premier. De la composition des différentes sortes de grains employés à la préparation de la bière.](Chap.%201%20-%20De%20la%20composition%20des%20différentes%20sortes%20de%20grains%20employés%20à%20la%20préparation%20de%20la%20bière)
@@ -66,7 +64,7 @@ Title: Table des Matières
   * Examen comparatif de l'orge et du froment
 * [Chapitre 2. Du Houblon](Chap.%202%20-%20Du%20houblon)
 * [Chapitre 3. De l'eau](Chap.%203%20-%20De%20l%27eau)
-* Maltage ou préparation du malt
+* [Chapitre 4. Maltage ou préparation du malt](Chap.%204%20-%20Maltage%20ou%20pr%C3%A9paration%20du%20malt.md)
   * Humidité
   * Chaleur
   * Air
@@ -75,16 +73,16 @@ Title: Table des Matières
   * Seigle
   * Avoine
   * Diastase
-* Dessiccation du malt
-* Empatage
-* De la cuisson du mout
-* Du refroidissement du mout
-* Fermentation du mout
+* [Chapitre 5. Dessiccation du malt](Chap.%205%20-%20Dessiccation%20du%20malt.md)
+* [Chapitre 6. Empatage](Chap.%206%20-%20Empatage.md)
+* [Chapitre 7. De la cuisson du mout](Chap.%207%20-%20De%20la%20cuisson%20du%20mout.md)
+* [Chapitre 8. Du refroidissement du mout](Chap.%208%20-%20Du%20refroidissement%20du%20mout.md)
+* [Chapitre 9. Fermentation du mout](Chap.%209%20-%20Fermentation%20du%20mout.md)
   * Fermentation superficielle
   * Fermentation par dépôt
-* De la fermentation complémentaire
-* De la fermentation tertiaire
-* Des altérations de la bière
+* [Chapitre 10. De la fermentation complémentaire](Chap.%2010%20-%20De%20la%20fermentation%20compl%C3%A9mentaire.md)
+* [Chapitre 11. De la fermentation tertiaire]()
+* [Chapitre 12. Des altérations de la bière]()
   * Bières aigres
   * Bières plates
   * Bières filantes

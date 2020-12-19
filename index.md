@@ -55,4 +55,6 @@ PARIS J. HETZEL. ET Cie, ÉDITEURS
 18, RUE JACOB, 18
 Tous droits de traduction et de reproduction réservés.](/images/Guide%20du%20brasseur%20-%20Couverture.png)
 
-{% include "Table des Matières.md" %}
+{% for repository in site.github.public_repositories %}
+  * [{{ repository.name }}]({{ repository.html_url }})
+{% endfor %}

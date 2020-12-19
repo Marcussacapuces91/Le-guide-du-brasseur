@@ -57,7 +57,10 @@ Tous droits de traduction et de reproduction réservés.](/images/Guide%20du%20b
 
 {% for repository in site.github.public_repositories %}
   {% if repository.name == "Le-guide-du-brasseur" %}
-    Le-guide-du-brasseur
+    {% for rep in repository %}
+	* rep
+
+    {% endfor %}
   {% endif %}
   * [{{ repository.name }}]({{ repository.html_url }})
 {% endfor %}

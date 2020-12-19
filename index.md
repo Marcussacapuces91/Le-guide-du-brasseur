@@ -87,11 +87,12 @@ Tous droits de traduction et de reproduction réservés.](/images/Guide%20du%20b
   * Bières plates
   * Bières filantes
   * Bières moisies
-* De la composition de la bière
+* [Chapitre 13. De la composition de la bière]()
   * Alcool
   * Extrait
-* Analyse de la bière
-* Falsification de la bière
-* De la déperdition des principes nutritifs qui se produit dans la préparation de la bière
-* Des substances dont on peut se servir en place de grains pour préparer une bonne boisson
+* [Chapitre 14. Analyse de la bière]()
+* [Chapitre 15. Falsification de la bière]()
+* [Chapitre 16. De la déperdition des principes nutritifs qui se produit dans la préparation de la bière]()
+* [Chapitre 17. Des substances dont on peut se servir en place de grains pour préparer une bonne boisson]()
+
 

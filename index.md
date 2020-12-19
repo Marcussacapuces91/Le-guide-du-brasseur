@@ -55,12 +55,45 @@ PARIS J. HETZEL. ET Cie, ÉDITEURS
 18, RUE JACOB, 18
 Tous droits de traduction et de reproduction réservés.](/images/Guide%20du%20brasseur%20-%20Couverture.png)
 
-{% for repository in site.github.public_repositories %}
-  {% if repository.name == "Le-guide-du-brasseur" %}
-    {% for rep in repository %}
-	* {{ rep }} {{ rep.name }}
+---
+Title: Table des Matières
+---
 
-    {% endfor %}
-  {% endif %}
-<!--  * [{{ repository.name }}]({{ repository.html_url }}) -->
-{% endfor %}
+* [Généralités](Généralités)
+* [Chapitre premier. De la composition des différentes sortes de grains employés à la préparation de la bière.](Chap.%201%20-%20De%20la%20composition%20des%20différentes%20sortes%20de%20grains%20employés%20à%20la%20préparation%20de%20la%20bière)
+  * Orge 
+  * Froment 
+  * Examen comparatif de l'orge et du froment
+* [Chapitre 2. Du Houblon](Chap.%202%20-%20Du%20houblon)
+* [Chapitre 3. De l'eau](Chap.%203%20-%20De%20l%27eau)
+* Maltage ou préparation du malt
+  * Humidité
+  * Chaleur
+  * Air
+  * Orge
+  * Froment
+  * Seigle
+  * Avoine
+  * Diastase
+* Dessiccation du malt
+* Empatage
+* De la cuisson du mout
+* Du refroidissement du mout
+* Fermentation du mout
+  * Fermentation superficielle
+  * Fermentation par dépôt
+* De la fermentation complémentaire
+* De la fermentation tertiaire
+* Des altérations de la bière
+  * Bières aigres
+  * Bières plates
+  * Bières filantes
+  * Bières moisies
+* De la composition de la bière
+  * Alcool
+  * Extrait
+* Analyse de la bière
+* Falsification de la bière
+* De la déperdition des principes nutritifs qui se produit dans la préparation de la bière
+* Des substances dont on peut se servir en place de grains pour préparer une bonne boisson
+

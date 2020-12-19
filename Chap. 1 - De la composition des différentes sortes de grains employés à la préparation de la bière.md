@@ -486,6 +486,8 @@ matière grasse au moyen de l'éther.
 Les analyses de cendres d'orge faites par Veltman et Moesman dans le laboratoire 
 d'Utrecht donnent les résultats suivants :
 
+	# TODO
+
 <figure markdown='1'>
   ![](%base_url%/images/Guide%20du%20brasseur%20-%20Analyse%20des%20cendres%20d%27orge.png "Analyse des cendres d'orge.")
   <figcaption style="font-size: 75%">
@@ -518,7 +520,7 @@ d'acide silicique et de sesquioxyde de fer, nous obtenons en nombres ronds :
 
 1,4 d'acide sulfurique exigent, pour former du sulfate de potasse, 1,6 de 
 potasse ;
-<br/>il reste 17,1 - 1,6 = 15,4 KO.
+<br/>il reste `17,1 - 1,6 = 15,4 KO`.
 
 1,3 de chlore, pour former du chlorure de sodium, demandent 0,8 de sodium : 
 0,8 de sodium correspondent à 1,1 NaO :

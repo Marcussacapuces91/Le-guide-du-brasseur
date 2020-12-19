@@ -344,6 +344,7 @@ grains d'orge et de malt d'orge qui ont été obtenus dans le laboratoire
 d'Utrecht par MM. Veltman et Moesman.
 
 Composition des différentes espèces de grains et des malts correspondants.
+
 <figure markdown='1'>
 <table>
 <tr>
@@ -457,6 +458,8 @@ farine mais sur le grain d'orge entier avec son enveloppe, ainsi que cela est
 nécessaire pour se rendre compte de la préparation de la bière. Nous 
 reproduisons ci-dessous ces chiffres déjà connus, et nous ajoutons en regard les 
 nombres qui correspondent à l'orge desséchée.
+
+	# TODO
 
 <figure markdown='1'>
   ![](%base_url%/images/Guide%20du%20brasseur%20-%20Composition%20de%20l%27orge.png "Composition de l'orge, d'après Oudemans.")

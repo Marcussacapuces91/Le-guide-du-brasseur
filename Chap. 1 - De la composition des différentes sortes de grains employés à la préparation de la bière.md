@@ -348,7 +348,7 @@ Composition des différentes espèces de grains et des malts correspondants.
 <table>
 <tr>
   <th rowspan=2>100 parties contiennent ou donnent par leur transformation</th>
-  <th rowspan=2>Orge<th>
+  <th rowspan=2>Orge</th>
   <th colspan=3>Malt</th>
   <th colspan=4>Drèche (Malt épuisé)</th>
   <th rowspan=2>Froment</th>

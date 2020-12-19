@@ -524,7 +524,7 @@ potasse ;
 
 1,3 de chlore, pour former du chlorure de sodium, demandent 0,8 de sodium : 
 0,8 de sodium correspondent à 1,1 NaO :
-<br/>il reste 6 - 1,1 = 4,9 NaO.
+<br/>il reste `6 - 1,1 = 4,9 NaO`.
 
 Si nous considérons la totalité de l'acide phosphorique comme combinée aux bases 
 que nous trouvons encore dans la cendre, nous obtenons :
@@ -536,7 +536,7 @@ que nous trouvons encore dans la cendre, nous obtenons :
 <tr><th>Soude   </th><td>  4,9 </td><td>       5,7             </td><td>PO<sub>5</sub>, 2 NaO</td></tr>
 <tr><th>Magnésie</th><td>  7,0 </td><td>      12,6             </td><td>PO<sub>5</sub>, 2 MgO</td></tr>
 <tr><th>Chaux   </th><td>  3,0 </td><td>       2,5             </td><td>PO<sub>5</sub>, 3 CaO</td></tr>
-<tr><th>Total   </th><td>      </td><td markdown='1'>**32,4**</td><td>                     </td></tr>
+<tr><th>Total   </th><td>      </td><th>      32,4             </th><td>                     </td></tr>
 </table>
 </figure>
 

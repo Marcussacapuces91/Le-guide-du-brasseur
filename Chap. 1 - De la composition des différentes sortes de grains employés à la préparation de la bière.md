@@ -577,6 +577,9 @@ bonnes analyses du froment.
 Nous en citerons quelques-unes[^13].
 
 Boussingault et Polson ont obtenu les résultats suivants[^14] :
+
+	# TODO
+
 <figure markdown='1'>
   ![](%base_url%/images/Guide%20du%20brasseur%20-%20Analyse%20du%20froment.png "Analyse du froment.")
   <figcaption style="font-size: 75%">
@@ -598,12 +601,18 @@ agricole.
 La composition moyenne du froment (l'eau était déterminée par la dessiccation à 
 120°C), en y comprenant le grain entier sans en séparer le son, est, suivant 
 Péligot, la suivante :
+
+	# TODO
+
 <figure markdown='1'>
   ![](%base_url%/images/Guide%20du%20brasseur%20-%20Composition%20moyenne%20du%20froment.png)
 </figure>
 
 Les résultats extrêmes trouvés par Péligot pour les différentes parties 
 constituantes du grain sont :
+
+	# TODO
+
 <figure markdown='1'>
   ![](%base_url%/images/Guide%20du%20brasseur%20-%20Composition%20extrème%20du%20froment.png)
 </figure>
@@ -637,6 +646,9 @@ matières cellulaires.
 Nous donnons ici une analyse d'Oudemans dans laquelle ce chimiste a analysé le 
 grain de froment entier, précisément tel qu'il doit être pour pouvoir servir à 
 la fabrication de la bière.
+
+	# TODO
+
 <figure markdown='1'>
   ![](%base_url%/images/Guide%20du%20brasseur%20-%20Analyse%20du%20grain%20de%20froment%20entier.png "Analyse du grain de froment entier, par Ondemans.")
 </figure>
@@ -663,6 +675,9 @@ ne peut pas expliquer cette différence.
 
 D'après Will et Fresenius, Bichon, Thon, Petzhold, Erdmann et Boussingault[^19], 
 la composition des cendres de froment est la suivante :
+
+	# TODO
+
 <figure markdown='1'>
   ![](%base_url%/images/Guide%20du%20brasseur%20-%20Analyse%20des%20cendres%20de%20froment.png "Analyse des cendres de froment.")
 </figure>
@@ -676,7 +691,6 @@ celle des cendres d'orge. Cependant il existe dans le froment une quantité
 d'acide silicique beaucoup plus faible. On pouvait déjà prévoir ce résultat en 
 observant la différence que présente l'enveloppe corticale de ces deux sortes de 
 grains.
-
 
 ## Examen comparatif de l'orge et du froment.
 
@@ -766,7 +780,7 @@ La quantité de glutine desséchée que l'on obtient ainsi pour 100 de grains, e
 <figure markdown='1'>
 <table>
   <tr><th>Froment</th><td>0,420</td></tr>
-  <tr><th>orge   </th><td>0,280</td></tr>
+  <tr><th>Orge   </th><td>0,280</td></tr>
 </table>
 </figure>  
 
@@ -948,6 +962,8 @@ Ici se terminent les observations que nous voulions présenter sur la compositio
 de l'orge et du froment. On nous permettra cependant encore, pour les résumer, 
 de donner le tableau de la composition du froment et de l'orge, telle qu'elle 
 résulte de ce qui précède.
+
+	# TODO
 
 <figure markdown='1'>
   ![](%base_url%/images/Guide%20du%20brasseur%20-%20Tableau%20comparatif%20de%20la%20composition%20du%20froment%20et%20de%20l%27orge.png "Tableau comparatif de la composition du froment et de l'orge")

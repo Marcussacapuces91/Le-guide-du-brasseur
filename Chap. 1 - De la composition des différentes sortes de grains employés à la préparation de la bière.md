@@ -343,9 +343,8 @@ J'ai en outre jugé bon de donner ici les résultats des analyses des cendres de
 grains d'orge et de malt d'orge qui ont été obtenus dans le laboratoire 
 d'Utrecht par MM. Veltman et Moesman.
 
-
-<figure markdown='1'>
 Composition des différentes espèces de grains et des malts correspondants.
+<figure markdown='1'>
 <table>
 <tr>
   <th rowspan=2>100 parties contiennent ou donnent par leur transformation</th>

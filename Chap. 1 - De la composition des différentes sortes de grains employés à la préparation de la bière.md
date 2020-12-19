@@ -344,7 +344,7 @@ grains d'orge et de malt d'orge qui ont été obtenus dans le laboratoire
 d'Utrecht par MM. Veltman et Moesman.
 
 
-<!--
+<figure markdown='1'>
 Composition des différentes espèces de grains et des malts correspondants.
 <table>
 <tr>
@@ -402,16 +402,7 @@ Composition des différentes espèces de grains et des malts correspondants.
   <td>Extrait acqueux</td>
 </tr>
 </table>
--->
-
-<figure markdown='1'>
-  ![](%base_url%/images/Guide%20du%20brasseur%20-%20Tableau%2017.png "Composition des différentes espèces de graines et des malts correspondants.")
 </figure>
-
-<figure markdown='1'>
-  ![](%base_url%/images/Guide%20du%20brasseur%20-%20Tableau%2018.png "Composition des cendres d'orge et de malt d'orge.")
-</figure>
-
 
 ## De l'orge.
 

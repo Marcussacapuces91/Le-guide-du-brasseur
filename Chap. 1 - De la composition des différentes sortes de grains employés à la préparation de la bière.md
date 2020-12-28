@@ -369,13 +369,13 @@ Composition des différentes espèces de grains et des malts correspondants.
   <td>très fortement desséchée.</td>
 </tr>
 <tr>
-  <td>Dextrine</td><td>4,5</td><td>6,5</td><td>5,8</td><td>9,4</td><td>-</td><td>-</td>
+  <td>Dextrine</td><td>4,5</td><td>6,5</td><td>5,8</td><td>9,4</td><td>0,0</td><td>0,0</td><td>0,0</td><td>0,0</td><td>4,5</td><td>6,2</td><td>5,2</td><td>12,7</td><td>5,0</td><td>7,1</td>
 </tr>
 <tr>
-  <td>Amidon</td>
+  <td>Amidon</td><td>53,8</td><td>47,3</td><td>51,2</td><td>43,9</td><td>9,5</td><td>6,7</td><td>5,3</td><td>3,8</td><td>57,0</td><td>50,3</td><td>56,5</td><td>42,1</td><td>47,0</td><td>37,3</td>
 </tr>
 <tr>
-  <td>Sucre</td>
+  <td>Sucre</td><td>0,0</td><td>0,4</td><td>0,6</td><td>0,8</td><td>0,0</td><td>0,0</td><td>0,0</td><td>0,0</td><td>0,0</td><td>1,6</td><td>0,0</td><td>1,1</td><td>0,0</td><td>0,4</td>
 </tr>
 <tr>
   <td>Matières cellulaires</td>

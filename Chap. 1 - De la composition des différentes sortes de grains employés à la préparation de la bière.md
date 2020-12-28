@@ -396,10 +396,10 @@ Composition des différentes espèces de grains et des malts correspondants.
   <td colspan="15"><hr/></td>
 </tr>
 <tr>
-  <td>Extrait alcoolique</td>
+  <td>Extrait alcoolique</td><td>0,7</td><td>3,7</td><td>4,1</td><td>4,4</td><td>...</td><td>...</td><td>...</td><td>...</td><td>0,8</td><td>4,4</td><td>1,2</td><td>5,2</td><td>0,6</td><td>4,1</td>
 </tr>
 <tr>
-  <td>Extrait acqueux</td>
+  <td>Extrait aqueux</td><td>7,0</td><td>11,0</td><td>17,0</td><td>21,0</td><td>0,1</td><td>0,1</td><td>0,1</td><td>0,1</td><td>6,8</td><td>17,0</td><td>8,2</td><td>24,3</td><td>7,9</td><td>11,0</td>
 </tr>
 </table>
 </figure>

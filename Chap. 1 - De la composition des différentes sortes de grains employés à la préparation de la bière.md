@@ -353,20 +353,20 @@ Composition des différentes espèces de grains et des malts correspondants.
   <th colspan=3>Malt</th>
   <th colspan=4>Drèche (Malt épuisé)</th>
   <th rowspan=2>Froment</th>
-  <th rowspan=2>Malt de froment<br/>desséché à l'air.</th>
+  <th rowspan=2>Malt de froment<br/>desséché à l'air</th>
   <th rowspan=2>Seigle</th>
-  <th rowspan=2>Malt de seigle<br/>desséché à l'air.</th>
+  <th rowspan=2>Malt de seigle<br/>desséché à l'air</th>
   <th rowspan=2>Avoine</th>
-  <th rowspan=2>Malt d'avoine<br/>desséché à l'air.</th>
+  <th rowspan=2>Malt d'avoine<br/>desséché à l'air</th>
 </tr>
 <tr>
-  <td>desséché à l'air.</td>
-  <td>desséché à la touraille.</td>
-  <td>fortement desséché à la touraille.</td>
-  <td>desséchée.</td>
-  <td>plus fortement desséchée.</td>
-  <td>encore plus fortement desséchée.</td>
-  <td>très fortement desséchée.</td>
+  <td>desséché à l'air</td>
+  <td>desséché à la touraille</td>
+  <td>fortement desséché à la touraille</td>
+  <td>desséchée</td>
+  <td>plus fortement desséchée</td>
+  <td>encore plus fortement desséchée</td>
+  <td>très fortement desséchée</td>
 </tr>
 <tr>
   <td>Dextrine</td><td>4,5</td><td>6,5</td><td>5,8</td><td>9,4</td><td>0,0</td><td>0,0</td><td>0,0</td><td>0,0</td><td>4,5</td><td>6,2</td><td>5,2</td><td>12,7</td><td>5,0</td><td>7,1</td>
@@ -384,16 +384,13 @@ Composition des différentes espèces de grains et des malts correspondants.
   <td>Matières albumineuses</td><td>9,7</td><td>11,0</td><td>9,1</td><td>9,7</td><td>4,1</td><td>4,7</td><td>5,4</td><td>4,3</td><td>11,5</td><td>11,9</td><td>10,4</td><td>11,7</td><td>12,1</td><td>13,3</td>
 </tr>
 <tr>
-  <td>Matières grasses</td>
+  <td>Matières grasses</td><td>2,1</td><td>1,8</td><td>2,1</td><td>2,4</td><td>0,4</td><td>0,3</td><td>0,4</td><td>0,3</td><td>1,8</td><td>2,0</td><td>1,4</td><td>1,5</td><td>5,4</td><td>4,1</td>
 </tr>
 <tr>
-  <td>Matières inorganiques</td>
+  <td>Matières inorganiques</td><td>2,5</td><td>2,6</td><td>2,4</td><td>2,6</td><td>1,1</td><td>1,3</td><td>1,2</td><td>1,1</td><td>1,7</td><td>1,8</td><td>1,8</td><td>1,8</td><td>2,8</td><td>3,1</td>
 </tr>
 <tr>
-  <td>Eau</td>
-</tr>
-<tr>
-  <td>Eau</td>
+  <td>Eau</td><td>18,1</td><td>16,1</td><td>11,1</td><td>8,2</td><td>79,3</td><td>79,1</td><td>78,6</td><td>82,5</td><td>16,0</td><td>14,4</td><td>16,4</td><td>15,6</td><td>14,9</td><td>14,1</td>
 </tr>
 <tr>
   <td>Extrait alcoolique</td>

@@ -378,10 +378,10 @@ Composition des différentes espèces de grains et des malts correspondants.
   <td>Sucre</td><td>0,0</td><td>0,4</td><td>0,6</td><td>0,8</td><td>0,0</td><td>0,0</td><td>0,0</td><td>0,0</td><td>0,0</td><td>1,6</td><td>0,0</td><td>1,1</td><td>0,0</td><td>0,4</td>
 </tr>
 <tr>
-  <td>Matières cellulaires</td>
+  <td>Matières cellulaires</td><td>7,7</td><td>11,7</td><td>9,4</td><td>10,6</td><td>6,2</td><td>7,8</td><td>9,4</td><td>7,7</td><td>6,1</td><td>8,0</td><td>7,8</td><td>11,9</td><td>14,5</td><td>22,6</td>
 </tr>
 <tr>
-  <td>Matières albumineuses</td>
+  <td>Matières albumineuses</td><td>9,7</td><td>11,0</td><td>9,1</td><td>9,7</td><td>4,1</td><td>4,7</td><td>5,4</td><td>4,3</td><td>11,5</td><td>11,9</td><td>10,4</td><td>11,7</td><td>12,1</td><td>13,3</td>
 </tr>
 <tr>
   <td>Matières grasses</td>

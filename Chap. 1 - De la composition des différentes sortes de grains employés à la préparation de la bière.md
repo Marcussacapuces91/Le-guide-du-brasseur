@@ -393,6 +393,9 @@ Composition des différentes espèces de grains et des malts correspondants.
   <td>Eau</td><td>18,1</td><td>16,1</td><td>11,1</td><td>8,2</td><td>79,3</td><td>79,1</td><td>78,6</td><td>82,5</td><td>16,0</td><td>14,4</td><td>16,4</td><td>15,6</td><td>14,9</td><td>14,1</td>
 </tr>
 <tr>
+  <td colspan="15"><hr/></td>
+</tr>
+<tr>
   <td>Extrait alcoolique</td>
 </tr>
 <tr>

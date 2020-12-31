@@ -343,9 +343,8 @@ J'ai en outre jugé bon de donner ici les résultats des analyses des cendres de
 grains d'orge et de malt d'orge qui ont été obtenus dans le laboratoire 
 d'Utrecht par MM. Veltman et Moesman.
 
-Composition des différentes espèces de grains et des malts correspondants.
-
 <figure markdown='1'>
+  <figcaption style="font-size: 75%">Composition des différentes espèces de grains et des malts correspondants.</figcaption>
 <table>
 <tr>
   <th rowspan=2>100 parties contiennent ou donnent par leur transformation</th>
@@ -404,6 +403,60 @@ Composition des différentes espèces de grains et des malts correspondants.
 </table>
 </figure>
 
+<figure markdown='1'>
+  <figcaption style="font-size: 75%">Composition des cendres d'orge et de malt d'orge.</figcaption>
+<table>
+<tr>
+  <th rowspan=2></th>
+  <th colspan=2>Orge</th>
+  <th colspan=2>Malt d'Orge<br/>desséché à l'air.</th>
+  <th colspan=2>Malt d'Orge<br/>desséché à la Touraille[^a]</th>
+  <th rowspan=2>Malt d'Orge<br/>desséché fortement à la Touraille</th>
+</tr>
+<tr>
+  <th>Veltman</th>
+  <th>Moesman</th>
+  <th>Veltman</th>
+  <th>Moesman</th>
+  <th>Veltman</th>
+  <th>Moesman</th>
+  <th>Veltman</th>
+  <th>Moesman</th>
+</tr>
+<tr>
+  <th>Potasse</th><td>17,0</td><td>17,5</td><td>16,0</td><td>15,6</td><td>16,1</td><td>17,0</td><td>20,3</td><td>20,8</td>
+</tr>
+<tr>
+  <th>Soude</th><td>5,9</td><td>6,3</td><td>5,2</td><td>4,4</td><td>2,3</td><td>2,0</td><td>4,6</td><td>4,2</td>
+</tr>
+<tr>
+  <th>Chaux</th><td>2,7</td><td>3,1</td><td>4,0</td><td>4,9</td><td>4,2</td><td>4,2</td><td>6,0</td><td>5,6</td>
+</tr>
+<tr>
+  <th>Magnésie</th><td>7,2</td><td>6,8</td><td>6,5</td><td>7,1</td><td>6,1</td><td>5,6</td><td>5,8</td><td>6,0</td>
+</tr>
+<tr>
+  <th>Sexquioxyde de fer</th><td>0,5</td><td>0,5</td><td>0,9</td><td>0,9</td><td>1,5</td><td>1,9</td><td>0,8</td><td>1,0</td>
+</tr>
+<tr>
+  <th>Acide phosphorique</th><td>30,3</td><td>*perdu*</td><td>30,6</td><td>31,0</td><td>29,1</td><td>28,4</td><td>35,8</td><td>35,0</td>
+</tr>
+<tr>
+  <th>Acide sulfurique</th><td>1,4</td><td>1,5</td><td>1,1</td><td>1,0</td><td>2,0</td><td>1,8</td><td>0,7</td><td>0,8</td>
+</tr>
+<tr>
+  <th>Acide silicique insoluble</th><td>7,1</td><td>7,0</td><td colspan=2>35,1</td><td colspan=2>35,3</td><td>12,0</td><td>11,4</td><td>14,5</td><td colspan=2>25,9</td>
+</tr>
+<tr>
+  <th>Acide silicique soluble</th><td>26,0</td><td>26,7</td><td>26,4</td><td>27,1</td><td>12,1</td>
+</tr>
+<tr>
+  <th>Chlore</th><td>1,3</td><td>1,3</td><td>0,4</td><td>0,4</td><td>0,1</td><td>0,1</td><td>0,1</td><td>0,1</td>
+</tr>
+</table>
+  <figcaption style="font-size: 75%">La quantité des matières inorganiques contenues dans l'orge varie de 2,1 à 2,6%.</figcaption>
+</figure>
+
 ## De l'orge.
 
 En réalité, la connaissance de la composition de l'orge et du froment nous est 
@@ -459,10 +512,20 @@ nécessaire pour se rendre compte de la préparation de la bière. Nous
 reproduisons ci-dessous ces chiffres déjà connus, et nous ajoutons en regard les 
 nombres qui correspondent à l'orge desséchée.
 
-	# TODO
-
 <figure markdown='1'>
-  ![](%base_url%/images/Guide%20du%20brasseur%20-%20Composition%20de%20l%27orge.png "Composition de l'orge, d'après Oudemans.")
+  <figcaption style="font-size: 75%">Composition de l'orge, d'après Oudemans.</figcaption>
+  <table>
+    <tr><th>                       </th><th>Orge non desséchée</th><th>Orge desséchée</th></tr>
+    <tr><th>Amidon                 </th><td> 53,8             </td><td> 65,7         </td></tr>
+    <tr><th>Dextrine               </th><td>  4,5             </td><td>  5,5         </td></tr>
+    <tr><th>Matières cellulaires   </th><td>  7,7             </td><td>  9,4         </td></tr>
+    <tr><th>Matières albumineuses  </th><td>  9,7             </td><td> 11,8         </td></tr>
+    <tr><th>Matière grasse         </th><td>  2,1             </td><td>  2,5         </td></tr>
+    <tr><th>Substances inorganiques</th><td>  2,5             </td><td>  3,1         </td></tr>
+    <tr><th>Eau                    </th><td> 18,1             </td><td>  ---         </td></tr>
+    <tr><th>Autres substances      </th><td>  1,6             </td><td>  2,0         </td></tr>
+    <tr><th>                       </th><th>100,0             </th><th>100,0         </th></tr>
+  </table>
 </figure>
 
 Pour ce qui concerne les matières constituantes spéciales de l'orge, on ne 
@@ -486,12 +549,23 @@ matière grasse au moyen de l'éther.
 Les analyses de cendres d'orge faites par Veltman et Moesman dans le laboratoire 
 d'Utrecht donnent les résultats suivants :
 
-	# TODO
-
 <figure markdown='1'>
-  ![](%base_url%/images/Guide%20du%20brasseur%20-%20Analyse%20des%20cendres%20d%27orge.png "Analyse des cendres d'orge.")
+  <figcaption>Analyse des cendres d'Orge.</figcaption>
+  <table>
+    <tr><th>                  </th><th colspan=2>Veltman</th><th colspan=2>Moesman</th></tr>
+    <tr><th>Potasse           </th><td colspan=2> 17,0  </td><td colspan=2> 17,5  </td></tr>
+    <tr><th>Soude             </th><td colspan=2>  5,9  </td><td colspan=2>  6,3  </td></tr>
+    <tr><th>Chaux             </th><td colspan=2>  2,7  </td><td colspan=2>  3,1  </td></tr>
+    <tr><th>Magnésie          </th><td colspan=2>  7,2  </td><td colspan=2>  6,8  </td></tr>
+    <tr><th>Sesquioxyde de fer</th><td colspan=2>  0,5  </td><td colspan=2>  0,5  </td></tr>
+    <tr><th>Acide phosphorique</th><td colspan=2> 30,3  </td><td colspan=2> 31,0[^*]</td></tr>
+    <tr><th>Acide sulfurique  </th><td colspan=2>  1,4  </td><td colspan=2>  1,5  </td></tr>
+    <tr><th>Acide silicique insoluble</th><td>7,1</td><td rowspan=2>33,1</td><td>7,0</td><td rowspan=2>33,7</td></tr>
+    <tr><th>Acide silicique soluble  </th><td>26,0</td><td>26,7</td></tr>
+    <tr><th>Chlore            </th><td colspan=2>  1,3  </td><td colspan=2>  1,3  </td></tr>
+  </table>
   <figcaption style="font-size: 75%">
-    * Cet acide phosphorique pr. vient de la cendre d'un malt d'orge. 
+    [^*]: Cet acide phosphorique pr. vient de la cendre d'un malt d'orge. 
     La détermination de l'acide phosphorique de l'orge elle-même avait été 
     perdue.
   </figcaption>

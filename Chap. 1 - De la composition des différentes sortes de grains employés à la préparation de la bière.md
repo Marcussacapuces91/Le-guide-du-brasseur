@@ -685,8 +685,6 @@ La composition moyenne du froment (l'eau était déterminée par la dessiccation
 120°C), en y comprenant le grain entier sans en séparer le son, est, suivant 
 Péligot, la suivante :
 
-	# TODO
-
 <figure markdown='1'>
   ![](/images/Guide%20du%20brasseur%20-%20Composition%20moyenne%20du%20froment.png)
 </figure>
@@ -694,10 +692,8 @@ Péligot, la suivante :
 Les résultats extrêmes trouvés par Péligot pour les différentes parties 
 constituantes du grain sont :
 
-	# TODO
-
 <figure markdown='1'>
-  ![](%base_url%/images/Guide%20du%20brasseur%20-%20Composition%20extrème%20du%20froment.png)
+  ![](/images/Guide%20du%20brasseur%20-%20Composition%20extrème%20du%20froment.png)
 </figure>
 
 Péligot n'a pas trouvé de sucre dans le froment, pas plus que dans l'avoine. 
@@ -733,7 +729,7 @@ la fabrication de la bière.
 	# TODO
 
 <figure markdown='1'>
-  ![](%base_url%/images/Guide%20du%20brasseur%20-%20Analyse%20du%20grain%20de%20froment%20entier.png "Analyse du grain de froment entier, par Ondemans.")
+  ![](/images/Guide%20du%20brasseur%20-%20Analyse%20du%20grain%20de%20froment%20entier.png "Analyse du grain de froment entier, par Ondemans.")
 </figure>
 
 Les analyses de Polson s'accordent encore à très peu près avec celles 
@@ -762,7 +758,7 @@ la composition des cendres de froment est la suivante :
 	# TODO
 
 <figure markdown='1'>
-  ![](%base_url%/images/Guide%20du%20brasseur%20-%20Analyse%20des%20cendres%20de%20froment.png "Analyse des cendres de froment.")
+  ![](/images/Guide%20du%20brasseur%20-%20Analyse%20des%20cendres%20de%20froment.png "Analyse des cendres de froment.")
 </figure>
 
 Dans les analyses de Bichon et de Thon, la détermination des oxydes alcalins est 
@@ -860,11 +856,12 @@ qu'il s'en perd toujours lorsqu'on commence par préparer le gluten de Beccaria
 en malaxant le grain sous l'eau. — On évapore l'alcool ; on mélange avec de 
 l'eau le résidu de l'évaporation et on traite par l'éther la glutine précipitée. 
 La quantité de glutine desséchée que l'on obtient ainsi pour 100 de grains, est :
+
 <figure markdown='1'>
-<table>
-  <tr><th>Froment</th><td>0,420</td></tr>
-  <tr><th>Orge   </th><td>0,280</td></tr>
-</table>
+  <table>
+    <tr><th>Froment</th><td>0,420</td></tr>
+    <tr><th>Orge   </th><td>0,280</td></tr>
+  </table>
 </figure>  
 
 Quant à la partie insoluble dans l'eau, la liqueur opaline dont nous venons de 
@@ -874,14 +871,14 @@ résulte qu'elle contient diverses substances albumineuses.
 Si l'on rapproche tous ces résultats, on peut répartir ainsi les substances 
 albumineuses contenues dans 100 parties d'orge et de froment.
 <figure markdown='1'>
-<table>
-  <tr><td>                                                                 </td><th>Orge</th><th>Froment</th></tr> 
-  <tr><th>Glutine, soluble dans l'alcool, insoluble dans l'eau             </th><td>0,28</td><td>  0,42 </td></tr>
-  <tr><th>Substances albumineuses solubles dans l'eau et coagulables       </th><td>0,28</td><td>  0,26 </td></tr>
-  <tr><th>Deux substances albumineuses solubles dans l'eau, non coagulables</th><td>1,55</td><td>  1,55 </td></tr>
-  <tr><th>Substances albumineuses insolubles dans l'eau et dans l'alcool   </th><td>7,59</td><td>  9,27 </td></tr>
-  <tr><th>Total                                                            </th><td> 9,7</td><td> 11,5  </td></tr>
-</table>
+  <table>
+    <tr><td>                                                                 </td><th>Orge</th><th>Froment</th></tr> 
+    <tr><th>Glutine, soluble dans l'alcool, insoluble dans l'eau             </th><td>0,28</td><td>  0,42 </td></tr>
+    <tr><th>Substances albumineuses solubles dans l'eau et coagulables       </th><td>0,28</td><td>  0,26 </td></tr>
+    <tr><th>Deux substances albumineuses solubles dans l'eau, non coagulables</th><td>1,55</td><td>  1,55 </td></tr>
+    <tr><th>Substances albumineuses insolubles dans l'eau et dans l'alcool   </th><td>7,59</td><td>  9,27 </td></tr>
+    <tr><th>Total                                                            </th><td> 9,7</td><td> 11,5  </td></tr>
+  </table>
 </figure>  
 
 Une petite quantité des deux substances indiquées en troisième lieu est 
@@ -1046,10 +1043,8 @@ de l'orge et du froment. On nous permettra cependant encore, pour les résumer,
 de donner le tableau de la composition du froment et de l'orge, telle qu'elle 
 résulte de ce qui précède.
 
-	# TODO
-
 <figure markdown='1'>
-  ![](%base_url%/images/Guide%20du%20brasseur%20-%20Tableau%20comparatif%20de%20la%20composition%20du%20froment%20et%20de%20l%27orge.png "Tableau comparatif de la composition du froment et de l'orge")
+  ![](/images/Guide%20du%20brasseur%20-%20Tableau%20comparatif%20de%20la%20composition%20du%20froment%20et%20de%20l%27orge.png "Tableau comparatif de la composition du froment et de l'orge")
 </figure>
 
 [^1]: *Ältere und neuere Erfahrungen*, Ièna.

@@ -445,7 +445,7 @@ d'Utrecht par MM. Veltman et Moesman.
   <th>Acide sulfurique</th><td>1,4</td><td>1,5</td><td>1,1</td><td>1,0</td><td>2,0</td><td>1,8</td><td>0,7</td><td>0,8</td>
 </tr>
 <tr>
-  <th>Acide silicique insoluble</th><td>7,1</td><td>7,0</td><td colspan=2>35,1</td><td colspan=2>35,3</td><td>12,0</td><td>11,4</td><td>14,5</td><td colspan=2>25,9</td>
+  <th>Acide silicique insoluble</th><td>7,1</td><td>7,0</td><td colspan='2'>35,1</td><td colspan='2'>35,3</td><td>12,0</td><td>11,4</td><td>14,5</td><td colspan='2'>25,9</td>
 </tr>
 <tr>
   <th>Acide silicique soluble</th><td>26,0</td><td>26,7</td><td>26,4</td><td>27,1</td><td>12,1</td>

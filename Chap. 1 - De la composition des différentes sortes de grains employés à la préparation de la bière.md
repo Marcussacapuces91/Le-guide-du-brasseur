@@ -517,7 +517,7 @@ reproduisons ci-dessous ces chiffres déjà connus, et nous ajoutons en regard l
 nombres qui correspondent à l'orge desséchée.
 
 <figure markdown='1'>
-  <figcaption style="font-size: 75%">Composition de l'orge, d'après Oudemans.</figcaption>
+  <figcaption>Composition de l'orge, d'après Oudemans.</figcaption>
   <table>
     <tr><th>                       </th><th>Orge non desséchée</th><th>Orge desséchée</th></tr>
     <tr><th>Amidon                 </th><td> 53,8             </td><td> 65,7         </td></tr>
@@ -624,8 +624,8 @@ on doit encore y joindre :
 
 <figure markdown='1'>
   <table>
-    <tr><td>Potasse </td><td> 1,6 </td><td> Acide sulfurique </td><td> 1,4 </td><td> 3 SO<sub>2</sub>KO </td></tr>
-    <tr><td>Sodium  </td><td> 0,8 </td><td> Chlore           </td><td> 1,3 </td><td> 2,1 NaCl           </td></tr>
+    <tr><td>Potasse </td><td> 1,6 </td><td>+</td><td> Acide sulfurique </td><td> 1,4 </td><td>=</td><td> 3 SO<sub>2</sub>KO </td></tr>
+    <tr><td>Sodium  </td><td> 0,8 </td><td>+</td><td> Chlore           </td><td> 1,3 </td><td>=</td><td> 2,1 NaCl           </td></tr>
   </table>
 </figure>
 

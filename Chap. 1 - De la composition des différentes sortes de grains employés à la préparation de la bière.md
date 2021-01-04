@@ -341,10 +341,10 @@ détails pour les endroits où il serait question de chaque sujet en particulier
 
 J'ai en outre jugé bon de donner ici les résultats des analyses des cendres de 
 grains d'orge et de malt d'orge qui ont été obtenus dans le laboratoire 
-d'Utrecht par MM. Veltman et Moesman.
+d'Utrecht par MM. Veltman et Mœsman.
 
 <figure markdown='1'>
-  <figcaption style="font-size: 75%">Composition des différentes espèces de grains et des malts correspondants.</figcaption>
+  <figcaption>Composition des différentes espèces de grains et des malts correspondants.</figcaption>
 <table>
 <tr>
   <th rowspan=2>100 parties contiennent ou donnent par leur transformation</th>
@@ -415,13 +415,13 @@ d'Utrecht par MM. Veltman et Moesman.
 </tr>
 <tr>
   <th>Veltman</th>
-  <th>Moesman</th>
+  <th>Mœsman</th>
   <th>Veltman</th>
-  <th>Moesman</th>
+  <th>Mœsman</th>
   <th>Veltman</th>
-  <th>Moesman</th>
+  <th>Mœsman</th>
   <th>Veltman</th>
-  <th>Moesman</th>
+  <th>Mœsman</th>
 </tr>
 <tr>
   <th>Potasse</th><td>17,0</td><td>17,5</td><td>16,0</td><td>15,6</td><td>16,1</td><td>17,0</td><td>20,3</td><td>20,8</td>
@@ -439,11 +439,7 @@ d'Utrecht par MM. Veltman et Moesman.
   <th>Sexquioxyde de fer</th><td>0,5</td><td>0,5</td><td>0,9</td><td>0,9</td><td>1,5</td><td>1,9</td><td>0,8</td><td>1,0</td>
 </tr>
 <tr>
-  <th>Acide phosphorique</th><td>30,3</td>
-  <td markdown='1'>
-*perdu*
-  </td>
-  <td>30,6</td><td>31,0</td><td>29,1</td><td>28,4</td><td>35,8</td><td>35,0</td>
+  <th>Acide phosphorique</th><td>30,3</td><td>*perdu*</td><td>30,6</td><td>31,0</td><td>29,1</td><td>28,4</td><td>35,8</td><td>35,0</td>
 </tr>
 <tr>
   <th>Acide sulfurique</th><td>1,4</td><td>1,5</td><td>1,1</td><td>1,0</td><td>2,0</td><td>1,8</td><td>0,7</td><td>0,8</td>
@@ -562,14 +558,14 @@ d'Utrecht donnent les résultats suivants :
     <tr><th>Chaux             </th><td colspan=2>  2,7  </td><td colspan=2>  3,1  </td></tr>
     <tr><th>Magnésie          </th><td colspan=2>  7,2  </td><td colspan=2>  6,8  </td></tr>
     <tr><th>Sesquioxyde de fer</th><td colspan=2>  0,5  </td><td colspan=2>  0,5  </td></tr>
-    <tr><th>Acide phosphorique</th><td colspan=2> 30,3  </td><td colspan=2> 31,0[^b]</td></tr>
+    <tr><th>Acide phosphorique</th><td colspan=2> 30,3  </td><td colspan=2> 31,0<sup>*</sup></td></tr>
     <tr><th>Acide sulfurique  </th><td colspan=2>  1,4  </td><td colspan=2>  1,5  </td></tr>
     <tr><th>Acide silicique insoluble</th><td>7,1</td><td rowspan=2>33,1</td><td>7,0</td><td rowspan=2>33,7</td></tr>
     <tr><th>Acide silicique soluble  </th><td>26,0</td><td>26,7</td></tr>
     <tr><th>Chlore            </th><td colspan=2>  1,3  </td><td colspan=2>  1,3  </td></tr>
   </table>
   <figcaption style="font-size: 75%">
-    [^b]: Cet acide phosphorique pr. vient de la cendre d'un malt d'orge. 
+    * : Cet acide phosphorique pr. vient de la cendre d'un malt d'orge. 
     La détermination de l'acide phosphorique de l'orge elle-même avait été 
     perdue.
   </figcaption>

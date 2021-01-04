@@ -439,7 +439,11 @@ d'Utrecht par MM. Veltman et Moesman.
   <th>Sexquioxyde de fer</th><td>0,5</td><td>0,5</td><td>0,9</td><td>0,9</td><td>1,5</td><td>1,9</td><td>0,8</td><td>1,0</td>
 </tr>
 <tr>
-  <th>Acide phosphorique</th><td>30,3</td><td markdown='1'> *perdu* </td><td>30,6</td><td>31,0</td><td>29,1</td><td>28,4</td><td>35,8</td><td>35,0</td>
+  <th>Acide phosphorique</th><td>30,3</td>
+  <td markdown='1'>
+*perdu*
+  </td>
+  <td>30,6</td><td>31,0</td><td>29,1</td><td>28,4</td><td>35,8</td><td>35,0</td>
 </tr>
 <tr>
   <th>Acide sulfurique</th><td>1,4</td><td>1,5</td><td>1,1</td><td>1,0</td><td>2,0</td><td>1,8</td><td>0,7</td><td>0,8</td>

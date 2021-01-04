@@ -359,13 +359,13 @@ d'Utrecht par MM. Veltman et Moesman.
   <th rowspan=2>Malt d'avoine<br/>desséché à l'air</th>
 </tr>
 <tr>
-  <td>desséché à l'air</td>
-  <td>desséché à la touraille</td>
-  <td>fortement desséché à la touraille</td>
-  <td>desséchée</td>
-  <td>plus fortement desséchée</td>
-  <td>encore plus fortement desséchée</td>
-  <td>très fortement desséchée</td>
+  <th>desséché à l'air</th>
+  <th>desséché à la touraille</th>
+  <th>fortement desséché à la touraille</th>
+  <th>desséchée</th>
+  <th>plus fortement desséchée</th>
+  <th>encore plus fortement desséchée</th>
+  <th>très fortement desséchée</th>
 </tr>
 <tr>
   <td>Dextrine</td><td>4,5</td><td>6,5</td><td>5,8</td><td>9,4</td><td>0,0</td><td>0,0</td><td>0,0</td><td>0,0</td><td>4,5</td><td>6,2</td><td>5,2</td><td>12,7</td><td>5,0</td><td>7,1</td>

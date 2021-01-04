@@ -688,7 +688,7 @@ Péligot, la suivante :
 	# TODO
 
 <figure markdown='1'>
-  ![](%base_url%/images/Guide%20du%20brasseur%20-%20Composition%20moyenne%20du%20froment.png)
+  ![](/images/Guide%20du%20brasseur%20-%20Composition%20moyenne%20du%20froment.png)
 </figure>
 
 Les résultats extrêmes trouvés par Péligot pour les différentes parties 

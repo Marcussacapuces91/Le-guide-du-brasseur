@@ -656,13 +656,22 @@ Nous en citerons quelques-unes[^13].
 
 Boussingault et Polson ont obtenu les résultats suivants[^14] :
 
-	# TODO
-
 <figure markdown='1'>
-  ![](%base_url%/images/Guide%20du%20brasseur%20-%20Analyse%20du%20froment.png "Analyse du froment.")
+  <figcaption>Analyse du froment</figcaption>
+  <table>
+    <tr><th>                         </th><th>Boussingault</th><th colspan=2>Polson</th></tr>
+    <tr><th> Amidon                  </th><td> 59,7       </th><td> 62,3<sup>*</sup></td><td>56,9<sup>**</sup></td></tr>
+    <tr><th> Gluten                  </th><td> 12,8       </th><td> 10,9 </td><td>  7,0 </td></tr>
+    <tr><th> Albumine                </th><td>  1,8       </th><td>      </td><td>      </td></tr>
+    <tr><th> Dextrine                </th><td>  7,2       </th><td>  3,8 </td><td>  5,3 </td></tr>
+    <tr><th> Matière grasse          </th><td>  1,2       </th><td>  1,2 </td><td>  1,2 </td></tr>
+    <tr><th> Cellulose               </th><td>  1,7       </th><td>  8,3 </td><td> 12,4 </td></tr>
+    <tr><th> Substances inorganiques </th><td>  1,6       </th><td>  1,6 </td><td>  1,5 </td></tr>
+    <tr><th> Eau                     </th><td> 14,0       </th><td> 14,0 </td><td> 14,8 </td></tr>
+  </table>
   <figcaption style="font-size: 75%">
-    8: Froment d'Amérique ancien.<br/>
-    9: Froment d'Écosse nouveau.
+    * : Froment d'Amérique ancien.<br/>
+    ** : Froment d'Écosse nouveau.
   </figcaption>
 </figure>
 

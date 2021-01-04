@@ -449,7 +449,7 @@ d'Utrecht par MM. Veltman et Moesman.
   <th>Acide sulfurique</th><td>1,4</td><td>1,5</td><td>1,1</td><td>1,0</td><td>2,0</td><td>1,8</td><td>0,7</td><td>0,8</td>
 </tr>
 <tr>
-  <th>Acide silicique insoluble</th><td>7,1</td><td>7,0</td><td colspan='2'>35,1</td><td colspan='2'>35,3</td><td>12,0</td><td>11,4</td><td>14,5</td><td colspan='2'>25,9</td>
+  <th>Acide silicique insoluble</th><td>7,1</td><td>7,0</td><td colspan="2">35,1</td><td colspan="2">35,3</td><td>12,0</td><td>11,4</td><td>14,5</td><td colspan='2'>25,9</td>
 </tr>
 <tr>
   <th>Acide silicique soluble</th><td>26,0</td><td>26,7</td><td>26,4</td><td>27,1</td><td>12,1</td>
@@ -562,14 +562,14 @@ d'Utrecht donnent les résultats suivants :
     <tr><th>Chaux             </th><td colspan=2>  2,7  </td><td colspan=2>  3,1  </td></tr>
     <tr><th>Magnésie          </th><td colspan=2>  7,2  </td><td colspan=2>  6,8  </td></tr>
     <tr><th>Sesquioxyde de fer</th><td colspan=2>  0,5  </td><td colspan=2>  0,5  </td></tr>
-    <tr><th>Acide phosphorique</th><td colspan=2> 30,3  </td><td colspan=2> 31,0[^*]</td></tr>
+    <tr><th>Acide phosphorique</th><td colspan=2> 30,3  </td><td colspan=2> 31,0[^b]</td></tr>
     <tr><th>Acide sulfurique  </th><td colspan=2>  1,4  </td><td colspan=2>  1,5  </td></tr>
     <tr><th>Acide silicique insoluble</th><td>7,1</td><td rowspan=2>33,1</td><td>7,0</td><td rowspan=2>33,7</td></tr>
     <tr><th>Acide silicique soluble  </th><td>26,0</td><td>26,7</td></tr>
     <tr><th>Chlore            </th><td colspan=2>  1,3  </td><td colspan=2>  1,3  </td></tr>
   </table>
   <figcaption style="font-size: 75%">
-    [^*]: Cet acide phosphorique pr. vient de la cendre d'un malt d'orge. 
+    [^b]: Cet acide phosphorique pr. vient de la cendre d'un malt d'orge. 
     La détermination de l'acide phosphorique de l'orge elle-même avait été 
     perdue.
   </figcaption>
@@ -585,15 +585,15 @@ les analyses de Veltman et de Moesman, nous faisons abstraction de la quantité
 d'acide silicique et de sesquioxyde de fer, nous obtenons en nombres ronds :
 
 <figure markdown='1'>
-<table>
-<tr><th>Potasse           </th><td>170,0</td></tr>
-<tr><th>Soude             </th><td> 60,0</td></tr>
-<tr><th>Chaux             </th><td>  3,0</td></tr>
-<tr><th>Magnésie          </th><td>  7,0</td></tr>
-<tr><th>Acide sulfurique  </th><td>  1,4</td></tr>
-<tr><th>Chlore            </th><td>  1,3</td></tr>
-<tr><th>Acide phosphorique</th><td> 30,0</td></tr>
-</table>
+  <table>
+    <tr><th>Potasse           </th><td>170,0</td></tr>
+    <tr><th>Soude             </th><td> 60,0</td></tr>
+    <tr><th>Chaux             </th><td>  3,0</td></tr>
+    <tr><th>Magnésie          </th><td>  7,0</td></tr>
+    <tr><th>Acide sulfurique  </th><td>  1,4</td></tr>
+    <tr><th>Chlore            </th><td>  1,3</td></tr>
+    <tr><th>Acide phosphorique</th><td> 30,0</td></tr>
+  </table>
 </figure>
 
 1,4 d'acide sulfurique exigent, pour former du sulfate de potasse, 1,6 de 
@@ -608,14 +608,14 @@ Si nous considérons la totalité de l'acide phosphorique comme combinée aux ba
 que nous trouvons encore dans la cendre, nous obtenons :
 
 <figure markdown='1'>
-<table>
-<tr><th>        </th><th>Bases </th><th>Acide<br/>phosphorique </th><th>                     </th></tr>
-<tr><th>Potasse </th><td> 15,4 </td><td>      11,6             </td><td>PO<sub>5</sub>, 2 KO </td></tr>
-<tr><th>Soude   </th><td>  4,9 </td><td>       5,7             </td><td>PO<sub>5</sub>, 2 NaO</td></tr>
-<tr><th>Magnésie</th><td>  7,0 </td><td>      12,6             </td><td>PO<sub>5</sub>, 2 MgO</td></tr>
-<tr><th>Chaux   </th><td>  3,0 </td><td>       2,5             </td><td>PO<sub>5</sub>, 3 CaO</td></tr>
-<tr><th>Total   </th><td>      </td><th>      32,4             </th><td>                     </td></tr>
-</table>
+  <table>
+    <tr><th>        </th><th>Bases </th><th>Acide<br/>phosphorique </th><th>                     </th></tr>
+    <tr><th>Potasse </th><td> 15,4 </td><td>      11,6             </td><td>PO<sub>5</sub>, 2 KO </td></tr>
+    <tr><th>Soude   </th><td>  4,9 </td><td>       5,7             </td><td>PO<sub>5</sub>, 2 NaO</td></tr>
+    <tr><th>Magnésie</th><td>  7,0 </td><td>      12,6             </td><td>PO<sub>5</sub>, 2 MgO</td></tr>
+    <tr><th>Chaux   </th><td>  3,0 </td><td>       2,5             </td><td>PO<sub>5</sub>, 3 CaO</td></tr>
+    <tr><th>Total   </th><td>      </td><th>      32,4             </th><td>                     </td></tr>
+  </table>
 </figure>
 
 Il ressort de là évidemment que presque toutes les bases trouvent dans la cendre 
@@ -623,10 +623,10 @@ d'orge une quantité d'acide phosphorique suffisante pour former des phosphates 
 on doit encore y joindre :
 
 <figure markdown='1'>
-<table>
-<tr><td>Potasse </td><td> 1,6 </td><td> Acide sulfurique </td><td> 1,4 </td><td> 3 SO<sub>2</sub>KO </td></tr>
-<tr><td>Sodium  </td><td> 0,8 </td><td> Chlore           </td><td> 1,3 </td><td> 2,1 NaCl           </td></tr>
-</table>
+  <table>
+    <tr><td>Potasse </td><td> 1,6 </td><td> Acide sulfurique </td><td> 1,4 </td><td> 3 SO<sub>2</sub>KO </td></tr>
+    <tr><td>Sodium  </td><td> 0,8 </td><td> Chlore           </td><td> 1,3 </td><td> 2,1 NaCl           </td></tr>
+  </table>
 </figure>
 
 Il n'est pas besoin de rappeler ici que ce n'est qu'un exemple. D'autres 

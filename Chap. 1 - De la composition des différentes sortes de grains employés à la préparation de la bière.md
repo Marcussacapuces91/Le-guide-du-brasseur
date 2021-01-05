@@ -686,7 +686,16 @@ La composition moyenne du froment (l'eau était déterminée par la dessiccation
 Péligot, la suivante :
 
 <figure markdown='1'>
-  ![](/images/Guide%20du%20brasseur%20-%20Composition%20moyenne%20du%20froment.png)
+  <table>
+    <tr><th>Matière grasse             </th><td>  1,2 </td></tr>
+    <tr><th>Matières azotées insolubles</th><td> 12,8 </td></tr>
+    <tr><th>Matières azotées solubles  </th><td>  1,8 </td></tr>
+    <tr><th>Dextrine                   </th><td>  7,2 </td></tr>
+    <tr><th>Amidon                     </th><td> 59,7 </td></tr>
+    <tr><th>Cellulose                  </th><td>  1,7 </td></tr>
+    <tr><th>Sels minéraux              </th><td>  1,6 </td></tr>
+    <tr><th>Eau                        </th><td> 14,0 </td></tr>
+  </table>
 </figure>
 
 Les résultats extrêmes trouvés par Péligot pour les différentes parties 

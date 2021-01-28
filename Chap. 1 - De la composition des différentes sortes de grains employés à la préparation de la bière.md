@@ -1020,8 +1020,8 @@ opinion est cependant généralement admise et la quantité de gluten est
 considérée, de même que le degré d'élasticité de la pâte obtenue avec la farine 
 de froment, comme l'indice de sa bonne qualité. Millon dont j'ai déjà mentionné 
 (p. 25) les recherches sur les différences que présente la quantité de gluten 
-contenue dans le froment, s'exprime ainsi à ce sujet[^21] : « Cette donnée, en 
-matière d'expertise, est de la dernière importance. »
+contenue dans le froment, s'exprime ainsi à ce sujet[^21] :
+> Cette donnée, en matière d'expertise, est de la dernière importance.
 
 Tant qu'il ne sera pas prouvé que ces 4% de glutine qui se trouvent dans le 
 gluten (et qui forment moins de 4% de toutes les substances albumineuses 

@@ -350,7 +350,7 @@ d'Utrecht par MM. Veltman et Mœsman.
   <th rowspan=2>100 parties contiennent ou donnent par leur transformation</th>
   <th rowspan=2>Orge</th>
   <th colspan=3>Malt</th>
-  <th colspan=4>Drèche (Malt épuisé)</th>
+  <th colspan=4>Drêche (Malt épuisé)</th>
   <th rowspan=2>Froment</th>
   <th rowspan=2>Malt de froment<br/>desséché à l'air</th>
   <th rowspan=2>Seigle</th>
@@ -1089,6 +1089,27 @@ résulte de ce qui précède.
   ![](/images/Guide%20du%20brasseur%20-%20Tableau%20comparatif%20de%20la%20composition%20du%20froment%20et%20de%20l%27orge.png "Tableau comparatif de la composition du froment et de l'orge")
 </figure>
 
+<figure markdown='1'>
+  <figcaption markdown=1>
+    **Tableau comparatif de la composition du froment et de l'orge**
+  </figcaption>
+  <table>
+    <tr><td></td><td colspan=2>Froment</td><td colspan=2>Orge</td></tr>
+    <tr><th>Amidon                  </th><td> 57,0 </td><td> 67,9 </td><td> 53,8 </td><td> 65,7 </td></tr>
+    <tr><th>Dextrine                </th><td>  4,5 </td><td>  5,4 </td><td>  4,5 </td><td>  5,5 </td></tr>
+    <tr><th>Glutine, soluble dans l'alcool, insoluble dans l'eau </th><td> 0,42 </td><td>  0,5 </td><td> 0,28 </td><td>  0,3 </td></tr>
+    <tr><th>Substance albumineuse coagulable </th><td> 0,26 </td><td>  0,3 </td><td> 0,28 </td><td>  0,3 </td></tr>
+    <tr><th>Deux substances albumineuses solubles dans l'eau, non coagulables </th><td> 1,55 </td><td>  1,9 </td><td> 1,55 </td><td>  1,9 </td></tr>
+    <tr><th>Substances albumineuses insolubles </th><td> 9,27 </td><td> 11,0 </td><td> 7,59 </td><td>  9,3 </td></tr>
+    <tr><th>Matières grasses        </th><td>  1,8 </td><td>  2,1 </td><td>  2,1 </td><td>  2,5 </td></tr>
+    <tr><th>Matières cellulaires    </th><td>  6,1 </td><td>  7,2 </td><td>  7,7 </td><td>  9,4 </td></tr>
+    <tr><th>Substances inorganiques </th><td>  1,7 </td><td>  2,0 </td><td>  2,5 </td><td>  3,1 </td></tr>
+    <tr><th>Eau                     </th><td> 16,0 </td><td>  ... </td><td> 18,1 </td><td>  ... </td></tr>
+    <tr><th>Substances extractives et autres </th><td>  1,4 </td><td>  1,7 </td><td>  1,6 </td><td>  2,0 </td></tr>
+    <tr><th>                        </th><th>100,0 </th><th>100,0 </th><th> 100,0 </th><th> 100,0 </th></tr>
+  </table>
+</figure>
+
 [^1]: *Ältere und neuere Erfahrungen*, Ièna.
 [^2]: Je leur donne le nom de *matières cellulaires*, en comprenant sous ce nom, outre la *cellulose*, les matières que l'on désigne ordinairement sous le nom de fibres végétales.
 [^3]: La méthode se trouve décrite dans *Verhandelingenen Onderzoekingen* 1e deel, 2e stuk, p. 16.
@@ -1104,12 +1125,12 @@ résulte de ce qui précède.
 [^13]: Voyez en outre Virey dans le *Journ. de Pharm.*, t. III, p. 69 ; t. XIII, p. 342 ; t. VIII, p. 51 ; Henry.
 [^14]: Erdman's, *Journ. für pr. Chemie*, t. LXVI, p. 320.
 [^15]: *Annales de chimie et de physique*, 3<sup>e</sup> série, t. XXXI, p. 1.
-[^16]: *Annales de chimie et de physique*, 3e série, t. XXVI, p. 4.
+[^16]: *Annales de chimie et de physique*, 3<sup>e</sup> série, t. XXVI, p. 4.
 [^17]: *Annales de chimie et de physique*, t. XXXIX, p. 22.
-[^18]: *Journal de pharmacie*, 3e série, t XXV, p. 352, et *Comptes rendus*, t. XXXVIII, p. 12, 85, et 119.
+[^18]: *Journal de pharmacie*, 3<sup>e</sup> série, t XXV, p. 352, et *Comptes rendus*, t. XXXVIII, p. 12, 85, et 119.
 [^19]: *And. der Chemie und Pharm.*, t. L, p. 363 ; t. LIV, p. 355 ; t. LX, p. 361
-[^20]: *Annales de chimie et de physique*, 3e série, t. XXIX, p. 23.
-[^21]: *Journal de pharmacie*, 3e série, t, XXV, p. 354.
+[^20]: *Annales de chimie et de physique*, 3<sup>e</sup> série, t. XXIX, p. 23.
+[^21]: *Journal de pharmacie*, 3<sup>e</sup> série, t, XXV, p. 354.
 [^22]: *Scheik. Onderz.*, II deel, p. 154, et IV deel, p. 404.
 
 

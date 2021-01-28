@@ -702,7 +702,17 @@ Les résultats extrêmes trouvés par Péligot pour les différentes parties
 constituantes du grain sont :
 
 <figure markdown='1'>
-  ![](/images/Guide%20du%20brasseur%20-%20Composition%20extrème%20du%20froment.png)
+  <table>
+    <tr><th>                                        </th><th> Minimum </th><th> Maximum </th></tr>
+    <tr><th>Matière grasse                          </th><td>     1,0 </td><td>     1,9 </td></tr>
+    <tr><th>Matières azotées insolubles             </th><td>     8,1 </td><td>    19,8 </td></tr>
+    <tr><th>Matières azotées solubles               </th><td>     1,6 </td><td>     2,4 </td></tr>
+    <tr><th>Matières non azotées solubles (dextrine)</th><td>     2,3 </td><td>    10,5 </td></tr>
+    <tr><th>Amidon                                  </th><td>    55,1 </td><td>    67,1 </td></tr>
+    <tr><th>Cellulose                               </th><td>     1,4 </td><td>     2,4 </td></tr>
+    <tr><th>Sels                                    </th><td>     1,4 </td><td>     1,9 </td></tr>
+    <tr><th>Eau                                     </th><td>    13,2 </td><td>    15,2 </td></tr>
+  </table>
 </figure>
 
 Péligot n'a pas trouvé de sucre dans le froment, pas plus que dans l'avoine. 

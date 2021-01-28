@@ -1086,10 +1086,6 @@ de donner le tableau de la composition du froment et de l'orge, telle qu'elle
 résulte de ce qui précède.
 
 <figure markdown='1'>
-  ![](/images/Guide%20du%20brasseur%20-%20Tableau%20comparatif%20de%20la%20composition%20du%20froment%20et%20de%20l%27orge.png "Tableau comparatif de la composition du froment et de l'orge")
-</figure>
-
-<figure markdown='1'>
   <figcaption markdown='1'>
 **Tableau comparatif de la composition du froment et de l'orge**
   </figcaption>

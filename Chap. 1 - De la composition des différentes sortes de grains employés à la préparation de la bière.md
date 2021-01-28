@@ -786,7 +786,9 @@ D'après Will et Fresenius, Bichon, Thon, Petzhold, Erdmann et Boussingault[^19]
 la composition des cendres de froment est la suivante :
 
 <figure markdown='1'>
-  <figcaption markdown='1'>**Analyse des cendres de froment**</figcaption>
+  <figcaption markdown='1'>
+**Analyse des cendres de froment**
+  </figcaption>
   <table>
     <tr><th>                        </th><th colspan=2> Will et Fresenius </th><th rowspan=2> Bichon </th><th rowspan=2> Thon </th><th rowspan=2> Petzhold </th><th rowspan=2> Boussingault<br/>Bechelbronn. </th><th rowspan=2> Erdmann </th></tr>
     <tr><th>                   </th><th> Froment roux </th><th> Froment blanc </th></tr>

@@ -177,7 +177,7 @@ de potasse, on obtient pour les fibres ligneuses, ou, si l'on veut, pour les
 substances inertes, qui sont également sans utilité pour la préparation de la 
 bière, une quantité un peu plus faible que celle que l'on devrait obtenir.
 
-Dans les analyses d'Oudemans, cette erreur s'élève au plus au cinquième (20 %) 
+Dans les analyses d'Oudemans, cette erreur s'élève au plus au cinquième (20%) 
 de ce qui est compris sous le nom de matières cellulaires : je ne dis ni matière 
 cellulaire, ni cellulose, mais je dis *matières cellulaires*.
 
@@ -235,10 +235,10 @@ canne, on obtient pour cent, dans chacune des espèces de grains indiquées :
 <figure markdown='1'>
 <table>
 <tr><th>Source         </th><th>Sucre </th></tr>
-<tr><td>Dans le froment</td><td>0,22 %</td></tr>
-<tr><td>Dans l'orge    </td><td>0,19 %</td></tr>
-<tr><td>Dans le seigle </td><td>0,08 %</td></tr>
-<tr><td>Dans l'avoine  </td><td>0,12 %</td></tr>
+<tr><td>Dans le froment</td><td>0,22%</td></tr>
+<tr><td>Dans l'orge    </td><td>0,19%</td></tr>
+<tr><td>Dans le seigle </td><td>0,08%</td></tr>
+<tr><td>Dans l'avoine  </td><td>0,12%</td></tr>
 </table>
 </figure>
 
@@ -273,7 +273,7 @@ la présence ou de l'absence du sucre, on doit traiter, non par l'eau, mais par
 l'alcool absolu.
 
 Millon[^5], en traitant par l'alcool du son de froment qui avait donné à 
-l'analyse 50 % d'amidon et de dextrine, a obtenu 2 % de sucre qui, suivant lui, 
+l'analyse 50% d'amidon et de dextrine, a obtenu 2% de sucre qui, suivant lui, 
 était mélangé avec de la glycyrrhizine. Ce sucre devait être de la dextrine ; 
 en effet, il faisait dévier à droite la lumière polarisée, et, après avoir été 
 traité par les acides, il la faisait au contraire dévier à gauche. Avant d'avoir 
@@ -323,7 +323,7 @@ facilement dans des capsules spacieuses.
 Les analyses d'Oudemans ne laissent à désirer qu'en ce qu'on ne connaît pas la 
 provenance des grains qu'il a employés, et que les matières albumineuses n'ont 
 été déterminées qu'indirectement, on les déduisait de la proportion d'azote que 
-contenaient ces grains. On peut évaluer à 15,5 % la quantité d'azote que 
+contenaient ces grains. On peut évaluer à 15,5% la quantité d'azote que 
 contenaient ces matières albumineuses.
 
 En ce qui concerne la provenance des grains qui ont servi dans les analyses, sa 
@@ -673,11 +673,11 @@ Boussingault et Polson ont obtenu les résultats suivants[^14] :
 
 Péligot[^15] spécialement a donné l'analyse très détaillée du froment. En 
 opérant sur 14 espèces de froment de provenances différentes, il a trouvé que la 
-quantité des substances azotées variait entre 10 et 22 %, en sorte que, d'après 
+quantité des substances azotées variait entre 10 et 22%, en sorte que, d'après 
 cela, la valeur nutritive du froment peut varier du simple au double. La 
-proportion d'amidon et de dextrine varie en sens contraire. Le froment à 10 % de 
-matière albumineuse donne 74 % d'amidon et de dextrine, tandis que, dans celui 
-qui contient 22 % de matière albumineuse, il n'existe que 62 % d'amidon et de 
+proportion d'amidon et de dextrine varie en sens contraire. Le froment à 10% de 
+matière albumineuse donne 74% d'amidon et de dextrine, tandis que, dans celui 
+qui contient 22% de matière albumineuse, il n'existe que 62% d'amidon et de 
 dextrine. Ce fait est certainement digne d'être remarqué au point de vue 
 agricole.
 
@@ -722,23 +722,23 @@ Millon[^16] a effectué de nombreuses déterminations de l'eau contenue dans la
 farine de froment et dans le son de froment. D'après ses observations, l'eau se 
 sépare rapidement et complètement entre 160°C et 165°C. Dans 28 expériences 
 faites sur de la farine de froment, il a obtenu comme limites les nombres 
-14,63 et 16,68 % : 9 autres analyses lui ont donné les nombres 14,0 et 18,2 %.
+14,63 et 16,68% : 9 autres analyses lui ont donné les nombres 14,0 et 18,2%.
 
 En ce qui concerne la quantité de gluten (le résidu que l'on obtient lorsqu'on 
 malaxe le froment moulu sous l'eau après l'avoir enveloppé dans un linge) 
 contenue dans le froment, Reiset[^17] nous a appris qu'elle pouvait varier de 
 10,7 à 17,9. Il a trouvé que la proportion de cendres variait de 1,8 à 2,3. 
 D'après Millon[^18], la proportion de gluten présente des variations encore plus 
-considérables. Une espèce de froment lui a donné seulement 6 % de gluten, bien 
+considérables. Une espèce de froment lui a donné seulement 6% de gluten, bien 
 que la proportion qu'il a trouvée parût indiquer une quantité de matière 
-albumineuse s'élevantà 10,3 %. Pour une autre espèce de froment qui était 
+albumineuse s'élevantà 10,3%. Pour une autre espèce de froment qui était 
 également bonne, il n'a pas trouvé de gluten, bien qu'elle contint une quantité 
-d'azote qui paraissait indiquer 11,5 % de matières albumineuses.
+d'azote qui paraissait indiquer 11,5% de matières albumineuses.
 
 Les travaux faits dans le but d'arriver à la connaissance de la composition du 
 froment et de la farine de froment étaient donc loin de manquer. Cependant une 
 analyse plus exacte du froment était d'autant plus nécessaire que, dans une des 
-analyses antérieures, on a trouvé 1,7 % et, dans une autre, de 8 à 12 % de 
+analyses antérieures, on a trouvé 1,7% et, dans une autre, de 8 à 12% de 
 matières cellulaires.
 
 Nous donnons ici une analyse d'Oudemans dans laquelle ce chimiste a analysé le 
@@ -776,8 +776,8 @@ nature.
 En ce qui concerne enfin la quantité du son, il ressort des analyses d'Oudemans 
 et de Polson qu'on l'évalue en général à un chiffre trop élevé, dans le froment 
 de même que dans les autres espèces de grains. Si, dans le grain à l'état sec, 
-on a trouvé 7 % de cellulose, il est impossible que la quantité de son s'élève à 
-plus de 6 à 7 % : et encore pour que cela pût être, il faudrait supposer que le 
+on a trouvé 7% de cellulose, il est impossible que la quantité de son s'élève à 
+plus de 6 à 7% : et encore pour que cela pût être, il faudrait supposer que le 
 son ait été entièrement séparé des autres parties constituantes du grain. Même 
 en tenant compte de la quantité de matière albumineuse contenue dans le son, on 
 ne peut pas expliquer cette différence.
@@ -937,9 +937,9 @@ farine que l'on traite sous l'eau est plus considérable : en effet la grande
 quantité de la masse met obstacle à la dissolution des particules de gluten. 
 D'autre part, le même chimiste avertit des mauvais résultats que donne, pour la 
 préparation du gluten, l'emploi de la farine qui a été préalablement desséchée à 
-120°C. Il est naturel que Péligot ait retiré seulement 7,5 % de glutine d'une 
+120°C. Il est naturel que Péligot ait retiré seulement 7,5% de glutine d'une 
 farine ainsi desséchée, tandis que la même farine non desséchée lui avait donné 
-9 % de gluten. Par la dessiccation à la température indiquée, la glutine, 
+9% de gluten. Par la dessiccation à la température indiquée, la glutine, 
 c'est-à-dire le principe constituant visqueux perd une portion de sa viscosité.
 
 Péligot attribue en outre à la matière grasse de l'influence sur l'élasticité du 
@@ -953,17 +953,17 @@ plusieurs jours.
 
 D'autre part, il ne faut pas, suivant Péligot, qu'il y ait une trop grande 
 quantité de matière grasse. Pour le démontrer, il a ajouté à une farine qui 
-contenait 9 % de gluten, 4 % de matière grasse que l'on avait obtenue en 
+contenait 9% de gluten, 4% de matière grasse que l'on avait obtenue en 
 traitant de la farine de froment par l'éther. Le gluten, obtenu en malaxant 
 ensuite cette farine sous l'eau, ne présentait plus d'élasticité, mais il était 
 plutôt cassant : en outre la quantité de gluten obtenue s'est trouvée tant soit 
-peu plus faible, 8,9 % au lieu de 9. La perte de gluten, produite par une 
+peu plus faible, 8,9% au lieu de 9. La perte de gluten, produite par une 
 addition de matière grasse, n'était donc pas considérable : mais la quantité 
 trop grande de matière grasse avait, suivant Péligot, fait perdre à ce gluten 
 son élasticité.
 
 L'observation de Péligot doit être inexacte : en effet, d'après les expériences 
-d'Oudemans, il y a dans l'orge 2,1 % et dans le froment 1,8 % de matière 
+d'Oudemans, il y a dans l'orge 2,1% et dans le froment 1,8% de matière 
 grasse ; et, malgré le peu de différence qui existe entre ces quantités de 
 matière grasse, on ne retire de l'orge presque pas de gluten, tandis qu'on en 
 retire une très grande quantité du froment.
@@ -998,8 +998,8 @@ ensemble, mais les particules qui sont réunies en un tout sont redevenues
 matière son élasticité ; mais la faculté adhésive des particules séparées a 
 disparu.
 
-Dans le gluten brut, il existe, d'après nos expériences, 96 % de substance 
-élastique et 4 % de matière glutineuse. Le nom de glutine, donné à cette 
+Dans le gluten brut, il existe, d'après nos expériences, 96% de substance 
+élastique et 4% de matière glutineuse. Le nom de glutine, donné à cette 
 dernière, est donc parfaitement juste. Pour la première, dont la quantité est de 
 beaucoup la plus forte et qui, à l'état pur, est insoluble dans l'alcool, on 
 peut très bien lui donner le nom d'élastine : ce nom exprimerait bien plus 
@@ -1023,19 +1023,19 @@ de froment, comme l'indice de sa bonne qualité. Millon dont j'ai déjà mention
 contenue dans le froment, s'exprime ainsi à ce sujet[^21] : « Cette donnée, en 
 matière d'expertise, est de la dernière importance. »
 
-Tant qu'il ne sera pas prouvé que ces 4 % de glutine qui se trouvent dans le 
-gluten (et qui forment moins de 4 % de toutes les substances albumineuses 
+Tant qu'il ne sera pas prouvé que ces 4% de glutine qui se trouvent dans le 
+gluten (et qui forment moins de 4% de toutes les substances albumineuses 
 contenues dans le froment) ont une valeur aussi grande, et il n'y a jusqu'ici 
 aucun motif pour cela, je ne crois pas que nous devions chercher dans le gluten 
 le critérium de la qualité du froment, ni l'indice de la pureté de la farine. 
-Une quantité un peu moindre de glutine, ne représentant qu'une diminution de 1 % 
+Une quantité un peu moindre de glutine, ne représentant qu'une diminution de 1% 
 sur la totalité des matières albumineuses, par suite de laquelle la glutine se 
-trouve abaissée à 3 %, rend le gluten beaucoup moins adhésif et même détermine 
+trouve abaissée à 3%, rend le gluten beaucoup moins adhésif et même détermine 
 sa disparition presque complète.
 
 Par cette raison, il ne serait peut-être pas hors de propos de se servir du nom 
 d'*élastine* pour désigner la substance élastique qui constitue, d'après nos 
-expériences, 96 % du gluten et qui a besoin seulement de se mélanger avec 4 % de 
+expériences, 96% du gluten et qui a besoin seulement de se mélanger avec 4% de 
 glutine pour se transformer en gluten.
 
 La dénomination de gluten peut conduire à la supposition que, si l'on a trouvé 
@@ -1045,7 +1045,7 @@ faible.
 
 En outre, le nom de gluten (en hollandais *Kleefstof*, en allemand *Kleber*, qui 
 se traduisent littéralement en français par substance glutineuse) est impropre : 
-en effet la matière glutineuse. du froment forme seulement 4 % du gluten contenu 
+en effet la matière glutineuse. du froment forme seulement 4% du gluten contenu 
 dans ce froment. La substance glutineuse contenue dans les grains est la glutine 
 et non l'élastine.
 
@@ -1071,9 +1071,9 @@ parties de froment et d'orge, 0,42 et 0,28 = 3 2, soit la cause de toute la
 différence.
 
 La glutine préparée au moyen du froment, présente la même composition 
-centésimale que l'albumine des oeufs de poule, avec cette différence seulement 
+centésimale que l'albumine des œufs de poule, avec cette différence seulement 
 qu'elle ne contient pas comme cette dernière 1,6 de soufre, mais qu'elle en 
-contient seulement 1 pour 100[^23]. Les substances albumineuses solubles et 
+contient seulement 1%[^23]. Les substances albumineuses solubles et 
 insolubles du froment et de l'orge ne se distinguent de la glutine que par la 
 proportion du soufre : je ne m'occuperai donc pas ici de la composition de ces 
 substances qui est suffisamment connue.

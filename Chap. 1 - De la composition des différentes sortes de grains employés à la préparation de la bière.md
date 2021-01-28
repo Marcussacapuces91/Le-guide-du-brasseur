@@ -1090,8 +1090,8 @@ résulte de ce qui précède.
 </figure>
 
 <figure markdown='1'>
-  <figcaption markdown=1>
-    **Tableau comparatif de la composition du froment et de l'orge**
+  <figcaption markdown='1'>
+**Tableau comparatif de la composition du froment et de l'orge**
   </figcaption>
   <table>
     <tr><td></td><td colspan=2>Froment</td><td colspan=2>Orge</td></tr>

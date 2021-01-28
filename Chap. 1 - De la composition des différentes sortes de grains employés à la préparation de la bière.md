@@ -745,10 +745,21 @@ Nous donnons ici une analyse d'Oudemans dans laquelle ce chimiste a analysé le
 grain de froment entier, précisément tel qu'il doit être pour pouvoir servir à 
 la fabrication de la bière.
 
-	# TODO
-
 <figure markdown='1'>
-  ![](/images/Guide%20du%20brasseur%20-%20Analyse%20du%20grain%20de%20froment%20entier.png "Analyse du grain de froment entier, par Ondemans.")
+  <figcaption markdown='1'>**Analyse du grain de froment entier, par Oudemans**</figcaption>
+  <table>
+    <tr><th>                        </th><th colspan=2> Grain                 </th></tr>
+    <tr><th>                        </th><th> Non desséché </th><th> Desséché </th></tr>
+    <tr><th>Amidon                  </th><td>         57,0 </td><td>     67,9 </td></tr>
+    <tr><th>Dextrine                </th><td>          4,5 </td><td>      5,4 </td></tr>
+    <tr><th>Matières cellulaires    </th><td>          6,1 </td><td>      7,2 </td></tr>
+    <tr><th>Substances albumineuses </th><td>         11,5 </td><td>     13,7 </td></tr>
+    <tr><th>Matières grasses        </th><td>          1,8 </td><td>      2,1 </td></tr>
+    <tr><th>Substances inorganiques </th><td>          1,7 </td><td>      2,0 </td></tr>
+    <tr><th>Eau                     </th><td>         16,0 </td><td>      ... </td></tr>
+    <tr><th>Autres matières         </th><td>          1,4 </td><td>      1,7 </td></tr>
+    <tr><th>                        </th><th>        100,0 </th><th>    100,0 </th></tr>
+  </table>
 </figure>
 
 Les analyses de Polson s'accordent encore à très peu près avec celles 
@@ -774,10 +785,20 @@ ne peut pas expliquer cette différence.
 D'après Will et Fresenius, Bichon, Thon, Petzhold, Erdmann et Boussingault[^19], 
 la composition des cendres de froment est la suivante :
 
-	# TODO
-
 <figure markdown='1'>
-  ![](/images/Guide%20du%20brasseur%20-%20Analyse%20des%20cendres%20de%20froment.png "Analyse des cendres de froment.")
+  <figcaption markdown='1'>**Analyse des cendres de froment**</figcaption>
+  <table>
+    <tr><th>                        </th><th colspan=2> Will et Fresenius </th><th rowspan=2> Bichon </th><th rowspan=2> Thon </th><th rowspan=2> Petzhold </th><th rowspan=2> Boussingault<br/>Bechelbronn. </th><th rowspan=2> Erdmann </th></tr>
+    <tr><th>                   </th><th> Froment roux </th><th> Froment blanc </th></tr>
+    <tr><th>Potasse            </th><td>         21,9 </td><td>          33,8 </td><td>  6,4 </td><td> 24,2 </td><td> 25,8 </td><td> 30,1 </td><td> 25,9 </td></tr>
+    <tr><th>Soude              </th><td>         15,8 </td><td>           ... </td><td> 27,8 </td><td> 10,3 </td><td>  2,7 </td><td>  ... </td><td>  0,4 </td></tr>
+    <tr><th>Chaux              </th><td>          1,9 </td><td>           3,1 </td><td>  3,9 </td><td>  3,0 </td><td>  1,5 </td><td>  3,0 </td><td>  1,9 </td></tr>
+    <tr><th>Magnésie           </th><td>          9,6 </td><td>          13,5 </td><td> 13,0 </td><td> 13,6 </td><td> 12,2 </td><td> 16,3 </td><td>  6,3 </td></tr>
+    <tr><th>Sesquioxyde de fer </th><td>          1,4 </td><td>           0,3 </td><td>  0,5 </td><td>  0,5 </td><td>  0,2 </td><td>  ... </td><td>  1,3 </td></tr>
+    <tr><th>Acide phosphorique </th><td>         49,3 </td><td>          49,2 </td><td> 46,1 </td><td> 45,5 </td><td> 57,3 </td><td> 48,3 </td><td> 60,4 </td></tr>
+    <tr><th>Acide sulfurique   </th><td>          0,2 </td><td>           ... </td><td>  0,3 </td><td>  ... </td><td> 0,04 </td><td>  1,0 </td><td>  ... </td></tr>
+    <tr><th>Acide silicique    </th><td>          ... </td><td>           ... </td><td>  0,4 </td><td>  1,9 </td><td>  0,3 </td><td>  1,3 </td><td>  3,4 </td></tr>
+  </table>
 </figure>
 
 Dans les analyses de Bichon et de Thon, la détermination des oxydes alcalins est 

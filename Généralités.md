@@ -3,23 +3,23 @@ Title: Généralités
 Description : De la bière.
 ---
 
-La bière est une boisson que l'on obtient en traitant par l'eau des grains 
-modifiés par une germination modérée et en faisant fermenter le liquide ainsi 
+La bière est une boisson que l'on obtient en traitant par l'eau des grains
+modifiés par une germination modérée et en faisant fermenter le liquide ainsi
 obtenu : elle est donc plus ou moins alcoolique.
 
-C'est à juste titre que la bière est fort appréciée; en effet, elle réunit des 
-propriétés bien déterminées qui ne se trouvent associées dans aucune autre 
-boisson. Elle contient les parties constituantes des grains, ou bien des 
-substances qui proviennent de la décomposition des premières (sucre, dextrine, 
-matières albumineuses), et, par ce motif, elle est nutritive. Par suite de la 
-présence de l'alcool, elle est excitante. En outre, nous rencontrons dans cette 
-boisson l'acide carbonique si rafraîchissant, qui communique à notre eau potable 
-ordinaire une saveur fraîche et auquel beaucoup d'eaux minérales doivent leur 
-haute valeur. De plus, la bière tient en dissolution les matières amères du 
-houblon qui sont si bonnes pour l'estomac, et enfin, pour ne plus insister que 
-sur un seul point, nous y trouvons aussi une certaine quantité de phosphates et 
-d'autres sels solubles, dont l'introduction abondante dans l'organisme est 
-d'autant plus nécessaire qu'ils sont expulsés journellement de notre corps en 
+C'est à juste titre que la bière est fort appréciée ; en effet, elle réunit des
+propriétés bien déterminées qui ne se trouvent associées dans aucune autre
+boisson. Elle contient les parties constituantes des grains, ou bien des
+substances qui proviennent de la décomposition des premières (sucre, dextrine,
+matières albumineuses), et, par ce motif, elle est nutritive. Par suite de la
+présence de l'alcool, elle est excitante. En outre, nous rencontrons dans cette
+boisson l'acide carbonique si rafraîchissant, qui communique à notre eau potable
+ordinaire une saveur fraîche et auquel beaucoup d'eaux minérales doivent leur
+haute valeur. De plus, la bière tient en dissolution les matières amères du
+houblon qui sont si bonnes pour l'estomac, et enfin, pour ne plus insister que
+sur un seul point, nous y trouvons aussi une certaine quantité de phosphates et
+d'autres sels solubles, dont l'introduction abondante dans l'organisme est
+d'autant plus nécessaire qu'ils sont expulsés journellement de notre corps en
 quantité considérable.
 
 On peut donc, incontestablement, dire que l'on trouve réunies dans la bière 

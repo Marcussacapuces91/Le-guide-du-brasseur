@@ -746,7 +746,9 @@ grain de froment entier, précisément tel qu'il doit être pour pouvoir servir 
 la fabrication de la bière.
 
 <figure markdown='1'>
-  <figcaption markdown='1'>**Analyse du grain de froment entier, par Oudemans**</figcaption>
+  <figcaption markdown='1'>
+**Analyse du grain de froment entier, par Oudemans**
+  </figcaption>
   <table>
     <tr><th>                        </th><th colspan=2> Grain                 </th></tr>
     <tr><th>                        </th><th> Non desséché </th><th> Desséché </th></tr>

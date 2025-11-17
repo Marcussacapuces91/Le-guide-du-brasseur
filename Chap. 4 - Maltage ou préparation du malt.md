@@ -4,81 +4,222 @@ Description: Maltage ou préparation du Malt.
 Menu: Chap.  4 
 ---
 
-Le malt est le grain germé. On nomme maltage la série d'opérations nécessaires pour faire germer le grain afin de le rendre apte à être employé pour la fabrication de la bière.
+Le malt est le grain germé. On nomme maltage la série d'opérations nécessaires pour faire germer le grain afin de le
+rendre apte à être employé pour la fabrication de la bière.
 
-Les transformations par lesquelles le grain passe dans le maltage, sont presque les mêmes que celles qu'il présente quand il germe dans un sol humide en élaborant une nouvelle plante. Il y a cependant cette différence que, dans le maltage du froment et de l'orge, on laisse seulement la germination du grain commencer et qu'on l'interrompt dès que les petits appendices qui doivent former la future radicule, se sont développés jusqu'à une certaine longueur et avant que ces appendices aient pris complètement le développement qu'ils prendraient dans le sol si l'on avait placé le grain dans la terre. Lorsque le grain est arrivé à ce développement, il est précisément arrivé au degré de transformation le plus convenable que l'on puisse désirer pour la préparation de la bière. Une transformation plus profonde serait nuisible.
+Les transformations par lesquelles le grain passe dans le maltage, sont presque les mêmes que celles qu'il présente
+quand il germe dans un sol humide en élaborant une nouvelle plante. Il y a cependant cette différence que, dans le
+maltage du froment et de l'orge, on laisse seulement la germination du grain commencer et qu'on l'interrompt dès que les
+petits appendices qui doivent former la future radicule, se sont développés jusqu'à une certaine longueur et avant que
+ces appendices aient pris complètement le développement qu'ils prendraient dans le sol si l'on avait placé le grain dans
+la terre. Lorsque le grain est arrivé à ce développement, il est précisément arrivé au degré de transformation le plus
+convenable que l'on puisse désirer pour la préparation de la bière. Une transformation plus profonde serait nuisible.
 
-Les trois conditions essentielles à la germination sont : l'humidité, dont il ne doit pas cependant y avoir une trop grande quantité, une chaleur suffisante, le contact de l'air.
+Les trois conditions essentielles à la germination sont : l'humidité, dont il ne doit pas cependant y avoir une trop
+grande quantité, une chaleur suffisante, le contact de l'air.
 
-*Humidité*. — Lorsqu'on dessèche une semence arrivée à l'état de maturité et lorsqu'on la conserve, son activité chimique n'y est pas entièrement interrompue : mais, par suite de l'absence de déplacement de substances, provenant du manque d'eau, cette activité chimique est réduite à son minimum. La semence ne se modifie que lentement. Mais si l'on fournit extérieurement à une semence, sèche, parfaitement saine, de l'eau qui la pénètre entièrement et qui y produise alors les déplacements osmotiques de substances, toutes les conditions nécessaires pour que l'activité chimique puisse se développer sont remplies. La semence est mûre, c'est-à-dire que tout ce qui s'y trouve est mûr pour le développement chimique : il y avait besoin seulement d'eau pour que les substances qui s'y trouvaient pussent se déplacer et réagir les unes sur les autres.
+*Humidité*. — Lorsqu'on dessèche une semence arrivée à l'état de maturité et lorsqu'on la conserve, son activité
+chimique n'y est pas entièrement interrompue : mais, par suite de l'absence de déplacement de substances, provenant du
+manque d'eau, cette activité chimique est réduite à son minimum. La semence ne se modifie que lentement. Mais si l'on
+fournit extérieurement à une semence, sèche, parfaitement saine, de l'eau qui la pénètre entièrement et qui y produise
+alors les déplacements osmotiques de substances, toutes les conditions nécessaires pour que l'activité chimique puisse
+se développer sont remplies. La semence est mûre, c'est-à-dire que tout ce qui s'y trouve est mûr pour le développement
+chimique : il y avait besoin seulement d'eau pour que les substances qui s'y trouvaient pussent se déplacer et réagir
+les unes sur les autres.
 
-La première action que l'eau exerce sur la semence est de pénétrer les parties sèches ; une conséquence de ce fait est la dissolution des parties intégrantes solubles qui étaient intercalées sous forme de masses solides, sèches, entre les particules insolubles du grain ; lorsque la dissolution est complètement opérée, les particules qui sont d'une nature chimique différente peuvent réagir les unes sur les autres. C'est ainsi que certaines particules solubles peuvent réagir sur d'autres particules solubles de nature différente, mais en outre les parties solubles peuvent réagir sur les particules insolubles. Cap[^1] ajoute encore, comme troisième période de l'action de l'eau sur la semence, la décomposition de l'eau et l'action de ses parties constituantes sur les substances organiques que contient la semence. La décomposition de l'eau est-elle toujours possible ? Rien ne le prouve.
+La première action que l'eau exerce sur la semence est de pénétrer les parties sèches ; une conséquence de ce fait est
+la dissolution des parties intégrantes solubles qui étaient intercalées sous forme de masses solides, sèches, entre les
+particules insolubles du grain ; lorsque la dissolution est complètement opérée, les particules qui sont d'une nature
+chimique différente peuvent réagir les unes sur les autres. C'est ainsi que certaines particules solubles peuvent réagir
+sur d'autres particules solubles de nature différente, mais en outre les parties solubles peuvent réagir sur les
+particules insolubles. Cap[^1] ajoute encore, comme troisième période de l'action de l'eau sur la semence, la
+décomposition de l'eau et l'action de ses parties constituantes sur les substances organiques que contient la semence.
+La décomposition de l'eau est-elle toujours possible ? Rien ne le prouve.
 
-Cap fait l'observation exacte que, parmi les conditions nécessaires à la germination de la semence, la présence de l'eau est la condition la plus importante[^2]. Lorsqu'une substance organique est à un état de siccité parfaite, il ne s'y opère aucune transformation chimique rapide. Mais lorsqu'on plonge le grain, complètement sec, même dans de eau qui est à la température de la glace fondante, le grain se gonfle et se prépare à germer. — Cap fait ici l'observation, bien digne dans tous les cas d'être mentionnée, que les amandes amères et les semences de moutarde, toutes deux à l'état de siccité, dès qu'elles sont pénétrées seulement par l'eau, donnent naissance à des principes particuliers et fournissent ainsi des exemples de la grande importance de l'eau dans la germination et de la manière dont elle ranime l'activité chimique assoupie jusque-là, même indépendamment de l'influence de l'air et de la chaleur qui viennent ensuite compléter l'action de l'eau.
+Cap fait l'observation exacte que, parmi les conditions nécessaires à la germination de la semence, la présence de l'eau
+est la condition la plus importante[^2]. Lorsqu'une substance organique est à un état de siccité parfaite, il ne s'y
+opère aucune transformation chimique rapide. Mais lorsqu'on plonge le grain, complètement sec, même dans de l'eau qui
+est à la température de la glace fondante, le grain se gonfle et se prépare à germer. — Cap fait ici l'observation,
+bien digne dans tous les cas d'être mentionnée, que les amandes amères et les semences de moutarde, toutes deux à l'état
+de siccité, dès qu'elles sont pénétrées seulement par l'eau, donnent naissance à des principes particuliers et
+fournissent ainsi des exemples de la grande importance de l'eau dans la germination et de la manière dont elle ranime
+l'activité chimique assoupie jusque-là, même indépendamment de l'influence de l'air et de la chaleur qui viennent
+ensuite compléter l'action de l'eau.
 
-Il n'y a qu'un petit nombre de semences pour lesquelles l'action de l'eau soit aussi clairement démontrée que dans les deux exemples indiqués, et il serait possible qu'une action aussi intime de l'eau dans le grain en germination fût loin d'être générale. Quoi qu'il en soit, l'observation est juste, et il ressort clairement des deux exemples cités : que c'est surtout par l'action de l'eau humectant là semence que la vie, endormie dans cette semence, est éveillée, et que c'est par conséquent surtout par l'action de l'eau qu'il y a vie.
+Il n'y a qu'un petit nombre de semences pour lesquelles l'action de l'eau soit aussi clairement démontrée que dans les
+deux exemples indiqués, et il serait possible qu'une action aussi intime de l'eau dans le grain en germination fût loin
+d'être générale. Quoi qu'il en soit, l'observation est juste, et il ressort clairement des deux exemples cités : que
+c'est surtout par l'action de l'eau humectant là semence que la vie, endormie dans cette semence, est éveillée, et que
+c'est par conséquent surtout par l'action de l'eau qu'il y a vie.
 
-*Chaleur*. — Toute réaction en chimie organique exige sa température spéciale : la température du grain en germination ne dépasse pas la chaleur ordinaire du printemps. Mais c'est une tout autre question de savoir si l'opération, lorsqu'on la régularise au point de vue de la fabrication, ne peut pas être effectuée à une température plus élevée. Dans la préparation de la bière, on expose d'abord le grain humecté à une température de même degré que la chaleur produite à la surface de la terre par le soleil au printemps, afin de produire sur la semence presque la même action : on divise alors le grain, on le traite par l'eau chaude et on porte la température au degré le plus élevé auquel on puisse l'amener afin d'accélérer l'opération.
+*Chaleur*. — Toute réaction en chimie organique exige sa température spéciale : la température du grain en germination
+ne dépasse pas la chaleur ordinaire du printemps. Mais c'est une tout autre question de savoir si l'opération, lorsqu'on
+la régularise au point de vue de la fabrication, ne peut pas être effectuée à une température plus élevée. Dans la
+préparation de la bière, on expose d'abord le grain humecté à une température de même degré que la chaleur produite à la
+surface de la terre par le soleil au printemps, afin de produire sur la semence presque la même action : on divise alors
+le grain, on le traite par l'eau chaude et on porte la température au degré le plus élevé auquel on puisse l'amener afin
+d'accélérer l'opération.
 
-*Air*. — Dans la germination du grain, un des nombreux résultats de l'action vitale, l'air est indispensable, tant pour déterminer la transformation des matières que pour la maintenir en activité.
+*Air*. — Dans la germination du grain, un des nombreux résultats de l'action vitale, l'air est indispensable, tant pour
+déterminer la transformation des matières que pour la maintenir en activité.
 
-C'est par cette raison que l'on sème les semences dans des sols légers que l'on ne doit, dans aucun cas, comprimer fortement. Si l'on place la semence profondément dans le sol, de manière que l'air nécessaire ne puisse pas y arriver, elle ne pousse pas.
+C'est par cette raison que l'on sème les semences dans des sols légers que l'on ne doit, dans aucun cas, comprimer
+fortement. Si l'on place la semence profondément dans le sol, de manière que l'air nécessaire ne puisse pas y arriver,
+elle ne pousse pas.
 
-Avant ces trois conditions, on doit placer au premier rang la condition essentielle que le grain soit sain et ne soit pas trop vieux. Par grain qui ne soit pas trop vieux, on désigne en général, dans la fabrication de la bière, un grain qui soit bien plein et qui n'ait subi de modification à aucun égard. Au point de vue de la germination en général, et spécialement au point de vue de savoir si les vieux grains sont ou non en état de germer, on doit observer que la semence est exposée à une décomposition lente; cette modification s'est déjà opérée depuis longtemps dans les substances albumineuses, placées surtout, semble-t-il, dans le voisinage du germe, avant que l'on puisse découvrir sur le grain quelque signe morbide.
+Avant ces trois conditions, on doit placer au premier rang la condition essentielle que le grain soit sain et ne soit
+pas trop vieux. Par grain qui ne soit pas trop vieux, on désigne en général, dans la fabrication de la bière, un grain
+qui soit bien plein et qui n'ait subi de modification à aucun égard. Au point de vue de la germination en général, et
+spécialement au point de vue de savoir si les vieux grains sont ou non en état de germer, on doit observer que la
+semence est exposée à une décomposition lente; cette modification s'est déjà opérée depuis longtemps dans les substances
+albumineuses, placées surtout, semble-t-il, dans le voisinage du germe, avant que l'on puisse découvrir sur le grain
+quelque signe morbide.
 
 Quant à la germination artificielle du grain, le maltage, elle s'opère de la manière suivante.
 
-On met le grain d'orge ou de froment (prenons l'orge) tout entier avec son enveloppe et sans le moudre dans un bac en bois (*Quellbottich* des Allemands) ou en pierre (*Malzstein* des Allemands), et on y verse assez d'eau pour qu'il y en ait au-dessus du grain un peu plus d'un demi-pouce ; le tout se passe à la température ordinaire. On agite bien le grain et on enlève les impuretés et les grains qui surnagent au-dessus de l'eau : on laisse l'eau s'écouler et on recommence jusqu'à ce que l'eau qui s'écoule soit entièrement claire. L'eau qui s'écoule d'abord est toujours un peu colorée. L'eau dont le grain est recouvert l'humecte peu à peu, et il commence par perdre une partie des principes solubles, combinaisons salines, dextrine, matières albumineuses solubles et autres substances solubles, qu'il contient. Comme toutes ces substances solubles ont leur utilité dans la préparation de la bière, il s'ensuit que l'on doit exécuter le lavage du grain, seulement pendant qu'il commence à s'humecter et que l'on ne doit pas le continuer lorsque la dissolution des parties constituantes du grain commence à s'opérer[^3].
+On met le grain d'orge ou de froment (prenons l'orge) tout entier avec son enveloppe et sans le moudre dans un bac en
+bois (*Quellbottich* des Allemands) ou en pierre (*Malzstein* des Allemands), et on y verse assez d'eau pour qu'il y en
+ait au-dessus du grain un peu plus d'un demi-pouce ; le tout se passe à la température ordinaire. On agite bien le grain
+et on enlève les impuretés et les grains qui surnagent au-dessus de l'eau : on laisse l'eau s'écouler et on recommence
+jusqu'à ce que l'eau qui s'écoule soit entièrement claire. L'eau qui s'écoule d'abord est toujours un peu colorée. L'eau
+dont le grain est recouvert l'humecte peu à peu, et il commence par perdre une partie des principes solubles,
+combinaisons salines, dextrine, matières albumineuses solubles et autres substances solubles, qu'il contient. Comme
+toutes ces substances solubles ont leur utilité dans la préparation de la bière, il s'ensuit que l'on doit exécuter le
+lavage du grain, seulement pendant qu'il commence à s'humecter et que l'on ne doit pas le continuer lorsque la
+dissolution des parties constituantes du grain commence à s'opérer[^3].
 
-C'est par ce motif que l'on emploie actuellement dans quelques localités le procédé suivant de mouillage du grain, afin que la totalité de la masse soit pénétrée par l'eau de part en part, sans qu'il y en ait une trop grande quantité en contact avec le grain. Le lavage et le nettoyage du grain sont opérés de la manière que nous venons d'indiquer ; on a soin de laisser séjourner le grain pendant quelques heures sous l'eau, afin de bien laisser à une substance d'une saveur désagréable que contient l'enveloppe du grain le temps de se séparer, sans cependant attendre assez pour qu'une petite quantité de la graine amylacée vienne à se dissoudre. On laisse l'eau s'écouler, puis on met le grain en tas que l'on arrose seulement de temps en temps avec de l'eau, en n'ajoutant jamais à la fois une quantité d'eau plus grande que celle qui peut être absorbée rapidement par le grain, quand on l'humecte de part en part. On doit retourner continuellement les grains afin que tous ils présentent le même degré d'humidité, mais aussi afin que l'eau qui tient en dissolution les substances indiquées soit également répartie dans toute la masse du grain.
+C'est par ce motif que l'on emploie actuellement dans quelques localités le procédé suivant de mouillage du grain, afin
+que la totalité de la masse soit pénétrée par l'eau de part en part, sans qu'il y en ait une trop grande quantité en
+contact avec le grain. Le lavage et le nettoyage du grain sont opérés de la manière que nous venons d'indiquer ; on a
+soin de laisser séjourner le grain pendant quelques heures sous l'eau, afin de bien laisser à une substance d'une saveur
+désagréable que contient l'enveloppe du grain le temps de se séparer, sans cependant attendre assez pour qu'une petite
+quantité de la graine amylacée vienne à se dissoudre. On laisse l'eau s'écouler, puis on met le grain en tas que l'on
+arrose seulement de temps en temps avec de l'eau, en n'ajoutant jamais à la fois une quantité d'eau plus grande que
+celle qui peut être absorbée rapidement par le grain, quand on l'humecte de part en part. On doit retourner
+continuellement les grains afin que tous présentent le même degré d'humidité, mais aussi afin que l'eau qui tient en
+dissolution les substances indiquées soit également répartie dans toute la masse du grain.
 
-Dès que l'eau est suffisamment absorbée, on en verse de nouveau sur le grain, en agitant avec soin. On ne doit jamais ajouter une quantité d'eau assez grande pour qu'elle ne puisse pas être absorbée : lorsqu'on opère ainsi, le séjour du grain dans une grande quantité d'eau, avec perte de matières utiles qui se dissoudraient dans cette eau, n'a pas lieu.
+Dès que l'eau est suffisamment absorbée, on en verse de nouveau sur le grain, en agitant avec soin. On ne doit jamais
+ajouter une quantité d'eau assez grande pour qu'elle ne puisse pas être absorbée : lorsqu'on opère ainsi, le séjour du
+grain dans une grande quantité d'eau, avec perte de matières utiles qui se dissoudraient dans cette eau, n'a pas lieu.
 
-Comme le but de cette opération est d'humecter le grain à l'intérieur, il est évident que le temps nécessaire pour que cet effet se produise dépend, tant de l'état de siccité du grain que de l'épaisseur de son enveloppe, de l'âge du grain, de la température de l'air. Le temps nécessaire varie par suite avec ces circonstances.
+Comme le but de cette opération est d'humecter le grain à l'intérieur, il est évident que le temps nécessaire pour que
+cet effet se produise dépend, tant de l'état de siccité du grain que de l'épaisseur de son enveloppe, de l'âge du grain,
+de la température de l'air. Le temps nécessaire varie par suite avec ces circonstances.
 
-Stein[^4] a fait des expériences sur un grand nombre de semences dans le but d'étudier leur tendance à absorber l'eau : de ces expériences, il résulte que, pour quelques-unes, au bout de 24 heures, pour d'autres, au bout de 48 heures (la semence étant considérée ici comme plongée sous l'eau), il n'y avait plus aucune absorption d'eau.
+Stein[^4] a fait des expériences sur un grand nombre de semences dans le but d'étudier leur tendance à absorber l'eau :
+de ces expériences, il résulte que, pour quelques-unes, au bout de 24 heures, pour d'autres, au bout de 48 heures (la
+semence étant considérée ici comme plongée sous l'eau), il n'y avait plus aucune absorption d'eau.
 
-Les grains d'orge, lorsqu'ils sont complètement mouillés, ont augmenté en poids d'environ la moitié de leur poids primitif et en volume d'un quart de leur volume primitif.
+Les grains d'orge, lorsqu'ils sont complètement mouillés, ont augmenté en poids d'environ la moitié de leur poids
+primitif et en volume d'un quart de leur volume primitif.
 
-Quant aux particularités pratiques qui ont rapport au bac dans lequel le lavage et le mouillage du grain s'opèrent, combien d'orge on y introduit par exemple en une seule fois, je crois pouvoir les passer ici sous silence.
+Quant aux particularités pratiques qui ont rapport au bac dans lequel le lavage et le mouillage du grain s'opèrent,
+combien d'orge on y introduit par exemple en une seule fois, je crois pouvoir les passer ici sous silence.
 
-Pour étudier l'influence de l'eau dans le mouillage du grain, j'ai maintenu l'orge dans l'eau pure pendant une demi-heure, j'ai enlevé cette eau et j'ai ajouté de nouveau de l'eau pure que j'ai laissée en contact avec l'orge pendant 20 heures. Cette eau, lorsqu'on l'évaporé, laisse un résidu de matières solides, qui s'élève à 0,57 pour 100 de l'orge employée : ce résidu, de couleur brun foncé, est hygroscopique et partiellement soluble dans l'eau : la dissolution réduit le réactif cuivrique et donne un précipité par l'alcool. Le résidu de l'évaporation laisse, lorsqu'on le calcine, 14 pour 100 de cendres, d'où il résulte que l'eau qui est employée pour humecter le grain d'orge lui enlève une quantité relativement assez considérable de sels solubles.
+Pour étudier l'influence de l'eau dans le mouillage du grain, j'ai maintenu l'orge dans l'eau pure pendant une
+demi-heure, j'ai enlevé cette eau et j'ai ajouté de nouveau de l'eau pure que j'ai laissée en contact avec l'orge
+pendant 20 heures. Cette eau, lorsqu'on l'a l'évaporé, laisse un résidu de matières solides, qui s'élève à 0,57 pour 100
+de l'orge employée : ce résidu, de couleur brun foncé, est hygroscopique et partiellement soluble dans l'eau : la
+dissolution réduit le réactif cuivrique et donne un précipité par l'alcool. Le résidu de l'évaporation laisse, lorsqu'on
+le calcine, 14 pour 100 de cendres, d'où il résulte que l'eau qui est employée pour humecter le grain d'orge lui enlève
+une quantité relativement assez considérable de sels solubles.
 
-L' eau même qui a servi humecter l'orge, donnait, par de l'acétate basique de plomb, un abondant précipité formé d'une combinaison de l'albumine dissoute et d'oxyde de plomb, et la liqueur filtrée et séparée ainsi du réduisant fortement le réactif cuivrique, ce qui enlevée au grain et contenait de la dextrine que l'eau avait au grain et qui n'avait pas été précipitée par la dissolution d'acétate de plomb basique. (Voyez plus loin.)
+L'eau même qui a servi humecter l'orge, donnait, par de l'acétate basique de plomb, un abondant précipité formé d'une
+combinaison de l'albumine dissoute et d'oxyde de plomb, et la liqueur filtrée et séparée ainsi du réduisant fortement le
+réactif cuivrique, ce qui enlevée au grain et contenait de la dextrine que l'eau avait au grain et qui n'avait pas été
+précipitée par la dissolution d'acétate de plomb basique. (Voyez plus loin.)
 
-On reconnaît que l'orge est suffisamment humectée à ce que l'enveloppe du grain s'en détache facilement, à ce que le grain commence à s'ouvrir partiellement et à ce que le contenu du grain peut facilement s'aplatir entre les doigts.
+On reconnaît que l'orge est suffisamment humectée à ce que l'enveloppe du grain s'en détache facilement, à ce que le
+grain commence à s'ouvrir partiellement et à ce que le contenu du grain peut facilement s'aplatir entre les doigts.
 
-Pour l'avoine, il faut un temps plus long pour atteindre le même degré de ramollissement ; pour le froment et l'orge, au contraire, il faut moins de temps.
+Pour l'avoine, il faut un temps plus long pour atteindre le même degré de ramollissement ; pour le froment et l'orge, au
+contraire, il faut moins de temps.
 
-Il est nécessaire ici que tous les grains contenus dans la masse puissent arriver à un même degré de ramollissement les uns que les autres, ce que l'on ne peut atteindre que lorsqu'on emploie pour cette opération des grains d'égale siccité et de même âge. En outre, chacun des grains doit être arrivé au même degré de ramollissement, non seulement en son milieu, mais aussi à ses extrémités, c'est-à-dire qu'il doit être également pénétré par l'eau.
+Il est nécessaire ici que tous les grains contenus dans la masse puissent arriver à un même degré de ramollissement les
+uns que les autres, ce que l'on ne peut atteindre que lorsqu'on emploie pour cette opération des grains d'égale siccité
+et de même âge. En outre, chacun des grains doit être arrivé au même degré de ramollissement, non seulement en son
+milieu, mais aussi à ses extrémités, c'est-à-dire qu'il doit être également pénétré par l'eau.
 
-Déjà, par ce que nous avons dit de cette première opération si simple, on voit à quel point il est nécessaire de mettre du soin dans le choix de l'orge. Ce n'est qu'en opérant sur de l'orge qui soit toute d'une même qualité que l'on peut obtenir, dans les circonstances indiquées, un degré uniforme de ramollissement de tous les grains : si l'on n'arrive pas à ce degré uniforme de ramollissement du grain, on doit s'attendre à ce qu'il ne se produise pas une transformation régulière des parties constituantes du grain et à ce que l'on n'obtienne pas une bonne bière, c'est-à-dire une bière dont la qualité reste constante.
+Déjà, par ce que nous avons dit de cette première opération si simple, on voit à quel point il est nécessaire de mettre
+du soin dans le choix de l'orge. Ce n'est qu'en opérant sur de l'orge qui soit toute d'une même qualité que l'on peut
+obtenir, dans les circonstances indiquées, un degré uniforme de ramollissement de tous les grains : si l'on n'arrive pas
+à ce degré uniforme de ramollissement du grain, on doit s'attendre à ce qu'il ne se produise pas une transformation
+régulière des parties constituantes du grain et à ce que l'on n'obtienne pas une bonne bière, c'est-à-dire une bière
+dont la qualité reste constante.
 
-Lorsque l'orge, ainsi pénétrée par l'eau, est mise en tas et exposée à une température déterminée, elle subit une série de modifications chimiques importantes qui, au bout de quelque temps, se manifestent au dehors à ce que la jeune plante commence à apparaître. C'est la série de modifications que l'orge subit ainsi, qui constitue le maltage proprement dit : l'orge doit, pour cela, être placée dans des endroits (*Malzsteine* des Allemands, *germoirs* des Français), dans lesquels la température varie peu.
+Lorsque l'orge, ainsi pénétrée par l'eau, est mise en tas et exposée à une température déterminée, elle subit une série
+de modifications chimiques importantes qui, au bout de quelque temps, se manifestent au dehors à ce que la jeune plante
+commence à apparaître. C'est la série de modifications que l'orge subit ainsi, qui constitue le maltage proprement dit :
+l'orge doit, pour cela, être placée dans des endroits (*Malzsteine* des Allemands, *germoirs* des Français), dans
+lesquels la température varie peu.
 
-On met l'orge en couches d'une épaisseur de quelques centimètres, plus épaisses en hiver, plus minces en été. Les transformations chimiques qui ont lieu dans l'orge déterminent la production d'une certaine quantité de chaleur, et la chaleur qui se produit ainsi, vient à son tour en aide à l'action chimique par laquelle le grain doit être converti en malt. Pour que l'action commence à se produire, on met quelquefois pendant plusieurs heures l'orge humectée en tas et on l'y laisse jusqu'à ce que la surface du grain paraisse humide : en effet, à partir de ce moment, la température s'élève rapidement jusqu'au ressuage. On met alors le grain en couches de l'épaisseur indiquée, en le maintenant à une température aussi constante que possible. Le grain devient d'abord sec et s'échauffe de manière à dépasser de 8° à 12°, la température de l'air ambiant, puis il devient de nouveau humide à sa surface : son enveloppe crève et les premières radicelles commencent à apparaître : cela a lieu environ 24 à 48 heures après que le grain a été étendu en couches de l'épaisseur indiquée : la production plus ou moins rapide de ce phénomène dépend du reste nécessairement de la température de l'air ambiant. Plus cette dernière est élevée, plus la germination commence rapidement à se produire.
+On met l'orge en couches d'une épaisseur de quelques centimètres, plus épaisses en hiver, plus minces en été. Les
+transformations chimiques qui ont lieu dans l'orge déterminent la production d'une certaine quantité de chaleur, et la
+chaleur qui se produit ainsi, vient à son tour en aide à l'action chimique par laquelle le grain doit être converti en
+malt. Pour que l'action commence à se produire, on met quelquefois pendant plusieurs heures l'orge humectée en tas et on
+l'y laisse jusqu'à ce que la surface du grain paraisse humide : en effet, à partir de ce moment, la température s'élève
+rapidement jusqu'au ressuage. On met alors le grain en couches de l'épaisseur indiquée, en le maintenant à une
+température aussi constante que possible. Le grain devient d'abord sec et s'échauffe de manière à dépasser de 8° à 12°,
+la température de l'air ambiant, puis il devient de nouveau humide à sa surface : son enveloppe crève et les premières
+radicelles commencent à apparaître : cela a lieu environ 24 à 48 heures après que le grain a été étendu en couches de
+l'épaisseur indiquée : la production plus ou moins rapide de ce phénomène dépend du reste nécessairement de la
+température de l'air ambiant. Plus cette dernière est élevée, plus la germination commence rapidement à se produire.
 
-La manière d'opérer le maltage présente de grandes différences dans les brasseries des différentes localités : en Hollande, on laisse la température des couches de grains s'élever jusqu'à 12°C, dans d'autres endroits, en Angleterre 
-par exemple, jusqu'à 18°C, dans d'autres, comme en Bavière, jusqu'à 25°C. — En Bavière, on laisse même quelquefois la température s'élever jusqu'à 30°C vers la fin de l'opération.
+La manière d'opérer le maltage présente de grandes différences dans les brasseries des différentes localités : en
+Hollande, on laisse la température des couches de grains s'élever jusqu'à 12°C, dans d'autres endroits, en Angleterre
+par exemple, jusqu'à 18°C, dans d'autres, comme en Bavière, jusqu'à 25°C. — En Bavière, on laisse même quelquefois la
+température s'élever jusqu'à 30°C vers la fin de l'opération.
 
-En général, une marche lente de cette transformation chimique est favorable à la préparation de la bière. Dès que, par conséquent, les premières radicelles commencent à apparaître, on remue le grain et on en détermine ainsi le refroidissement, on diminue l'épaisseur de la couche et on ralentit ainsi l'action chimique. On attend que la radicule se soit développée, mais non la plumule, qui ne se développe que plus tard : et, lorsque la radicule a atteint une longueur qui représente 1 fois 1/4 à 1 fois ½ celle du grain, pour l'orge, et qui soit égale à une fois celle du grain, pour le froment, on considère le maltage comme terminé : ce n'est du reste qu'en remuant de temps en temps les couches de grain pour répartir également la chaleur dans la totalité de la masse et maintenir partout la transformation chimique au même degré d'activité, de manière à régulariser l'opération, que l'on peut arriver à ce que les radicelles ne soient sur aucun point de la masse plus longues qu'il n'est nécessaire.
+En général, une marche lente de cette transformation chimique est favorable à la préparation de la bière. Dès que, par
+conséquent, les premières radicelles commencent à apparaître, on remue le grain et on en détermine ainsi le
+refroidissement, on diminue l'épaisseur de la couche et on ralentit ainsi l'action chimique. On attend que la radicule
+se soit développée, mais non la plumule, qui ne se développe que plus tard : et, lorsque la radicule a atteint une
+longueur qui représente 1 fois 1/4 à 1 fois ½ celle du grain, pour l'orge, et qui soit égale à une fois celle du grain,
+pour le froment, on considère le maltage comme terminé : ce n'est du reste qu'en remuant de temps en temps les couches
+de grain pour répartir également la chaleur dans la totalité de la masse et maintenir partout la transformation chimique
+au même degré d'activité, de manière à régulariser l'opération, que l'on peut arriver à ce que les radicelles ne soient
+sur aucun point de la masse plus longues qu'il n'est nécessaire.
 
-L'expérience a démontré que, lorsque les radicelles ont atteint la longueur indiquée, le grain a subi le degré de transformation le plus favorable pour la préparation de la bière et qu'un développement plus prononcé du grain serait nuisible. Cependant quelques brasseurs considèrent déjà la radicule comme trop longue lorsqu'elle a atteint une longueur 1 fois 1/4 à 1 fois ½ celle de la semence.
+L'expérience a démontré que, lorsque les radicelles ont atteint la longueur indiquée, le grain a subi le degré de
+transformation le plus favorable pour la préparation de la bière et qu'un développement plus prononcé du grain serait
+nuisible. Cependant quelques brasseurs considèrent déjà la radicule comme trop longue lorsqu'elle a atteint une longueur
+1 fois 1/4 à 1 fois ½ celle de la semence.
 
-Je crois que l'expérience, qui seule peut permettre de décider quel est le meilleur système, fait défaut. Il ne suffit pas, du reste, que la radicule ait atteint telle ou telle longueur; mais il est plutôt nécessaire que cette longueur soit atteinte à une température déterminée et en un temps donné : la longueur de la radicule est considérée ici comme un signe certain du degré de transformation qui s'est produit dans le grain, tandis qu'il n'est qu'un signe certain des transformations qui ont eu lieu dans le grain pour arriver à une production de cellulose qui ne paraît nécessairement pas concordante avec la production de la substance que l'on a désignée sous le nom de diastase.
+Je crois que l'expérience, qui seule peut permettre de décider quel est le meilleur système, fait défaut. Il ne suffit
+pas, du reste, que la radicule ait atteint telle ou telle longueur ; mais il est plutôt nécessaire que cette longueur
+soit atteinte à une température déterminée et en un temps donné : la longueur de la radicule est considérée ici comme un
+signe certain du degré de transformation qui s'est produit dans le grain, tandis qu'il n'est qu'un signe certain des
+transformations qui ont eu lieu dans le grain pour arriver à une production de cellulose qui ne paraît nécessairement
+pas concordante avec la production de la substance que l'on a désignée sous le nom de diastase.
 
-Lorsque la germination a atteint le point voulu, on étale les couches de malt de manière qu'elles deviennent très minces, et on établit même dans le germoir un courant d'air afin de refroidir le malt et d'empêcher toute transformation chimique ultérieure, et aussi afin de dessécher rapidement le malt. La préparation du malt dure en tout de 10 à 14 jours. En Écosse, elle demande 18 à 21 jours, ce qui vient peut-être de la température à laquelle on opère et qui est plus basse ; en France, il faut seulement de 8 à 10 jours.
+Lorsque la germination a atteint le point voulu, on étale les couches de malt de manière qu'elles deviennent très
+minces, et on établit même dans le germoir un courant d'air afin de refroidir le malt et d'empêcher toute transformation
+chimique ultérieure, et aussi afin de dessécher rapidement le malt. La préparation du malt dure en tout de 10 à 14
+jours. En Écosse, elle demande 18 à 21 jours, ce qui vient peut-être de la température à laquelle on opère et qui est
+plus basse ; en France, il faut seulement de 8 à 10 jours.
 
-Le développement de la plumule est considéré comme un fait tout à fait regrettable dans la préparation du malt de bonne qualité, mais on ne peut pas toujours l'éviter entièrement. Lorsque la radicule a atteint une fois et demie la longueur du grain, la plumule possède une longueur égale à la moitié de celle du grain.
+Le développement de la plumule est considéré comme un fait tout à fait regrettable dans la préparation du malt de bonne
+qualité, mais on ne peut pas toujours l'éviter entièrement. Lorsque la radicule a atteint une fois et demie la longueur
+du grain, la plumule possède une longueur égale à la moitié de celle du grain.
 
-Par le maltage, le grain d'orge a augmenté de la moitié, quelquefois des deux tiers de son volume : mais en même temps il est devenu plus mou et plus facile à réduire en poudre. Il a perdu une certaine portion de son poids. En admettant que les radicelles, qui se sont développées pendant la germination, soient séparées, on a (l'orge et le malt étant tous deux supposés secs) 8%, sans les radicelles qui constituent 4,5% du poids primitif du grain[^5] : le chiffre de 5% de radicelles que l'on admet généralement me paraît trop élevé. On doit d'autre part tenir compte des détritus qui se sont détachés mécaniquement du grain par suite du frottement auquel il a été soumis pendant qu'on le remuait; 1,5% de perte au maximum[^6] par le mouillage, 3% par la germination et 3,5% par la séparation des radicelles me paraissent représenter le chiffre moyen de la perte.
+Par le maltage, le grain d'orge a augmenté de la moitié, quelquefois des deux tiers de son volume : mais en même temps
+il est devenu plus mou et plus facile à réduire en poudre. Il a perdu une certaine portion de son poids. En admettant
+que les radicelles, qui se sont développées pendant la germination, soient séparées, on a (l'orge et le malt étant tous
+deux supposés secs) 8%, sans les radicelles qui constituent 4,5% du poids primitif du grain[^5] : le chiffre de 5% de
+radicelles que l'on admet généralement me paraît trop élevé. On doit d'autre part tenir compte des détritus qui se sont
+détachés mécaniquement du grain par suite du frottement auquel il a été soumis pendant qu'on le remuait; 1,5% de perte
+au maximum[^6] par le mouillage, 3% par la germination et 3,5% par la séparation des radicelles me paraissent
+représenter le chiffre moyen de la perte.
 
-Scheven[^7] a fait l'analyse chimique des radicelles qui ont pris naissance pendant le maltage et dont on a effectué ensuite la séparation.
+Scheven[^7] a fait l'analyse chimique des radicelles qui ont pris naissance pendant le maltage et dont on a effectué
+ensuite la séparation.
 
-100 livres de malt ont donné 3 livres de radicelles. Les radicelles qui ont servi à l'expérience *a* contenaient 7% d'eau ; celles de l'expérience *b*, 20%. Desséchées à 100°C, elles ont donné :
+100 livres de malt ont donné 3 livres de radicelles. Les radicelles qui ont servi à l'expérience *a* contenaient 7%
+d'eau ; celles de l'expérience *b*, 20%. Desséchées à 100°C, elles ont donné :
 
 <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
-  <table style="width: 100%"">
+  <table style="width: 100%">
   <tr><td>                         </td><th>  a   </th><th>  b   </th></tr>
   <tr><th> Fibre ligneuse          </th><td> 18,3 </td><td> 23,6 </td></tr>
   <tr><th> Substances non azotées  </th><td> 48,8 </td><td> 39,6 </td></tr>
@@ -87,29 +228,90 @@ Scheven[^7] a fait l'analyse chimique des radicelles qui ont pris naissance pend
   </table>
 </figure>
 
-Les germes sont donc très riches en matières albumineuses : on les emploie la plupart du temps comme engrais, et quand on considère le dégagement abondant d'ammoniaque qu'ils produisent en se putréfiant, on comprend qu'ils soient éminemment propres à cet usage. — En ce qui concerne les principes qui exercent une action utile dans la préparation de la bière, on peut admettre comme terme moyen que, par la séparation de ces radicelles, il se produit,, pour la préparation de la bière, une perte de 0,75 à 1 Pour 100 des matières albumineuses qui étaient contenues dans l'orge. En outre, il est évident que la matière cellulaire des radicelles s'est produite aux dépens des substances utile du grain, et que, à ce point de vue, une certaine quantité de substances utiles a été perdue pour la préparation de la bière : les matières non azotées solubles et les substances inorganiques contenues dans la radicule nous représentent encore un autre mode de perte : en effet la radicule n'a pu les prendre que dans le grain. — Nous ferons plus loin les comptes de ces pertes.
+Les germes sont donc très riches en matières albumineuses : on les emploie la plupart du temps comme engrais, et quand
+on considère le dégagement abondant d'ammoniaque qu'ils produisent en se putréfiant, on comprend qu'ils soient
+éminemment propres à cet usage. — En ce qui concerne les principes qui exercent une action utile dans la préparation de
+la bière, on peut admettre comme terme moyen que, par la séparation de ces radicelles, il se produit, pour la
+préparation de la bière, une perte de 0,75 à 1 Pour 100 des matières albumineuses qui étaient contenues dans l'orge. En
+outre, il est évident que la matière cellulaire des radicelles s'est produite aux dépens des substances utile du grain,
+et que, à ce point de vue, une certaine quantité de substances utiles a été perdue pour la préparation de la bière : les
+matières non azotées solubles et les substances inorganiques contenues dans la radicule nous représentent encore un
+autre mode de perte : en effet la radicule n'a pu les prendre que dans le grain. — Nous ferons plus loin les comptes de
+ces pertes.
 
-On sépare les radicelles parce qu'elles donneraient un mauvais goût à la bière : dans l'examen ultérieur de la bière, il n'en sera par conséquent plus fait mention.
+On sépare les radicelles parce qu'elles donneraient un mauvais goût à la bière : dans l'examen ultérieur de la bière, il
+n'en sera par conséquent plus fait mention.
 
-Avant d'étudier de plus près les modifications qui se sont produites dans le grain pendant le maltage, nous croyons devoir examiner quelles sont les circonstances extérieures qui favorisent la germination et quelle action l'air atmosphérique exerce sur le grain en germination, et réciproquement quelle action le grain en germination exerce sur l'air atmosphérique.
+Avant d'étudier de plus près les modifications qui se sont produites dans le grain pendant le maltage, nous croyons
+devoir examiner quelles sont les circonstances extérieures qui favorisent la germination et quelle action l'air
+atmosphérique exerce sur le grain en germination, et réciproquement quelle action le grain en germination exerce sur
+l'air atmosphérique.
 
-La lumière exerce une action contraire à la germination : cela est du moins très certainement vrai pour la lumière directe du soleil. Dans le maltage, ce n'est pas précisément pour mettre le grain à l'abri de la lumière qu'on l'enferme : mais comme on a besoin, pour la germination, d'une température uniforme et comme c'est dans des espaces fermés qu'on l'obtient le mieux, la lumière n'exerce dans le maltage qu'une action très limitée. — En ce qui concerne le fait que c'est dans l'obscurité que la germination s'opère le mieux, la germination des semences dans le sol peut en être considérée par nous comme une démonstration.
+La lumière exerce une action contraire à la germination : cela est du moins très certainement vrai pour la lumière
+directe du soleil. Dans le maltage, ce n'est pas précisément pour mettre le grain à l'abri de la lumière qu'on
+l'enferme : mais comme on a besoin, pour la germination, d'une température uniforme et comme c'est dans des espaces
+fermés qu'on l'obtient le mieux, la lumière n'exerce dans le maltage qu'une action très limitée. — En ce qui concerne le
+fait que c'est dans l'obscurité que la germination s'opère le mieux, la germination des semences dans le sol peut en
+être considérée par nous comme une démonstration.
 
-Leuchs a fait les expériences suivantes sur la germination de semences d'une même plante. Dans l'obscurité, elles germaient au bout de 14 heures ; si on les recouvrait de papier noir, il leur fallait 18 heures pour germer; avec du papier blanc, il leur fallait 26 heures ; avec du papier huilé, 34 heures ; à la lumière du jour, 48 heures ; et si, au moyen d'un miroir, la force de la lumière était encore augmentée, il leur fallait 55 heures pour germer.
+Leuchs a fait les expériences suivantes sur la germination de semences d'une même plante. Dans l'obscurité, elles
+germaient au bout de 14 heures ; si on les recouvrait de papier noir, il leur fallait 18 heures pour germer ; avec du
+papier blanc, il leur fallait 26 heures ; avec du papier huilé, 34 heures ; à la lumière du jour, 48 heures ; et si, au
+moyen d'un miroir, la force de la lumière était encore augmentée, il leur fallait 55 heures pour germer.
 
-Cependant, d'après de Saussure, la lumière du soleil n'exerce une action contraire à la germination que parce que la chaleur qui l'accompagne, dessèche le grain. Il a vu, à la lumière diffuse, des semences préalablement humectées, placées les unes sous une cloche opaque, les autres sous une cloche transparente, germer avec la même rapidité.
+Cependant, d'après de Saussure, la lumière du soleil n'exerce une action contraire à la germination que parce que la
+chaleur qui l'accompagne, dessèche le grain. Il a vu, à la lumière diffuse, des semences préalablement humectées,
+placées les unes sous une cloche opaque, les autres sous une cloche transparente, germer avec la même rapidité.
 
-Cette opinion se trouve en contradiction avec les expériences plus récentes de Gladstone[^8]. Cet expérimentateur a en effet trouvé que la germination du froment et des pois s'opère plus rapidement lorsqu'on soustrait les semences aux rayons chimiques de la lumière solaire.
+Cette opinion se trouve en contradiction avec les expériences plus récentes de Gladstone[^8]. Cet expérimentateur a en
+effet trouvé que la germination du froment et des pois s'opère plus rapidement lorsqu'on soustrait les semences aux
+rayons chimiques de la lumière solaire.
 
-Je n'ai pas fait de nombreuses expériences sur ce sujet, mais je puis affirmer d'une manière positive que le développement de l'orge ne s'effectue pas plus rapidement dans l'obscurité que lorsqu'elle est exposée à la lumière, en tant que la température de l'endroit exposé à la lumière n'est que de 1 ou 2 degrés plus élevée que la température de l'endroit situé dans l'obscurité, les autres circonstances étant du reste exactement les mêmes. Au contraire, l'orge germe plus rapidement dans l'endroit exposé à la lumière. Après avoir opéré le mouillage d'une certaine quantité d'orge, en la maintenant dans l'eau pendant 24 heures, on en a mis la moitié dans l'obscurité à l'intérieur d'une armoire et on a laissé l'autre moitié sur l'armoire, exposée à la lumière diffuse. Au bout de 48 heures, la moitié qui était exposée à la lumière avait donné naissance à un germe de la longueur du grain d'orge, tandis que, pour la portion qui était dans l'obscurité, le germe était à peine visible. — En ce qui concerne le fait que la lumière ne peut pas exercer ici une action avantageuse, il paraît s'accorder avec ce que nous savons de l'action de la lumière sur les parties des plantes qui poussent au-dessus du sol : elles donnent en effet naissance à un dégagement d'oxygène et il s'y produit de la chlorophylle ; dans la germination, c'est précisément l'opposé qui a lieu : en effet il y a absorption d'oxygène, et il serait vraiment étrange que la lumière n'exerçât pas dans ce cas une action défavorable. — Ce que nous avons observé pour l'orge peut ne pas être vrai pour une autre semence : on ne peut en tirer aucune conclusion générale.
+Je n'ai pas fait de nombreuses expériences sur ce sujet, mais je puis affirmer d'une manière positive que le
+développement de l'orge ne s'effectue pas plus rapidement dans l'obscurité que lorsqu'elle est exposée à la lumière, en
+tant que la température de l'endroit exposé à la lumière n'est que de 1 ou 2 degrés plus élevée que la température de
+l'endroit situé dans l'obscurité, les autres circonstances étant du reste exactement les mêmes. Au contraire, l'orge
+germe plus rapidement dans l'endroit exposé à la lumière. Après avoir opéré le mouillage d'une certaine quantité d'orge,
+en la maintenant dans l'eau pendant 24 heures, on en a mis la moitié dans l'obscurité à l'intérieur d'une armoire et on
+a laissé l'autre moitié sur l'armoire, exposée à la lumière diffuse. Au bout de 48 heures, la moitié qui était exposée à
+la lumière avait donné naissance à un germe de la longueur du grain d'orge, tandis que, pour la portion qui était dans
+l'obscurité, le germe était à peine visible. — En ce qui concerne le fait que la lumière ne peut pas exercer ici une
+action avantageuse, il paraît s'accorder avec ce que nous savons de l'action de la lumière sur les parties des plantes
+qui poussent au-dessus du sol : elles donnent en effet naissance à un dégagement d'oxygène et il s'y produit de la
+chlorophylle ; dans la germination, c'est précisément l'opposé qui a lieu : en effet il y a absorption d'oxygène, et il
+serait vraiment étrange que la lumière n'exerçât pas dans ce cas une action défavorable. — Ce que nous avons observé
+pour l'orge peut ne pas être vrai pour une autre semence : on ne peut en tirer aucune conclusion générale.
 
-Schleiden a vu que la lumière exerçait sur la germination de l'orge une action retardatrice, en semant de l'orge dans du sable et en recouvrant une portion du sable avec une cloche de verre et une autre avec une cloche de zinc. Après l'apparition de la plumule, le résultat était, ainsi qu'on devait s'y attendre, entièrement à l'avantage du grain qui était exposé à la lumière[^9].
+Schleiden a vu que la lumière exerçait sur la germination de l'orge une action retardatrice, en semant de l'orge dans du
+sable et en recouvrant une portion du sable avec une cloche de verre et une autre avec une cloche de zinc. Après
+l'apparition de la plumule, le résultat était, ainsi qu'on devait s'y attendre, entièrement à l'avantage du grain qui
+était exposé à la lumière[^9].
 
-En opérant de la même manière et à une température tout à fait identique, j'ai observé positivement une action quelque peu retardatrice de la lumière sur la germination. De l'orge bien humectée a été divisée en deux portions qui ont été mises toutes les deux à la lumière diffuse dans des capsules de porcelaine placées l'une très près de l'autre : l'une des capsules a été recouverte d'une plaque de porcelaine, l'autre d'une plaque de verre. Au bout de 48 heures, il était déjà parfaitement visible que la germination de la portion placée dans l'obscurité était bien plus avancée.
+En opérant de la même manière et à une température tout à fait identique, j'ai observé positivement une action quelque
+peu retardatrice de la lumière sur la germination. De l'orge bien humectée a été divisée en deux portions qui ont été
+mises toutes les deux à la lumière diffuse dans des capsules de porcelaine placées l'une très près de l'autre : l'une
+des capsules a été recouverte d'une plaque de porcelaine, l'autre d'une plaque de verre. Au bout de 48 heures, il était
+déjà parfaitement visible que la germination de la portion placée dans l'obscurité était bien plus avancée.
 
-Dans la germination des semences, une odeur agréable se fait généralement sentir : dans la germination de l'orge, c'est une odeur de pommes. D'après Becquerel, il se produit ici de l'acide acétique[^10] ; mais il paraît incertain si l'acide acétique trouvé par lui était un produit direct de la germination ou s'il provenait de la transformation d'une certaine quantité de sucre qui se sépare du grain en germination (lorsque ce grain est placé dans l'eau). L'observation d'Edwards et de Colin qui ont remarqué une production d'alcool dans la germination du grain placé dans l'eau, paraît confirmer l'hypothèse d'une séparation de sucre.
+Dans la germination des semences, une odeur agréable se fait généralement sentir : dans la germination de l'orge, c'est
+une odeur de pommes. D'après Becquerel, il se produit ici de l'acide acétique[^10] ; mais il paraît incertain si l'acide
+acétique trouvé par lui était un produit direct de la germination ou s'il provenait de la transformation d'une certaine
+quantité de sucre qui se sépare du grain en germination (lorsque ce grain est placé dans l'eau). L'observation d'Edwards
+et de Colin qui ont remarqué une production d'alcool dans la germination du grain placé dans l'eau, paraît confirmer
+l'hypothèse d'une séparation de sucre.
 
-La production de l'acide acétique dans la germination du froment, des lentilles, et des semences de chanvre a été confirmée par Matteucci[^11] qui a fait germer ces trois espèces de grains dans du carbonate de chaux bien lavé : dans la plupart des cas, il a trouvé qu'il s'était produit de l'acétate de chaux. Une expérience très simple permet de reconnaître qu'il y a production d'acide dans la végétation : on n'a besoin que de placer une semence bien humectée sur un papier bleu de tournesol et de la maintenir humide : tout à l'entour de la semence, le papier devient rouge. — Si cet acide est de l'acide acétique, rien ne prouve que la production de cet acide soit due à la germination et qu'elle ne provienne pas de la transformation en acide acétique du sucre qui s'est séparé du grain pendant la germination. Une exsudation de matière sucrée de la nature de celle que nous venons d'indiquer, a en effet positivement lieu dans les semences amylacées en germination, en sorte que la question de la production de l'acide acétique reste encore sans solution définitive. Les nombreuses expériences de Becquerel dans lesquelles il a observé que des semences en germination rougissaient le papier de tournesol, ne prouvent donc rien. En ce qui concerne la nature de l'acide, on peut se demander si cet acide est bien de l'acide acétique ou si ce n'est pas plutôt de l'acide lactique.
+La production de l'acide acétique dans la germination du froment, des lentilles, et des semences de chanvre a été
+confirmée par Matteucci[^11] qui a fait germer ces trois espèces de grains dans du carbonate de chaux bien lavé : dans
+la plupart des cas, il a trouvé qu'il s'était produit de l'acétate de chaux. Une expérience très simple permet de
+reconnaître qu'il y a production d'acide dans la végétation : on n'a besoin que de placer une semence bien humectée sur
+un papier bleu de tournesol et de la maintenir humide : tout à l'entour de la semence, le papier devient rouge. — Si cet
+acide est de l'acide acétique, rien ne prouve que la production de cet acide soit due à la germination et qu'elle ne
+provienne pas de la transformation en acide acétique du sucre qui s'est séparé du grain pendant la germination. Une
+exsudation de matière sucrée de la nature de celle que nous venons d'indiquer, a en effet positivement lieu dans les
+semences amylacées en germination, en sorte que la question de la production de l'acide acétique reste encore sans
+solution définitive. Les nombreuses expériences de Becquerel dans lesquelles il a observé que des semences en
+germination rougissaient le papier de tournesol, ne prouvent donc rien. En ce qui concerne la nature de l'acide, on peut
+se demander si cet acide est bien de l'acide acétique ou si ce n'est pas plutôt de l'acide lactique.
 
 Matteucci considère la production d'une petite quantité d'acide dans la germination comme nuisible au développement ultérieur du germe. Il a trouvé que l'addition d'une petite quantité d'alcali (potasse, soude, ammoniaque), à l'eau dans laquelle les semences germent, accélère le développement de ce germe, ce qu'il attribue à ce que cette petite quantité d'alcali sature l'acide libre qui s'est produit. Il a en outre observé que, dans l'acide nitrique et dans l'acide sulfurique étendus, la germination s'opère bien plus lentement, et que, dans l'acide acétique, la germination est nulle.
 

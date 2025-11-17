@@ -114,7 +114,7 @@ plus dégoûtante et cependant elle se vend bien.
 Chaque bière présente sa saveur spéciale. — Mais lorsqu'on voit le soin excessif 
 que l'on prend pour avoir une bonne eau dans les brasseries qui fabriquent de la 
 bonne bière, on doit, en ne s'occupant même pas du dégoûtant emploi d'une eau 
-chargée de principes excrémentitiels humains, s'étonner que l'on emploie encore 
+chargée de principes excrémentiels humains, s'étonner que l'on emploie encore 
 dans quelques endroits l'eau sale des canaux des villes.
 
 Cela arrive du reste rarement dans la Hollande en général si propre.

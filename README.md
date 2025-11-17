@@ -20,9 +20,8 @@ Le résultat est visible à http://le-guide-du-brasseur.sibert.fr
 
 Couverture
 ----------
+
 ![Couverture](https://github.com/Marcussacapuces91/Le-guide-du-brasseur-Pico-CMS/blob/master/images/Le_guide_du_brasseur_ou_%5B...%5DMulder_Gerardus_bpt6k130227v.jpeg)
-
-
 
 Besoin d'aide
 -------------

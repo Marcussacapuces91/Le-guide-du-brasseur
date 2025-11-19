@@ -313,77 +313,145 @@ solution définitive. Les nombreuses expériences de Becquerel dans lesquelles i
 germination rougissaient le papier de tournesol, ne prouvent donc rien. En ce qui concerne la nature de l'acide, on peut
 se demander si cet acide est bien de l'acide acétique ou si ce n'est pas plutôt de l'acide lactique.
 
-Matteucci considère la production d'une petite quantité d'acide dans la germination comme nuisible au développement ultérieur du germe. Il a trouvé que l'addition d'une petite quantité d'alcali (potasse, soude, ammoniaque), à l'eau dans laquelle les semences germent, accélère le développement de ce germe, ce qu'il attribue à ce que cette petite quantité d'alcali sature l'acide libre qui s'est produit. Il a en outre observé que, dans l'acide nitrique et dans l'acide sulfurique étendus, la germination s'opère bien plus lentement, et que, dans l'acide acétique, la germination est nulle.
+Matteucci considère la production d'une petite quantité d'acide dans la germination comme nuisible au développement
+ultérieur du germe. Il a trouvé que l'addition d'une petite quantité d'alcali (potasse, soude, ammoniaque), à l'eau dans
+laquelle les semences germent, accélère le développement de ce germe, ce qu'il attribue à ce que cette petite quantité
+d'alcali sature l'acide libre qui s'est produit. Il a en outre observé que, dans l'acide nitrique et dans l'acide
+sulfurique étendus, la germination s'opère bien plus lentement, et que, dans l'acide acétique, la germination est nulle.
 
-Il y a des substances qui accélèrent la germination et d'autres qui y mettent obstacle. C'est un fait généralement admis que, par l'action d'une petite quantité de chlore, quelques semences un peu anciennes ont pu redevenir susceptibles de germer. Cependant, l'expérience n'a pas donné à cet égard des résultats aussi favorables qu'on le pensait d'abord. Sur les semences qui, comme la semence de moutarde, contiennent une huile âcre, le chlore exerce une action favorable ; sur les pois et les haricots, le chlore n'a aucune action ; sur les semences oléagineuses, il exerce une action contraire à la germination.
+Il y a des substances qui accélèrent la germination et d'autres qui y mettent obstacle. C'est un fait généralement admis
+que, par l'action d'une petite quantité de chlore, quelques semences un peu anciennes ont pu redevenir susceptibles de
+germer. Cependant, l'expérience n'a pas donné à cet égard des résultats aussi favorables qu'on le pensait d'abord. Sur
+les semences qui, comme la semence de moutarde, contiennent une huile âcre, le chlore exerce une action favorable ; sur
+les pois et les haricots, le chlore n'a aucune action ; sur les semences oléagineuses, il exerce une action contraire à
+la germination.
 
-La chaux libre est généralement recommandée pour accélérer la germination. On considère la chaux comme exerçant dans ce cas une action utile, parce qu'elle absorbe immédiatement l'acide carbonique qui se dégage du grain en germination et accélère, par suite, l'absorption de l'oxygène de l'air. Une autre raison, qui me paraît bien plus juste, est que la chaux sature l'acide dont la production dans la germination de toute espèce de semence vient d'être l'objet de notre examen. Je pense que, à cet égard, les résultats de Matteucci doivent être admis.
+La chaux libre est généralement recommandée pour accélérer la germination. On considère la chaux comme exerçant dans ce
+cas une action utile, parce qu'elle absorbe immédiatement l'acide carbonique qui se dégage du grain en germination et
+accélère, par suite, l'absorption de l'oxygène de l'air. Une autre raison, qui me paraît bien plus juste, est que la
+chaux sature l'acide dont la production dans la germination de toute espèce de semence vient d'être l'objet de notre
+examen. Je pense que, à cet égard, les résultats de Matteucci doivent être admis.
 
-Huber avait déjà reconnu, il y a longtemps, que l'essence de térébenthine, même en très petite quantité, est nuisible a la végétation. Chevreul a confirmé cette observation[^12].
+Huber avait déjà reconnu, il y a longtemps, que l'essence de térébenthine, même en très petite quantité, est nuisible a
+la végétation. Chevreul a confirmé cette observation[^12].
 
-Il est bien certain que d'autres huiles volatiles peuvent exercer une action analogue, mais on ne sait rien de plus sur ce sujet.
+Il est bien certain que d'autres huiles volatiles peuvent exercer une action analogue, mais on ne sait rien de plus sur
+ce sujet.
 
-Les transformations chimiques qui se produisent dans l'acte de la germination, ne peuvent pas être expliquées avec netteté. On doit, du reste, reconnaître que c'est une des questions les plus difficiles que l'on puisse rencontrer.
+Les transformations chimiques qui se produisent dans l'acte de la germination, ne peuvent pas être expliquées avec
+netteté. On doit, du reste, reconnaître que c'est une des questions les plus difficiles que l'on puisse rencontrer.
 
-Dans l'étude de la germination au point de vue chimique, nous rencontrons d'abord trois questions principales qui demandent une solution :
+Dans l'étude de la germination au point de vue chimique, nous rencontrons d'abord trois questions principales qui
+demandent une solution :
 
-1. Quelle est l'influence de l'air environnant sur la semence en germination ? c'est-à-dire quel est celui des principes contenus dans l'air qui est absorbé ?
-
-2. Quelle est l'influence de la semence en germination sur l'air environnant? c'est-à-dire quels sont les produits gazeux qui prennent naissance ?
-
+1. Quelle est l'influence de l'air environnant sur la semence en germination ? C'est-à-dire quel est celui des principes
+   contenus dans l'air qui est absorbé ?
+2. Quelle est l'influence de la semence en germination sur l'air environnant ? C'est-à-dire quels sont les produits
+   gazeux qui prennent naissance ?
 3. Quelles sont les transformations de substances qui se produisent dans la semence même ?
 
-Pour que, en répondant à ces trois questions, on ne s'égare pas dans des phrases inutiles, il faut que l'on connaisse exactement ce qui constitue primitivement la semence. Or, on ne connaît pas seulement la composition d'une seule semence.
+Pour que, en répondant à ces trois questions, on ne s'égare pas dans des phrases inutiles, il faut que l'on connaisse
+exactement ce qui constitue primitivement la semence. Or, on ne connaît pas seulement la composition d'une seule
+semence.
 
-Nous devons donc nous contenter de faits généraux dont quelques-uns cependant se trouvent être d'une grande importance. Ce n'est, en aucune manière, à la période la plus rapprochée de la science que nous sommes redevables de ces résultats. Senebier, Huber, Lefébure, Scheele, Ellis, Gough, Th. de Saussure avaient déjà mis en lumière les faits généraux presque à l'état où nous les trouvons actuellement[^13].
+Nous devons donc nous contenter de faits généraux dont quelques-uns cependant se trouvent être d'une grande importance.
+Ce n'est, en aucune manière, à la période la plus rapprochée de la science que nous sommes redevables de ces résultats.
+Senebier, Huber, Lefébure, Scheele, Ellis, Gough, Th. de Saussure avaient déjà mis en lumière les faits généraux presque
+à l'état où nous les trouvons actuellement[^13].
 
-Je crois devoir résumer en peu de mots ce que nous connaissons sur ce sujet. La question est excessivement difficile : en effet, la semence ne peut pas être humectée au moyen de l'eau sans que des modifications chimiques y aient lieu, même longtemps avant que l'on puisse découvrir aucune trace de germination. Avant que la semence ait été exposée à l'action de l'air, il peut se produire à l'intérieur du grain, par le simple fait de son humectation, une certaine action chimique que l'on peut considérer comme un commencement de germination. Il est possible que l'air, tant celui qui pouvait être renfermé dans la semence, que celui qui pouvait être dissous dans l'eau qui a servi à humecter la semence, ait commencé immédiatement à exercer avec l'eau son action sur la semence ; mais, quoi qu'il en soit, il est bien positif que, si l'on doit distinguer différentes périodes dans la germination, on doit considérer comme la première celle dans laquelle aucune trace de germination n'a encore lieu, bien que cependant il se soit déjà produit une action chimique. La germination est, à proprement parler, le résultat de cette action.
+Je crois devoir résumer en peu de mots ce que nous connaissons sur ce sujet. La question est excessivement difficile :
+en effet, la semence ne peut pas être humectée au moyen de l'eau sans que des modifications chimiques y aient lieu, même
+longtemps avant que l'on puisse découvrir aucune trace de germination. Avant que la semence ait été exposée à l'action
+de l'air, il peut se produire à l'intérieur du grain, par le simple fait de son humectation, une certaine action
+chimique que l'on peut considérer comme un commencement de germination. Il est possible que l'air, tant celui qui
+pouvait être renfermé dans la semence, que celui qui pouvait être dissous dans l'eau qui a servi à humecter la semence,
+ait commencé immédiatement à exercer avec l'eau son action sur la semence ; mais, quoi qu'il en soit, il est bien
+positif que, si l'on doit distinguer différentes périodes dans la germination, on doit considérer comme la première
+celle dans laquelle aucune trace de germination n'a encore lieu, bien que cependant il se soit déjà produit une action
+chimique. La germination est, à proprement parler, le résultat de cette action.
 
-En ce qui concerne la question de savoir si la germination commence à se produire comme conséquence d'une première humectation qui y prédispose la semence ou qui détermine l'action même, les expériences publiées jusqu'ici font connaître les phénomènes suivants :
+En ce qui concerne la question de savoir si la germination commence à se produire comme conséquence d'une première
+humectation qui y prédispose la semence ou qui détermine l'action même, les expériences publiées jusqu'ici font
+connaître les phénomènes suivants :
 
-Je veux d'abord indiquer quelque chose d'analogue à la respiration des animaux : une fonction des semences en germination, en opposition avec la fonction des parties vertes des plantes. Les semences en germination absorbent l'oxygène de l'air et laissent dégager de l'acide carbonique.
+Je veux d'abord indiquer quelque chose d'analogue à la respiration des animaux : une fonction des semences en
+germination, en opposition avec la fonction des parties vertes des plantes. Les semences en germination absorbent
+l'oxygène de l'air et laissent dégager de l'acide carbonique.
 
 Sans oxygène, la germination est impossible.
 
-Dans une atmosphère artificielle qui contient moins d'oxygène et plus d'azote, d'acide carbonique ou d'hydrogène que l'air atmosphérique, la germination devient de plus en plus lente à mesure que la quantité d'oxygène diminue, et que la quantité d'azote, d'acide carbonique ou d'hydrogène augmente.
+Dans une atmosphère artificielle qui contient moins d'oxygène et plus d'azote, d'acide carbonique ou d'hydrogène que
+l'air atmosphérique, la germination devient de plus en plus lente à mesure que la quantité d'oxygène diminue, et que la
+quantité d'azote, d'acide carbonique ou d'hydrogène augmente.
 
-Une grande quantité d'acide carbonique dans une atmosphère est nuisible à la germination. Gladstone[^14] a vu que la semence qui était placée dans une atmosphère dans laquelle il se trouvait autant d'acide carbonique et autant d'oxygène qu'il existe d'azote et d'oxygène dans l'air atmosphérique, se pourrissait, mais ne germait pas.
+Une grande quantité d'acide carbonique dans une atmosphère est nuisible à la germination. Gladstone[^14] a vu que la
+semence qui était placée dans une atmosphère dans laquelle il se trouvait autant d'acide carbonique et autant d'oxygène
+qu'il existe d'azote et d'oxygène dans l'air atmosphérique, se pourrissait, mais ne germait pas.
 
 Dans le vide ou dans une atmosphère d'hydrogène, la germination n'a pas lieu.
 
-Dans le gaz oxygène pur, au contraire, la germination est trop rapide pour que les plantes naissantes se développent bien. (Les résultats trouvés par un grand nombre d'observateurs s'accordent sur ce point.)
+Dans le gaz oxygène pur, au contraire, la germination est trop rapide pour que les plantes naissantes se développent
+bien. (Les résultats trouvés par un grand nombre d'observateurs s'accordent sur ce point.)
 
 C'est dans une atmosphère qui contient 1 d'oxygène et 3 d'azote, que la germination agit le mieux. (Lefébure.)
 
-En ce qui concerne la quantité de l'oxygène absorbé et la quantité de l'acide carbonique dégagé, les, résultats des divers expérimentateurs ne sont pas d'accord : il ne devait du reste pas en être autrement, puisque tous les observateurs n'avaient pas pris la même graine pour point de départ de leurs expériences, et n'avaient pas établi entre les différentes périodes de la germination une distinction précise et concordante. — Nous indiquerons ici quelques-uns des résultats obtenus.
+En ce qui concerne la quantité de l'oxygène absorbé et la quantité de l'acide carbonique dégagé, les, résultats des
+divers expérimentateurs ne sont pas d'accord : il ne devait du reste pas en être autrement, puisque tous les
+observateurs n'avaient pas pris la même graine pour point de départ de leurs expériences, et n'avaient pas établi entre
+les différentes périodes de la germination une distinction précise et concordante. — Nous indiquerons ici quelques-uns
+des résultats obtenus.
 
-Dans la germination des pois, le volume de l'air n'a pas changé : l'oxygène absorbé a été remplacé par un égal volume d'acide carbonique. (Scheele.)
+Dans la germination des pois, le volume de l'air n'a pas changé : l'oxygène absorbé a été remplacé par un égal volume
+d'acide carbonique. (Scheele.)
 
 La quantité de l'oxygène absorbé est beaucoup plus grande que la quantité de l'acide carbonique dégagé. (Ellis.)
 
-Dans la germination du froment et de l'orge, la quantité de l'acide carbonique produit est égale à la quantité de l'oxygène absorbé. (De Saussure.)
+Dans la germination du froment et de l'orge, la quantité de l'acide carbonique produit est égale à la quantité de
+l'oxygène absorbé. (De Saussure.)
 
 Pour les fèves, la quantité d'acide carbonique est plus grande. (De Saussure.)
 
 Pour d'autres semences, c'est le contraire. (De Saussure.)
 
-Dans les gros haricots et les lupins, la quantité de l'acide carbonique dégagé est plus grande que la quantité de l'oxygène absorbé ; plus tard, c'est le contraire qui a lieu. Entre les deux périodes, il en existe une autre dans laquelle la quantité de l'oxygène absorbé est égale à la quantité de l'acide carbonique dégagé. (De Saussure.)
+Dans les gros haricots et les lupins, la quantité de l'acide carbonique dégagé est plus grande que la quantité de
+l'oxygène absorbé ; plus tard, c'est le contraire qui a lieu. Entre les deux périodes, il en existe une autre dans
+laquelle la quantité de l'oxygène absorbé est égale à la quantité de l'acide carbonique dégagé. (De Saussure.)
 
-Le volume de l'air dans lequel les semences ont germé a, en Somme, tant soit peu diminué pendant la germination : pour d'autres semences, il a au contraire quelquefois beaucoup augmenté. (De Saussure.).
+Le volume de l'air dans lequel les semences ont germé a, en Somme, tant soit peu diminué pendant la germination : pour
+d'autres semences, il a au contraire quelquefois beaucoup augmenté. (De Saussure.).
 
-Les résultats indiqués ont été obtenus dans l'air atmosphérique. Si, au lieu d'air atmosphérique, on emploie de l'oxygène pur, la quantité de l'oxygène absorbé est, pour toutes les semences indiquées, plus grande que la quantité de l'acide carbonique dégagé (De Saussure), et De Saussure pense que, bien que le fait ne puisse pas toujours être sensible dans les expériences faites dans l'air atmosphérique, la semence s'assimile toujours dans la germination une certaine quantité d'oxygène que l'on ne peut retrouver dans l'acide carbonique dégage.
+Les résultats indiqués ont été obtenus dans l'air atmosphérique. Si, au lieu d'air atmosphérique, on emploie de
+l'oxygène pur, la quantité de l'oxygène absorbé est, pour toutes les semences indiquées, plus grande que la quantité de
+l'acide carbonique dégagé (De Saussure), et De Saussure pense que, bien que le fait ne puisse pas toujours être sensible
+dans les expériences faites dans l'air atmosphérique, la semence s'assimile toujours dans la germination une certaine
+quantité d'oxygène que l'on ne peut retrouver dans l'acide carbonique dégage.
 
-Dans la germination, une petite quantité de gaz azote de l'air ambiant est absorbée, et De Saussure n'attribue pas cette absorption à une simple cause physique.
+Dans la germination, une petite quantité de gaz azote de l'air ambiant est absorbée, et De Saussure n'attribue pas cette
+absorption à une simple cause physique.
 
-De tout ce que nous venons de dire, il résulte que l'action réciproque de l'air et de la semence en germination a besoin d'être éclaircie par de nouvelles expériences, pour que ce que l'on en sait puisse passer à l'état de notion tant soit peu coordonnée. Ce que nous observons, en opérant sur une espèce de semence, peut ne pas avoir lieu lorsqu'on opère sur un autre.
+De tout ce que nous venons de dire, il résulte que l'action réciproque de l'air et de la semence en germination a besoin
+d'être éclaircie par de nouvelles expériences, pour que ce que l'on en sait puisse passer à l'état de notion tant soit
+peu coordonnée. Ce que nous observons, en opérant sur une espèce de semence, peut ne pas avoir lieu lorsqu'on opère sur
+un autre.
 
-Chaque semence est un mélange spécial de substances dont quelques-unes peuvent être entraînées dans la sphère d'action de la fermentation germinative, soit comme parties constituantes essentielles, c'est-à-dire actives, dont dépend l'essence même de la germination, soit comme parties constituantes, en quantité tout à fait peu considérable, qui peuvent manquer, sans modifier aucunement le caractère de la semence, comme substance douée de la propriété de germer.
+Chaque semence est un mélange spécial de substances dont quelques-unes peuvent être entraînées dans la sphère d'action
+de la fermentation germinative, soit comme parties constituantes essentielles, c'est-à-dire actives, dont dépend
+l'essence même de la germination, soit comme parties constituantes, en quantité tout à fait peu considérable, qui
+peuvent manquer, sans modifier aucunement le caractère de la semence, comme substance douée de la propriété de germer.
 
-Un exemple rendra plus clair ce que nous disons en ce moment : une substance qui contient une huile éthérée, pourrait très bien germer sans cette huile. Pendant la germination de cette semence, l'huile se résinifie, absorbe l'oxygène : cette absorption est donc la conséquence d'une réaction qui n'a rien de commun avec la germination, et cependant elle pourrait être mise sur le compte des modifications provenant de l'acte de la germination.
+Un exemple rendra plus clair ce que nous disons en ce moment : une substance qui contient une huile éthérée, pourrait
+très bien germer sans cette huile. Pendant la germination de cette semence, l'huile se résinifie, absorbe l'oxygène :
+cette absorption est donc la conséquence d'une réaction qui n'a rien de commun avec la germination, et cependant elle
+pourrait être mise sur le compte des modifications provenant de l'acte de la germination.
 
-Avant de pénétrer plus profondément dans le sujet qui nous occupe ici, je crois devoir indiquer quelques expériences qui ne nous fourniront cependant aucun éclaircissement nouveau sur le phénomène de la germination. Elles concernent la composition des semences déterminée dans le but de connaître ce que la semence a enlevé à l'air et ce qui s'est dégagé.
+Avant de pénétrer plus profondément dans le sujet qui nous occupe ici, je crois devoir indiquer quelques expériences qui
+ne nous fourniront cependant aucun éclaircissement nouveau sur le phénomène de la germination. Elles concernent la
+composition des semences déterminée dans le but de connaître ce que la semence a enlevé à l'air et ce qui s'est dégagé.
 
-De Saussure a observé que les pois, en germant, perdent 4,75% de leur poids, et cependant, dans l'acide carbonique de l'air, on a trouvé après la germination 1% seulement de carbone. D'où provient cette perte de poids de 3,75% que la semence a subie ? On a cherché à répondre à cette question et à d'autres analogues ; mais ces questions sont trop en dehors du domaine de la science pour que l'on puisse s'attendre à une réponse précise.
+De Saussure a observé que les pois, en germant, perdent 4,75% de leur poids, et cependant, dans l'acide carbonique de
+l'air, on a trouvé après la germination 1% seulement de carbone. D'où provient cette perte de poids de 3,75% que la
+semence a subie ? On a cherché à répondre à cette question et à d'autres analogues ; mais ces questions sont trop en
+dehors du domaine de la science pour que l'on puisse s'attendre à une réponse précise.
 
 La question devient encore plus difficile à résoudre lorsqu'on a laissé la germination continuer sa marche pendant longtemps» de manière que la jeune plante ait déjà commencé à se développer, parce que deux modes différents d'action se trouvent en présence : transformation de la semence et développement de la nouvelle plante. Ces deux modes d'action peuvent du reste n'avoir rien de commun.
 

@@ -792,7 +792,7 @@ la composition des cendres de froment est la suivante :
 **Analyse des cendres de froment**
   </figcaption>
   <table>
-    <tr><th>                        </th><th colspan=2> Will et Fresenius </th><th rowspan=2> Bichon </th><th rowspan=2> Thon </th><th rowspan=2> Petzhold </th><th rowspan=2> Boussingault<br/>Bechelbronn. </th><th rowspan=2> Erdmann </th></tr>
+    <tr><th>                   </th><th colspan=2> Will et Fresenius </th><th rowspan=2> Bichon </th><th rowspan=2> Thon </th><th rowspan=2> Petzhold </th><th rowspan=2> Boussingault<br/>Bechelbronn. </th><th rowspan=2> Erdmann </th></tr>
     <tr><th>                   </th><th> Froment roux </th><th> Froment blanc </th></tr>
     <tr><th>Potasse            </th><td>         21,9 </td><td>          33,8 </td><td>  6,4 </td><td> 24,2 </td><td> 25,8 </td><td> 30,1 </td><td> 25,9 </td></tr>
     <tr><th>Soude              </th><td>         15,8 </td><td>           ... </td><td> 27,8 </td><td> 10,3 </td><td>  2,7 </td><td>  ... </td><td>  0,4 </td></tr>

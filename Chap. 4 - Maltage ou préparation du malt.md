@@ -453,19 +453,35 @@ l'air, on a trouvé après la germination 1% seulement de carbone. D'où provien
 semence a subie ? On a cherché à répondre à cette question et à d'autres analogues ; mais ces questions sont trop en
 dehors du domaine de la science pour que l'on puisse s'attendre à une réponse précise.
 
-La question devient encore plus difficile à résoudre lorsqu'on a laissé la germination continuer sa marche pendant longtemps» de manière que la jeune plante ait déjà commencé à se développer, parce que deux modes différents d'action se trouvent en présence : transformation de la semence et développement de la nouvelle plante. Ces deux modes d'action peuvent du reste n'avoir rien de commun.
+La question devient encore plus difficile à résoudre lorsqu'on a laissé la germination continuer sa marche pendant
+longtemps de manière que la jeune plante ait déjà commencé à se développer, parce que deux modes différents d'action se
+trouvent en présence : transformation de la semence et développement de la nouvelle plante. Ces deux modes d'action
+peuvent du reste n'avoir rien de commun.
 
-En ce qui concerne la préparation de la bière, nous n'avons pas besoin de connaître les modifications que le grain subit en un grand nombre de jours : nous avons besoin seulement de connaître les métamorphoses qui se produisent dans le grain en germination jusqu'au moment où la radicule a atteint 1 fois 1/4 à 1 fois 1/2 la longueur du grain, et où la plumule n'est pas même visible.
+En ce qui concerne la préparation de la bière, nous n'avons pas besoin de connaître les modifications que le grain subit
+en un grand nombre de jours : nous avons besoin seulement de connaître les métamorphoses qui se produisent dans le grain
+en germination jusqu'au moment où la radicule a atteint 1 fois 1/4 à 1 fois 1/2 la longueur du grain, et où la plumule
+n'est pas même visible.
 
-<a name="Boussingault">Boussingault</a>[^15] a fait des recherches sur ce sujet. Tout ce qu'il a trouvé, c'est « une perte des éléments de l'oxyde de carbone que subit la semence, et une absorption de l'oxygène de l'air suffisante pour qu'il se produise de l'acide carbonique. »
+<a name="Boussingault">Boussingault</a>[^15] a fait des recherches sur ce sujet. Tout ce qu'il a trouvé, c'est « une
+perte des éléments de l'oxyde de carbone que subit la semence, et une absorption de l'oxygène de l'air suffisante pour
+qu'il se produise de l'acide carbonique. »
 
-Des grains de froment sur lesquels les mêmes expériences ont été répétées ont donné des résultats analogues. Mais il n'en était ainsi que dans la première période de la germination. Aussitôt que la plumule a commencé à se montrer et est devenue verte, elle détermine, comme toutes les parties vertes des plantes, une décomposition de l'acide carbonique existant, et il devient alors impossible de se rendre compte de ce qui avait réellement eu lieu dans la germination.
+Des grains de froment sur lesquels les mêmes expériences ont été répétées ont donné des résultats analogues. Mais il
+n'en était ainsi que dans la première période de la germination. Aussitôt que la plumule a commencé à se montrer et est
+devenue verte, elle détermine, comme toutes les parties vertes des plantes, une décomposition de l'acide carbonique
+existant, et il devient alors impossible de se rendre compte de ce qui avait réellement eu lieu dans la germination.
 
-Il est convenable de parler ici des modifications que les grains ont subies dans la germination : je veux parler des modifications de substances en tant qu'elles concernent les parties constituantes des grains qui ont le plus d'importance relativement à la fabrication de la bière.
+Il est convenable de parler ici des modifications que les grains ont subies dans la germination : je veux parler des
+modifications de substances en tant qu'elles concernent les parties constituantes des grains qui ont le plus
+d'importance relativement à la fabrication de la bière.
 
-Les connaissances que la science actuelle a recueillies sur ce sujet sont excessivement peu considérables : aucune portion de la physiologie végétale n'a été plus négligée que celle-là. Tout ce que nous connaissons sur ce sujet, est résumé dans ce qui va suivre.
+Les connaissances que la science actuelle a recueillies sur ce sujet sont excessivement peu considérables : aucune
+portion de la physiologie végétale n'a été plus négligée que celle-là. Tout ce que nous connaissons sur ce sujet, est
+résumé dans ce qui va suivre.
 
-*Orge*. — Proust a donné, pour la comparaison des quantités relatives des parties constituantes de l'orge germée et de l'orge non germée, les nombres suivants (je réunis ensemble l'hordéine avec l'amidon et la matière cellulaire) :
+*Orge*. — Proust a donné, pour la comparaison des quantités relatives des parties constituantes de l'orge germée et de
+l'orge non germée, les nombres suivants (je réunis ensemble l'hordéine avec l'amidon et la matière cellulaire) :
 
 <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
   <table style="width: 100%;">
@@ -478,11 +494,13 @@ Les connaissances que la science actuelle a recueillies sur ce sujet sont excess
   </table>
 </figure>
 
-Quelque pauvres que soient ces résultats, ils nous apprennent cependant quelque chose par leur comparaison : en effet, ils ont été obtenus dans les deux cas par la même méthode.
+Quelque pauvres que soient ces résultats, ils nous apprennent cependant quelque chose par leur comparaison : en effet,
+ils ont été obtenus dans les deux cas par la même méthode.
 
-La dextrine, dont il se trouvait déjà une petite quantité dans l'orge, a visiblement augmenté de poids par la germination.
+La dextrine, dont il se trouvait déjà une petite quantité dans l'orge, a visiblement augmenté de poids par la
+germination.
 
-*Froment*. — D'après Théodore de Saussure[^16] le froment subit, en germant, les modifications suivantes :
+*Froment*. — D'après Théodore de Saussure[^16] le froment subit, en germant, les modifications suivantes :
 
 <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
   <table style="width: 100%;">
@@ -496,11 +514,23 @@ La dextrine, dont il se trouvait déjà une petite quantité dans l'orge, a visi
   </table>
 </figure>
 
-Nous reconnaissons ici de nouveau la valeur des travaux du maître, lorsque nous tenons compte, ce qui est évidemment juste, de ce que, à l'époque de De Saussure, les méthodes analytiques étaient moins perfectionnées qu'elles ne le sont actuellement.
+Nous reconnaissons ici de nouveau la valeur des travaux du maître, lorsque nous tenons compte, ce qui est évidemment
+juste, de ce que, à l'époque de De Saussure, les méthodes analytiques étaient moins perfectionnées qu'elles ne le sont
+actuellement.
 
-L'amidon a diminué, la dextrine a augmenté et il s'est produit du sucre. Les matières cellulaires ont augmenté, bien que ce soit seulement d'une quantité peu considérable, le gluten a diminué et les substances albumineuses insolubles ont augmenté.
+L'amidon a diminué, la dextrine a augmenté et il s'est produit du sucre. Les matières cellulaires ont augmenté, bien que
+ce soit seulement d'une quantité peu considérable, le gluten a diminué et les substances albumineuses insolubles ont
+augmenté.
 
-Je vais passer en revue successivement les expériences d'Oudemans, et je rappellerai expressément que ces expériences ont été exécutées sur des graines dont la transformation n'avait pas été poussée assez loin pour que l'acte de la germination fût entièrement accompli, pour que, par suite la nouvelle plante fût déjà formée, Elles ne concernent que ce qui se passe dans les semences en germination avant d'arriver à la période où la plumule n'est encore que peu développée, la radicule étant bien développée, ainsi que cela est nécessaire pour la connaissance de la fabrication de la bière. Aussi pouvons-nous conclure des indications fournies par ces expériences, que l'on doit renoncer à l'opinion que les substances albumineuses ne paraissent pas diminuer sensiblement de poids dans cette germination restreinte. Plus tard, lorsque la plumule commence à se développer plus complètement, il en est tout autrement ; mais la semence arrivée à ce degré de développement n'a plus rien de commun avec le malt qu'il nous importe seul de connaître ici.
+Je vais passer en revue successivement les expériences d'Oudemans, et je rappellerai expressément que ces expériences
+ont été exécutées sur des graines dont la transformation n'avait pas été poussée assez loin pour que l'acte de la
+germination fût entièrement accompli, pour que, par suite la nouvelle plante fût déjà formée, Elles ne concernent que ce
+qui se passe dans les semences en germination avant d'arriver à la période où la plumule n'est encore que peu
+développée, la radicule étant bien développée, ainsi que cela est nécessaire pour la connaissance de la fabrication de
+la bière. Aussi pouvons-nous conclure des indications fournies par ces expériences, que l'on doit renoncer à l'opinion
+que les substances albumineuses ne paraissent pas diminuer sensiblement de poids dans cette germination restreinte. Plus
+tard, lorsque la plumule commence à se développer plus complètement, il en est tout autrement ; mais la semence arrivée
+à ce degré de développement n'a plus rien de commun avec le malt qu'il nous importe seul de connaître ici.
 
 ## <a name="66-71">Orge</a>. {#Orge}
 
@@ -536,39 +566,64 @@ Si nous ramenons ces résultats à ce qu'ils seraient pour 100, les substances
   </table>
 </figure>
 
-Par l'examen de ces nombres nous voyons :
+Par l'examen de ces nombres, nous voyons :
 
-1. Que, dans la germination de l'orge, ou bien il se produit une quantité très peu considérable de sucre, ou bien une très petite quantité seulement du sucre qui s'est formé reste dans le malt : c'est là certainement une particularité digne de remarque.
+1. Que, dans la germination de l'orge, ou bien il se produit une quantité très peu considérable de sucre, ou bien une
+   très petite quantité seulement du sucre qui s'est formé reste dans le malt : c'est là certainement une particularité
+   digne de remarque.
 
-2. Que la quantité de dextrine déjà préexistante dans la semence a augmenté presque de moitié par la germination : cette dextrine est en voie de se transformer en sucre, mais n'est pas encore du sucre.
+2. Que la quantité de dextrine déjà préexistante dans la semence a augmenté presque de moitié par la germination : cette
+   dextrine est en voie de se transformer en sucre, mais n'est pas encore du sucre.
 
-3. Que la quantité d'amidon contenue dans la semence a diminué d'environ 1/7, mais que la quantité de dextrine et de sucre n'a pas augmenté dans la même proportion.
+3. Que la quantité d'amidon contenue dans la semence a diminué d'environ 1/7, mais que la quantité de dextrine et de
+   sucre n'a pas augmenté dans la même proportion.
 
-4. Que la quantité des matières cellulaires a beaucoup augmenté et s'est élevée 
-de 9,6 à 14,4 ; 14,4 — 9,6 = 4,8. Cette quantité se trouve par hasard précisément égale à la moitié de 9,6 : la quantité des matières cellulaires s'est donc élevée de 2 à 3. — Ce résultat présente, pour la préparation de la bière, une certaine importance au point de vue économique : en effet, par la transformation en malt, par la germination, l'amidon qui est doué de propriétés si éminemment nutritives, diminue, tandis que les matières cellulaires si indigestes ou du moins d'une digestion si difficile pour l'homme, augmentent. Ce résultat nous démontre que, dans la préparation de la bière, la proportion des matières nutritives va en rétrogradant et nous fait connaître une conséquence importante de l'acte de la germination qui consiste en ce que, dans le grain, la cellulose nécessaire au développement de la plumule et de la radicule se produit aux dépens de l'amidon qui, probablement, s'est transformé d'abord en sucre ou du moins en dextrine.
+4. Que la quantité des matières cellulaires a beaucoup augmenté et s'est élevée de 9,6 à 14,4 ; 14,4 — 9,6 = 4,8. Cette
+   quantité se trouve par hasard précisément égale à la moitié de 9,6 : la quantité des matières cellulaires s'est donc
+   élevée de 2 à 3. — Ce résultat présente, pour la préparation de la bière, une certaine importance au point de vue
+   économique : en effet, par la transformation en malt, par la germination, l'amidon qui est doué de propriétés si
+   éminemment nutritives, diminue, tandis que les matières cellulaires si indigestes ou du moins d'une digestion si
+   difficile pour l'homme, augmentent. Ce résultat nous démontre que, dans la préparation de la bière, la proportion des
+   matières nutritives va en rétrogradant et nous fait connaître une conséquence importante de l'acte de la germination
+   qui consiste en ce que, dans le grain, la cellulose nécessaire au développement de la plumule et de la radicule se
+   produit aux dépens de l'amidon qui, probablement, s'est transformé d'abord en sucre ou du moins en dextrine.
 
-    Pour que l'on puisse bien comprendre ces résultats, nous croyons devoir rappeler ici que, dans les analyses d'Oudemans, on a opéré sur les grains en y comprenant les germes : cela est d'une grande importance au point de vue des conséquences à en tirer pour l'étude des différentes phases de la germination, et cela n'a aucun inconvénient au point de vue des conséquences à en tirer pour l'étude de la fabrication de la bière.
+   Pour que l'on puisse bien comprendre ces résultats, nous croyons devoir rappeler ici que, dans les analyses
+   d'Oudemans, on a opéré sur les grains en y comprenant les germes : cela est d'une grande importance au point de vue
+   des conséquences à en tirer pour l'étude des différentes phases de la germination, et cela n'a aucun inconvénient au
+   point de vue des conséquences à en tirer pour l'étude de la fabrication de la bière.
 
-    En faisant la somme des 4 substances non azotées, de nature analogue, qui sont contenues dans le grain et dans le malt, on obtient :
+   En faisant la somme des 4 substances non azotées, de nature analogue, qui sont contenues dans le grain et dans le malt,
+   on obtient :
 
     <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
-  <table style="width: 100%;">
-  <tr><td>                         </td><th>Orge. </th><th>Malt d'orge.</th></tr>
-  <tr><th> Dextrine                </th><td>5,6   </td><td>8,0     </td></tr>
-  <tr><th> Amidon                  </th><td>67,0  </td><td>58,1    </td></tr>
-  <tr><th> Sucre                   </th><td>...   </td><td>0,5     </td></tr>
-  <tr><th> Matières cellulaires    </th><td>9,6   </td><td>14,4    </td></tr>
-  <tr><th>                         </th><th>82,2  </th><th>81.0    </th></tr>
-  </table>
-</figure>
+      <table style="width: 100%;">
+      <tr><td>                         </td><th>Orge. </th><th>Malt d'orge.</th></tr>
+      <tr><th> Dextrine                </th><td>5,6   </td><td>8,0     </td></tr>
+      <tr><th> Amidon                  </th><td>67,0  </td><td>58,1    </td></tr>
+      <tr><th> Sucre                   </th><td>...   </td><td>0,5     </td></tr>
+      <tr><th> Matières cellulaires    </th><td>9,6   </td><td>14,4    </td></tr>
+      <tr><th>                         </th><th>82,2  </th><th>81.0    </th></tr>
+      </table>
+    </figure>
 
-    Nous voyons qu'il y a eu une diminution qui est de 82,2 - 81,0 = 1,2 : il y a donc diminution, et cette diminution est la conséquence de ce que l'on devrait désigner à présent sous le nom de « respiration de la semence pendant la germination » et qui consiste en une absorption d'oxygène et une production simultanée d'acide carbonique et d'eau, provenant d'une oxydation d'une partie de l'amidon qui s'était transformé d'abord en dextrine, puis en sucre.
+    Nous voyons qu'il y a eu une diminution qui est de 82,2 - 81,0 = 1,2 : il y a donc diminution, et cette diminution
+    est la conséquence de ce que l'on devrait désigner à présent sous le nom de « respiration de la semence pendant la
+    germination » et qui consiste en une absorption d'oxygène et une production simultanée d'acide carbonique et d'eau,
+    provenant d'une oxydation d'une partie de l'amidon qui s'était transformé d'abord en dextrine, puis en sucre.
 
-5. Que la quantité de matière grasse a diminué pendant la germination ; 2,6 — 2,2 = 0,4 ; et que cette diminution s'élève à peu près au 1/6 de la quantité totale de la matière grasse contenue primitivement dans le grain.
+5. Que la quantité de matière grasse a diminué pendant la germination ; 2,6 - 2,2 = 0,4 ; et que cette diminution
+   s'élève à peu près au 1/6 de la quantité totale de la matière grasse contenue primitivement dans le grain.
 
-6. En ce qui concerne l'augmentation de la quantité des substances albumineuses qui s'est élevée de 12,1 à 13,6, j'y reviendrai plus tard avec détail après avoir étudié préalablement les résultats obtenus avec les autres espèces de grains que l'on emploie le plus habituellement pour la préparation de la bière.
+6. En ce qui concerne l'augmentation de la quantité des substances albumineuses qui s'est élevée de 12,1 à 13,6, j'y
+   reviendrai plus tard avec détail après avoir étudié préalablement les résultats obtenus avec les autres espèces de
+   grains que l'on emploie le plus habituellement pour la préparation de la bière.
 
-L'examen des quantités relatives des parties constituantes des autres espèces de grains, froment, orge et avoine, tant à l'état non germé qu'à l'état germé, et, dans ce dernier cas, l'examen des quantités relatives des parties constituantes des radicules ont de l'importance, non seulement pour la fabrication de la bière, mais encore pour la connaissance des phénomènes de la germination et, par suite, aussi pour la connaissance plus approfondie de la préparation du malt d'orge.
+L'examen des quantités relatives des parties constituantes des autres espèces de grains, froment, orge et avoine, tant à
+l'état non germé qu'à l'état germé, et, dans ce dernier cas, l'examen des quantités relatives des parties constituantes
+des radicules ont de l'importance, non seulement pour la fabrication de la bière, mais encore pour la connaissance des
+phénomènes de la germination et, par suite, aussi pour la connaissance plus approfondie de la préparation du malt
+d'orge.
 
 ## Froment.
 
@@ -587,7 +642,7 @@ L'examen des quantités relatives des parties constituantes des autres espèces 
   </table>
 </figure>
 
-Si nous ramenons ces résultats à ce qu'ils seraient pour 100, les substances étant supposées sèches, nous obtiendrons :
+Si nous ramenons ces résultats à ce qu'ils seraient pour 100, les substances étant supposées sèches, nous obtiendrons :
 
 <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
   <table style="width: 100%;">
@@ -605,30 +660,30 @@ Si nous ramenons ces résultats à ce qu'ils seraient pour 100, les substances �
 
 Par la comparaison de ces nombres, nous voyons :
 
-1. Qu'il s'est produit dans la germination 2 pour 100 de sucre, par conséquent une quantité plus grande que dans l'orge ;
+1. Qu'il s'est produit dans la germination 2 pour 100 de sucre, par conséquent une quantité plus grande que dans l'orge ;
+2. Que la dextrine, dans le malt de froment, s'est élevée de près de la moitié par rapport à celle contenue dans le
+   grain non germé ;
+3. Que la quantité de l'amidon a diminué de 1/9 par la germination ;
+4. Que la quantité des matières cellulaires a augmenté de 1/3 par la germination : en effet 9,8 - 7,4 = 2,4, et
+   3 x 2,4 = 7,2 ou presque 7,4.
 
-2. Que la dextrine, dans le malt de froment, s'est élevée de près de la moitié par rapport à celle contenue dans le grain non germé ;
+   Totalisons ensemble les matières cellulaires, l'amidon, la dextrine et le sucre, et nous aurons :
 
-3. Que la quantité de l'amidon a diminué de 1/9 par la germination ;
+   <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
+     <table style="width: 100%;">
+     <tr><td>                         </td><th>Froment.</th><th>Malt de froment.</th></tr>
+     <tr><th> Dextrine                </th><td> 5,5    </td><td> 7,6     </td></tr>
+     <tr><th> Amidon                  </th><td> 69,0   </td><td> 61,5    </td></tr>
+     <tr><th> Sucre                   </th><td> ...    </td><td> 2,0     </td></tr>
+     <tr><th> Matières cellulaires    </th><td> 7,4    </td><td> 9,8     </td></tr>
+     <tr><th>                         </th><th> 81,9   </th><th> 80,9    </th></tr>
+     </table>
+   </figure>
 
-4. Que la quantité des matières cellulaires a augmenté de 1/3 par la germination : en effet 9,8 - 7,4 = 2,4, et 3 x 2,4 = 7,2 ou presque 7,4.
+   Ainsi, nous retrouvons entre le froment et le malt de froment une différence en moins comme entre l'orge et le malt
+   d'orge.
 
-    Totalisons ensemble les matières cellulaires, l'amidon, la dextrine et le sucre, et nous aurons :
-
-    <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
-  <table style="width: 100%;">
-  <tr><td>                         </td><th>Froment.</th><th>Malt de froment.</th></tr>
-  <tr><th> Dextrine                </th><td> 5,5    </td><td> 7,6     </td></tr>
-  <tr><th> Amidon                  </th><td> 69,0   </td><td> 61,5    </td></tr>
-  <tr><th> Sucre                   </th><td> ...    </td><td> 2,0     </td></tr>
-  <tr><th> Matières cellulaires    </th><td> 7,4    </td><td> 9,8     </td></tr>
-  <tr><th>                         </th><th> 81,9   </th><th> 80,9    </th></tr>
-  </table>
-</figure>
-
-    Ainsi, nous retrouvons entre le froment et le malt de froment une différence en moins comme entre l'orge et le malt d'orge.
-
-5. Que la quantité des matières grasses n'a subi dans ce cas aucune diminution ;
+5. Que la quantité des matières grasses n'a subi dans ce cas aucune diminution ;
 
 6. Que la quantité des substances albumineuses s'est élevée de 13,9 à 14,5.
 
@@ -649,7 +704,7 @@ Par la comparaison de ces nombres, nous voyons :
   </table>
 </figure>
 
-Si nous ramenons ces résultats à ce qu'ils seraient pour 100, les substances étant supposées sèches, nous obtiendrons :
+Si nous ramenons ces résultats à ce qu'ils seraient pour 100, les substances étant supposées sèches, nous obtiendrons :
 
 <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
   <table style="width: 100%;">
@@ -669,32 +724,26 @@ Si nous ramenons ces résultats à ce qu'ils seraient pour 100, les substances �
 De l'examen de ces nombres, il résulte :
 
 1. Que, dans la germination du seigle, il s'est produit 1,3% de sucre.
-
 2. Que la quantité de dextrine s'est élevée par la germination de 1 à 2,5.
+3. Que, dans la transformation du grain en malt, la quantité d'amidon a diminué de 1/4.
+4. Que la quantité des matières cellulaires s'est au contraire élevée de 9,4 à 14,4, c'est-à-dire qu'elle est montée à 5
+   en plus de 9,4 : elle a donc passé de 2 à 3.
 
-3. Que, dans la transformation du grain en malt, la quantité d'amidon a diminué 
-de 1/4.
+   Les matières cellulaires, la dextrine, l'amidon et le sucre, réunis ensemble, donnent :
 
-4. Que la quantité des matières cellulaires s'est au contraire élevée de 9,4 à 14,4, c'est-à-dire qu'elle est montée à 5 en plus de 9,4 : elle a donc passé de 2 à 3.
+   <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
+      <table style="width: 100%;">
+      <tr><td>                         </td><th>Seigle.</th><th>Malt de seigle.</th></tr>
+      <tr><th> Dextrine                </th><td> 6,2   </td><td> 15,3    </td></tr>
+      <tr><th> Amidon                  </th><td> 68,0  </td><td> 50,9    </td></tr>
+      <tr><th> Sucre                   </th><td> ...   </td><td> 1,3     </td></tr>
+      <tr><th> Matières cellulaires    </th><td> 9,4   </td><td> 14,4    </td></tr>
+      <tr><th>                         </th><th> 83,6  </th><th> 81,9    </th></tr>
+      </table>
+    </figure>
 
-    Les matières cellulaires, la dextrine, l'amidon et le sucre, réunis ensemble, 
-donnent :
-
-    <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
-  <table style="width: 100%;">
-  <tr><td>                         </td><th>Seigle.</th><th>Malt de seigle.</th></tr>
-  <tr><th> Dextrine                </th><td> 6,2   </td><td> 15,3    </td></tr>
-  <tr><th> Amidon                  </th><td> 68,0  </td><td> 50,9    </td></tr>
-  <tr><th> Sucre                   </th><td> ...   </td><td> 1,3     </td></tr>
-  <tr><th> Matières cellulaires    </th><td> 9,4   </td><td> 14,4    </td></tr>
-  <tr><th>                         </th><th> 83,6  </th><th> 81,9    </th></tr>
-  </table>
-</figure>
-
-    Pour le seigle aussi, la somme de ces substances a diminué comme pour l'orge et pour le froment. 
-
+   Pour le seigle aussi, la somme de ces substances a diminué comme pour l'orge et pour le froment. 
 5. Que la quantité de matière grasse n'a pas diminué. 
-
 6. Que la quantité des substances albumineuses a augmenté.
 
 ## Avoine.
@@ -714,7 +763,7 @@ donnent :
   </table>
 </figure>
 
-Si nous ramenons ces nombres à ce qu'ils seraient pour 100, les substances étant supposées sèches, nous obtiendrons :
+Si nous ramenons ces nombres à ce qu'ils seraient pour 100, les substances étant supposées sèches, nous obtiendrons :
 
 <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
   <table style="width: 100%;">
@@ -730,174 +779,288 @@ Si nous ramenons ces nombres à ce qu'ils seraient pour 100, les substances éta
   </table>
 </figure>
 
-Nous voyons également ici :
+Nous voyons également ici :
 
 1. Qu'il s'est produit du sucre par la germination, mais seulement 0,5%.
-
 2. Que la dextrine a monté de 2 à 3.
-
 3. Que la quantité d'amidon a diminué d'environ 1/5. 
-
 4. Que la quantité des matières cellulaires s'est élevée de 2 à 3.
 
-    La somme de ces quatre substances est :
+   La somme de ces quatre substances est :
 
-    <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
-  <table style="width: 100%;">
-  <tr><td>                         </td><th>Seigle.</th><th>Malt de seigle.</th></tr>
-  <tr><th> Dextrine                </th><td> 5,8   </td><td> 8,1     </td></tr>
-  <tr><th> Amidon                  </th><td> 54,1  </td><td> 42,6    </td></tr>
-  <tr><th> Sucre                   </th><td> ...   </td><td> 0,5     </td></tr>
-  <tr><th> Matières cellulaires    </th><td> 16,7  </td><td> 26,5    </td></tr>
-  <tr><th>                         </th><th> 76,6  </th><th> 76,7    </th></tr>
-  </table>
-</figure>
+   <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
+     <table style="width: 100%;">
+       <tr><td>                         </td><th>Seigle.</th><th>Malt de seigle.</th></tr>
+       <tr><th> Dextrine                </th><td> 5,8   </td><td> 8,1     </td></tr>
+       <tr><th> Amidon                  </th><td> 54,1  </td><td> 42,6    </td></tr>
+       <tr><th> Sucre                   </th><td> ...   </td><td> 0,5     </td></tr>
+       <tr><th> Matières cellulaires    </th><td> 16,7  </td><td> 26,5    </td></tr>
+       <tr><th>                         </th><th> 76,6  </th><th> 76,7    </th></tr>
+     </table>
+   </figure>
 
-    Ou environ autant dans le malt que dans le grain. 
+   Ou environ autant dans le malt que dans le grain. 
 
 5. Que la quantité de matière grasse a diminué. 
-
 6. Que la quantité des substances albumineuses a augmenté.
 
-Après avoir ainsi examiné les résultats obtenus pour chaque grain en particulier, nous pensons qu'il n'est pas hors de propos de les passer en revue tous ensemble afin de voir quelles conclusions générales on pourrait en tirer.
+Après avoir ainsi examiné les résultats obtenus pour chaque grain en particulier, nous pensons qu'il n'est pas hors de
+propos de les passer en revue tous ensemble afin de voir quelles conclusions générales on pourrait en tirer.
 
-1. Dans chacune des quatre sortes de grains, il ne s'est produit pendant la germination qu'une très petite quantité de sucre comme résultat final de toutes les transformations chimiques qui avaient eu lieu pendant la germination.
-
-2. La quantité de dextrine s'est élevée par la germination de 1 à 2,5 dans le seigle ; dans les trois autres, elle s'est élevée de 1 à 1,5.
-
+1. Dans chacune des quatre sortes de grains, il ne s'est produit pendant la germination qu'une très petite quantité de
+   sucre comme résultat final de toutes les transformations chimiques qui avaient eu lieu pendant la germination.
+2. La quantité de dextrine s'est élevée par la germination de 1 à 2,5 dans le seigle ; dans les trois autres, elle s'est
+   élevée de 1 à 1,5.
 3. L'amidon a diminué de 1/4, 1/5, 1/7, 1/9.
-
 4. La quantité des matières cellulaires a augmenté dans le froment de 1/3 et dans les trois autres de 1/2.
-
-5. La somme de ces quatre substances est restée la même dans l'avoine ; dans l'orge, le froment et le seigle, elle a diminué par la germination.
-
-6. La matière grasse a diminué dans l'orge et dans l'avoine par la germination, tandis qu'elle a augmenté dans le froment et dans le seigle.
-
+5. La somme de ces quatre substances est restée la même dans l'avoine ; dans l'orge, le froment et le seigle, elle a
+   diminué par la germination.
+6. La matière grasse a diminué dans l'orge et dans l'avoine par la germination, tandis qu'elle a augmenté dans le
+   froment et dans le seigle.
 7. La quantité des substances albumineuses a augmenté dans les quatre sortes de grains.
 
-Telle est l'expression brute des résultats des décompositions qui se sont opérées, telle qu'elle nous est fournie par la comparaison, des nombres obtenus.
+Telle est l'expression brute des résultats des décompositions qui se sont opérées, telle qu'elle nous est fournie par la
+comparaison, des nombres obtenus.
 
 En ce qui a rapport aux quatre premiers points, il n'y a rien de plus à observer.
 
-En ce qui concerne le cinquième point, relatif à la question de savoir si la somme des matières cellulaires, de la dextrine, de l'amidon et du sucre a changé ou non, nous avons pour plus de simplicité admis que ces quatre substances avaient la même composition : cependant le sucre qui se trouve ici à l'état de sucre de fruits = C<sub>12</sub>H<sub>12</sub>O<sub>12</sub>, ne présente pas la même composition que les autres : mais sa quantité est si faible que cette différence ne paraît pas pouvoir être d'une grande importance. Quant à la question de savoir d'où peut provenir la diminution de poids qu'a subie, pendant 
-la germination, dans les trois premières sortes de grains, la somme de ces quatre parties constituantes, tandis que, dans la quatrième espèce, il n'y a pas eu de diminution de poids, on restera toujours dans l'incertitude sur ce point tant que l'on n'aura pas trouvé une explication au moyen de laquelle la diminution puisse être rendue évidente dans toutes les espèces. — Je reviendrai sur ce sujet en m'occupant de la question des matières albumineuses.
+En ce qui concerne le cinquième point, relatif à la question de savoir si la somme des matières cellulaires, de la
+dextrine, de l'amidon et du sucre a changé ou non, nous avons pour plus de simplicité admis que ces quatre substances
+avaient la même composition : cependant le sucre qui se trouve ici à l'état de sucre de fruits =
+C<sub>12</sub>H<sub>12</sub>O<sub>12</sub>, ne présente pas la même composition que les autres : mais sa quantité est si
+faible que cette différence ne paraît pas pouvoir être d'une grande importance. Quant à la question de savoir d'où peut
+provenir la diminution de poids qu'a subie, pendant la germination, dans les trois premières sortes de grains, la somme
+de ces quatre parties constituantes, tandis que, dans la quatrième espèce, il n'y a pas eu de diminution de poids, on
+restera toujours dans l'incertitude sur ce point tant que l'on n'aura pas trouvé une explication au moyen de laquelle la
+diminution puisse être rendue évidente dans toutes les espèces. — Je reviendrai sur ce sujet en m'occupant de la
+question des matières albumineuses.
 
-En ce qui concerne le sixième point relatif à l'augmentation ou à la diminution de la matière grasse, nous devons faire observer que, en opérant sur des grains qui contiennent aussi peu de matière grasse que les quatre espèces de grains indiquées, on peut à peine s'attendre à obtenir un résultat décisif quelconque sur cette question. Il faudrait pour cela analyser des semences qui contiendraient une plus grande quantité de matière grasse : or, dans ces dernières, on observe une diminution de matière grasse.
+En ce qui concerne le sixième point relatif à l'augmentation ou à la diminution de la matière grasse, nous devons faire
+observer que, en opérant sur des grains qui contiennent aussi peu de matière grasse que les quatre espèces de grains
+indiquées, on peut à peine s'attendre à obtenir un résultat décisif quelconque sur cette question. Il faudrait pour cela
+analyser des semences qui contiendraient une plus grande quantité de matière grasse : or, dans ces dernières, on observe
+une diminution de matière grasse.
 
-J'arrive maintenant au septième point, qui est relatif à l'augmentation des matières albumineuses. Personne ne peut admettre sérieusement l'augmentation de ces substances dans la germination. Nous avons voulu seulement exprimer par là les résultats bruts de l'expérience. Il se produit au contraire, dans la germination, une trace d'ammoniaque, et il est par conséquent indubitable qu'une portion des substances albumineuses, quelque faible qu'elle puisse être d'ailleurs, a été décomposée.
+J'arrive maintenant au septième point, qui est relatif à l'augmentation des matières albumineuses. Personne ne peut
+admettre sérieusement l'augmentation de ces substances dans la germination. Nous avons voulu seulement exprimer par là
+les résultats bruts de l'expérience. Il se produit au contraire, dans la germination, une trace d'ammoniaque, et il est
+par conséquent indubitable qu'une portion des substances albumineuses, quelque faible qu'elle puisse être d'ailleurs, a
+été décomposée.
 
-Oudemans a fait, pour chaque espèce de grains, plusieurs déterminations d'azote : j'ai pris la moyenne de ses résultats qui étaient du reste presque concordants, en calculant la quantité des substances albumineuses sur une proportion de 15,5N. Je pense que nous avons là pour nos calculs une base bien déterminée qui nous permet, autant du moins que cela est possible, de déduire de la proportion d'azote la quantité des matières albumineuses. Il n'existe, du reste, pas de combinaison ammoniacale dans l'orge, ni dans le froment.
+Oudemans a fait, pour chaque espèce de grains, plusieurs déterminations d'azote : j'ai pris la moyenne de ses résultats
+qui étaient du reste presque concordants, en calculant la quantité des substances albumineuses sur une proportion de
+15,5N. Je pense que nous avons là pour nos calculs une base bien déterminée qui nous permet, autant du moins que cela
+est possible, de déduire de la proportion d'azote la quantité des matières albumineuses. Il n'existe, du reste, pas de
+combinaison ammoniacale dans l'orge, ni dans le froment.
 
-Partant de là, je pense que nous devons précisément déduire de la constance des matières albumineuses ce qui arrive pendant la germination relativement aux quatre principes non azotés (cellulose, amidon, dextrine, sucre) : admettons en effet que la quantité des matières albumineuses n'a pas diminué, ou n'a pas diminué d'une manière pondérable pendant la germination (et cette supposition est suffisamment fondée), nous pourrons partir de là pour répondre à la question de savoir si les quatre substances non azotées ont diminué ou non. La réponse à cette question peut alors être obtenue de la manière suivante :
+Partant de là, je pense que nous devons précisément déduire de la constance des matières albumineuses ce qui arrive
+pendant la germination relativement aux quatre principes non azotés (cellulose, amidon, dextrine, sucre) : admettons en
+effet que la quantité des matières albumineuses n'a pas diminué, ou n'a pas diminué d'une manière pondérable pendant la
+germination (et cette supposition est suffisamment fondée), nous pourrons partir de là pour répondre à la question de
+savoir si les quatre substances non azotées ont diminué ou non. La réponse à cette question peut alors être obtenue de
+la manière suivante :
 
 <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
   <div markdown='1' style="width: 100%; text-align: center;">**Orge.**</div>
   <table style="width: 100%;">
-  <tr><td>                                                   </td><th>Grain. </th><th> Malt.   </th></tr>
-  <tr><th> Matières albumineuses                             </th><td> 5,8   </td><td> 8,1     </td></tr>
-  <tr><th> Les quatre substances non azotées                 </th><td> 54,1  </td><td> 42,6    </td></tr>
-  <tr><th> Les matières albumineuses étant représentées par  </th><td> 100   </td><td> 100     </td></tr>
-  <tr><th> Le calcul donne pour les 4 substances non azotées </th><td> 679   </td><td> 596     </td></tr>
+    <tr><td>                                                   </td><th>Grain. </th><th> Malt.   </th></tr>
+    <tr><th> Matières albumineuses                             </th><td> 5,8   </td><td> 8,1     </td></tr>
+    <tr><th> Les quatre substances non azotées                 </th><td> 54,1  </td><td> 42,6    </td></tr>
+    <tr><th> Les matières albumineuses étant représentées par  </th><td> 100   </td><td> 100     </td></tr>
+    <tr><th> Le calcul donne pour les 4 substances non azotées </th><td> 679   </td><td> 596     </td></tr>
   </table>
 </figure>
 
 <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
-
   <div markdown='1' style="width: 100%; text-align: center;">**Froment.**</div>
   <table style="width: 100%;">
-  <tr><td>                                                   </td><th>Grain. </th><th> Malt.   </th></tr>
-  <tr><th> Matières albumineuses                             </th><td> 13,9  </td><td> 14,5    </td></tr>
-  <tr><th> Les quatre substances non azotées                 </th><td> 81,9  </td><td> 80,9    </td></tr>
-  <tr><th> Les matières albumineuses étant représentées par  </th><td> 100   </td><td> 100     </td></tr>
-  <tr><th> Le calcul donne pour les 4 substances non azotées </th><td> 589   </td><td> 558     </td></tr>
+    <tr><td>                                                   </td><th>Grain. </th><th> Malt.   </th></tr>
+    <tr><th> Matières albumineuses                             </th><td> 13,9  </td><td> 14,5    </td></tr>
+    <tr><th> Les quatre substances non azotées                 </th><td> 81,9  </td><td> 80,9    </td></tr>
+    <tr><th> Les matières albumineuses étant représentées par  </th><td> 100   </td><td> 100     </td></tr>
+    <tr><th> Le calcul donne pour les 4 substances non azotées </th><td> 589   </td><td> 558     </td></tr>
   </table>
 </figure>
 
 <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
   <div markdown='1' style="width: 100%; text-align: center;">**Seigle.**</div>
   <table style="width: 100%;">
-  <tr><td>                                                   </td><th>Grain. </th><th> Malt.   </th></tr>
-  <tr><th> Matières albumineuses                             </th><td> 12,5  </td><td> 14,1    </td></tr>
-  <tr><th> Les quatre substances non azotées                 </th><td> 83,6  </td><td> 81,9    </td></tr>
-  <tr><th> Les matières albumineuses étant représentées par  </th><td> 100   </td><td> 100     </td></tr>
-  <tr><th> Le calcul donne pour les 4 substances non azotées </th><td> 669   </td><td> 581     </td></tr>
+    <tr><td>                                                   </td><th>Grain. </th><th> Malt.   </th></tr>
+    <tr><th> Matières albumineuses                             </th><td> 12,5  </td><td> 14,1    </td></tr>
+    <tr><th> Les quatre substances non azotées                 </th><td> 83,6  </td><td> 81,9    </td></tr>
+    <tr><th> Les matières albumineuses étant représentées par  </th><td> 100   </td><td> 100     </td></tr>
+    <tr><th> Le calcul donne pour les 4 substances non azotées </th><td> 669   </td><td> 581     </td></tr>
   </table>
 </figure>
 
 <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
   <div markdown='1' style="width: 100%; text-align: center;">**Avoine.**</div>
   <table style="width: 100%;">
-  <tr><td>                                                   </td><th>Grain. </th><th> Malt.   </th></tr>
-  <tr><th> Matières albumineuses                             </th><td> 14,0  </td><td> 15,1    </td></tr>
-  <tr><th> Les quatre substances non azotées                 </th><td> 76,6  </td><td> 76,7    </td></tr>
-  <tr><th> Les matières albumineuses étant représentées par  </th><td> 100   </td><td> 100     </td></tr>
-  <tr><th> Le calcul donne pour les 4 substances non azotées </th><td> 547   </td><td> 508     </td></tr>
+    <tr><td>                                                   </td><th>Grain. </th><th> Malt.   </th></tr>
+    <tr><th> Matières albumineuses                             </th><td> 14,0  </td><td> 15,1    </td></tr>
+    <tr><th> Les quatre substances non azotées                 </th><td> 76,6  </td><td> 76,7    </td></tr>
+    <tr><th> Les matières albumineuses étant représentées par  </th><td> 100   </td><td> 100     </td></tr>
+    <tr><th> Le calcul donne pour les 4 substances non azotées </th><td> 547   </td><td> 508     </td></tr>
   </table>
 </figure>
 
-Par l'inspection de ces chiffres, nous reconnaissons que, pour les quatre espèces de grains, la somme des quatre substances non azotées diminue pendant la germination et que cette diminution s'élève :
+Par l'inspection de ces chiffres, nous reconnaissons que, pour les quatre espèces de grains, la somme des quatre
+substances non azotées diminue pendant la germination et que cette diminution s'élève :
 
-  <figure markdown='1' style="width: 33%; margin-left: auto; margin-right: auto;">
+<figure markdown='1' style="width: 33%; margin-left: auto; margin-right: auto;">
   <table style="width: 100%">
-  <tr><th> Pour l'orge, à     </th><td> 1/8  </td></tr>
-  <tr><th> Pour le froment, à </th><td> 1/19 </td></tr>
-  <tr><th> Pour le seigle, à  </th><td> 1/8  </td></tr>
-  <tr><th> Pour l'avoine, à   </th><td> 1/14 </td></tr>
+    <tr><th> Pour l'orge, à     </th><td> 1/8  </td></tr>
+    <tr><th> Pour le froment, à </th><td> 1/19 </td></tr>
+    <tr><th> Pour le seigle, à  </th><td> 1/8  </td></tr>
+    <tr><th> Pour l'avoine, à   </th><td> 1/14 </td></tr>
   </table>
 </figure>
 
-  de la quantité de ces matières qui existait primitivement dans le grain.
+de la quantité de ces matières qui existait primitivement dans le grain.
 
-On peut considérer comme certain que cette diminution de la quantité des quatre substances non azotées s'effectue de la manière suivante : transformation de l'amidon en dextrine et de la dextrine en sucre : oxydation du sucre qui absorbe l'oxygène de l'air et se transforme en acide carbonique et en eau. Ce qui se passe en dehors de ce que nous venons de dire (voir les expériences de [Boussingault](#Boussingault)), nous pouvons sans inconvénient ne pas nous en occuper.
+On peut considérer comme certain que cette diminution de la quantité des quatre substances non azotées s'effectue de la
+manière suivante : transformation de l'amidon en dextrine et de la dextrine en sucre : oxydation du sucre qui absorbe
+l'oxygène de l'air et se transforme en acide carbonique et en eau. Ce qui se passe en dehors de ce que nous venons de
+dire (voir les expériences de [Boussingault](#Boussingault)), nous pouvons sans inconvénient ne pas nous en occuper.
 
 Il s'opère en outre une transformation de la dextrine en cellulose.
 
-Nos connaissances en ce qui concerne la germination ne peuvent donc nous diriger que très incomplètement dans l'étude de la fabrication de la bière : elles nous font cependant connaître qu'il s'y effectue une perte des principes utiles du grain. Voyons la valeur de cette perte pour l'orge seule : 1/8 des principes non azotés utiles se perd par oxydation pendant la germination, et, d'autre part, <sup>1</sup>/<sub>17</sub> de ces mêmes principes se perd par la transformation de l'amidon en cellulose insoluble, en sorte que, dans la fabrication de la bière, 18% des parties constituantes non azotées utiles du grain sont soustraits par la germination à la consommation de l'homme.
+Nos connaissances en ce qui concerne la germination ne peuvent donc nous diriger que très incomplètement dans l'étude de
+la fabrication de la bière : elles nous font cependant connaître qu'il s'y effectue une perte des principes utiles du
+grain. Voyons la valeur de cette perte pour l'orge seule : 1/8 des principes non azotés utiles se perd par oxydation
+pendant la germination, et, d'autre part, <sup>1</sup>/<sub>17</sub> de ces mêmes principes se perd par la
+transformation de l'amidon en cellulose insoluble, en sorte que, dans la fabrication de la bière, 18% des parties
+constituantes non azotées utiles du grain sont soustraits par la germination à la consommation de l'homme.
 
-Si à cela nous ajoutons que, parmi les principes constituants du grain après sa germination, il ne se trouve que peu de sucre et qu'il ne s'est formé par la germination qu'une petite quantité de dextrine qui soit susceptible de se transformer en sucre, il nous sera facile de reconnaître que ce n'est pas dans la transformation des principes non azotés par la germination que nous devons chercher l'utilité de la germination préalable du grain que l'on veut employer à la préparation de la bière, mais que l'utilité de la germination doit venir plutôt de ce que les matières azotées, c'est-à-dire les substances albumineuses, subissent par la germination une modification de telle nature que, dans les traitements ultérieurs auxquels on soumet le grain germé, elles soient aptes à transformer l'amidon en dextrine puis en sucre.
+Si à cela nous ajoutons que, parmi les principes constituants du grain après sa germination, il ne se trouve que peu de
+sucre et qu'il ne s'est formé par la germination qu'une petite quantité de dextrine qui soit susceptible de se
+transformer en sucre, il nous sera facile de reconnaître que ce n'est pas dans la transformation des principes non
+azotés par la germination que nous devons chercher l'utilité de la germination préalable du grain que l'on veut employer
+à la préparation de la bière, mais que l'utilité de la germination doit venir plutôt de ce que les matières azotées,
+c'est-à-dire les substances albumineuses, subissent par la germination une modification de telle nature que, dans les
+traitements ultérieurs auxquels on soumet le grain germé, elles soient aptes à transformer l'amidon en dextrine puis en
+sucre.
 
-Dans tout ce que nous venons de dire, nous sommes parti de l'hypothèse que les matières albumineuses ne subissent aucune modification de poids pendant la germination. Cependant aucune des expériences que nous avons indiquées n'en fournit la preuve. Il ne ressort pas non plus de ces expériences que ces substances subissent pendant la germination une augmentation ou une diminution de poids que l'on puisse apprécier au moyen de la balance. Boussingault a trouvé que la proportion d'azote n'était pour ainsi dire point modifiée. Les substances albumineuses augmentent cependant relativement, c'est-à-dire par comparaison avec la quantité des quatre substances non azotées. C'est ce qui ressort de ce que nous avons dit [précédemment](#Orge). Mais dans la quantité de ces quatre substances azotées, il s'est opéré une modification : il s'est produit du sucre : il s'est formé de la cellulose : il s'est fait de la dextrine, et une partie de cette dextrine a été employée à la formation de la cellulose.
+Dans tout ce que nous venons de dire, nous sommes parti de l'hypothèse que les matières albumineuses ne subissent aucune
+modification de poids pendant la germination. Cependant aucune des expériences que nous avons indiquées n'en fournit la
+preuve. Il ne ressort pas non plus de ces expériences que ces substances subissent pendant la germination une
+augmentation ou une diminution de poids que l'on puisse apprécier au moyen de la balance. Boussingault a trouvé que la
+proportion d'azote n'était pour ainsi dire point modifiée. Les substances albumineuses augmentent cependant
+relativement, c'est-à-dire par comparaison avec la quantité des quatre substances non azotées. C'est ce qui ressort de
+ce que nous avons dit [précédemment](#Orge). Mais dans la quantité de ces quatre substances azotées, il s'est opéré une
+modification : il s'est produit du sucre : il s'est formé de la cellulose : il s'est fait de la dextrine, et une partie
+de cette dextrine a été employée à la formation de la cellulose.
 
-Mais d'où vient l'acide carbonique qui s'est produit ? Quelles sont les parties constituantes qui ont fourni les éléments nécessaires à sa production ? On ne peut pas le dire d'une manière certaine. Il paraît cependant positif qu'il existe dans la germination deux périodes d'absorption de l'oxygène et de dégagement de l'acide carbonique : la première dans laquelle le grain en germination absorbe plus d'oxygène qu'il ne dégage d'acide carbonique ; la seconde dans laquelle la quantité de l'oxygène absorbé est plus petite que la quantité de l'acide carbonique produit. Ces deux périodes sont comprises toutes deux dans l'espace de temps qui s'écoule entre le commencement de la germination et le moment où la plumule commence à devenir verte : lorsque cette dernière est devenue verte, elle doit décomposer l'acide carbonique de l'air ambiant, et nous ne pouvons plus nous rendre compte de ce qui se passe, puisque la semence et la plumule remplissent deux fonctions différentes complètement opposées l'une à l'autre.
+Mais d'où vient l'acide carbonique qui s'est produit ? Quelles sont les parties constituantes qui ont fourni les
+éléments nécessaires à sa production ? On ne peut pas le dire d'une manière certaine. Il paraît cependant positif qu'il
+existe dans la germination deux périodes d'absorption de l'oxygène et de dégagement de l'acide carbonique : la première
+dans laquelle le grain en germination absorbe plus d'oxygène qu'il ne dégage d'acide carbonique ; la seconde dans
+laquelle la quantité de l'oxygène absorbé est plus petite que la quantité de l'acide carbonique produit. Ces deux
+périodes sont comprises toutes deux dans l'espace de temps qui s'écoule entre le commencement de la germination et le
+moment où la plumule commence à devenir verte : lorsque cette dernière est devenue verte, elle doit décomposer l'acide
+carbonique de l'air ambiant, et nous ne pouvons plus nous rendre compte de ce qui se passe, puisque la semence et la
+plumule remplissent deux fonctions différentes complètement opposées l'une à l'autre.
 
-La diminution de l'oxygène au commencement de la germination est simplement la conséquence d'une absorption d'oxygène. Quelle est la partie constituante sur laquelle l'oxygène agit ? Cela est incertain ; mais on sait que toutes les substances albumineuses à l'état humide absorbent l'oxygène : nous voyons dans le sang cette absorption en pleine activité.
+La diminution de l'oxygène au commencement de la germination est simplement la conséquence d'une absorption d'oxygène.
+Quelle est la partie constituante sur laquelle l'oxygène agit ? Cela est incertain ; mais on sait que toutes les
+substances albumineuses à l'état humide absorbent l'oxygène : nous voyons dans le sang cette absorption en pleine
+activité.
 
-Il paraît raisonnable d'admettre que cette absorption de l'oxygène par les matières albumineuses de la semence humectée vient prendre rang parmi les premiers phénomènes de la germination. La matière albumineuse, qui était jusque-là à l'état de repos chimique, devient ferment : les particules qui la composaient se dissocient et leur action ultérieure est la conséquence de cette dissociation.
+Il paraît raisonnable d'admettre que cette absorption de l'oxygène par les matières albumineuses de la semence humectée
+vient prendre rang parmi les premiers phénomènes de la germination. La matière albumineuse, qui était jusque-là à l'état
+de repos chimique, devient ferment : les particules qui la composaient se dissocient et leur action ultérieure est la
+conséquence de cette dissociation.
 
-La première période de la germination, celle dans laquelle le volume de l'air diminue, est donc le commencement du développement de l'action chimique; en ce qui concerne la deuxième période dans laquelle le volume de l'air augmente avec le développement de la semence en germination et dans laquelle il se produit une quantité d'acide carbonique plus forte que la quantité d'oxygène absorbée, elle ne représente plus le commencement de l'action chimique, mais elle représente l'action elle-même.
+La première période de la germination, celle dans laquelle le volume de l'air diminue, est donc le commencement du
+développement de l'action chimique ; en ce qui concerne la deuxième période dans laquelle le volume de l'air augmente
+avec le développement de la semence en germination et dans laquelle il se produit une quantité d'acide carbonique plus
+forte que la quantité d'oxygène absorbée, elle ne représente plus le commencement de l'action chimique, mais elle
+représente l'action elle-même.
 
-Du reste, cette action s'exerce de deux manières : la matière albumineuse qui, dans la première période, a absorbé de l'oxygène, ne cesse pas, mais continue au contraire à en absorber dans la seconde période. Bien que la quantité d'oxygène qui est absorbée par le malt et s'y fixe, soit petite, il est toutefois positif qu'il y a fixation d'oxygène. — Simultanément avec l'absorption d'oxygène, il se produit une diminution de carbone et un dégagement d'acide carbonique, Bien que dans les analyses de Boussingault, la quantité d'oxygène qui a disparu par la germination soit presque précisément suffisante pour former de l'oxyde de carbone avec la quantité de carbone, cependant un dégagement d'oxyde de carbone qui serait transformé en acide carbonique par l'oxygène de l'air ne paraît pas admissible.
+Du reste, cette action s'exerce de deux manières : la matière albumineuse qui, dans la première période, a absorbé de
+l'oxygène, ne cesse pas, mais continue au contraire à en absorber dans la seconde période. Bien que la quantité
+d'oxygène qui est absorbée par le malt et s'y fixe, soit petite, il est toutefois positif qu'il y a fixation d'oxygène.
+— Simultanément avec l'absorption d'oxygène, il se produit une diminution de carbone et un dégagement d'acide
+carbonique, Bien que dans les analyses de Boussingault, la quantité d'oxygène qui a disparu par la germination soit
+presque précisément suffisante pour former de l'oxyde de carbone avec la quantité de carbone, cependant un dégagement
+d'oxyde de carbone qui serait transformé en acide carbonique par l'oxygène de l'air ne paraît pas admissible.
 
-La preuve expérimentale manque jusqu'ici, mais il ne paraît y avoir aucune raison d'admettre que, dans les semences en germination (si du moins on les suppose exemptes de toute matière étrangère qui soit en connexion directe avec le phénomène de la germination), il s'opère autre chose que ce que l'on observe dans tout le règne animal, même chez les espèces les plus inférieures : oxydation d'une substance albumineuse qui passe ainsi à l'état d'activité chimique et devient ainsi apte à transformer, en déterminant leur oxydation, le sucre et les matières grasses en acide carbonique et en eau.
+La preuve expérimentale manque jusqu'ici, mais il ne paraît y avoir aucune raison d'admettre que, dans les semences en
+germination (si du moins on les suppose exemptes de toute matière étrangère qui soit en connexion directe avec le
+phénomène de la germination), il s'opère autre chose que ce que l'on observe dans tout le règne animal, même chez les
+espèces les plus inférieures : oxydation d'une substance albumineuse qui passe ainsi à l'état d'activité chimique et
+devient ainsi apte à transformer, en déterminant leur oxydation, le sucre et les matières grasses en acide carbonique et
+en eau.
 
-Il nous reste maintenant encore à répondre à la question : Que se passe-t-il en outre dans la semence en germination ? Nous devons spécialiser ici notre examen, ou bien il nous sera impossible de mettre aucun ordre au milieu de la confusion des faits que nous rencontrerons.
+Il nous reste maintenant encore à répondre à la question : Que se passe-t-il en outre dans la semence en germination ?
+Nous devons spécialiser ici notre examen, ou bien il nous sera impossible de mettre aucun ordre au milieu de la
+confusion des faits que nous rencontrerons.
 
-Ces observations étant faites, nous pouvons jeter un coup d’œil sur les transformations des parties constituantes tant azotées que non azotées du grain pendant la germination, en les considérant comme servant à prédisposer ces parties constituantes aux modifications qu'elles doivent subir dans la préparation de la bière et que nous examinerons plus loin.
+Ces observations étant faites, nous pouvons jeter un coup d’œil sur les transformations des parties constituantes tant
+azotées que non azotées du grain pendant la germination, en les considérant comme servant à prédisposer ces parties
+constituantes aux modifications qu'elles doivent subir dans la préparation de la bière et que nous examinerons plus
+loin.
 
-Le maltage prépare et commence les transformations qui se développeront dans le grain pendant la dessiccation du malt et pendant le brassage ; et bien qu'il ne s'effectue, dans le maltage, ainsi que nous l'avons fait voir, qu'un simple commencement des modifications si importantes qui doivent déterminer, dans le courant des opérations ultérieures de la fabrication de la bière, la transformation presque totale de l'amidon du grain en sucre, nous devons étudier ici ces modifications et leurs causes, parce que c'est précisément dans la préparation du malt que nous trouvons le point de départ de ces modifications.
+Le maltage prépare et commence les transformations qui se développeront dans le grain pendant la dessiccation du malt et
+pendant le brassage ; et bien qu'il ne s'effectue, dans le maltage, ainsi que nous l'avons fait voir, qu'un simple
+commencement des modifications si importantes qui doivent déterminer, dans le courant des opérations ultérieures de la
+fabrication de la bière, la transformation presque totale de l'amidon du grain en sucre, nous devons étudier ici ces
+modifications et leurs causes, parce que c'est précisément dans la préparation du malt que nous trouvons le point de
+départ de ces modifications.
 
-Dans la préparation de la bière, la transformation de l'amidon contenu dans le grain en sucre et en dextrine est une question essentielle.
+Dans la préparation de la bière, la transformation de l'amidon contenu dans le grain en sucre et en dextrine est une
+question essentielle.
 
-C'est un fait généralement connu que l'amidon, lorsqu'on le traite à chaud par l'acide sulfurique étendu ou par un autre acide, en y comprenant même l'acide nitrique, se transforme en dextrine et que, en continuant à faire agir l'acide sur la dextrine, on transforme cette dernière en sucre de fruits.
+C'est un fait généralement connu que l'amidon, lorsqu'on le traite à chaud par l'acide sulfurique étendu ou par un autre
+acide, en y comprenant même l'acide nitrique, se transforme en dextrine et que, en continuant à faire agir l'acide sur
+la dextrine, on transforme cette dernière en sucre de fruits.
 
 Amidon = C<sub>12</sub>H<sub>10</sub>O<sub>10</sub> ; dextrine = C<sub>12</sub>H<sub>10</sub>O<sub>10</sub> ; 
-sucre de fruits = C<sub>12</sub>H<sub>14</sub>O<sub>10</sub>. Pour qu'il se produise du sucre, il faut par conséquent qu'il se combine de l'eau ; pour qu'il se forme de la dextrine et du sucre, il faut qu'il se produise une transformation chimique de molécules, dont nous ne pouvons nous faire aucune idée, puisque nous ne connaissons ni la nature de leurs molécules, ni leur mode de combinaison. Nous ne pouvons que reconnaître le fait que, par l'action d'un acide étendu sur l'amidon, il se produit de la dextrine, sans qu'il y ait incorporation ou séparation d'aucune substance, et que, seulement par une incorporation d'eau, il se forme du sucre.
+sucre de fruits = C<sub>12</sub>H<sub>14</sub>O<sub>10</sub>. Pour qu'il se produise du sucre, il faut par conséquent
+qu'il se combine de l'eau ; pour qu'il se forme de la dextrine et du sucre, il faut qu'il se produise une transformation
+chimique de molécules, dont nous ne pouvons nous faire aucune idée, puisque nous ne connaissons ni la nature de leurs
+molécules, ni leur mode de combinaison. Nous ne pouvons que reconnaître le fait que, par l'action d'un acide étendu sur
+l'amidon, il se produit de la dextrine, sans qu'il y ait incorporation ou séparation d'aucune substance, et que,
+seulement par une incorporation d'eau, il se forme du sucre.
 
-Je n'ai pas l'intention, en traitant des modifications de l'amidon, d'entrer dans de grands détails sur la question de la constitution des grains d'amidon, qui était si fortement à l'ordre du jour il y a quelques années en France, ni de rechercher ce que l'on a désigné sous les noms d'amidon, d'amidine, et d'amidin. Quelques mots sur ce sujet suffiront entièrement.
+Je n'ai pas l'intention, en traitant des modifications de l'amidon, d'entrer dans de grands détails sur la question de
+la constitution des grains d'amidon, qui était si fortement à l'ordre du jour il y a quelques années en France, ni de
+rechercher ce que l'on a désigné sous les noms d'amidon, d'amidine, et d'amidin. Quelques mots sur ce sujet suffiront
+entièrement.
 
-Leeuwenhoek[^17] a établi une distinction entre la solubilité des particules intérieures et celle des particules extérieures du granule d'amidon, et Dubrunfaut[^18] a fait les premières expériences dans le but de démontrer que l'amidon devient soluble dans la germination du grain.
+Leeuwenhoek[^17] a établi une distinction entre la solubilité des particules intérieures et celle des particules
+extérieures du granule d'amidon, et Dubrunfaut[^18] a fait les premières expériences dans le but de démontrer que
+l'amidon devient soluble dans la germination du grain.
 
-Raspail[^19] pensait que les granules présentaient un noyau dont l'épanchement se produisait par la rupture d'une couche externe qui lui servait d'enveloppe. La rupture de la couche externe se produit, suivant lui, entre autres moyens, par l'action des acides dans lesquels la matière qui constitue le noyau central se dissout, tandis que la couche externe, qui y est insoluble, se rassemble au fond du vase et que la liqueur qui la surnage devient claire.
+Raspail[^19] pensait que les granules présentaient un noyau dont l'épanchement se produisait par la rupture d'une couche
+externe qui lui servait d'enveloppe. La rupture de la couche externe se produit, suivant lui, entre autres moyens, par
+l'action des acides dans lesquels la matière qui constitue le noyau central se dissout, tandis que la couche externe,
+qui y est insoluble, se rassemble au fond du vase et que la liqueur qui la surnage devient claire.
 
-D'après Raspail[^20], le noyau est constitué par une substance gommeuse et le granule entier n'est qu'une vésicule remplie de matière gommeuse qui, dans le granule, se dessèche simplement au contact de l'air par l'évaporation de ses parties aqueuses.
+D'après Raspail[^20], le noyau est constitué par une substance gommeuse et le granule entier n'est qu'une vésicule
+remplie de matière gommeuse qui, dans le granule, se dessèche simplement au contact de l'air par l'évaporation de ses
+parties aqueuses.
 
-D'après Payen et Persoz, le granule d'amidon est de nature différente intérieurement et extérieurement ; la matière intérieure n'est cependant pas une matière gommeuse à l'état de siccité, mais c'est une substance qui ne se dissout pas dans l'eau par l'action d'une température inférieure à 65°C. Ils la désignent sous le nom d'amidone.
+D'après Payen et Persoz, le granule d'amidon est de nature différente intérieurement et extérieurement ; la matière
+intérieure n'est cependant pas une matière gommeuse à l'état de siccité, mais c'est une substance qui ne se dissout pas
+dans l'eau par l'action d'une température inférieure à 65°C. Ils la désignent sous le nom d'amidone.
 
-Guérin-Varry qui admettait également comme distinctes les substances qui se trouvaient dans la partie intérieure et celles qui se trouvaient dans la partie extérieure du granule d'amidon, considérait le contenu de la vésicule comme formé de deux substances, l'amidine et l'amidin soluble, et, comme c'est précisément à la même époque que l'on faisait la découverte d'une matière de nature gommeuse que l'on retirait de l'amidon au moyen d'une infusion de malt et que Biot désignait sous le nom de dextrine, la dextrine et l'amidin de Guérin-Varry furent considérés simplement par Raspail comme une seule et même matière et comme constituant précisément la couche intérieure de nature gommeuse du granule d'amidon. Le nom d'amidine avait du reste déjà été donné antérieurement par De Saussure à la portion du grain qui est insoluble dans l'eau.
+Guérin-Varry qui admettait également comme distinctes les substances qui se trouvaient dans la partie intérieure et
+celles qui se trouvaient dans la partie extérieure du granule d'amidon, considérait le contenu de la vésicule comme
+formé de deux substances, l'amidine et l'amidin soluble, et, comme c'est précisément à la même époque que l'on faisait
+la découverte d'une matière de nature gommeuse que l'on retirait de l'amidon au moyen d'une infusion de malt et que Biot
+désignait sous le nom de dextrine, la dextrine et l'amidin de Guérin-Varry furent considérés simplement par Raspail
+comme une seule et même matière et comme constituant précisément la couche intérieure de nature gommeuse du granule
+d'amidon. Le nom d'amidine avait du reste déjà été donné antérieurement par De Saussure à la portion du grain qui est
+insoluble dans l'eau.
 
-Guérin-Varry donnait à la portion insoluble, à l'enveloppe vésiculaire de Raspail, le nom d'amidin tégumentaire et désignait sous ce nom une substance de même composition que le contenu de l'enveloppe vésiculaire qu'il désignait sous le nom d'amidin, mais qu'il nommait amidin soluble pour le différencier de l'autre.
+Guérin-Varry donnait à la portion insoluble, à l'enveloppe vésiculaire de Raspail, le nom d'amidin tégumentaire et
+désignait sous ce nom une substance de même composition que le contenu de l'enveloppe vésiculaire qu'il désignait sous
+le nom d'amidin, mais qu'il nommait amidin soluble pour le différencier de l'autre.
 
-Suivant ce chimiste, 100 parties de granules d'amidon contenaient 97,04 de substances solubles et 2,96 de substances insolubles, c'est-à-dire 97,04 d'amidin soluble et 2,96 d'amidin tégumentaire. Guérin-Varry, non content de cela, représentait l'analyse élémentaire du grain comme donnant les résultats suivants :
+Suivant ce chimiste, 100 parties de granules d'amidon contenaient 97,04 de substances solubles et 2,96 de substances
+insolubles, c'est-à-dire 97,04 d'amidin soluble et 2,96 d'amidin tégumentaire. Guérin-Varry, non content de cela,
+représentait l'analyse élémentaire du grain comme donnant les résultats suivants :
 
 <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
   <table style="width: 100%">
@@ -910,99 +1073,241 @@ Suivant ce chimiste, 100 parties de granules d'amidon contenaient 97,04 de subst
 
 Mais je pense que ce qu'il nous communique est tout à fait insuffisant[^21].
 
-Après des recherches nombreuses et persévérantes, nous sommes enfin arrivé à ce résultat, que nous pensons savoir que les granules d'amidon pourraient bien avoir une enveloppe et que la couche intérieure est solide, insoluble dans l'eau, mais peut devenir soluble par l'action d'un acide étendu en se transformant d'abord en une substance gommeuse, la dextrine, qui peut, par un traitement ultérieur, être elle-même transformée en sucre.
+Après des recherches nombreuses et persévérantes, nous sommes enfin arrivé à ce résultat, que nous pensons savoir que
+les granules d'amidon pourraient bien avoir une enveloppe et que la couche intérieure est solide, insoluble dans l'eau,
+mais peut devenir soluble par l'action d'un acide étendu en se transformant d'abord en une substance gommeuse, la
+dextrine, qui peut, par un traitement ultérieur, être elle-même transformée en sucre.
 
-Payen considère les grains d'amidon comme un ensemble de petits sacs accolés les uns aux autres, qui présentent tous la même composition chimique et qui ne contiennent aucune matière soluble dans l'eau froide[^22]. La matière qui constitue ces sacs, peut, par l'action d'un acide, être transformée en dextrine. Cette manière d'envisager les granules d'amidon est à peu près celle qui avait déjà été proposée par Fritzsche en 1834[^23].
+Payen considère les grains d'amidon comme un ensemble de petits sacs accolés les uns aux autres, qui présentent tous la
+même composition chimique et qui ne contiennent aucune matière soluble dans l'eau froide[^22]. La matière qui constitue
+ces sacs, peut, par l'action d'un acide, être transformée en dextrine. Cette manière d'envisager les granules d'amidon
+est à peu près celle qui avait déjà été proposée par Fritzsche en 1834[^23].
 
-C'est une modification du même genre qui a lieu dans la germination des semences amylacées que l'on introduit dans le sol après les avoir humectées avec de l'eau.
+C'est une modification du même genre qui a lieu dans la germination des semences amylacées que l'on introduit dans le
+sol après les avoir humectées avec de l'eau.
 
-Mais la terre arable n'est pas nécessaire pour cela : on peut, en humectant la semence avec de l'eau, en la maintenant à un degré de chaleur convenable et en la laissant librement exposée au contact de l'air, lui faire subir artificiellement des modifications tout à fait identiques avec celles qu'elle subit dans le sol.
+Mais la terre arable n'est pas nécessaire pour cela : on peut, en humectant la semence avec de l'eau, en la maintenant à
+un degré de chaleur convenable et en la laissant librement exposée au contact de l'air, lui faire subir artificiellement
+des modifications tout à fait identiques avec celles qu'elle subit dans le sol.
 
-En ce qui concerne la dextrine, je me contenterai de faire le petit nombre d'observations qui suivent. La dextrine est une matière gommeuse, mais une matière gommeuse particulière. Vauquelin[^24], dans son analyse du froment, avait déjà observé que la matière gommeuse des grains n'est pas transformée par l'action de l'acide nitrique en acide mucique, mais qu'elle est transformée en acide oxalique et que, par conséquent, elle ne peut pas être rangée parmi les gommes. Depuis que l'on a appris à mieux connaître la dextrine, la constatation de sa présence dans le grain, dont on peut la retirer en traitant simplement le grain par l'eau, ne présente plus aucune difficulté ; en effet, sa dissolution aqueuse dévie à droite la lumière polarisée. Quoi qu'il en soit, nos connaissances chimiques relatives à la dextrine sont fort incomplètes. Rarement elle est pure : dans la plupart des cas, elle est mélangée avec d'autres substances et ne peut, par suite, qu'être mal caractérisée.
+En ce qui concerne la dextrine, je me contenterai de faire le petit nombre d'observations qui suivent. La dextrine est
+une matière gommeuse, mais une matière gommeuse particulière. Vauquelin[^24], dans son analyse du froment, avait déjà
+observé que la matière gommeuse des grains n'est pas transformée par l'action de l'acide nitrique en acide mucique, mais
+qu'elle est transformée en acide oxalique et que, par conséquent, elle ne peut pas être rangée parmi les gommes. Depuis
+que l'on a appris à mieux connaître la dextrine, la constatation de sa présence dans le grain, dont on peut la retirer
+en traitant simplement le grain par l'eau, ne présente plus aucune difficulté ; en effet, sa dissolution aqueuse dévie à
+droite la lumière polarisée. Quoi qu'il en soit, nos connaissances chimiques relatives à la dextrine sont fort
+incomplètes. Rarement elle est pure : dans la plupart des cas, elle est mélangée avec d'autres substances et ne peut,
+par suite, qu'être mal caractérisée.
 
-La propriété d'être transformée par l'acide nitrique en acide oxalique et non en acide mucique lui est commune avec les substances gommeuses que l'on obtient en traitant à chaud l'amidon par un acide ou bien en soumettant l'amidon à l'action d'une infusion de malt ; on désigne également ces substances sous le nom de dextrine, et on donne encore le même nom à une quatrième espèce de substance gommeuse que l'on obtient" par la simple torréfaction de l'amidon.
+La propriété d'être transformée par l'acide nitrique en acide oxalique et non en acide mucique lui est commune avec les
+substances gommeuses que l'on obtient en traitant à chaud l'amidon par un acide ou bien en soumettant l'amidon à
+l'action d'une infusion de malt ; on désigne également ces substances sous le nom de dextrine, et on donne encore le
+même nom à une quatrième espèce de substance gommeuse que l'on obtient" par la simple torréfaction de l'amidon.
 
-Il existe une très grande confusion en ce qui concerne les caractères que l'on attribue aux substances que l'on désigne sous le nom de dextrine. La manière dont ces matières se comportent à l'égard de l'iode, a donné lieu à des indications tout à fait différentes. Schlossberger[^25] désigne sous le nom de dextrine une substance qui est précipitée par le sous-acétate de plomb, tandis que, d'après Gerhardt[^26] la dextrine n'est pas précipitée par ce réactif. Une étude plus approfondie des réactions de cette substance est donc nécessaire ; dans la préparation de la bière, la dextrine joue un rôle capital et elle est un principe constituant de la bière. Dans l'examen de la bière, nous rencontrons trois sortes de dextrines : une première, qui fait partie du grain ; une deuxième, qui se produit par une forte torréfaction du grain, et une troisième, qui se produit par la transformation de l'amidon pendant la germination et pendant la macération.
+Il existe une très grande confusion en ce qui concerne les caractères que l'on attribue aux substances que l'on désigne
+sous le nom de dextrine. La manière dont ces matières se comportent à l'égard de l'iode, a donné lieu à des indications
+tout à fait différentes. Schlossberger[^25] désigne sous le nom de dextrine une substance qui est précipitée par le
+sous-acétate de plomb, tandis que, d'après Gerhardt[^26] la dextrine n'est pas précipitée par ce réactif. Une étude plus
+approfondie des réactions de cette substance est donc nécessaire ; dans la préparation de la bière, la dextrine joue un
+rôle capital et elle est un principe constituant de la bière. Dans l'examen de la bière, nous rencontrons trois sortes
+de dextrines : une première, qui fait partie du grain ; une deuxième, qui se produit par une forte torréfaction du
+grain, et une troisième, qui se produit par la transformation de l'amidon pendant la germination et pendant la
+macération.
 
-On ne peut reconnaître aucune différence entre la dextrine qui existe toute formée dans les grains et celle qui se produit par la transformation de l'amidon pendant la germination et la macération. Mais en est-il de même de la substance gommeuse que l'on obtient par la torréfaction du grain ? On la considère en général comme étant simplement identique avec les autres sortes de dextrine que nous avons indiquées ; mais elle en est essentiellement différente.
+On ne peut reconnaître aucune différence entre la dextrine qui existe toute formée dans les grains et celle qui se
+produit par la transformation de l'amidon pendant la germination et la macération. Mais en est-il de même de la
+substance gommeuse que l'on obtient par la torréfaction du grain ? On la considère en général comme étant simplement
+identique avec les autres sortes de dextrine que nous avons indiquées ; mais elle en est essentiellement différente.
 
 J'ajouterai seulement quelques mots relatifs à la préparation de cette dernière sorte de dextrine.
 
-À une température de 160°C à 180°C, l'empois à l'état humide est transformé très rapidement d'abord en dextrine, puis en sucre. Si l'on chauffe jusqu'à 195°C des grains d'amidon que l'on a préalablement desséchés en les maintenant pendant un temps suffisamment long à une température de 100°C, ils ne perdent plus que 1,7 pour 1000, et cette perte qui est, comme on le voit, très faible, n'est pas la conséquence d'une décomposition de l'amidon, mais elle provient d'une trace de matière étrangère qui se trouvait dans cet amidon et y était mélangée[^27].
+À une température de 160°C à 180°C, l'empois à l'état humide est transformé très rapidement d'abord en dextrine, puis en
+sucre. Si l'on chauffe jusqu'à 195°C des grains d'amidon que l'on a préalablement desséchés en les maintenant pendant un
+temps suffisamment long à une température de 100°C, ils ne perdent plus que 1,7 pour 1000, et cette perte qui est, comme
+on le voit, très faible, n'est pas la conséquence d'une décomposition de l'amidon, mais elle provient d'une trace de
+matière étrangère qui se trouvait dans cet amidon et y était mélangée[^27].
 
-D'après les expériences de Schwartz et de Rey[^28], la fécule de pommes de terre seule ne peut pas être transformée en substance gommeuse (léiocome) par la torréfaction, parce qu'elle se carbonise ainsi trop fortement ; cette assertion est cependant fausse, ainsi que nous le montrerons plus loin. On a, par suite, conseillé de faire bouillir préalablement l'amidon de pommes de terre avec de l'eau qui tient en dissolution 1/40 d'alun, de malaxer ensuite l'amidon dans cette liqueur, de le dessécher, puis de le torréfier à une température de 140 à 160°C. L'alun, qui est un sel présentant une réaction acide, paraît exercer la même action que la petite quantité d'acide nitrique au moyen de laquelle on peut transformer l'amidon de pommes de terre en dextrine.
+D'après les expériences de Schwartz et de Rey[^28], la fécule de pommes de terre seule ne peut pas être transformée en
+substance gommeuse (léiocome) par la torréfaction, parce qu'elle se carbonise ainsi trop fortement ; cette assertion est
+cependant fausse, ainsi que nous le montrerons plus loin. On a, par suite, conseillé de faire bouillir préalablement
+l'amidon de pommes de terre avec de l'eau qui tient en dissolution 1/40 d'alun, de malaxer ensuite l'amidon dans cette
+liqueur, de le dessécher, puis de le torréfier à une température de 140 à 160°C. L'alun, qui est un sel présentant une
+réaction acide, paraît exercer la même action que la petite quantité d'acide nitrique au moyen de laquelle on peut
+transformer l'amidon de pommes de terre en dextrine.
 
-Cependant, lorsqu'on opère en petit, l'addition d'alun n'est pas nécessaire : en chauffant simplement l'amidon de pommes de terre de la manière indiquée, on obtient une substance gommeuse aussi pure qu'on peut l'obtenir, de quelque manière que ce soit, par torréfaction.
+Cependant, lorsqu'on opère en petit, l'addition d'alun n'est pas nécessaire : en chauffant simplement l'amidon de
+pommes de terre de la manière indiquée, on obtient une substance gommeuse aussi pure qu'on peut l'obtenir, de quelque
+manière que ce soit, par torréfaction.
 
-Le meilleur mode d'opérer pour obtenir cette substance gommeuse est de chauffer l'amidon de pommes de terre au bain d'huile jusqu'à 196°C à 200°C, en ayant soin d'agiter continuellement. C'est seulement lorsque la température atteint ce degré que la substance cesse d'exercer sur l'iode sa réaction si caractéristique, et tant que cette réaction se produit, cela indique que la masse est encore mélangée d'amidon. L'amidon ne perd ici, comme nous l'avons déjà dit, que 1,7 pour 1000. La substance gommeuse que l'on obtient est de couleur jaune clair, et se dissout complètement et facilement dans l'eau.
+Le meilleur mode d'opérer pour obtenir cette substance gommeuse est de chauffer l'amidon de pommes de terre au bain
+d'huile jusqu'à 196°C à 200°C, en ayant soin d'agiter continuellement. C'est seulement lorsque la température atteint ce
+degré que la substance cesse d'exercer sur l'iode sa réaction si caractéristique, et tant que cette réaction se produit,
+cela indique que la masse est encore mélangée d'amidon. L'amidon ne perd ici, comme nous l'avons déjà dit, que 
+1,7 pour 1000. La substance gommeuse que l'on obtient est de couleur jaune clair, et se dissout complètement et
+facilement dans l'eau.
 
-Il était surtout essentiel, au point de vue qui nous occupe ici, de rechercher si cette substance gommeuse obtenue par torréfaction pouvait être transformée en sucre par l'action de l'infusion de malt, précisément de la même manière que la dextrine qui a été préparée par l'action de l'infusion de malt sur l'amidon. Nous avons fait cette expérience avec beaucoup de soin, et nous avons vu que la transformation de cette substance gommeuse en sucre ne s'opère que lentement et qu'elle n'est jamais complète. Si l'on fait digérer à 70°C ou 75°C une infusion de malt et une quantité égale d'une infusion de ce malt, dans laquelle il y ait en dissolution une certaine quantité de la substance gommeuse obtenue par torréfaction, on trouve encore dans cette dernière, après la digestion, une certaine quantité de substance gommeuse précipitable par l'alcool. Si l'on détermine au moyen de la dissolution cuivrique les quantités respectives du sucre, on trouve qu'il y a toujours moins de sucre que la quantité de substance gommeuse employée n'aurait dû en donner de plus que l'infusion de malt seule.
+Il était surtout essentiel, au point de vue qui nous occupe ici, de rechercher si cette substance gommeuse obtenue par
+torréfaction pouvait être transformée en sucre par l'action de l'infusion de malt, précisément de la même manière que la
+dextrine qui a été préparée par l'action de l'infusion de malt sur l'amidon. Nous avons fait cette expérience avec
+beaucoup de soin, et nous avons vu que la transformation de cette substance gommeuse en sucre ne s'opère que lentement
+et qu'elle n'est jamais complète. Si l'on fait digérer à 70°C ou 75°C une infusion de malt et une quantité égale d'une
+infusion de ce malt, dans laquelle il y ait en dissolution une certaine quantité de la substance gommeuse obtenue par
+torréfaction, on trouve encore dans cette dernière, après la digestion, une certaine quantité de substance gommeuse
+précipitable par l'alcool. Si l'on détermine au moyen de la dissolution cuivrique les quantités respectives du sucre, on
+trouve qu'il y a toujours moins de sucre que la quantité de substance gommeuse employée n'aurait dû en donner de plus
+que l'infusion de malt seule.
 
-Nous pouvons donc conclure de la que, lorsque la substance gommeuse obtenue par torréfaction donne encore naissance à la réaction bleue que produit l'amidon sur l'iode, comme celle que l'on produit en chauffant l'amidon de pommes de terre seul à 160°C, il paraît naturel qu'elle soit transformée en sucre par la diastase ; mais si la substance gommeuse obtenue par torréfaction ne présente plus la réaction de l'amidon, la diastase ne peut plus la transformer entièrement en sucre. Dans la préparation de la bière, une forte torréfaction du malt détermine donc la production d'une substance gommeuse dont une partie reste dissoute dans la liqueur sans se modifier et paraît se conserver ainsi en partie pendant le brassage et même dans la bière telle qu'elle avait été produite primitivement par la torréfaction ; mais il faut pour cela que la température à laquelle la matière gommeuse a été obtenue ait été suffisamment élevée pour qu'elle ait perdu entièrement le caractère de l'amidon en se transformant en une substance qui soit cependant complètement soluble dans l'eau et qui soit d'une couleur jaune clair ; on ne peut donc pas la considérer comme ayant été exposée à une température trop élevée.
+Nous pouvons donc conclure de la que, lorsque la substance gommeuse obtenue par torréfaction donne encore naissance à la
+réaction bleue que produit l'amidon sur l'iode, comme celle que l'on produit en chauffant l'amidon de pommes de terre
+seul à 160°C, il paraît naturel qu'elle soit transformée en sucre par la diastase ; mais si la substance gommeuse
+obtenue par torréfaction ne présente plus la réaction de l'amidon, la diastase ne peut plus la transformer entièrement
+en sucre. Dans la préparation de la bière, une forte torréfaction du malt détermine donc la production d'une substance
+gommeuse dont une partie reste dissoute dans la liqueur sans se modifier et paraît se conserver ainsi en partie pendant
+le brassage et même dans la bière telle qu'elle avait été produite primitivement par la torréfaction ; mais il faut pour
+cela que la température à laquelle la matière gommeuse a été obtenue ait été suffisamment élevée pour qu'elle ait perdu
+entièrement le caractère de l'amidon en se transformant en une substance qui soit cependant complètement soluble dans
+l'eau et qui soit d'une couleur jaune clair ; on ne peut donc pas la considérer comme ayant été exposée à une
+température trop élevée.
 
-La substance gommeuse obtenue par torréfaction, dont il vient d'être question et qui ne se transforme pas entièrement en sucre par l'action d'une infusion de malt, subit cette transformation en quelques instants par la digestion avec l'acide sulfurique. Je ne me suis cependant pas assuré par l'expérience si cette transformation était complète ; mais cela me paraît douteux.
+La substance gommeuse obtenue par torréfaction, dont il vient d'être question et qui ne se transforme pas entièrement en
+sucre par l'action d'une infusion de malt, subit cette transformation en quelques instants par la digestion avec l'acide
+sulfurique. Je ne me suis cependant pas assuré par l'expérience si cette transformation était complète ; mais cela me
+paraît douteux.
 
 On voit par là quelle influence une forte dessiccation du maïs peut avoir sur la qualité de la bière.
 
-Une question se présente ensuite à nous, celle de savoir si la doxtrine que l'on obtient en traitant l'amidon par une infusion de malt et celle que l'on obtient en traitant l'amidon par un acide ne sont qu'une même substance et quelles sont les propriétés qu'elle partage avec la substance gommeuse obtenue par torréfaction. La dernière question est évidemment d'une grande importance pour l'étude de la fabrication de la bière ! En effet, ainsi que nous le verrons plus tard, lorsqu'il sera question de l'analyse de la bière, on trouve dans la bière deux substances gommeuses : l'une qui est précipitable par le sous-acétate de plomb seul; l'autre qui n'est précipitable que par le sous-acétate de plomb et l'ammoniaque, précisément comme cela se présente dans le vin[^29] : dans le vin, il ne m'a du reste pas été possible de distinguer suffisamment ces deux sortes de substances gommeuses[^30].
+Une question se présente ensuite à nous, celle de savoir si la doxtrine que l'on obtient en traitant l'amidon par une
+infusion de malt et celle que l'on obtient en traitant l'amidon par un acide ne sont qu'une même substance et quelles
+sont les propriétés qu'elle partage avec la substance gommeuse obtenue par torréfaction. La dernière question est
+évidemment d'une grande importance pour l'étude de la fabrication de la bière ! En effet, ainsi que nous le verrons plus
+tard, lorsqu'il sera question de l'analyse de la bière, on trouve dans la bière deux substances gommeuses : l'une qui
+est précipitable par le sous-acétate de plomb seul ; l'autre qui n'est précipitable que par le sous-acétate de plomb et
+l'ammoniaque, précisément comme cela se présente dans le vin[^29] : dans le vin, il ne m'a du reste pas été possible de
+distinguer suffisamment ces deux sortes de substances gommeuses[^30].
 
 Bien que ce point mérite peut-être un examen plus approfondi, je me bornerai seulement à ce qui suit.
 
-On chauffe de l'empois de fécule de pommes de terre avec de l'acide sulfurique étendu jusqu'à ce que l'iode ne colore plus en bleu une portion du mélange que l'on essaie à plusieurs reprises ; on fait refroidir la liqueur aussi vite, que possible ; on sursature ensuite l'acide sulfurique par la baryte : on fait passer dans la liqueur de l'acide carbonique pour séparer l'excès de baryte ; on chauffe pour séparer le carbonate de baryte; on filtre; on évapore, on précipite par l'alcool, on recueille le précipité et on le lave avec de l'alcool pour séparer tout le sucre. La dextrine que l'on obtient ainsi est éminemment pure.
+On chauffe de l'empois de fécule de pommes de terre avec de l'acide sulfurique étendu jusqu'à ce que l'iode ne colore
+plus en bleu une portion du mélange que l'on essaie à plusieurs reprises ; on fait refroidir la liqueur aussi vite, que
+possible ; on sursature ensuite l'acide sulfurique par la baryte : on fait passer dans la liqueur de l'acide carbonique
+pour séparer l'excès de baryte ; on chauffe pour séparer le carbonate de baryte; on filtre ; on évapore, on précipite
+par l'alcool, on recueille le précipité et on le lave avec de l'alcool pour séparer tout le sucre. La dextrine que l'on
+obtient ainsi est éminemment pure.
 
-La fécule de pommes de terre a été aussi transformée en dextrine au moyen d'une infusion de malt d'orge que l'on avait préalablement rendue claire en la filtrant. Lorsque l'acide ne colorait plus en bleu une partie du mélange, on a fait bouillir la dissolution ; on a, évaporé ensuite au bain-marie, on a filtré et on a évaporé la liqueur filtrée jusqu'à consistance de sirop épais. Comme dans la préparation de la dextrine au moyen de l'acide sulfurique, on a séparé le sucre au moyen de l'alcool. La dextrine ainsi obtenue contient des traces des sels et des substances albumineuses du malt.
+La fécule de pommes de terre a été aussi transformée en dextrine au moyen d'une infusion de malt d'orge que l'on avait
+préalablement rendue claire en la filtrant. Lorsque l'acide ne colorait plus en bleu une partie du mélange, on a fait
+bouillir la dissolution ; on a, évaporé ensuite au bain-marie, on a filtré et on a évaporé la liqueur filtrée jusqu'à
+consistance de sirop épais. Comme dans la préparation de la dextrine au moyen de l'acide sulfurique, on a séparé le
+sucre au moyen de l'alcool. La dextrine ainsi obtenue contient des traces des sels et des substances albumineuses du
+malt.
 
-Les deux espèces de dextrines étaient préparées avec soin et d'une aussi grande pureté que possible. Leurs dissolutions aqueuses, par comparaison avec une dissolution de substance gommeuse obtenue par torréfaction, se comportaient de la manière suivante.
+Les deux espèces de dextrines étaient préparées avec soin et d'une aussi grande pureté que possible. Leurs dissolutions
+aqueuses, par comparaison avec une dissolution de substance gommeuse obtenue par torréfaction, se comportaient de la
+manière suivante.
 
-Une dissolution d'iode dans l'iodure de potassium ne colorait pas la dextrine I obtenue au moyen de l'infusion de malt ; mais elle faisait prendre une coloration d'un beau rouge foncé à la dextrine II obtenue au moyen de l'acide sulfurique et à la substance gommeuse III obtenue par torréfaction.
+Une dissolution d'iode dans l'iodure de potassium ne colorait pas la dextrine I obtenue au moyen de l'infusion de malt ;
+mais elle faisait prendre une coloration d'un beau rouge foncé à la dextrine II obtenue au moyen de l'acide sulfurique
+et à la substance gommeuse III obtenue par torréfaction.
 
 Le sous-acétate de plomb (bibasique) ne précipite que le I.
 
-Le sous-acétate de plomb (tribasique) ne produit, comme le précédent, aucun précipité avec le II, ni avec le III. Le précipité produit par ces deux réactifs avec le I se redissout dans un excès du précipitant.
+Le sous-acétate de plomb (tribasique) ne produit, comme le précédent, aucun précipité avec le II, ni avec le III. Le
+précipité produit par ces deux réactifs avec le I se redissout dans un excès du précipitant.
 
 Le chlorure d'étain ne produit de précipité dans aucun des trois.
 
-L'eau de baryte produit un précipité très abondant avec le III et un précipité très peu considérable avec les deux autres.
+L'eau de baryte produit un précipité très abondant avec le III et un précipité très peu considérable avec les deux
+autres.
 
 L'eau de chaux ne précipite aucun des trois (dans le I, il se précipite une partie des phosphates du malt).
 
 Le sulfate de sesquioxyde de fer ne produit de modification dans aucun des trois.
 
-Le nitrate de protoxyde de mercure ne produit aucune trace de précipité dans le II ; il précipite, au contraire, très abondamment les dissolutions concentrées de I et de III.
+Le nitrate de protoxyde de mercure ne produit aucune trace de précipité dans le II ; il précipite, au contraire, très
+abondamment les dissolutions concentrées de I et de III.
 
-L'acide tannique produit dans le I des traces de précipité (provenant de la matière albumineuse du malt) : dans le II et le III, il ne produit rien.
+L'acide tannique produit dans le I des traces de précipité (provenant de la matière albumineuse du malt) : dans le II et
+le III, il ne produit rien.
 
 Le silicate de potasse ne donne de précipité dans aucun des trois.
 
-La liqueur cuivrique d'épreuve est réduite par tous les trois : pour le I et II, il est nécessaire de chauffer pendant un temps un peu plus long que pour le sucre ; pour le III, il faut chauffer pendant un temps beaucoup plus long.
+La liqueur cuivrique d'épreuve est réduite par tous les trois : pour le I et II, il est nécessaire de chauffer pendant
+un temps un peu plus long que pour le sucre ; pour le III, il faut chauffer pendant un temps beaucoup plus long.
 
-Le nitrate d'argent ne produit de précipité dans aucun des trois (il faut cependant en excepter le I, dans lequel il se précipite une petite quantité de chlorure d'argent, à cause de la présence d'une petite quantité de chlorure de sodium provenant du malt).
+Le nitrate d'argent ne produit de précipité dans aucun des trois (il faut cependant en excepter le I, dans lequel il se
+précipite une petite quantité de chlorure d'argent, à cause de la présence d'une petite quantité de chlorure de sodium
+provenant du malt).
 
-Le chlorure d'or ne produit de précipité ni dans le I, ni dans le II, tandis qu'il détermine, dans une dissolution concentrée du III, un abondant précipité d'une belle couleur rouge-fleur-de-pêcher.
+Le chlorure d'or ne produit de précipité ni dans le I, ni dans le II, tandis qu'il détermine, dans une dissolution
+concentrée du III, un abondant précipité d'une belle couleur rouge-fleur-de-pêcher.
 
 Le borax n'exerce aucune action.
 
 En les faisant chauffer avec un acide, tous les trois se transforment en sucre de fruits.
 
-Si on les fait chauffer avec une dissolution de potasse, le I et le II se colorent d'abord en jaune, puis en brun ; pour le III. qui est déjà tant soit peu jaunâtre, on ne peut pas faire la même distinction.
+Si on les fait chauffer avec une dissolution de potasse, le I et le II se colorent d'abord en jaune, puis en brun ; pour
+le III. qui est déjà tant soit peu jaunâtre, on ne peut pas faire la même distinction.
 
-Lorsqu'on jette un coup d’œil sur ces réactions, on s'aperçoit que l'on est en présence de trois substances entièrement différentes que l'on a cependant désignées par un même nom : il est plus que temps de faire disparaître de la science la dénomination tout à fait peu convenable de dextrine et de faire cesser la confusion qui s'augmente de plus en plus par suite de l'emploi que l'on en fait.
+Lorsqu'on jette un coup d’œil sur ces réactions, on s'aperçoit que l'on est en présence de trois substances entièrement
+différentes que l'on a cependant désignées par un même nom : il est plus que temps de faire disparaître de la science la
+dénomination tout à fait peu convenable de dextrine et de faire cesser la confusion qui s'augmente de plus en plus par
+suite de l'emploi que l'on en fait.
 
-Gélis[^31] a trouvé, pour la composition de la substance C<sub>12</sub>H<sub>9</sub>O<sub>9</sub> gommeuse obtenue par torréfaction : lorsqu'elle est combinée avec la baryte, il lui attribue la composition suivante : C<sub>43</sub>H<sub>36</sub>O<sub>36</sub> + 2BaO ; lorsqu'elle est combinée avec l'oxyde de plomb, il lui attribue la composition suivante : C<sub>48</sub>H<sub>36</sub>O<sub>36</sub> + PbO.
+Gélis[^31] a trouvé, pour la composition de la substance C<sub>12</sub>H<sub>9</sub>O<sub>9</sub> gommeuse obtenue par
+torréfaction : lorsqu'elle est combinée avec la baryte, il lui attribue la composition suivante :
+C<sub>43</sub>H<sub>36</sub>O<sub>36</sub> + 2BaO ; lorsqu'elle est combinée avec l'oxyde de plomb, il lui attribue la
+composition suivante : C<sub>48</sub>H<sub>36</sub>O<sub>36</sub> + PbO.
 
-Dans ce qui va suivre, nous conserverons le nom de dextrine pour la substance gommeuse, provenant de l'amidon, que l'on obtient par l'action de l'agent transformateur contenu dans le malt sur l'amidon. La substance gommeuse obtenue par une forte torréfaction peut prendre le nom de gomme d'amidon torréfié, en comprenant surtout sous cette dénomination la portion de cette substance gommeuse qui, dans la macération du malt, ne passe pas à l'état de sucre et se conserve sans se modifier, même dans la bière.
+Dans ce qui va suivre, nous conserverons le nom de dextrine pour la substance gommeuse, provenant de l'amidon, que l'on
+obtient par l'action de l'agent transformateur contenu dans le malt sur l'amidon. La substance gommeuse obtenue par une
+forte torréfaction peut prendre le nom de gomme d'amidon torréfié, en comprenant surtout sous cette dénomination la
+portion de cette substance gommeuse qui, dans la macération du malt, ne passe pas à l'état de sucre et se conserve sans
+se modifier, même dans la bière.
 
-Balling[^32] distingue la dextrine de la gomme-dextrine. Ce que nous désignons par dextrine est pour lui de la gomme-dextrine. Sa dextrine se colore en bleu ou en violet par l'action de l'iode et n'est, par suite, que de l'amidon plus ou moins décomposé. En outre, elle est précipitée par l'acide tannique, ce qui ne se présente pas pour la dextrine bien préparée. Sa dextrine se produit exactement de la même manière que sa gomme-dextrine ; seulement, pour obtenir la dernière, on laisse l'action de la diastase ou des acides durer plus longtemps. Béchamp[^33] a donné récemment comme nouveau ce que Balling avait déjà indiqué depuis plusieurs années.
+Balling[^32] distingue la dextrine de la gomme-dextrine. Ce que nous désignons par dextrine est pour lui de la
+gomme-dextrine. Sa dextrine se colore en bleu ou en violet par l'action de l'iode et n'est, par suite, que de l'amidon
+plus ou moins décomposé. En outre, elle est précipitée par l'acide tannique, ce qui ne se présente pas pour la dextrine
+bien préparée. Sa dextrine se produit exactement de la même manière que sa gomme-dextrine ; seulement, pour obtenir la
+dernière, on laisse l'action de la diastase ou des acides durer plus longtemps. Béchamp[^33] a donné récemment comme
+nouveau ce que Balling avait déjà indiqué depuis plusieurs années.
 
-La distinction établie par Balling est exacte ; mais je pense qu'il serait bon de changer la dénomination qu'il indique. L'orge germée, soit qu'elle ait été ou non préalablement lavée avec de l'eau froide, ne donne, lorsqu'on la fait bouillir avec de l'eau, ni de l'empois, ni même une liqueur qui présente une certaine consistance, comme des quantités égales de farine d'orge ou de farine de froment en produisent, soit qu'elles aient été lavées ou non avec de l'eau froide, lorsqu'on les fait bouillir pendant le même temps avec la même quantité d'eau. L'amidon, dans le grain germé, a donc subi une modification essentielle : il est resté insoluble dans l'eau froide et il a également conservé la réaction sur l'iode, mais il ne forme plus d'empois lorsque la germination a duré assez longtemps.
+La distinction établie par Balling est exacte ; mais je pense qu'il serait bon de changer la dénomination qu'il indique.
+L'orge germée, soit qu'elle ait été ou non préalablement lavée avec de l'eau froide, ne donne, lorsqu'on la fait
+bouillir avec de l'eau, ni de l'empois, ni même une liqueur qui présente une certaine consistance, comme des quantités
+égales de farine d'orge ou de farine de froment en produisent, soit qu'elles aient été lavées ou non avec de l'eau
+froide, lorsqu'on les fait bouillir pendant le même temps avec la même quantité d'eau. L'amidon, dans le grain germé, a
+donc subi une modification essentielle : il est resté insoluble dans l'eau froide et il a également conservé la réaction
+sur l'iode, mais il ne forme plus d'empois lorsque la germination a duré assez longtemps.
 
-On pourrait donner à cette substance le nom d'*amylodextrine* pour indiquer la transition de l'amidon à la dextrine, c'est-à-dire à une substance qui n'est plus colorée en bleu par l'action de l'iode. Je conserverai cependant dans ce traité, à cette substance, le nom d'amidon, et je laisserai au mot dextrine la signification qu'on lui attribue généralement. — Entre la cellulose, si difficilement attaquable, que l'on retire des fruits à noyaux par l'action de la potasse et par une purification ultérieure, et le sucre incristallisable. qui devient déjà brun lorsqu'on le fait chauffer à 60° avec des substances albumineuses, et que l'on rencontre, notamment dans l'orge germée, ainsi que dans un grand nombre de sucs végétaux, entre ces deux points extrêmes, il existe peut-être une centaine de substances différentes pour lesquelles nous avons seulement les noms de cellulose, d'amidon, d'inuline, de mucilage, de gomme, de dextrine, et les noms des différentes sortes de sucres[^34]. Une étude comparative de ces substances présenterait une grande importance. C'est sur les différentes espèces de sucres que nous avons les connaissances les plus étendues, tandis que c'est sur les différentes sortes de celluloses que nous en savons le moins. En ce qui concerne la grande différence qui existe entre les nombreuses sortes d'amidons, nous ne sommes que peu éclairés, même après les nombreuses recherches des chimistes français. Il en est de même pour les nombreuses espèces de gommes et de mucilages.
+On pourrait donner à cette substance le nom d'*amylodextrine* pour indiquer la transition de l'amidon à la dextrine,
+c'est-à-dire à une substance qui n'est plus colorée en bleu par l'action de l'iode. Je conserverai cependant dans ce
+traité, à cette substance, le nom d'amidon, et je laisserai au mot dextrine la signification qu'on lui attribue
+généralement. — Entre la cellulose, si difficilement attaquable, que l'on retire des fruits à noyaux par l'action de la
+potasse et par une purification ultérieure, et le sucre incristallisable. qui devient déjà brun lorsqu'on le fait
+chauffer à 60° avec des substances albumineuses, et que l'on rencontre, notamment dans l'orge germée, ainsi que dans un
+grand nombre de sucs végétaux, entre ces deux points extrêmes, il existe peut-être une centaine de substances
+différentes pour lesquelles nous avons seulement les noms de cellulose, d'amidon, d'inuline, de mucilage, de gomme, de
+dextrine, et les noms des différentes sortes de sucres[^34]. Une étude comparative de ces substances présenterait une
+grande importance. C'est sur les différentes espèces de sucres que nous avons les connaissances les plus étendues,
+tandis que c'est sur les différentes sortes de celluloses que nous en savons le moins. En ce qui concerne la grande
+différence qui existe entre les nombreuses sortes d'amidons, nous ne sommes que peu éclairés, même après les nombreuses
+recherches des chimistes français. Il en est de même pour les nombreuses espèces de gommes et de mucilages.
 
-Je dois m'en tenir ici à la désignation qui, d'après l'état actuel de la science exprime le caractère général de la substance; il serait impossible d'établir ici en passant une distinction qui ait quelque valeur.
+Je dois m'en tenir ici à la désignation qui, d'après l'état actuel de la science exprime le caractère général de la
+substance; il serait impossible d'établir ici en passant une distinction qui ait quelque valeur.
 
-Mais je n'ai pas voulu laisser croire que, aux dénominations d'amidon, de dextrine et de sucre indiqués ici, vînt se rattacher seulement la représentation de trois substances parfaitement définies, et ce qui m'a engagé à faire cette observation, ce sont les indications que donne Balling[^35] sur la dextrine et la gomme-dextrine.
+Mais je n'ai pas voulu laisser croire que, aux dénominations d'amidon, de dextrine et de sucre indiqués ici, vînt se
+rattacher seulement la représentation de trois substances parfaitement définies, et ce qui m'a engagé à faire cette
+observation, ce sont les indications que donne Balling[^35] sur la dextrine et la gomme-dextrine.
 
-Il y a déjà longtemps que Proust[^36] avait signalé le caractère particulier de l'amidon que l'on rencontre dans l'orge et dans le froment transformés en malt. Proust avait dit que, lorsqu'on traite par l'eau bouillante la farine de grains maltés ou non maltés, après en avoir séparé préalablement au moyen de l'eau froide les parties constituantes solubles, on obtient avec la farine provenant de grains non maltés un empois d'une autre consistance qu'avec la farine de grains maltés. Dans le dernier cas, l'empois est transparent tant qu'il est chaud : après le refroidissement, il est blanchâtre. Il ne devient pas épais comme cela arrive ordinairement pour l'empois ; mais il reste liquide et ne prend même pas plus de consistance lorsqu'on le concentre, mais se comporte alors plutôt comme un extrait gommeux transparent.
+Il y a déjà longtemps que Proust[^36] avait signalé le caractère particulier de l'amidon que l'on rencontre dans l'orge
+et dans le froment transformés en malt. Proust avait dit que, lorsqu'on traite par l'eau bouillante la farine de grains
+maltés ou non maltés, après en avoir séparé préalablement au moyen de l'eau froide les parties constituantes solubles,
+on obtient avec la farine provenant de grains non maltés un empois d'une autre consistance qu'avec la farine de grains
+maltés. Dans le dernier cas, l'empois est transparent tant qu'il est chaud : après le refroidissement, il est
+blanchâtre. Il ne devient pas épais comme cela arrive ordinairement pour l'empois ; mais il reste liquide et ne prend
+même pas plus de consistance lorsqu'on le concentre, mais se comporte alors plutôt comme un extrait gommeux transparent.
 
 Ces observations, dont on peut facilement reconnaître l'exactitude, démontrent l'existence d'un état intermédiaire entre l'amidon et la dextrine, état intermédiaire auquel le premier passerait par la germination. On peut du reste voir l'amidon subir instantanément cette transformation. Si l'on ajoute, à la température ordinaire, une infusion de malt, claire, froide, à un empois de fécule de pommes de terre bien épais, l'empois devient liquide en peu de minutes : mais il n'y existe pas encore de dextrine.
 

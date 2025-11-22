@@ -158,7 +158,7 @@ qui est du reste conforme avec l'opinion de Péligot qui avait signalé l'absenc
 Lorsque nous émettons l'opinion qu'il n'existe pas, dans le grain, de sucre tout formé, nous devons avant tout dirige
 notre attention sur une petite quantité de sucre qui paraît se comporter comme du sucre de canne, ainsi que d'une autre
 matière de saveur douceâtre qui, à l'apparence, paraît identique avec
-la[glycyrrhizine](https://fr.wikipedia.org/wiki/Acide_glycyrrhizique "Wikipedia"), et qui ont été trouvées toutes les
+la [glycyrrhizine](https://fr.wikipedia.org/wiki/Acide_glycyrrhizique "Wikipedia"), et qui ont été trouvées toutes les
 deux par Millon[^4] dans le son du froment.
 
 Les expériences d'Oudemans ont donné sur ce sujet les résultats suivants : après avoir moulu en poudre fine l'orge, le
@@ -174,13 +174,13 @@ réduction instantanée et si l'on considère la substance qui a déterminé la 
 obtient pour cent, dans chacune des espèces de grains indiquées :
 
 <figure markdown='1'>
-  <table>
-    <tr><th>Source         </th><th>Sucre </th></tr>
-    <tr><td>Dans le froment</td><td>0,22%</td></tr>
-    <tr><td>Dans l'orge    </td><td>0,19%</td></tr>
-    <tr><td>Dans le seigle </td><td>0,08%</td></tr>
-    <tr><td>Dans l'avoine  </td><td>0,12%</td></tr>
-  </table>
+<table>
+<tr><th>Source         </th><th>Sucre </th></tr>
+<tr><td>Dans le froment</td><td>0,22%</td></tr>
+<tr><td>Dans l'orge    </td><td>0,19%</td></tr>
+<tr><td>Dans le seigle </td><td>0,08%</td></tr>
+<tr><td>Dans l'avoine  </td><td>0,12%</td></tr>
+</table>
 </figure>
 
 Le maximum s'élève donc dans le grain à 0,002.

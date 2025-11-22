@@ -1,5 +1,5 @@
 ---
-Title: Chapitre 4 
+Title: Chapitre 4
 Description: Maltage ou préparation du Malt.
 Menu: Chap.  4 
 ---
@@ -220,11 +220,11 @@ d'eau ; celles de l'expérience *b*, 20%. Desséchées à 100°C, elles ont donn
 
 <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
   <table style="width: 100%">
-  <tr><td>                         </td><th>  a   </th><th>  b   </th></tr>
-  <tr><th> Fibre ligneuse          </th><td> 18,3 </td><td> 23,6 </td></tr>
-  <tr><th> Substances non azotées  </th><td> 48,8 </td><td> 39,6 </td></tr>
-  <tr><th> Substances azotées      </th><td> 25,5 </td><td> 28,6 </td></tr>
-  <tr><th> Cendres                 </th><td> 7,3  </td><td> 8,0  </td></tr>
+    <tr><td>                         </td><th>  a   </th><th>  b   </th></tr>
+    <tr><th> Fibre ligneuse          </th><td> 18,3 </td><td> 23,6 </td></tr>
+    <tr><th> Substances non azotées  </th><td> 48,8 </td><td> 39,6 </td></tr>
+    <tr><th> Substances azotées      </th><td> 25,5 </td><td> 28,6 </td></tr>
+    <tr><th> Cendres                 </th><td> 7,3  </td><td> 8,0  </td></tr>
   </table>
 </figure>
 
@@ -463,20 +463,20 @@ en un grand nombre de jours : nous avons besoin seulement de connaître les mét
 en germination jusqu'au moment où la radicule a atteint 1 fois 1/4 à 1 fois 1/2 la longueur du grain, et où la plumule
 n'est pas même visible.
 
-<a name="Boussingault">Boussingault</a>[^15] a fait des recherches sur ce sujet. Tout ce qu'il a trouvé, c'est « une
+<a name="Boussingault">Boussingault</a>[^15] a fait des recherches sur ce sujet. Tout ce qu'il a trouvé, c'est « une
 perte des éléments de l'oxyde de carbone que subit la semence, et une absorption de l'oxygène de l'air suffisante pour
-qu'il se produise de l'acide carbonique. »
+qu'il se produise de l'acide carbonique. »
 
 Des grains de froment sur lesquels les mêmes expériences ont été répétées ont donné des résultats analogues. Mais il
 n'en était ainsi que dans la première période de la germination. Aussitôt que la plumule a commencé à se montrer et est
 devenue verte, elle détermine, comme toutes les parties vertes des plantes, une décomposition de l'acide carbonique
 existant, et il devient alors impossible de se rendre compte de ce qui avait réellement eu lieu dans la germination.
 
-Il est convenable de parler ici des modifications que les grains ont subies dans la germination : je veux parler des
+Il est convenable de parler ici des modifications que les grains ont subies dans la germination: je veux parler des
 modifications de substances en tant qu'elles concernent les parties constituantes des grains qui ont le plus
 d'importance relativement à la fabrication de la bière.
 
-Les connaissances que la science actuelle a recueillies sur ce sujet sont excessivement peu considérables : aucune
+Les connaissances que la science actuelle a recueillies sur ce sujet sont excessivement peu considérables: aucune
 portion de la physiologie végétale n'a été plus négligée que celle-là. Tout ce que nous connaissons sur ce sujet, est
 résumé dans ce qui va suivre.
 
@@ -485,12 +485,12 @@ l'orge non germée, les nombres suivants (je réunis ensemble l'hordéine avec l
 
 <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
   <table style="width: 100%;">
-  <tr><td>                                </td><th>Orge<br/>non germée.</th><th>Orge<br/>germée.</th></tr>
-  <tr><th> Amidon et matières cellulaires </th><td> 87                 </td><td> 68             </td></tr>
-  <tr><th> Sucre                          </th><td> 5                  </td><td> 15             </td></tr>
-  <tr><th> Dextrine                       </th><td> 4                  </td><td> 15             </td></tr>
-  <tr><th> Glutine et mucine              </th><td> 3                  </td><td> 1              </td></tr>
-  <tr><th> Résine jaune                   </th><td> 1                  </td><td> 1              </td></tr>
+    <tr><td>                                </td><th>Orge<br/>non germée.</th><th>Orge<br/>germée.</th></tr>
+    <tr><th> Amidon et matières cellulaires </th><td> 87                 </td><td> 68             </td></tr>
+    <tr><th> Sucre                          </th><td> 5                  </td><td> 15             </td></tr>
+    <tr><th> Dextrine                       </th><td> 4                  </td><td> 15             </td></tr>
+    <tr><th> Glutine et mucine              </th><td> 3                  </td><td> 1              </td></tr>
+    <tr><th> Résine jaune                   </th><td> 1                  </td><td> 1              </td></tr>
   </table>
 </figure>
 
@@ -500,7 +500,7 @@ ils ont été obtenus dans les deux cas par la même méthode.
 La dextrine, dont il se trouvait déjà une petite quantité dans l'orge, a visiblement augmenté de poids par la
 germination.
 
-*Froment*. — D'après Théodore de Saussure[^16] le froment subit, en germant, les modifications suivantes :
+*Froment*. — D'après Théodore de Saussure[^16] le froment subit, en germant, les modifications suivantes:
 
 <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
   <table style="width: 100%;">
@@ -549,7 +549,7 @@ tard, lorsque la plumule commence à se développer plus complètement, il en es
   </table>
 </figure>
 
-Si nous ramenons ces résultats à ce qu'ils seraient pour 100, les substances 
+Si nous ramenons ces résultats à ce qu'ils seraient pour 100, les substances
 étant supposées sèches, nous obtiendrons :
 
 <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
@@ -571,13 +571,10 @@ Par l'examen de ces nombres, nous voyons :
 1. Que, dans la germination de l'orge, ou bien il se produit une quantité très peu considérable de sucre, ou bien une
    très petite quantité seulement du sucre qui s'est formé reste dans le malt : c'est là certainement une particularité
    digne de remarque.
-
 2. Que la quantité de dextrine déjà préexistante dans la semence a augmenté presque de moitié par la germination : cette
    dextrine est en voie de se transformer en sucre, mais n'est pas encore du sucre.
-
 3. Que la quantité d'amidon contenue dans la semence a diminué d'environ 1/7, mais que la quantité de dextrine et de
    sucre n'a pas augmenté dans la même proportion.
-
 4. Que la quantité des matières cellulaires a beaucoup augmenté et s'est élevée de 9,6 à 14,4 ; 14,4 — 9,6 = 4,8. Cette
    quantité se trouve par hasard précisément égale à la moitié de 9,6 : la quantité des matières cellulaires s'est donc
    élevée de 2 à 3. — Ce résultat présente, pour la préparation de la bière, une certaine importance au point de vue
@@ -593,7 +590,8 @@ Par l'examen de ces nombres, nous voyons :
    des conséquences à en tirer pour l'étude des différentes phases de la germination, et cela n'a aucun inconvénient au
    point de vue des conséquences à en tirer pour l'étude de la fabrication de la bière.
 
-   En faisant la somme des 4 substances non azotées, de nature analogue, qui sont contenues dans le grain et dans le malt,
+   En faisant la somme des 4 substances non azotées, de nature analogue, qui sont contenues dans le grain et dans le
+   malt,
    on obtient :
 
     <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
@@ -607,14 +605,12 @@ Par l'examen de ces nombres, nous voyons :
       </table>
     </figure>
 
-    Nous voyons qu'il y a eu une diminution qui est de 82,2 - 81,0 = 1,2 : il y a donc diminution, et cette diminution
-    est la conséquence de ce que l'on devrait désigner à présent sous le nom de « respiration de la semence pendant la
-    germination » et qui consiste en une absorption d'oxygène et une production simultanée d'acide carbonique et d'eau,
-    provenant d'une oxydation d'une partie de l'amidon qui s'était transformé d'abord en dextrine, puis en sucre.
-
+   Nous voyons qu'il y a eu une diminution qui est de 82,2 - 81,0 = 1,2 : il y a donc diminution, et cette diminution
+   est la conséquence de ce que l'on devrait désigner à présent sous le nom de « respiration de la semence pendant la
+   germination » et qui consiste en une absorption d'oxygène et une production simultanée d'acide carbonique et d'eau,
+   provenant d'une oxydation d'une partie de l'amidon qui s'était transformé d'abord en dextrine, puis en sucre.
 5. Que la quantité de matière grasse a diminué pendant la germination ; 2,6 - 2,2 = 0,4 ; et que cette diminution
    s'élève à peu près au 1/6 de la quantité totale de la matière grasse contenue primitivement dans le grain.
-
 6. En ce qui concerne l'augmentation de la quantité des substances albumineuses qui s'est élevée de 12,1 à 13,6, j'y
    reviendrai plus tard avec détail après avoir étudié préalablement les résultats obtenus avec les autres espèces de
    grains que l'on emploie le plus habituellement pour la préparation de la bière.
@@ -642,7 +638,7 @@ d'orge.
   </table>
 </figure>
 
-Si nous ramenons ces résultats à ce qu'ils seraient pour 100, les substances étant supposées sèches, nous obtiendrons :
+Si nous ramenons ces résultats à ce qu'ils seraient pour 100, les substances étant supposées sèches, nous obtiendrons:
 
 <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
   <table style="width: 100%;">
@@ -660,14 +656,15 @@ Si nous ramenons ces résultats à ce qu'ils seraient pour 100, les substances �
 
 Par la comparaison de ces nombres, nous voyons :
 
-1. Qu'il s'est produit dans la germination 2 pour 100 de sucre, par conséquent une quantité plus grande que dans l'orge ;
+1. Qu'il s'est produit dans la germination 2 pour 100 de sucre, par conséquent une quantité plus grande que dans
+   l'orge ;
 2. Que la dextrine, dans le malt de froment, s'est élevée de près de la moitié par rapport à celle contenue dans le
-   grain non germé ;
-3. Que la quantité de l'amidon a diminué de 1/9 par la germination ;
-4. Que la quantité des matières cellulaires a augmenté de 1/3 par la germination : en effet 9,8 - 7,4 = 2,4, et
+   grain non germé ;
+3. Que la quantité de l'amidon a diminué de 1/9 par la germination ;
+4. Que la quantité des matières cellulaires a augmenté de 1/3 par la germination: en effet 9,8 - 7,4 = 2,4, et
    3 x 2,4 = 7,2 ou presque 7,4.
 
-   Totalisons ensemble les matières cellulaires, l'amidon, la dextrine et le sucre, et nous aurons :
+   Totalisons ensemble les matières cellulaires, l'amidon, la dextrine et le sucre, et nous aurons:
 
    <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
      <table style="width: 100%;">
@@ -683,8 +680,7 @@ Par la comparaison de ces nombres, nous voyons :
    Ainsi, nous retrouvons entre le froment et le malt de froment une différence en moins comme entre l'orge et le malt
    d'orge.
 
-5. Que la quantité des matières grasses n'a subi dans ce cas aucune diminution ;
-
+5. Que la quantité des matières grasses n'a subi dans ce cas aucune diminution ;
 6. Que la quantité des substances albumineuses s'est élevée de 13,9 à 14,5.
 
 ## Seigle.
@@ -704,7 +700,7 @@ Par la comparaison de ces nombres, nous voyons :
   </table>
 </figure>
 
-Si nous ramenons ces résultats à ce qu'ils seraient pour 100, les substances étant supposées sèches, nous obtiendrons :
+Si nous ramenons ces résultats à ce qu'ils seraient pour 100, les substances étant supposées sèches, nous obtiendrons:
 
 <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
   <table style="width: 100%;">
@@ -729,7 +725,7 @@ De l'examen de ces nombres, il résulte :
 4. Que la quantité des matières cellulaires s'est au contraire élevée de 9,4 à 14,4, c'est-à-dire qu'elle est montée à 5
    en plus de 9,4 : elle a donc passé de 2 à 3.
 
-   Les matières cellulaires, la dextrine, l'amidon et le sucre, réunis ensemble, donnent :
+   Les matières cellulaires, la dextrine, l'amidon et le sucre, réunis ensemble, donnent:
 
    <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
       <table style="width: 100%;">
@@ -742,8 +738,8 @@ De l'examen de ces nombres, il résulte :
       </table>
     </figure>
 
-   Pour le seigle aussi, la somme de ces substances a diminué comme pour l'orge et pour le froment. 
-5. Que la quantité de matière grasse n'a pas diminué. 
+   Pour le seigle aussi, la somme de ces substances a diminué comme pour l'orge et pour le froment.
+5. Que la quantité de matière grasse n'a pas diminué.
 6. Que la quantité des substances albumineuses a augmenté.
 
 ## Avoine.
@@ -763,7 +759,7 @@ De l'examen de ces nombres, il résulte :
   </table>
 </figure>
 
-Si nous ramenons ces nombres à ce qu'ils seraient pour 100, les substances étant supposées sèches, nous obtiendrons :
+Si nous ramenons ces nombres à ce qu'ils seraient pour 100, les substances étant supposées sèches, nous obtiendrons:
 
 <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
   <table style="width: 100%;">
@@ -783,7 +779,7 @@ Nous voyons également ici :
 
 1. Qu'il s'est produit du sucre par la germination, mais seulement 0,5%.
 2. Que la dextrine a monté de 2 à 3.
-3. Que la quantité d'amidon a diminué d'environ 1/5. 
+3. Que la quantité d'amidon a diminué d'environ 1/5.
 4. Que la quantité des matières cellulaires s'est élevée de 2 à 3.
 
    La somme de ces quatre substances est :
@@ -799,9 +795,9 @@ Nous voyons également ici :
      </table>
    </figure>
 
-   Ou environ autant dans le malt que dans le grain. 
+   Ou environ autant dans le malt que dans le grain.
 
-5. Que la quantité de matière grasse a diminué. 
+5. Que la quantité de matière grasse a diminué.
 6. Que la quantité des substances albumineuses a augmenté.
 
 Après avoir ainsi examiné les résultats obtenus pour chaque grain en particulier, nous pensons qu'il n'est pas hors de
@@ -905,7 +901,7 @@ la manière suivante :
 </figure>
 
 Par l'inspection de ces chiffres, nous reconnaissons que, pour les quatre espèces de grains, la somme des quatre
-substances non azotées diminue pendant la germination et que cette diminution s'élève :
+substances non azotées diminue pendant la germination et que cette diminution s'élève:
 
 <figure markdown='1' style="width: 33%; margin-left: auto; margin-right: auto;">
   <table style="width: 100%">
@@ -932,7 +928,7 @@ pendant la germination, et, d'autre part, <sup>1</sup>/<sub>17</sub> de ces mêm
 transformation de l'amidon en cellulose insoluble, en sorte que, dans la fabrication de la bière, 18% des parties
 constituantes non azotées utiles du grain sont soustraits par la germination à la consommation de l'homme.
 
-Si à cela nous ajoutons que, parmi les principes constituants du grain après sa germination, il ne se trouve que peu de
+Si à cela, nous ajoutons que, parmi les principes constituants du grain après sa germination, il ne se trouve que peu de
 sucre et qu'il ne s'est formé par la germination qu'une petite quantité de dextrine qui soit susceptible de se
 transformer en sucre, il nous sera facile de reconnaître que ce n'est pas dans la transformation des principes non
 azotés par la germination que nous devons chercher l'utilité de la germination préalable du grain que l'on veut employer
@@ -1015,7 +1011,7 @@ C'est un fait généralement connu que l'amidon, lorsqu'on le traite à chaud pa
 acide, en y comprenant même l'acide nitrique, se transforme en dextrine et que, en continuant à faire agir l'acide sur
 la dextrine, on transforme cette dernière en sucre de fruits.
 
-Amidon = C<sub>12</sub>H<sub>10</sub>O<sub>10</sub> ; dextrine = C<sub>12</sub>H<sub>10</sub>O<sub>10</sub> ; 
+Amidon = C<sub>12</sub>H<sub>10</sub>O<sub>10</sub> ; dextrine = C<sub>12</sub>H<sub>10</sub>O<sub>10</sub> ;
 sucre de fruits = C<sub>12</sub>H<sub>14</sub>O<sub>10</sub>. Pour qu'il se produise du sucre, il faut par conséquent
 qu'il se combine de l'eau ; pour qu'il se forme de la dextrine et du sucre, il faut qu'il se produise une transformation
 chimique de molécules, dont nous ne pouvons nous faire aucune idée, puisque nous ne connaissons ni la nature de leurs
@@ -1060,7 +1056,7 @@ le nom d'amidin, mais qu'il nommait amidin soluble pour le différencier de l'au
 
 Suivant ce chimiste, 100 parties de granules d'amidon contenaient 97,04 de substances solubles et 2,96 de substances
 insolubles, c'est-à-dire 97,04 d'amidin soluble et 2,96 d'amidin tégumentaire. Guérin-Varry, non content de cela,
-représentait l'analyse élémentaire du grain comme donnant les résultats suivants :
+représentait l'analyse élémentaire du grain comme donnant les résultats suivants:
 
 <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
   <table style="width: 100%">
@@ -1143,7 +1139,7 @@ manière que ce soit, par torréfaction.
 Le meilleur mode d'opérer pour obtenir cette substance gommeuse est de chauffer l'amidon de pommes de terre au bain
 d'huile jusqu'à 196°C à 200°C, en ayant soin d'agiter continuellement. C'est seulement lorsque la température atteint ce
 degré que la substance cesse d'exercer sur l'iode sa réaction si caractéristique, et tant que cette réaction se produit,
-cela indique que la masse est encore mélangée d'amidon. L'amidon ne perd ici, comme nous l'avons déjà dit, que 
+cela indique que la masse est encore mélangée d'amidon. L'amidon ne perd ici, comme nous l'avons déjà dit, que
 1,7 pour 1000. La substance gommeuse que l'on obtient est de couleur jaune clair, et se dissout complètement et
 facilement dans l'eau.
 
@@ -1309,181 +1305,467 @@ maltés. Dans le dernier cas, l'empois est transparent tant qu'il est chaud : ap
 blanchâtre. Il ne devient pas épais comme cela arrive ordinairement pour l'empois ; mais il reste liquide et ne prend
 même pas plus de consistance lorsqu'on le concentre, mais se comporte alors plutôt comme un extrait gommeux transparent.
 
-Ces observations, dont on peut facilement reconnaître l'exactitude, démontrent l'existence d'un état intermédiaire entre l'amidon et la dextrine, état intermédiaire auquel le premier passerait par la germination. On peut du reste voir l'amidon subir instantanément cette transformation. Si l'on ajoute, à la température ordinaire, une infusion de malt, claire, froide, à un empois de fécule de pommes de terre bien épais, l'empois devient liquide en peu de minutes : mais il n'y existe pas encore de dextrine.
+Ces observations, dont on peut facilement reconnaître l'exactitude, démontrent l'existence d'un état intermédiaire entre
+l'amidon et la dextrine, état intermédiaire auquel le premier passerait par la germination. On peut du reste voir
+l'amidon subir instantanément cette transformation. Si l'on ajoute, à la température ordinaire, une infusion de malt,
+claire, froide, à un empois de fécule de pommes de terre bien épais, l'empois devient liquide en peu de minutes : mais
+il n'y existe pas encore de dextrine.
 
-C'est un fait bien connu que, pour opérer la transformation des grains d'amidon en un état intermédiaire entre l'amidon et la matière gommeuse, il n'est pas besoin d'aucune autre substance. L'empois est déjà un premier état intermédiaire. Par l'action de l'eau chaude, les grains d'amidon se boursouflent et se transforment en empois. Mais si l'on fait bouillir ce dernier pendant quelque temps, il perd de plus en plus son caractère spécial, ne s'épaissit plus par le refroidissement et se rapproche toujours de plus en plus par ses propriétés de l'amylo-dextrine de Balling. Si l'on continue ensuite à faire bouillir, toute la masse se transforme enfin en dextrine, puis en sucre.
+C'est un fait bien connu que, pour opérer la transformation des grains d'amidon en un état intermédiaire entre l'amidon
+et la matière gommeuse, il n'est pas besoin d'aucune autre substance. L'empois est déjà un premier état intermédiaire.
+Par l'action de l'eau chaude, les grains d'amidon se boursouflent et se transforment en empois. Mais si l'on fait
+bouillir ce dernier pendant quelque temps, il perd de plus en plus son caractère spécial, ne s'épaissit plus par le
+refroidissement et se rapproche toujours de plus en plus par ses propriétés de l'amylo-dextrine de Balling. Si l'on
+continue ensuite à faire bouillir, toute la masse se transforme enfin en dextrine, puis en sucre.
 
-La chaleur seule peut par conséquent opérer la transformation de l'amidon en sucre, et, d'autre part, une température suffisante pour déterminer sa torréfaction peut transformer l'amidon en une espèce de substance gommeuse qui, bien que différant essentiellement de la dextrine en ce qu'elle ne peut se transformer aussi facilement que cette dernière en sucre, est cependant une véritable gomme qui a complètement perdu le caractère de l'amidon.
+La chaleur seule peut par conséquent opérer la transformation de l'amidon en sucre, et, d'autre part, une température
+suffisante pour déterminer sa torréfaction peut transformer l'amidon en une espèce de substance gommeuse qui, bien que
+différant essentiellement de la dextrine en ce qu'elle ne peut se transformer aussi facilement que cette dernière en
+sucre, est cependant une véritable gomme qui a complètement perdu le caractère de l'amidon.
 
-En outre, l'eau chaude peut, surtout à une température de 72°C, transformer les grains d'amidon en empois. Cela présente de l'importance au point de vue de la fabrication de la bière, puisque, dans la macération, c'est précisément à cette température qu'on opère, et que l'amidon se transforme précisément en empois avant de passer à l'état de dextrine et de sucre.
+En outre, l'eau chaude peut, surtout à une température de 72°C, transformer les grains d'amidon en empois. Cela présente
+de l'importance au point de vue de la fabrication de la bière, puisque, dans la macération, c'est précisément à cette
+température qu'on opère, et que l'amidon se transforme précisément en empois avant de passer à l'état de dextrine et de
+sucre.
 
-Balling[^37] a communiqué des faits relatifs à la transformation de l'amidon en sucre, qui paraissent avoir un certain degré d'importance ; il dit notamment qu'on n'obtient pas autant de sucre, ni autant de dextrine que le calcul l'indique. Si l'on emploie la diastase comme agent de transformation, on obtient, suivant Balling, de l'acide lactique, et si on emploie de l'acide sulfurique comme agent de transformation, on obtient de l'acide formique, en sorte que, dans la préparation de la bière, on n'obtient pas une quantité de principes utiles aussi grande que celle que l'on devrait retirer de la quantité d'orge employée. Ces faits présentent d'autant plus d'importance que 100 parties d'amidon (l'amidon étant ramené par le calcul à l'état sec est représenté par C<sub>12</sub>H<sub>10</sub>O<sub>10</sub>=2025 qui représente également la dextrine à l'état sec) donnent 111,11 de sucre de fruits sec, représenté par la formule C<sub>12</sub>H<sub>12</sub>O<sub>12</sub>=2250. De Saussure a trouvé 110,15 et Brunner 107,01 de sucre de fruits par le traitement de 100 parties d'amidon, et cette différence peut, du moins en ce qui concerne le résultat obtenu par De Saussure, être considérée comme comprise dans les limites d'erreur que donne l'expérience.
+Balling[^37] a communiqué des faits relatifs à la transformation de l'amidon en sucre, qui paraissent avoir un certain
+degré d'importance ; il dit notamment qu'on n'obtient pas autant de sucre, ni autant de dextrine que le calcul
+l'indique. Si l'on emploie la diastase comme agent de transformation, on obtient, suivant Balling, de l'acide lactique,
+et si on emploie de l'acide sulfurique comme agent de transformation, on obtient de l'acide formique, en sorte que, dans
+la préparation de la bière, on n'obtient pas une quantité de principes utiles aussi grande que celle que l'on devrait
+retirer de la quantité d'orge employée. Ces faits présentent d'autant plus d'importance que 100 parties d'amidon (
+l'amidon étant ramené par le calcul à l'état sec est représenté par C<sub>12</sub>H<sub>10</sub>O<sub>10</sub>=2025 qui
+représente également la dextrine à l'état sec) donnent 111,11 de sucre de fruits sec, représenté par la formule C<sub>
+12</sub>H<sub>12</sub>O<sub>12</sub>=2250. De Saussure a trouvé 110,15 et Brunner 107,01 de sucre de fruits par le
+traitement de 100 parties d'amidon, et cette différence peut, du moins en ce qui concerne le résultat obtenu par De
+Saussure, être considérée comme comprise dans les limites d'erreur que donne l'expérience.
 
-D'après Balling, les résultats en grand ne sont pas d'accord avec ceux que nous venons de donner. 100 parties d'amidon de pommes de terre bien desséché ne donnent, par leur transformation en dextrine et en sucre, que 100 parties d'extrait composé de 1/3 de dextrine et de 2/3 de sucre de fruits.
+D'après Balling, les résultats en grand ne sont pas d'accord avec ceux que nous venons de donner. 100 parties d'amidon
+de pommes de terre bien desséché ne donnent, par leur transformation en dextrine et en sucre, que 100 parties d'extrait
+composé de 1/3 de dextrine et de 2/3 de sucre de fruits.
 
-D'autre part, 100 parties de fécule de pommes de terre bien desséchée ne donnent, par leur transformation au moyen de l'acide sulfurique, que 91,5 de sucre.
+D'autre part, 100 parties de fécule de pommes de terre bien desséchée ne donnent, par leur transformation au moyen de
+l'acide sulfurique, que 91,5 de sucre.
 
-On doit cependant faire observer que Balling a déterminé ses produits à l'état d'extraits, et que, si, dans le traitement par l'acide sulfurique, il se révèle une certaine quantité d'acide formique volatil, la différence qui s'accuse dans le traitement par l'infusion de malt, reste toujours inexpliquée, puisque, suivant Balling, il se forme alors de l'acide lactique. L'acide lactique n'est pas volatil ; il devrait par suite se produire une augmentation de la quantité d'extrait.
+On doit cependant faire observer que Balling a déterminé ses produits à l'état d'extraits, et que, si, dans le
+traitement par l'acide sulfurique, il se révèle une certaine quantité d'acide formique volatil, la différence qui
+s'accuse dans le traitement par l'infusion de malt, reste toujours inexpliquée, puisque, suivant Balling, il se forme
+alors de l'acide lactique. L'acide lactique n'est pas volatil ; il devrait par suite se produire une augmentation de la
+quantité d'extrait.
 
-Balling déclare que, dans aucun cas, il n'a retiré de l'amidon, dans la préparation de la bière, une quantité d'extrait plus grande que 100 pour 100 et qu'il n'a jamais obtenu 111 pour 100, quelque grande que puisse être la quantité de dextrine produite : en admettant par exemple qu'il se soit formé des quantités égales de dextrine et de sucre, 100 parties d'amidon bien sec devraient donner 105,5 de dextrine et de sucre de fruits, tous deux supposés secs ; mais, suivant Balling, on obtient seulement 100.
+Balling déclare que, dans aucun cas, il n'a retiré de l'amidon, dans la préparation de la bière, une quantité d'extrait
+plus grande que 100 pour 100 et qu'il n'a jamais obtenu 111 pour 100, quelque grande que puisse être la quantité de
+dextrine produite : en admettant par exemple qu'il se soit formé des quantités égales de dextrine et de sucre, 100
+parties d'amidon bien sec devraient donner 105,5 de dextrine et de sucre de fruits, tous deux supposés secs ; mais,
+suivant Balling, on obtient seulement 100.
 
-Ce point mériterait un examen plus approfondi. L'expérience prouve que, si l'on transforme l'amidon de pommes de terre en dextrine et en sucre au moyen de l'acide sulfurique et si l'on fait bouillir fortement le tout, le produit de la distillation ne contient pas d'acide formique. Si, toutefois, il s'en forme dans une période plus avancée de la réaction, : cet acide formique est un produit de la transformation du sucre en acide humique, ainsi que je l'ai montré il y a déjà longtemps[^38]. En ce qui concerne l'acide lactique, nous savons qu'il s'en produit toujours des traces lorsqu'un agent de transformation agit sur l'amidon ; mais la quantité d'acide lactique qui se produit n'est en aucune manière suffisante pour pouvoir exercer une influence quelconque sur le poids de la matière obtenue.
+Ce point mériterait un examen plus approfondi. L'expérience prouve que, si l'on transforme l'amidon de pommes de terre
+en dextrine et en sucre au moyen de l'acide sulfurique et si l'on fait bouillir fortement le tout, le produit de la
+distillation ne contient pas d'acide formique. Si, toutefois, il s'en forme dans une période plus avancée de la
+réaction, : cet acide formique est un produit de la transformation du sucre en acide humique, ainsi que je l'ai montré
+il y a déjà longtemps[^38]. En ce qui concerne l'acide lactique, nous savons qu'il s'en produit toujours des traces
+lorsqu'un agent de transformation agit sur l'amidon ; mais la quantité d'acide lactique qui se produit n'est en aucune
+manière suffisante pour pouvoir exercer une influence quelconque sur le poids de la matière obtenue.
 
-Dans deux expériences, Oudemans a trouvé que 100 parties d'amidon de pommes de terre, considéré comme tout à fait sec, ont donné, par l'action de l'acide sulfurique, 108,3 et 109 de sucre de fruits : la différence avec le nombre 111,1 peut être considérée comme provenant tant des impuretés contenues dans l'amidon de pommes de terre, qui contient toujours une petite quantité de substance albumineuse, que de l'expérience même.
+Dans deux expériences, Oudemans a trouvé que 100 parties d'amidon de pommes de terre, considéré comme tout à fait sec,
+ont donné, par l'action de l'acide sulfurique, 108,3 et 109 de sucre de fruits : la différence avec le nombre 111,1 peut
+être considérée comme provenant tant des impuretés contenues dans l'amidon de pommes de terre, qui contient toujours une
+petite quantité de substance albumineuse, que de l'expérience même.
 
-En ce qui concerne la production même du sucre dans le traitement de l'amidon par l'infusion de malt, et notamment en ce qui a rapport à la question de savoir si une certaine quantité de dextrine est mélangée avec le sucre ou si la liqueur est devenue acide, nous croyons devoir faire observer que la transformation complète de l'amidon en sucre par l'action de l'infusion de malt est impossible.
+En ce qui concerne la production même du sucre dans le traitement de l'amidon par l'infusion de malt, et notamment en ce
+qui a rapport à la question de savoir si une certaine quantité de dextrine est mélangée avec le sucre ou si la liqueur
+est devenue acide, nous croyons devoir faire observer que la transformation complète de l'amidon en sucre par l'action
+de l'infusion de malt est impossible.
 
-De même qu'il existe des substances qui viennent prendre place entre l'amidon et la dextrine, de même il en existe qui viennent se ranger entre la dextrine et le sucre. On sait que l'on a désigné sous le nom de dextrine-sucre, tantôt un mélange de dextrine et de sucre, tantôt une substance tout autre. Ventzke a exposé les caractères et les propriétés d'une dextrine-sucre qui ne déviait pas la lumière polarisée à gauche comme la glucose, mais qui la déviait à droite et qui, en admettant toutefois qu'elle fût pure, devrait venir se ranger entre la dextrine et le sucre de raisin. Cette dextrinesucre n'était du reste pas cristallisable.
+De même qu'il existe des substances qui viennent prendre place entre l'amidon et la dextrine, de même il en existe qui
+viennent se ranger entre la dextrine et le sucre. On sait que l'on a désigné sous le nom de dextrine-sucre, tantôt un
+mélange de dextrine et de sucre, tantôt une substance tout autre. Ventzke a exposé les caractères et les propriétés
+d'une dextrine-sucre qui ne déviait pas la lumière polarisée à gauche comme la glucose, mais qui la déviait à droite et
+qui, en admettant toutefois qu'elle fût pure, devrait venir se ranger entre la dextrine et le sucre de raisin. Cette
+dextrinesucre n'était du reste pas cristallisable.
 
-Dans l'organisme animal, nous retrouvons d'autres substances qui viennent plutôt prendre place entre l'amidon et la dextrine qu'entre la dextrine et le sucre : telle est par exemple la matière glycogène de Bernard ; mais l'examen de ces substances ne rentre pas dans le sujet dont nous nous occupons ici.
+Dans l'organisme animal, nous retrouvons d'autres substances qui viennent plutôt prendre place entre l'amidon et la
+dextrine qu'entre la dextrine et le sucre : telle est par exemple la matière glycogène de Bernard ; mais l'examen de ces
+substances ne rentre pas dans le sujet dont nous nous occupons ici.
 
-La transformation de l'amidon en dextrine, puis en sucre, dans la semence en germination, a pour point de départ, ainsi qu'on l'admet généralement, la modification d'une substance albumineuse et s'étend ensuite de cette substance à l'amidon. Ce dernier est ainsi transformé en dextrine qui se dissout dans l'eau et cette dextrine, se modifiant ensuite elle-même, passe à l'état de sucre. Par l'action de la substance albumineuse dont il vient d'être question, la transformation s'opère à une température bien moins élevée que par l'action d'un acide étendu. Tandis que, en employant un acide, il faut chauffer à une température voisine de l'ébullition de l'eau ou même à la température de l'ébullition de l'eau, suivant que l'acide est concentré ou étendu, la substance albumineuse détermine, dans la semence en germination, la même transformation à la température ordinaire de l'air à l'époque du printemps : c'est ce que nous apprend du reste la germination des semences à cette époque de l'année.
+La transformation de l'amidon en dextrine, puis en sucre, dans la semence en germination, a pour point de départ, ainsi
+qu'on l'admet généralement, la modification d'une substance albumineuse et s'étend ensuite de cette substance à
+l'amidon. Ce dernier est ainsi transformé en dextrine qui se dissout dans l'eau et cette dextrine, se modifiant ensuite
+elle-même, passe à l'état de sucre. Par l'action de la substance albumineuse dont il vient d'être question, la
+transformation s'opère à une température bien moins élevée que par l'action d'un acide étendu. Tandis que, en employant
+un acide, il faut chauffer à une température voisine de l'ébullition de l'eau ou même à la température de l'ébullition
+de l'eau, suivant que l'acide est concentré ou étendu, la substance albumineuse détermine, dans la semence en
+germination, la même transformation à la température ordinaire de l'air à l'époque du printemps : c'est ce que nous
+apprend du reste la germination des semences à cette époque de l'année.
 
-En outre, la substance albumineuse n'opère pas la transformation de l'amidon en dextrine, puis en sucre, de la même manière que l'acide. L'acide ne subit aucune modification : la matière albumineuse ne détermine la transformation qu'en se modifiant elle-même : la transformation de l'amidon en dextrine, puis en sucre, est une conséquence de la transformation, de la décomposition de la matière albumineuse.
+En outre, la substance albumineuse n'opère pas la transformation de l'amidon en dextrine, puis en sucre, de la même
+manière que l'acide. L'acide ne subit aucune modification : la matière albumineuse ne détermine la transformation qu'en
+se modifiant elle-même : la transformation de l'amidon en dextrine, puis en sucre, est une conséquence de la
+transformation, de la décomposition de la matière albumineuse.
 
-À certains égards, nous pouvons rapprocher de ce fait la transformation de la salicine en saligénine et en glucose, celle de l'amygdaline en essence d'amandes amères, acide prussique, acide formique, sucre et eau, qui se produit par l'action des substances albumineuses, ainsi que la transformation du sucre en alcool, et les considérer comme des exemples du même mode de transformation. Nous pourrions citer des centaines d'exemples analogues, sans que cela servît à apporter au fait même plus d'éclaircissements qu'il ne s'en trouve dans l'exposé général que Sthal nous a donné « des molécules en mouvement ».
+À certains égards, nous pouvons rapprocher de ce fait la transformation de la salicine en saligénine et en glucose,
+celle de l'amygdaline en essence d'amandes amères, acide prussique, acide formique, sucre et eau, qui se produit par
+l'action des substances albumineuses, ainsi que la transformation du sucre en alcool, et les considérer comme des
+exemples du même mode de transformation. Nous pourrions citer des centaines d'exemples analogues, sans que cela servît à
+apporter au fait même plus d'éclaircissements qu'il ne s'en trouve dans l'exposé général que Sthal nous a donné « des
+molécules en mouvement ».
 
-Cette substance albumineuse, qui opère la transformation de l'amidon en dextrine, puis en sucre, ne paraît pas préexister dans la semence ; mais elle paraît avoir dû seulement s'y former : elle se distingue, par ce caractère, de l'émulsine qui décompose instantanément l'amygdaline dès qu'elle se trouve en contact avec de l'eau. L'émulsine préexiste donc tant dans les amandes douces que dans les amandes amères.  
--— Il paraît en être autrement de la matière albumineuse qui transforme, dans les grains, l'amidon en dextrine, puis en sucre. Si l'on humecte le grain avec de l'eau, la transformation de l'amidon ne s'y opère pas immédiatement : il faut du moins qu'un certain temps se soit écoulé, avant que la transformation ait bien pris son cours régulier.
+Cette substance albumineuse, qui opère la transformation de l'amidon en dextrine, puis en sucre, ne paraît pas
+préexister dans la semence ; mais elle paraît avoir dû seulement s'y former : elle se distingue, par ce caractère, de
+l'émulsine qui décompose instantanément l'amygdaline dès qu'elle se trouve en contact avec de l'eau. L'émulsine
+préexiste donc tant dans les amandes douces que dans les amandes amères. — Il paraît en être autrement de la matière
+albumineuse qui transforme, dans les grains, l'amidon en dextrine, puis en sucre. Si l'on humecte le grain avec de
+l'eau, la transformation de l'amidon ne s'y opère pas immédiatement : il faut du moins qu'un certain temps se soit
+écoulé, avant que la transformation ait bien pris son cours régulier.
 
-Mais combien de temps faut-il pour cela ? On se tromperait si l'on pensait que la substance albumineuse dont il est ici question n'existe dans le grain que lorsque la germination a atteint un certain degré, et je pense qu'il n'est pas besoin non plus de m'arrêter à l'opinion actuellement admise que la diastase, c'est-à-dire la matière qui opère la transformation de l'amidon en sucre, prend naissance dans le grain pendant la germination.
+Mais combien de temps faut-il pour cela ? On se tromperait si l'on pensait que la substance albumineuse dont il est ici
+question n'existe dans le grain que lorsque la germination a atteint un certain degré, et je pense qu'il n'est pas
+besoin non plus de m'arrêter à l'opinion actuellement admise que la diastase, c'est-à-dire la matière qui opère la
+transformation de l'amidon en sucre, prend naissance dans le grain pendant la germination.
 
-C'est précisément le contraire qui paraît avoir lieu. La germination a lieu parce qu'il se produit dans le grain préalablement humecté une substance qui transforme l'amidon en dextrine, puis en sucre, et qui fait en même temps germer la semence. Si on met de l'orge sous l'eau et si on la laisse se ramollir, il se produit au bout de quelque temps de la dextrine sans que l'on puisse observer encore la plus petite trace de germination. Je ne prétends pas qu'il n'y avait eu là aucun commencement de germination, mais je prétends que, si la production de la dextrine ne précède pas la germination, ces deux phénomènes marchent du moins de front. La production de la dextrine précède du reste toujours la production du sucre.
+C'est précisément le contraire qui paraît avoir lieu. La germination a lieu parce qu'il se produit dans le grain
+préalablement humecté une substance qui transforme l'amidon en dextrine, puis en sucre, et qui fait en même temps germer
+la semence. Si on met de l'orge sous l'eau et si on la laisse se ramollir, il se produit au bout de quelque temps de la
+dextrine sans que l'on puisse observer encore la plus petite trace de germination. Je ne prétends pas qu'il n'y avait eu
+là aucun commencement de germination, mais je prétends que, si la production de la dextrine ne précède pas la
+germination, ces deux phénomènes marchent du moins de front. La production de la dextrine précède du reste toujours la
+production du sucre.
 
-On a pesé deux doses de grains d'orge, chacune de 25 grammes : l'une a été humectée par un séjour de 24 heures sous l'eau ; l'autre a été maintenue sèche. Après 24 heures, on les a moulues en farine très fine, puis on les a fait digérer pendant une heure avec une même quantité d'eau froide[^39] et on a essayé au moyen de la liqueur cuivrique d'épreuve la liqueur filtrée. Pour décomposer la même quantité de liqueur cuivrique d'épreuve, il fallait huit parties de l'infusion aqueuse de grain humecté et neuf parties d'infusion aqueuse de grain non humecté. Il s'était donc produit de la dextrine par le mouillage avant que la germination fût commencée.
+On a pesé deux doses de grains d'orge, chacune de 25 grammes : l'une a été humectée par un séjour de 24 heures sous
+l'eau ; l'autre a été maintenue sèche. Après 24 heures, on les a moulues en farine très fine, puis on les a fait digérer
+pendant une heure avec une même quantité d'eau froide[^39] et on a essayé au moyen de la liqueur cuivrique d'épreuve la
+liqueur filtrée. Pour décomposer la même quantité de liqueur cuivrique d'épreuve, il fallait huit parties de l'infusion
+aqueuse de grain humecté et neuf parties d'infusion aqueuse de grain non humecté. Il s'était donc produit de la dextrine
+par le mouillage avant que la germination fût commencée.
 
-On ne peut pas prétendre ici que, les grains étant sous l'eau, l'oxygène n'a pas eu accès. En effet, en mettant le grain sous l'eau et sous le récipient d'une pompe à air, on peut s'assurer que le grain contient une grande quantité d'air. En outre il y a de l'air dans l'eau.
+On ne peut pas prétendre ici que, les grains étant sous l'eau, l'oxygène n'a pas eu accès. En effet, en mettant le grain
+sous l'eau et sous le récipient d'une pompe à air, on peut s'assurer que le grain contient une grande quantité d'air. En
+outre il y a de l'air dans l'eau.
 
-En ce qui concerne la durée de temps qui doit s'écouler avant qu'il commence à se produire de la diastase, on ne peut pas la déterminer; mais on n'est certainement pas éloigné de la vérité lorsqu'on admet qu'il commence à s'en former à partir du moment où on commence à humecter le grain. Son développement ultérieur paraît marcher de front avec la production de la dextrine et du sucre dans la semence en germination, du moins jusqu'à un certain point : à partir de ce point, il y a diminution.
+En ce qui concerne la durée de temps qui doit s'écouler avant qu'il commence à se produire de la diastase, on ne peut
+pas la déterminer ; mais on n'est certainement pas éloigné de la vérité lorsqu'on admet qu'il commence à s'en former
+à partir du moment où on commence à humecter le grain. Son développement ultérieur paraît marcher de front avec la
+production de la dextrine et du sucre dans la semence en germination, du moins jusqu'à un certain point : à partir de ce
+point, il y a diminution.
 
-Il existe donc une différence relative, mais non une différence essentielle entre la production de l'émulsine dans les amandes amères de la diastase dans les semences en germination, comme l'orge par exemple. Dans l'orge à partir du moment où l'on commence à humecter le grain, il se produit de la dextrine, puis du sucre; elle doit, par conséquent, contenir un agent qui soit susceptible de déterminer la transformation de l'amidon.
+Il existe donc une différence relative, mais non une différence essentielle entre la production de l'émulsine dans les
+amandes amères de la diastase dans les semences en germination, comme l'orge par exemple. Dans l'orge à partir du moment
+où l'on commence à humecter le grain, il se produit de la dextrine, puis du sucre ; elle doit, par conséquent, contenir
+un agent qui soit susceptible de déterminer la transformation de l'amidon.
 
-Quel est ici le _primum agens_ ? Ce point est encore obscur. L'hypothèse qui paraît se rapprocher le plus de la vérité, est que l'amidon qui se trouve, à partir de la maturité du grain, de l'orge par exemple, en contact avec une réunion complexe de substances albumineuses, au nombre de cinq dans l'orge, ainsi que nous l'avons vu p. 28, exerce une action décomposante sur une ou plusieurs de ces substances albumineuses, dès que l'eau peut avoir accès ; que, réciproquement, ces dernières, en présence de l'eau, exercent sur l'amidon une action de transformation, et qu'il se produit ici quelque chose d'analogue à l'action réciproque du sucre et de la levure : on sait en effet que, en présence de l'eau, le sucre opère la décomposition de la levure et que la levure opère la décomposition du sucre. Dans la même hypothèse, on admet en outre que, conformément à ce qui a lieu dans la fermentation alcoolique, les deux substances, l'amidon et la substance albumineuse, sont toutes deux attaquées et toutes deux altérées, et enfin que, de même que dans la fermentation dans laquelle il y a en même temps destruction de ferment et production de nouveau ferment, il y a aussi dans le grain en germination, destruction de la soi-disant diastase et production d'une quantité nouvelle de soi-disant diastase.
+Quel est ici le _primum agens_ ? Ce point est encore obscur. L'hypothèse qui paraît se rapprocher le plus de la vérité,
+est que l'amidon qui se trouve, à partir de la maturité du grain, de l'orge par exemple, en contact avec une réunion
+complexe de substances albumineuses, au nombre de cinq dans l'orge, ainsi que nous l'avons vu p. 28, exerce une action
+décomposante sur une ou plusieurs de ces substances albumineuses, dès que l'eau peut avoir accès ; que, réciproquement,
+ces dernières, en présence de l'eau, exercent sur l'amidon une action de transformation, et qu'il se produit ici quelque
+chose d'analogue à l'action réciproque du sucre et de la levure : on sait en effet que, en présence de l'eau, le sucre
+opère la décomposition de la levure et que la levure opère la décomposition du sucre. Dans la même hypothèse, on admet
+en outre que, conformément à ce qui a lieu dans la fermentation alcoolique, les deux substances, l'amidon et la
+substance albumineuse, sont toutes deux attaquées et toutes deux altérées, et enfin que, de même que dans la
+fermentation dans laquelle il y a en même temps destruction de ferment et production de nouveau ferment, il y a aussi
+dans le grain en germination, destruction de la soi-disant diastase et production d'une quantité nouvelle de soi-disant
+diastase.
 
-Suivons donc la manière ordinaire d'exposer les phénomènes et admettons, pour ne donner lieu à aucune confusion de langage, que la transformation de l'amidon a pour point de départ l'action d'une substance albumineuse ; tout en faisant observer qu'il est très possible aussi que la modification de la substance albumineuse ait son point de départ dans la modification de l'amidon : il paraît du reste très probable que la formation ou la décomposition d'une nouvelle substance albumineuse et la transformation de l'amidon sont le résultat d'une action réciproque, et qu'il n'y a pas de _primum agens_. Mais l'idée d'un _primum agens_ est encore trop profondément enracinée dans la chimie actuelle pour qu'on puisse y rien changer. Et cependant, dans la science des actions réciproques, dans la chimie, cette idée est un non-sens absolu.
+Suivons donc la manière ordinaire d'exposer les phénomènes et admettons, pour ne donner lieu à aucune confusion de
+langage, que la transformation de l'amidon a pour point de départ l'action d'une substance albumineuse ; tout en faisant
+observer qu'il est très possible aussi que la modification de la substance albumineuse ait son point de départ dans la
+modification de l'amidon : il paraît du reste très probable que la formation ou la décomposition d'une nouvelle
+substance albumineuse et la transformation de l'amidon sont le résultat d'une action réciproque, et qu'il n'y a pas de
+_primum agens_. Mais l'idée d'un _primum agens_ est encore trop profondément enracinée dans la chimie actuelle pour
+qu'on puisse y rien changer. Et cependant, dans la science des actions réciproques, dans la chimie, cette idée est un
+non-sens absolu.
 
-La substance qui se forme dans le grain, et à laquelle on attribue la propriété indiquée, a été désignée sous un nom spécial, et Bien qu'on n'ait pas pu l'obtenir à l'état pur, on lui a reconnu une existence propre : on a en outre admis qu'elle se trouvait surtout dans le grain germé.
+La substance qui se forme dans le grain, et à laquelle on attribue la propriété indiquée, a été désignée sous un nom
+spécial, et Bien qu'on n'ait pas pu l'obtenir à l'état pur, on lui a reconnu une existence propre : on a en outre admis
+qu'elle se trouvait surtout dans le grain germé.
 
-Telle est à peu près la manière dont la question se trouve exposée, bien qu'à tort, dans les annales de la science actuelle. En effet, on a trouvé, ainsi que nous croyons devoir le faire remarquer avant tout, dans des substances très différentes et notamment dans les substances animales, un groupement organique ou même des groupements organiques qui jouissent au plus haut degré de la propriété d'effectuer la transformation de l'amidon et qui possèdent même cette propriété à un degré encore plus élevé que l'agent modificateur de l'amidon qui se trouve dans les grains germés, et surtout dans l'orge germée, et que l'on a désigné sous un nom spécial ; mais de plus, toutes les parties albumineuses paraissent, dans certaines circonstances, jouir de la propriété d'effectuer la transformation de l'amidon. Nous ne devons donc plus considérer l'expression d'agent de transformation de l'amidon dans le sens restreint qui lui avait été attribué d'abord ; mais si nous voulons examiner la chose à un point de vue plus conforme à la vérité, nous devons lui attribuer une signification plus étendue.
+Telle est à peu près la manière dont la question se trouve exposée, bien qu'à tort, dans les annales de la science
+actuelle. En effet, on a trouvé, ainsi que nous croyons devoir le faire remarquer avant tout, dans des substances très
+différentes et notamment dans les substances animales, un groupement organique ou même des groupements organiques qui
+jouissent au plus haut degré de la propriété d'effectuer la transformation de l'amidon et qui possèdent même cette
+propriété à un degré encore plus élevé que l'agent modificateur de l'amidon qui se trouve dans les grains germés, et
+surtout dans l'orge germée, et que l'on a désigné sous un nom spécial ; mais de plus, toutes les parties albumineuses
+paraissent, dans certaines circonstances, jouir de la propriété d'effectuer la transformation de l'amidon. Nous ne
+devons donc plus considérer l'expression d'agent de transformation de l'amidon dans le sens restreint qui lui avait été
+attribué d'abord ; mais si nous voulons examiner la chose à un point de vue plus conforme à la vérité, nous devons lui
+attribuer une signification plus étendue.
 
-Nous commencerons d'abord par procéder en peu de mots à l'examen de l'espèce spéciale d'agent modificateur qui existe dans les grains germés, comme on l'admet encore actuellement en général dans la science, pour partir ensuite de là et faire ressortir celles de ses propriétés qui sont susceptibles de généralisation[^39].
+Nous commencerons d'abord par procéder en peu de mots à l'examen de l'espèce spéciale d'agent modificateur qui existe
+dans les grains germés, comme on l'admet encore actuellement en général dans la science, pour partir ensuite de là et
+faire ressortir celles de ses propriétés qui sont susceptibles de généralisation[^39].
 
-*Diastase.* —- Cette substance qui, ainsi qu'on l'admet en général actuellement, se produit dans les semences par la germination, a été l'objet de recherches faites par Payen et Persoz. Mais Kirchhoff avait, dès 1812, indiqué ses propriétés d'une manière qui, bien que moins exclusive à notre avis (ainsi que nous le montrerons plus loin), est assez précise pour que l'on puisse lui attribuer l'honneur d'avoir découvert qu'il existe dans le grain une petite quantité d'une substance qui jouit de la propriété que nous avons indiquée.
+*Diastase.* —- Cette substance qui, ainsi qu'on l'admet en général actuellement, se produit dans les semences par la
+germination, a été l'objet de recherches faites par Payen et Persoz. Mais Kirchhoff avait, dès 1812, indiqué ses
+propriétés d'une manière qui, bien que moins exclusive à notre avis (ainsi que nous le montrerons plus loin), est assez
+précise pour que l'on puisse lui attribuer l'honneur d'avoir découvert qu'il existe dans le grain une petite quantité
+d'une substance qui jouit de la propriété que nous avons indiquée.
 
-Le nom qui a été donné à cette substance par Payen et Persoz, vient du mot grec διάστασις, séparation, division ; en effet, Payen et Persoz pensaient que cette substance déterminait la rupture 2 des couches insolubles qui enveloppent le grain d'amidon. Nous avons déjà réfuté cette opinion p. 90; nous n'avons donc pas besoin de revenir ici sur ce sujet.
+Le nom qui a été donné à cette substance par Payen et Persoz, vient du mot grec διάστασις, séparation, division ; en
+effet, Payen et Persoz pensaient que cette substance déterminait la rupture 2 des couches insolubles qui enveloppent le
+grain d'amidon. Nous avons déjà réfuté cette opinion p. 90; nous n'avons donc pas besoin de revenir ici sur ce sujet.
 
-Cette substance est caractérisée par la faculté de transformer l'amidon en dextrine, puis en sucre, faculté qu'elle possède au plus haut degré. En effet, 2000 parties d'amidon peuvent, à une température de 60 à 75°C, être transformées en dextrine par l'action d'une partie de diastase et en sucre par l'action de deux parties de diastase.
+Cette substance est caractérisée par la faculté de transformer l'amidon en dextrine, puis en sucre, faculté qu'elle
+possède au plus haut degré. En effet, 2000 parties d'amidon peuvent, à une température de 60 à 75°C, être transformées
+en dextrine par l'action d'une partie de diastase et en sucre par l'action de deux parties de diastase.
 
-Cette substance existe, suivant Payen et Persoz, dans les grains germés ainsi que dans les rudiments des jeunes radicelles, mais n'existe pas dans la plumule. On l'obtient en écrasant et en comprimant avec un peu d'eau le grain malté, l'orge maltée par exemple. On ajoute ensuite de l'alcool à la liqueur pour précipiter l'albumine et la gomme qui peuvent s'y trouver et on filtre. En ajoutant ensuite une quantité encore plus grande d'alcool, on précipite la diastase.
+Cette substance existe, suivant Payen et Persoz, dans les grains germés ainsi que dans les rudiments des jeunes
+radicelles, mais n'existe pas dans la plumule. On l'obtient en écrasant et en comprimant avec un peu d'eau le grain
+malté, l'orge maltée par exemple. On ajoute ensuite de l'alcool à la liqueur pour précipiter l'albumine et la gomme qui
+peuvent s'y trouver et on filtre. En ajoutant ensuite une quantité encore plus grande d'alcool, on précipite la
+diastase.
 
-On la dissout dans l'eau ; on la précipite de nouveau par l'alcool et on dessèche enfin le précipité à une température de 35 à 45°C.
+On la dissout dans l'eau ; on la précipite de nouveau par l'alcool et on dessèche enfin le précipité à une température
+de 35 à 45°C.
 
-Il est à peine besoin de faire remarquer que cette substance n'est pas chimiquement pure. En admettant qu'elle contienne un groupement chimique spécial, ce devrait être ici un mélange d'albumine végétale non modifiée, de dextrine, de combinaisons salines insolubles dans l'alcool et de l'agent modificateur proprement dit. —- Le produit impur, tel qu'on l'obtient par le mode de préparation indiqué, forme, après avoir été desséché, une substance pulvérulente, soluble dans l'eau et dans l'alcool faible, insoluble dans l'alcool, et qui n'est pas précipitée de sa dissolution aqueuse par l'acétate basique de plomb.
+Il est à peine besoin de faire remarquer que cette substance n'est pas chimiquement pure. En admettant qu'elle contienne
+un groupement chimique spécial, ce devrait être ici un mélange d'albumine végétale non modifiée, de dextrine, de
+combinaisons salines insolubles dans l'alcool et de l'agent modificateur proprement dit. —- Le produit impur, tel qu'on
+l'obtient par le mode de préparation indiqué, forme, après avoir été desséché, une substance pulvérulente, soluble dans
+l'eau et dans l'alcool faible, insoluble dans l'alcool, et qui n'est pas précipitée de sa dissolution aqueuse par l'
+acétate basique de plomb.
 
-On peut encore obtenir la diastase de la manière suivante. On mélange la farine de malt d'orge avec une petite quantité d'eau ; on filtre et on chauffe à une température de 70°, ce qui détermine la coagulation de l'albumine. Si on filtré la liqueur claire et si on y ajoute ensuite de l'alcool, il se produit un précipité : après l'avoir bien laissé se déposer, on le redissout encore une fois dans l'eau, on le précipite de nouveau par l'alcool, puis on le dessèche à une basse température. La substance ainsi obtenue est également désignée sous le nom de diastase.
+On peut encore obtenir la diastase de la manière suivante. On mélange la farine de malt d'orge avec une petite quantité
+d'eau ; on filtre et on chauffe à une température de 70°, ce qui détermine la coagulation de l'albumine. Si on filtré la
+liqueur claire et si on y ajoute ensuite de l'alcool, il se produit un précipité : après l'avoir bien laissé se déposer,
+on le redissout encore une fois dans l'eau, on le précipite de nouveau par l'alcool, puis on le dessèche à une basse
+température. La substance ainsi obtenue est également désignée sous le nom de diastase.
 
-Mais elle est également d'une très grande impureté. Elle doit contenir une quantité considérable de dextrine et de sels organiques insolubles.
+Mais elle est également d'une très grande impureté. Elle doit contenir une quantité considérable de dextrine et de sels
+organiques insolubles.
 
 Quelque impure qu'elle soit, on ne peut en retirer du malt d'orge que 1 à 2 millièmes.
 
-Si on expose au contact de l'air cette diastase à l'état humide, elle perd très rapidement sa faculté modificatrice. A l'état sec, elle ne la perd que très lentement : par l'ébullition, elle la perd immédiatement.
+Si on expose au contact de l'air cette diastase à l'état humide, elle perd très rapidement sa faculté modificatrice. A
+l'état sec, elle ne la perd que très lentement : par l'ébullition, elle la perd immédiatement.
 
-Nous voyons donc que rien ne démontre l'existence propre de ce groupement particulier auquel on a donné un nom particulier ; mais nous croyons en outre devoir faire observer que la faculté d'effectuer la transformation de l'amidon appartient à vingt autres groupements de molécules aussi bien qu'à la substance extraite de l'orge, qui est soluble dans l'eau, insoluble dans l'alcool, et qui n'est pas précipitable par le sous-acétate de plomb.
+Nous voyons donc que rien ne démontre l'existence propre de ce groupement particulier auquel on a donné un nom
+particulier ; mais nous croyons en outre devoir faire observer que la faculté d'effectuer la transformation de l'amidon
+appartient à vingt autres groupements de molécules aussi bien qu'à la substance extraite de l'orge, qui est soluble dans
+l'eau, insoluble dans l'alcool, et qui n'est pas précipitable par le sous-acétate de plomb.
 
-On a prétendu que la diastase était d'autant plus pure
+On a prétendu que la diastase était d'autant plus pure qu'elle contenait moins d'azote, qu'elle présentait moins de
+tendance à être souillée par les matières albumineuses qui se trouvent dans l'orge ; mais rien ne vient à l'appui de
+cette supposition.
 
-qu'elle contenait moins d'azote, qu'elle présentait moins de tendance à être souillée par les matières albumineuses qui se trouvent dans l'orge ; mais rien ne vient à l'appui de cette supposition.
+Il est très possible que, en la dissolvant à plusieurs reprises dans l'eau et en la précipitant par l'alcool afin de la
+purifier, on en ait séparé une matière albumineuse étrangère ; que l'on ait augmenté ainsi la proportion relative de
+dextrine, et que, par suite, la substance ait pu devenir moins riche en azote ; mais on n'a pas démontré en même temps
+qu'elle était restée active au même degré. Comme toutes les substances albumineuses jouissent dans certaines
+circonstances de la même faculté que la diastase, il y a bien là toute espèce de raison de la considérer comme azotée et
+non comme exempte d'azote.
 
-Il est très possible que, en la dissolvant à plusieurs reprises dans l'eau et en la précipitant par l'alcool afin de la purifier, on en ait séparé une matière albumineuse étrangère ; que l'on ait augmenté ainsi la proportion relative de dextrine, et que, par suite, la substance ait pu devenir moins riche en azote ; mais on n'a pas démontré en même temps qu'elle était restée active au même degré. Comme toutes les substances albumineuses jouissent dans certaines circonstances de la même faculté que la diastase, il y a bien là toute espèce de raison de la considérer comme azotée et non comme exempte d'azote.
+Payen[^41] a fait observer en outre que cette substance, même lorsqu'il y en a une grande quantité, n'agit pas sur
+l'inuline ni sur la gomme arabique.
 
-Payen[^41] a fait observer en outre que cette substance, même lorsqu'il y en a une grande quantité, n'agit pas sur l'inuline ni sur la gomme arabique.
+Cette substance n'a besoin que de la température ordinaire de l'air pour transformer l'amidon en dextrine, puis en
+sucre. L'action commence déjà à avoir lieu à 5°, mais elle est beaucoup plus vive à 12°.
 
-Cette substance n'a besoin que de la température ordinaire de l'air pour transformer l'amidon en dextrine, puis en sucre. L'action commence déjà à avoir lieu à 5°, mais elle est beaucoup plus vive à 12°.
+La température ne doit cependant pas s'élever au-dessus de 75°C ; plus la température approche de celle de l'ébullition
+de l'eau, plus la faculté modificatrice de la diastase diminue d'intensité, et à la température de l'ébullition, elle
+disparaît complètement 2.
 
-La température ne doit cependant pas s'élevér au-dessus de 75°; plus la température approche de celle de l'ébullition de l'eau, plus la faculté modificatrice de la diastase diminue d'intensité, et à la température de l'ébullition, elle disparaît complètement 2.
+La première action que la diastase exerce sur le grain d'amidon est la dissolution de ce grain d'amidon ; la deuxième
+est la production de l'amylo-dextrine ; la troisième, la production de la dextrine qui s'opère plus rapidement lorsque
+l'amidon a été préalablement transformé en empois. La transformation préalable en empois n'est cependant pas
+nécessaire : c'est ce que démontre la production de la dextrine dans la semence en germination, ainsi que la
+transformation des grains d'amidon en dextrine par la simple digestion avec une dissolution de soi-disant diastase à une
+température inférieure à 60°C. —- La réaction que l'iode exerce sur l'amidon a entièrement disparu dans le produit de
+cette réaction. — Il s'est formé une sorte de substance gommeuse qui est soluble dans l'eau et qui a reçu le nom de
+dextrine.
 
-La première action que la diastase exerce sur le grain d'amidon est la dissolution de ce grain d'amidon ; la deuxième est la production de l'amylo-dextrine ; la troisième, la production de la dextrine qui s'opère plus rapidement lorsque l'amidon a été préalablement transformé en empois. La transformation préalable en empois n'est cependant pas nécessaire : c'est ce que démontre la production de la dextrine dans la semence en germination, ainsi que la transformation des grains d'amidon en dextrine par la simple digestion avec une dissolution de soi-disant diastase à une température inférieure à 60°C. —- La réaction que l'iode exerce sur l'amidon a entièrement disparu dans le produit de cette réaction. — Il s'est formé une sorte de substance gommeuse qui est soluble dans l'eau et qui a reçu le nom de dextrine.
+En laissant l'action de la diastase continuer à s'opérer, il se produit du sucre de fruits ; mais pour qu'il en soit
+ainsi, une action prolongée est nécessaire, ou bien il faut que l'on ait ajouté dès le commencement une plus grande
+quantité de diastase. La présence d'une grande quantité d'eau favorise la production du sucre.
 
-En laissant l'action de la diastase continuer à s'opérer, il se produit du sucre de fruits ; mais pour qu'il en soit ainsi, une action prolongée est nécessaire, ou bien il faut que l'on ait ajouté dès le commencement une plus grande quantité de diastase. La présence d'une grande quantité d'eau favorise la production du sucre.
+Pour opérer la transformation de l'amidon en dextrine ou en sucre, il n'y a pas besoin que la soi-disant diastase soit
+aussi pure que possible : une infusion aqueuse de malt d'orge est tout à fait suffisante pour y arriver. D'après Payen,
+il existe 1/500 de cette diastase dans le malt ; mais comme on ne connaît jusqu'ici aucun moyen d'obtenir cette diastase
+à l'état pur et sans en perdre, il vaut mieux reconnaître que nous n'en savons rien.
 
-Pour opérer la transformation de l'amidon en dextrine ou en sucre, il n'y a pas besoin que la soi-disant diastase soit aussi pure que possible : une infusion aqueuse de malt d'orge est tout à fait suffisante pour y arriver. D'après Payen, il existe 1/500 de cette diastase dans le malt ; mais comme on ne connaît jusqu'ici aucun moyen d'obtenir cette diastase à l'état pur et sans en perdre, il vaut mieux reconnaître que nous n'en savons rien.
+L'action de la diastase comme agent modificateur de l'amidon est paralysée par les alcalis, par l'acide tannique, par
+les sels métalliques. — Les acides. organiques étendus exercent en général aussi une influence contraire à l'action de
+la diastase. —- Tel est l'état de nos connaissances sur les propriétés de la soi-disant diastase.
 
-L'action de la diastase comme agent modificateur de l'amidon est paralysée par les alcalis, par l'acide tannique, par les sels métalliques. — Les acides. organiques étendus exercent en général aussi une influence contraire à l'action de la diastase. —- Tel est l'état de nos connaissances sur les propriétés de la soi-disant diastase.
+Il nous reste maintenant à répondre à la question de savoir aux dépens de quelles substances cet agent modificateur de
+l'amidon se produit dans le grain en germination.
 
-Il nous reste maintenant à répondre à la question de savoir aux dépens de quelles substances cet agent modificateur de l'amidon se produit dans le grain en germination.
+Pour répondre à cette question, nous devons d'abord communiquer quelques expériences comparatives faites sur l'orge
+germée : elles ont rapport aux quantités respectives des différentes substances albumiueuses qui existent dans l'orge et
+dans le malt d'orge faiblement desséché.
 
-Pour répondre à cette question, nous devons d'abord communiquer quelques expériences comparatives faites sur l'orge germée : elles ont rapport aux quantités respectives des différentes substances albumiueuses qui existent dans l'orge et dans le malt d'orge faiblement desséché.
+Une expérience fort simple peut déjà suffire pour montrer qu'il existe une différence considérable entre l'orge et le
+malt d'orge en ce qui concerne les quantités respectives des diverses substances albumineuses. Si on traite par l'eau
+froide de l'orge moulue et du malt moulu préparé avec la même orge, si on filtre ensuite et si on chauffe la liqueur
+claire jusqu'à l'ébullition, la liqueur obtenue au moyen de l'orge ne laisse coaguler qu'une petite quantité de
+substance albumineuse ; mais, si l'on continue l'évaporation, il s'en coagule une plus grande quantité : le malt d'orge
+fournit au contraire une quantité relativement considérable de coagulum. Si l'on effectue la même expérience sur une
+quantité égale de froment dans des conditions de temps identiques, il ne se sépare de la liqueur obtenue du froment
+qu'une petite quantité de flocons de substance albumineuse coagulée. —- Dans le malt d'orge, il existe donc une quantité
+de substance albumineuse soluble beaucoup plus grande que dans le froment.
 
-Une expérience fort simple peut déjà suffire pour montrer qu'il existe une différence considérable entre l'orge et le malt d'orge en ce qui concerne les quantités respectives des diverses substances albumineuses. Si on traite par l'eau froide de l'orge moulue et du malt moulu préparé avec la même orge, si on filtre ensuite et si on chauffe la liqueur claire jusqu'à l'ébullition, la liqueur obtenue au moyen de l'orge ne laisse coaguler qu'une petite quantité de substance albumineuse ; mais, si l'on continue l'évaporation, il s'en coagule une plus grande quantité : le malt d'orge fournit au contraire une quantité relativement considérable de coagulum. Si l'on effectue la même expérience sur une quantité égale de froment dans des conditions de temps identiques, il ne se sépare de la liqueur obtenue du froment qu'une petite quantité de flocons de substance albumineuse coagulée. —- Dans le malt d'orge, il existe donc une quantité de substance albumineuse soluble beaucoup plus grande que dans le froment.
+Par la germination, une substance albumineuse, soluble dans l'eau, coagulable par l'action de la chaleur, s'est donc
+formée aux dépens d'une autre substance du même groupe,
 
-Par la germination, une substance albumineuse, soluble dans l'eau, coagulable par l'action de la chaleur, s'est donc formée aux dépens d'une autre substance du même groupe, 
+100 parties de malt d'orge, traitées de la manière que nous venons d'indiquer, ont fourni à Vlaanderen et Oudemans 0,452
+de substances albumineuses coagulables.
 
-100 parties de malt d'orge, traitées de la manière que nous venons d'indiquer, ont fourni à Vlaanderen et Oudemans 0,452 de substances albumineuses coagulables.
-
-Si l'on évapore la liqueur filtrée et séparée ainsi des substances albumineuses coagulées et si l'on détermine dans le résidu la proportion d'azote, on obtient, pour 100 de malt, 2,08 de substances albumineuses, en admettant dans ces substances une quantité d'azote s'élevant à 15,5N.
+Si l'on évapore la liqueur filtrée et séparée ainsi des substances albumineuses coagulées et si l'on détermine dans le
+résidu la proportion d'azote, on obtient, pour 100 de malt, 2,08 de substances albumineuses, en admettant dans ces
+substances une quantité d'azote s'élevant à 15,5N.
 
 100 parties du même malt, traitées par l'alcool, ont donné 0,340 de dextrine.
 
-Si nous comparons ces résultats avec les résultats obtenus pour l'orge qui ont été indiqués p. 30, nous obtenons, pour 100 parties, tant d'orge que de malt, les résultats suivants :
+Si nous comparons ces résultats avec les résultats obtenus pour l'orge qui ont été indiqués p. 30, nous obtenons, pour
+100 parties, tant d'orge que de malt, les résultats suivants :
 
 <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
   <table style="width: 100%">
-  <tr><th>                                              </th><th>  Orge.   </th><th>  Malt d'orge.  </th></tr>
-  <tr><th> Glutine                                      </th><td> 0,28 </td><td> 0,34 </td></tr>
-  <tr><th> Substance albumineuse coagulable             </th><td> 0,28 </td><td> 0,45 </td></tr>
-  <tr><th> Substance albumineuse soluble non coagulable </th><td> 1,55 </td><td> 2,08 </td></tr>
-  <tr><th> Substance albumineuse insoluble              </th><td> 7,59 </td><td> 6,23 </td></tr>
-  <tr><th>                                              </th><th> 9,70 </th><th> 9,10 </th></tr>
+    <tr><th>                                              </th><th>  Orge.   </th><th>  Malt d'orge.  </th></tr>
+    <tr><th> Glutine                                      </th><td> 0,28 </td><td> 0,34 </td></tr>
+    <tr><th> Substance albumineuse coagulable             </th><td> 0,28 </td><td> 0,45 </td></tr>
+    <tr><th> Substance albumineuse soluble non coagulable </th><td> 1,55 </td><td> 2,08 </td></tr>
+    <tr><th> Substance albumineuse insoluble              </th><td> 7,59 </td><td> 6,23 </td></tr>
+    <tr><th>                                              </th><th> 9,70 </th><th> 9,10 </th></tr>
   </table>
 </figure>
 
-Ce résultat est assez important pour que je croie devoir m'y arrêter plus longuement. Par le maltage, la quantité de glutine n'a pas diminué, ainsi que l'on croyait jusqu'ici que cela avait lieu, mais elle a plutôt augmenté. Le mot glutine n'est plus employé ici dans le sens que l'on attribuait à l'expression gluten dans le gluten de Baccaria ; mais il. désigne ici la substance soluble dans l'alcool, insoluble dans l'eau, dont on a séparé la matière grasse au moyen de l'éther et qui constitue la matière glutineuse proprement dite du grain.
+Ce résultat est assez important pour que je croie devoir m'y arrêter plus longuement. Par le maltage, la quantité de
+glutine n'a pas diminué, ainsi que l'on croyait jusqu'ici que cela avait lieu, mais elle a plutôt augmenté. Le mot
+glutine n'est plus employé ici dans le sens que l'on attribuait à l'expression gluten dans le gluten de Baccaria ; mais
+il. désigne ici la substance soluble dans l'alcool, insoluble dans l'eau, dont on a séparé la matière grasse au moyen de
+l'éther et qui constitue la matière glutineuse proprement dite du grain.
 
-Entre autres résultats que nous fournit l'examen comparatif des quantités respectives des différentes matières albumineuses contenues dans l'orge et dans le malt d'orge, nous trouvons que la quantité des substances albumineuses coagulables a augmenté beaucoup par la germination et qu'elle s'est élevée presque de 3 à 4,5. Il ne peut pas être douteux que la substance qui jouit de la propriété d'opérer la transformation de l'amidon, et que l'on a nommée diastase, ne se trouve pas dans les substances albumineuses indiquées en dernier lieu (substances coagulables), puisqu'elle n'est pas coagulable. —- Elle doit donc se trouver dans les substances albumineuses solubles non coagulables ; or, nous voyons que la quantité de ces substances a également augmenté par la germination et que cette augmentation s'est élevée à près de 1/3.
+Entre autres résultats que nous fournit l'examen comparatif des quantités respectives des différentes matières
+albumineuses contenues dans l'orge et dans le malt d'orge, nous trouvons que la quantité des substances albumineuses
+coagulables a augmenté beaucoup par la germination et qu'elle s'est élevée presque de 3 à 4,5. Il ne peut pas être
+douteux que la substance qui jouit de la propriété d'opérer la transformation de l'amidon, et que l'on a nommée
+diastase, ne se trouve pas dans les substances albumineuses indiquées en dernier lieu (substances coagulables),
+puisqu'elle n'est pas coagulable. —- Elle doit donc se trouver dans les substances albumineuses solubles non
+coagulables ; or, nous voyons que la quantité de ces substances a également augmenté par la germination et que cette
+augmentation s'est élevée à près de 1/3.
 
-La quantité de la substance albumineuse insoluble a diminué dans la même proportion que la quantité des trois substances albumineuses indiquées a augmenté.
+La quantité de la substance albumineuse insoluble a diminué dans la même proportion que la quantité des trois substances
+albumineuses indiquées a augmenté.
 
-Il n'est pas nécessaire d'observer que la différence que présente la somme de toutes les substances albumineuses, 9,7 et 9,1, ne doit être attribuée, ni à la transformation en malt, ni à la germination. En effet, l'orge et le malt avaient été prélevés tous deux dans une brasserie sur les approvisionnements qui s'y trouvaient : la différence n'était donc en aucune manière le résultat de la germination.
+Il n'est pas nécessaire d'observer que la différence que présente la somme de toutes les substances albumineuses, 9,7 et
+9,1, ne doit être attribuée, ni à la transformation en malt, ni à la germination. En effet, l'orge et le malt avaient
+été prélevés tous deux dans une brasserie sur les approvisionnements qui s'y trouvaient : la différence n'était donc en
+aucune manière le résultat de la germination.
 
-Je ne me risquerai en aucune manière à essayer d'expliquer comment une substance albumineuse peut se transformer en une autre par la germination : mais je ne puis me dispenser d'observer qu'il est certain que la substance albumineuse insoluble, c'est-à-dire celle à laquelle on attribuait le moins de valeur, est précisément celle d'où proviennent[^43] toutes les autres : en effet la quantité de cette substance albumineuse diminue par la germination, tandis que la quantité de toutes les autres augmente. Cette substance peut être considérée comme une véritable source[^44] de substances albumineuses solubles actives, et, bien que, étant une substance insoluble, elle soit par elle-même sans action, elle donne naissance à des substances albumineuses actives dans les circonstances mêmes dans lesquelles ces substances actives sont appelées à exercer leur action. La transformation des substances albumineuses insolubles en substances albumineuses solubles, la mise en activité des substances solubles et la transformation de l'amidon sont donc trois actions qui marchent de front dans la germination.
+Je ne me risquerai en aucune manière à essayer d'expliquer comment une substance albumineuse peut se transformer en une
+autre par la germination : mais je ne puis me dispenser d'observer qu'il est certain que la substance albumineuse
+insoluble, c'est-à-dire celle à laquelle on attribuait le moins de valeur, est précisément celle d'où proviennent[^43]
+toutes les autres : en effet la quantité de cette substance albumineuse diminue par la germination, tandis que la
+quantité de toutes les autres augmente. Cette substance peut être considérée comme une véritable source[^44] de
+substances albumineuses solubles actives, et, bien que, étant une substance insoluble, elle soit par elle-même sans
+action, elle donne naissance à des substances albumineuses actives dans les circonstances mêmes dans lesquelles ces
+substances actives sont appelées à exercer leur action. La transformation des substances albumineuses insolubles en
+substances albumineuses solubles, la mise en activité des substances solubles et la transformation de l'amidon sont donc
+trois actions qui marchent de front dans la germination.
 
-Mais quelle est la nature de la substance albumineuse soluble qui s'est produite d'abord aux dépens des substances albumineuses insolubles? Quelle est la nature de celle qui l'a suivie, et enfin quelle est la nature de celle que l'on doit considérer comme le résultat final de ce qui se passe ? Je laisse à d'autres le soin de l'examiner. C'était pour nous une tâche déjà bien suffisante d'arriver à savoir si la quantité des substances albumineuses solubles augmentait, et, dans le cas où le résultat serait affirmatif, de déterminer la quotité de cette augmentation, et de chercher surtout quelles étaient, de toutes les formes de matières albumineuses, celles qui étaient surtout susceptibles d'augmenter ainsi.
+Mais quelle est la nature de la substance albumineuse soluble qui s'est produite d'abord aux dépens des substances
+albumineuses insolubles? Quelle est la nature de celle qui l'a suivie, et enfin quelle est la nature de celle que l'on
+doit considérer comme le résultat final de ce qui se passe ? Je laisse à d'autres le soin de l'examiner. C'était pour
+nous une tâche déjà bien suffisante d'arriver à savoir si la quantité des substances albumineuses solubles augmentait,
+et, dans le cas où le résultat serait affirmatif, de déterminer la quotité de cette augmentation, et de chercher surtout
+quelles étaient, de toutes les formes de matières albumineuses, celles qui étaient surtout susceptibles d'augmenter
+ainsi.
 
-L'infusion du malt dans l'eau froide donne un précipité lorsqu'on la fait bouillir : quand on traite cette infusion par l'acide acétique, il se produit un précipité qui est beaucoup plus faible. Pour l'orge, les deux sont également abondants. C'est donc une première différence qui existe entre le malt d'orge et l'orge.
+L'infusion du malt dans l'eau froide donne un précipité lorsqu'on la fait bouillir : quand on traite cette infusion par
+l'acide acétique, il se produit un précipité qui est beaucoup plus faible. Pour l'orge, les deux sont également
+abondants. C'est donc une première différence qui existe entre le malt d'orge et l'orge.
 
-L'infusion qu'on a obtenue en traitant le malt par l'eau froide, et dont on a préalablement séparé la substance albumineuse coagulable en la faisant bouillir, ne se comporte pas à l'égard des réactifs comme l'infusion d'orge préparée au moyen de l'eau froide et dans laquelle on a constaté la présence d'une certaine quantité de substance albumineuse. L'infusion d'orge présente une réaction acide. Si on sature avec précaution l'acide par un alcali et si on chauffe ensuite le tout, on voit se produire un précipité très peu considérable d'albumine coagulée. L'acide nitrique ne produit dans la dissolution aucun précipité, pas plus que le prussiate jaune de potasse, l'acide sulfurique, l'acide chlorhydrique ou l'acide acétique ; mais le sublimé corrosif détermine la production d'un précipité abondant.
+L'infusion qu'on a obtenue en traitant le malt par l'eau froide, et dont on a préalablement séparé la substance
+albumineuse coagulable en la faisant bouillir, ne se comporte pas à l'égard des réactifs comme l'infusion d'orge
+préparée au moyen de l'eau froide et dans laquelle on a constaté la présence d'une certaine quantité de substance
+albumineuse. L'infusion d'orge présente une réaction acide. Si on sature avec précaution l'acide par un alcali et si on
+chauffe ensuite le tout, on voit se produire un précipité très peu considérable d'albumine coagulée. L'acide nitrique ne
+produit dans la dissolution aucun précipité, pas plus que le prussiate jaune de potasse, l'acide sulfurique, l'acide
+chlorhydrique ou l'acide acétique ; mais le sublimé corrosif détermine la production d'un précipité abondant.
 
-Il a donc disparu de l'orge une substance albumineuse qui est précipitée par le prussiate jaune de potasse, par l'acide sulfurique et par l'acide nitrique, et qui est soluble dans l'eau froide et non coagulable[^45].
+Il a donc disparu de l'orge une substance albumineuse qui est précipitée par le prussiate jaune de potasse, par l'acide
+sulfurique et par l'acide nitrique, et qui est soluble dans l'eau froide et non coagulable[^45].
 
-Mais cette substance albumineuse a été remplacée par une autre, de telle sorte que, par comparaison avec la quantité contenue dans l'orge, la quantité de substance albumineuse soluble non coagulable s'est élevée de 1,55 à 2,08, par conséquent de 3 à 4.
+Mais cette substance albumineuse a été remplacée par une autre, de telle sorte que, par comparaison avec la quantité
+contenue dans l'orge, la quantité de substance albumineuse soluble non coagulable s'est élevée de 1,55 à 2,08, par
+conséquent de 3 à 4.
 
 Il ne peut pas être douteux que ce soit parmi ces dernières que se trouve la soi-disant diatase.
 
-Je n'ai nullement l'intention de m'occuper ici de la séparation des différentes substances albumineuses contenues dans le malt et de la détermination de leur composition. Je ne connais aucun moyen qui nous permette de les séparer à l'état pur ou sans qu'elles aient subi aucune modification.
+Je n'ai nullement l'intention de m'occuper ici de la séparation des différentes substances albumineuses contenues dans
+le malt et de la détermination de leur composition. Je ne connais aucun moyen qui nous permette de les séparer à l'état
+pur ou sans qu'elles aient subi aucune modification.
 
-J'ajouterai encore ici une observation : par la germination, il se produit une trace d'ammoniaque qui ne s'échappe pas au dehors de la semence, mais qui reste combinée avec la matière albumineuse. Cette ammoniaque peut contribuer à la diminution de la quantité des substances albumineuses insolubles et à l'accroissement des substances albumineuses solubles. Mais comme il ne se produit qu'une trace d'ammoniaque, on ne peut en aucune manière lui attribuer la transformation totale des substances albumineuses insolubles en substances albumineuses solubles.
+J'ajouterai encore ici une observation : par la germination, il se produit une trace d'ammoniaque qui ne s'échappe pas
+au dehors de la semence, mais qui reste combinée avec la matière albumineuse. Cette ammoniaque peut contribuer à la
+diminution de la quantité des substances albumineuses insolubles et à l'accroissement des substances albumineuses
+solubles. Mais comme il ne se produit qu'une trace d'ammoniaque, on ne peut en aucune manière lui attribuer la
+transformation totale des substances albumineuses insolubles en substances albumineuses solubles.
 
-Si nous arrêtons notre attention sur le résultat des expériences indiquées en dernier lieu, en ce qui concerne la transformation que les substances albumineuses de l'orge ont subie par la germination, nous devons, avant d'aller plus loin, abandonner l'hypothèse qui a été admise jusqu'ici et répondre aux deux questions suivantes : préexiste-t-il dans le grain une substance qui jouisse de la propriété de transformer l'amidon en dextrine, puis en sucre ? et, dans le cas de l'affirmative, quelle est-elle ? Ou plutôt cette substance doit-elle prendre naissance dans le grain ?
+Si nous arrêtons notre attention sur le résultat des expériences indiquées en dernier lieu, en ce qui concerne la
+transformation que les substances albumineuses de l'orge ont subie par la germination, nous devons, avant d'aller plus
+loin, abandonner l'hypothèse qui a été admise jusqu'ici et répondre aux deux questions suivantes : préexiste-t-il dans
+le grain une substance qui jouisse de la propriété de transformer l'amidon en dextrine, puis en sucre ? et, dans le cas
+de l'affirmative, quelle est-elle ? Ou plutôt cette substance doit-elle prendre naissance dans le grain ?
 
-Ces questions peuvent être résolues, mais non dans un sens absolu : si, en effet, il existe dans les grains et par conséquent dans l'orge une substance qui puisse opérer la transformation de l'amidon, il reste encore à répondre à la question de savoir si la transformation est opérée immédiatement par cette substance, telle qu'elle est, ou si, plutôt, elle doit passer d'abord à l'état actif au point de vue chimique.
+Ces questions peuvent être résolues, mais non dans un sens absolu : si, en effet, il existe dans les grains et par
+conséquent dans l'orge une substance qui puisse opérer la transformation de l'amidon, il reste encore à répondre à la
+question de savoir si la transformation est opérée immédiatement par cette substance, telle qu'elle est, ou si, plutôt,
+elle doit passer d'abord à l'état actif au point de vue chimique.
 
-On peut répondre : s'il existe dans l'orge une substance qui, telle qu'elle est, n'ait pas besoin de passer d'abord à l'état actif au point de vue chimique, cette substance devrait être susceptible d'opérer la transformation de l'amidon, en quantité aussi faible et aussi rapidement que peut l'opérer une substance contenue dans l'orge germée.
+On peut répondre : s'il existe dans l'orge une substance qui, telle qu'elle est, n'ait pas besoin de passer d'abord à
+l'état actif au point de vue chimique, cette substance devrait être susceptible d'opérer la transformation de l'amidon,
+en quantité aussi faible et aussi rapidement que peut l'opérer une substance contenue dans l'orge germée.
 
-C'est cependant ce qui n'est pas. Nous pouvons donc en tirer la conséquence que, ou bien il existe dans l'orge une substance qui a besoin de passer à l'état actif au point de vue chimique pour être douée de la faculté d'effectuer la transformation de l'amidon, ou bien il se forme une nouvelle substance qui est douée de cette faculté.
+C'est cependant ce qui n'est pas. Nous pouvons donc en tirer la conséquence que, ou bien il existe dans l'orge une
+substance qui a besoin de passer à l'état actif au point de vue chimique pour être douée de la faculté d'effectuer la
+transformation de l'amidon, ou bien il se forme une nouvelle substance qui est douée de cette faculté.
 
-Il était important d'examiner de plus près à ce point de vue les substances albumineuses qui existent dans le grain et de répondre à la question de savoir si, parmi ces substances albumineuses, il y en a qui peuvent opérer la transformation de l'amidon, bien qu'à un degré plus faible que la substance contenue dans l'orge germée.
+Il était important d'examiner de plus près à ce point de vue les substances albumineuses qui existent dans le grain et
+de répondre à la question de savoir si, parmi ces substances albumineuses, il y en a qui peuvent opérer la
+transformation de l'amidon, bien qu'à un degré plus faible que la substance contenue dans l'orge germée.
 
-Se trouve-t-il dans le grain une matière qui jouisse de cette propriété? Nous sommes arrêtés ici par une question insoluble. En effet, nous ne pouvons entreprendre aucune expérience concernant une substance à l'état isolé, tant que nous ne pouvons pas l'isoler, or les substances albumineuses n'ont pas pu être isolées sans être modifiées.
+Se trouve-t-il dans le grain une matière qui jouisse de cette propriété? Nous sommes arrêtés ici par une question
+insoluble. En effet, nous ne pouvons entreprendre aucune expérience concernant une substance à l'état isolé, tant que
+nous ne pouvons pas l'isoler, or les substances albumineuses n'ont pas pu être isolées sans être modifiées.
 
-En ce qui concerne la question da savoir ce qu'il en est, nous devons indiquer ici les expériences de Th. de Saussure, dans lesquelles nous trouverons, si je ne me trompe, un point de départ qui nous permettra d'émettre sur la soi-disant diastase une opinion plus exacte que celle qui est généralement admise.
+En ce qui concerne la question da savoir ce qu'il en est, nous devons indiquer ici les expériences de Th. de Saussure,
+dans lesquelles nous trouverons, si je ne me trompe, un point de départ qui nous permettra d'émettre sur la soi-disant
+diastase une opinion plus exacte que celle qui est généralement admise.
 
-Je dois préalablement faire observer que, avant De Saussure, Kirchhoff avait recherché les causes de la production du sucre dans la préparation de la bière et qu'il avait trouvé que le gluten de Beccaria possède la propriété de transformer l'amidon en sucre. Les résultats de Kirchhoff[^46] étaient en quelque sorte les précurseurs de ceux de De Saussure. Kirchhoff fait une observation qui a de l'importance lorsqu'on veut arriver à la connaissance plus exacte de l'agent qui détermine la transformation : c'est que le gluten brut, en exerçant son action transformatrice, ne paraît pas perdre de poids : d'où il résulte qu'il y en a seulement une très petite quantité qui agit. En ce qui concerne le fait que c'est une partie du gluten brut qui, en se modifiant, a déterminé la transformation de l'amidon, Kirchhoff l'a prouvé en faisant observer que le gluten qui a opéré la transformation de l'amidon, et qui a cependant à peine diminué de quantité, n'est plus en état d'opérer de nouveau la transformation de l'amidon. Vingt et un ans après, De Saussure fit connaître les résultats de ses recherches. Elles furent envoyées, le 3 mai 1833, à Dumas qui communiquait à l'Académie, le 17 juin de la même année, les expériences de Payen et de Persoz sur la soi-disant diastase, sans parler des expériences de De Saussure. Je crois m'expliquer clairement. En 1812, Kirchhoff a montré qu'il existe dans le gluten brut une substance en quantité presque impondérable qui peut opérer la transformation de l'amidon en sucre : 21 ans plus tard, De Saussure démontrait le même fait : et cependant le jour où des résultats identiques, qui ne différaient que par le nom de diastase appliqué à l'agent de transformation, furent portés devant l'Académie des sciences de France, il ne fut pas question des recherches antérieures qui avaient cependant élucidé complètement le fait, mais auxquelles le nouveau nom de l'agent transformateur manquait seul : ce nouveau nom du reste qui veut dire agent destiné à déterminer la déchirure ou la rupture, est impropre, puisque le grain d'amidon n'est pas un petit sac rempli de matière plastique.
+Je dois préalablement faire observer que, avant De Saussure, Kirchhoff avait recherché les causes de la production du
+sucre dans la préparation de la bière et qu'il avait trouvé que le gluten de Beccaria possède la propriété de
+transformer l'amidon en sucre. Les résultats de Kirchhoff[^46] étaient en quelque sorte les précurseurs de ceux de De
+Saussure. Kirchhoff fait une observation qui a de l'importance lorsqu'on veut arriver à la connaissance plus exacte de
+l'agent qui détermine la transformation : c'est que le gluten brut, en exerçant son action transformatrice, ne paraît
+pas perdre de poids : d'où il résulte qu'il y en a seulement une très petite quantité qui agit. En ce qui concerne le
+fait que c'est une partie du gluten brut qui, en se modifiant, a déterminé la transformation de l'amidon, Kirchhoff l'a
+prouvé en faisant observer que le gluten qui a opéré la transformation de l'amidon, et qui a cependant à peine diminué
+de quantité, n'est plus en état d'opérer de nouveau la transformation de l'amidon. Vingt et un ans après, De Saussure
+fit connaître les résultats de ses recherches. Elles furent envoyées, le 3 mai 1833, à Dumas qui communiquait à
+l'Académie, le 17 juin de la même année, les expériences de Payen et de Persoz sur la soi-disant diastase, sans parler
+des expériences de De Saussure. Je crois m'expliquer clairement. En 1812, Kirchhoff a montré qu'il existe dans le gluten
+brut une substance en quantité presque impondérable qui peut opérer la transformation de l'amidon en sucre : 21 ans plus
+tard, De Saussure démontrait le même fait : et cependant le jour où des résultats identiques, qui ne différaient que par
+le nom de diastase appliqué à l'agent de transformation, furent portés devant l'Académie des sciences de France, il ne
+fut pas question des recherches antérieures qui avaient cependant élucidé complètement le fait, mais auxquelles le
+nouveau nom de l'agent transformateur manquait seul : ce nouveau nom du reste qui veut dire agent destiné à déterminer
+la déchirure ou la rupture, est impropre, puisque le grain d'amidon n'est pas un petit sac rempli de matière plastique.
 
 Faisons maintenant connaître les expériences de De Saussure, qui avaient précédé celles de Payen et de Persoz.
 
-De Saussure a fait agir sur l'amidon : 1° de l'albumine végétale de froment; 2° du, gluten brut de froment, c'est-à-dire ce que l'on a nommé gluten de Beccaria ; 3° de la glutine, c'est-à-dire le corps qui se sépare de l'alcool avec lequel on a fait bouillir le gluten de Beccaria, lorsque, après avoir mélangé cet alcool avec de l'eau, on soumet le tout à la distillation ; et, enfin, 4° de la mucine. Il prenait 2 parties d'amidon pour 1 partie de l'une des quatre substances indiquées ; il mélangeait le tout avec de l'eau : il maintenait ensuite les substances quelque temps en contact à une température de 50 à 85°C et il déterminait la quantité de dextrine et de sucre qui s'était formée aux dépens de l'amidon pendant un espace de temps de 10 heures[^47].
+De Saussure a fait agir sur l'amidon : 1° de l'albumine végétale de froment; 2° du, gluten brut de froment, c'est-à-dire
+ce que l'on a nommé gluten de Beccaria ; 3° de la glutine, c'est-à-dire le corps qui se sépare de l'alcool avec lequel
+on a fait bouillir le gluten de Beccaria, lorsque, après avoir mélangé cet alcool avec de l'eau, on soumet le tout à la
+distillation ; et, enfin, 4° de la mucine. Il prenait 2 parties d'amidon pour 1 partie de l'une des quatre substances
+indiquées ; il mélangeait le tout avec de l'eau : il maintenait ensuite les substances quelque temps en contact à une
+température de 50 à 85°C et il déterminait la quantité de dextrine et de sucre qui s'était formée aux dépens de l'amidon
+pendant un espace de temps de 10 heures[^47].
 
-Comme la mucine paraissait surtout exercer une action très prononcée, il ne doit pas paraître superflu d'appeler de nouveau l'attention sur ses propriétés et son mode de Production. La mucine de De Saussure n'est pas une partie constituante des grains, mais c'est une substance soluble dans l'alcool bouillant et dans l'eau froide ; elle se produit Par la décomposition d'une substance albumineuse.
+Comme la mucine paraissait surtout exercer une action très prononcée, il ne doit pas paraître superflu d'appeler de
+nouveau l'attention sur ses propriétés et son mode de Production. La mucine de De Saussure n'est pas une partie
+constituante des grains, mais c'est une substance soluble dans l'alcool bouillant et dans l'eau froide ; elle se produit
+Par la décomposition d'une substance albumineuse.
 
 <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
   <table style="width: 100%">
@@ -1493,169 +1775,494 @@ Comme la mucine paraissait surtout exercer une action très prononcée, il ne do
   </table>
 </figure>
 
-Ces expériences sont importantes pour arriver à savoir de quelle substance là matière nommée diastase peut être formée ; mais elles ont surtout une grande valeur parce qu'elles nous apprennent que toutes les substances albumineuses des grains possèdent la faculté d'effectuer la transformation de l'amidon, bien que quelques-unes ne possèdent cette propriété qu'à un degré très peu élevé.
+Ces expériences sont importantes pour arriver à savoir de quelle substance là matière nommée diastase peut être formée ;
+mais elles ont surtout une grande valeur parce qu'elles nous apprennent que toutes les substances albumineuses des
+grains possèdent la faculté d'effectuer la transformation de l'amidon, bien que quelques-unes ne possèdent cette
+propriété qu'à un degré très peu élevé.
 
-Il m'a paru nécessaire de répéter au moins une de ces expériences. Dans ce but, trois quantités égales d'eau ont été chauffées jusqu'à une température de 65° à 75° : à la quantité a, on avait ajouté de l'empois préparé avec de la fécule de pommes de terre ; en b, on avait ajouté du gluten brut de froment ; en c, du gluten brut et de l'empois. Au bout de quelques heures, on a essayé, avec la liqueur cuivrique, les trois liqueurs qui avaient été placées dans les mêmes circonstances : a et b n'ont donné aucune trace de réduction ; en c, il s'est produit une abondante réduction. Le gluten brut agit donc comme la soi-disant diastase.
+Il m'a paru nécessaire de répéter au moins une de ces expériences. Dans ce but, trois quantités égales d'eau ont été
+chauffées jusqu'à une température de 65° à 75° : à la quantité a, on avait ajouté de l'empois préparé avec de la fécule
+de pommes de terre ; en b, on avait ajouté du gluten brut de froment ; en c, du gluten brut et de l'empois. Au bout de
+quelques heures, on a essayé, avec la liqueur cuivrique, les trois liqueurs qui avaient été placées dans les mêmes
+circonstances : a et b n'ont donné aucune trace de réduction ; en c, il s'est produit une abondante réduction. Le gluten
+brut agit donc comme la soi-disant diastase.
 
-La quantité de gluten brut employée ne paraissait pas avoir été sensiblement modifiée. La partie active du gluten serait donc, ainsi que Kirchhoff l'avait déjà fait observer dès l'année 1812, une quantité excessivement petite d'une substance qui se trouve mélangée avec les autres substances contenues dans le gluten.
+La quantité de gluten brut employée ne paraissait pas avoir été sensiblement modifiée. La partie active du gluten serait
+donc, ainsi que Kirchhoff l'avait déjà fait observer dès l'année 1812, une quantité excessivement petite d'une substance
+qui se trouve mélangée avec les autres substances contenues dans le gluten.
 
 Revenons maintenant aux expériences de De Saussure.
 
-La substance qui est encore le moins passée à l'état de décomposition (et la substance albumineuse insoluble est certainement dans ce cas) est aussi celle qui présente le moins de tendance à opérer la transformation de l'amidon. Mais il existe, à côté de cette substance, une autre substance albumineuse dont la décomposition est beaucoup plus avancée et qui, de plus, est soluble dans l'eau froide : cette substance possède au plus haut degré la faculté d'effectuer la transformation de l'amidon : c'est la mucine. Elle n'est pas encore aussi active que la soi-disant diastase : elle est seulement en voie de se décomposer complètement. La différence qui existe entre elle et la soi-disant diastase est donc seulement relative, mais n'est pas essentielle.
+La substance qui est encore le moins passée à l'état de décomposition (et la substance albumineuse insoluble est
+certainement dans ce cas) est aussi celle qui présente le moins de tendance à opérer la transformation de l'amidon. Mais
+il existe, à côté de cette substance, une autre substance albumineuse dont la décomposition est beaucoup plus avancée et
+qui, de plus, est soluble dans l'eau froide : cette substance possède au plus haut degré la faculté d'effectuer la
+transformation de l'amidon : c'est la mucine. Elle n'est pas encore aussi active que la soi-disant diastase : elle est
+seulement en voie de se décomposer complètement. La différence qui existe entre elle et la soi-disant diastase est donc
+seulement relative, mais n'est pas essentielle.
 
-Est-ce positivement la glutine, cette substance albumineuse soluble dans l'alcool, qui forme de préférence la mucine, c'est-à-dire la diastase encore impure? La réponse paraît être négative : en effet nous avons vu p. 101 que, dans la germination, la glutine ne diminue pas, mais que, au contraire, elle augmente. Il est donc très probable qu'elle n'est pas la substance génératrice (_moederstof_, substance-mère) de l'agent transformateur de l'amidon. La substance albumineuse soluble, mais coagulable, peut-elle être celle qui donne naissance à cet agent transformateur ? Mais la quantité de cette substance augmente également par la germination (p. 101). Cette substance génératrice peut-elle être la substance albumineuse insoluble, qui est insoluble dans l'alcool bouillant et dans l'eau, et dont la quantité diminue beaucoup par la germination (p. 101) ?
+Est-ce positivement la glutine, cette substance albumineuse soluble dans l'alcool, qui forme de préférence la mucine,
+c'est-à-dire la diastase encore impure? La réponse paraît être négative : en effet nous avons vu p. 101 que, dans la
+germination, la glutine ne diminue pas, mais que, au contraire, elle augmente. Il est donc très probable qu'elle n'est
+pas la substance génératrice (_moederstof_, substance-mère) de l'agent transformateur de l'amidon. La substance
+albumineuse soluble, mais coagulable, peut-elle être celle qui donne naissance à cet agent transformateur ? Mais la
+quantité de cette substance augmente également par la germination (p. 101). Cette substance génératrice peut-elle être
+la substance albumineuse insoluble, qui est insoluble dans l'alcool bouillant et dans l'eau, et dont la quantité diminue
+beaucoup par la germination (p. 101) ?
 
-La réponse est encore négative ; en effet, cette substance es celle d'où proviennent toutes les autres et dont la quantité diminue sensiblement par la germination.
+La réponse est encore négative ; en effet, cette substance es celle d'où proviennent toutes les autres et dont la
+quantité diminue sensiblement par la germination.
 
-Partant de cette vérité généralement reconnue qu'une substance albumineuse est d'autant plus active qu'elle est plus soluble, nous paraîtrions devoir rechercher la substance génératrice de l'agent transformateur de l'amidon dans les substances albumineuses solubles, non coagulables par l'action de la chaleur, qui existent déjà dans le grain et dont la quantité a été évaluée dans l'orge à 155. Mais leur quantité augmente également par la germination et s'élève à 2,08. La soi-disant diastase est soluble dans l'eau froide et ne se coagule pas par l'action de la chaleur : elle doit donc se trouver parmi les 2,08 pour 100. Mais, si De Saussure a trouvé que l'agent transformateur de l'amidon prenait également naissance lorsqu'on traitait par l'alcool le gluten insoluble dans l'eau et lorsqu'on l'évaporait ensuite au contact de l'air, en sorte que le gluten insoluble peut finalement donner naissance à une substance soluble dans l'eau (sa mucine) cela prouve seulement que l'ensemble des substances albumineuses du grain, en se décomposant au contact de l'air, peut donner naissance à un agent transformateur de cette espèce, mais non que c'est la glutine de préférence qui lui donne naissance.
+Partant de cette vérité généralement reconnue qu'une substance albumineuse est d'autant plus active qu'elle est plus
+soluble, nous paraîtrions devoir rechercher la substance génératrice de l'agent transformateur de l'amidon dans les
+substances albumineuses solubles, non coagulables par l'action de la chaleur, qui existent déjà dans le grain et dont la
+quantité a été évaluée dans l'orge à 155. Mais leur quantité augmente également par la germination et s'élève à 2,08. La
+soi-disant diastase est soluble dans l'eau froide et ne se coagule pas par l'action de la chaleur : elle doit donc se
+trouver parmi les 2,08 pour 100. Mais, si De Saussure a trouvé que l'agent transformateur de l'amidon prenait également
+naissance lorsqu'on traitait par l'alcool le gluten insoluble dans l'eau et lorsqu'on l'évaporait ensuite au contact de
+l'air, en sorte que le gluten insoluble peut finalement donner naissance à une substance soluble dans l'eau (sa mucine)
+cela prouve seulement que l'ensemble des substances albumineuses du grain, en se décomposant au contact de l'air, peut
+donner naissance à un agent transformateur de cette espèce, mais non que c'est la glutine de préférence qui lui donne
+naissance.
 
-En ce qui concerne la composition chimique de la diastase, elle ne peut avoir pour nous aucune importance : en effet, c'est une substance qui se modifie continuellement, et qui, par suite, ne doit pas présenter une composition fixe, pas plus que le contenu des cellules du ferment. La substance génératrice de la soi-disant diastase est connue ; mais, par l'action de la chaleur et de l'humidité, elle absorbe de l'oxygène, se transforme en diastase et n'a plus d'existence propre : elle commence alors à subir une série de modifications continues. La substance albumineuse originaire est décomposée et la décomposition continue toujours sans s'arrêter : la décomposition s'étend à l'amidon qui se trouve dans la sphère d'activité de cette substance et la transforme en dextrine, puis en sucre. En même temps que cette réaction se produit, l'agent qui l'a déterminée se modifie de plus en plus et se transforme en nouveaux produits de décomposition.
+En ce qui concerne la composition chimique de la diastase, elle ne peut avoir pour nous aucune importance : en effet,
+c'est une substance qui se modifie continuellement, et qui, par suite, ne doit pas présenter une composition fixe, pas
+plus que le contenu des cellules du ferment. La substance génératrice de la soi-disant diastase est connue ; mais, par
+l'action de la chaleur et de l'humidité, elle absorbe de l'oxygène, se transforme en diastase et n'a plus d'existence
+propre : elle commence alors à subir une série de modifications continues. La substance albumineuse originaire est
+décomposée et la décomposition continue toujours sans s'arrêter : la décomposition s'étend à l'amidon qui se trouve dans
+la sphère d'activité de cette substance et la transforme en dextrine, puis en sucre. En même temps que cette réaction se
+produit, l'agent qui l'a déterminée se modifie de plus en plus et se transforme en nouveaux produits de décomposition.
 
-On ne doit avoir que peu d'espoir de connaître jamais d'une manière positive les produits qui prennent naissance pendant que la substance albumineuse soluble dans l'eau fonctionne de manière à produire une oxydation (et un dégagement d'acide carbonique?) et à opérer en même temps la transformation de l'amidon en dextrine et en sucre : il se produit ici un phénomène du même ordre que l'absorption de l'oxygène et le dégagement d'acide carbonique qui se produisent par la transformation des substances albumineuses dans la respiration des animaux. Mais la connaissance des produits de décomposition antérieurs à la soi-disant diastase, de même que celle des produits ultérieurs de décomposition de cet agent transformateur de l'amidon n'est pas absolument nécessaire pour obtenir un exposé général parfaitement clair de ce qui a lieu dans la germination des semences et par suite dans la fabrication du malt.
+On ne doit avoir que peu d'espoir de connaître jamais d'une manière positive les produits qui prennent naissance pendant
+que la substance albumineuse soluble dans l'eau fonctionne de manière à produire une oxydation (et un dégagement d'acide
+carbonique?) et à opérer en même temps la transformation de l'amidon en dextrine et en sucre : il se produit ici un
+phénomène du même ordre que l'absorption de l'oxygène et le dégagement d'acide carbonique qui se produisent par la
+transformation des substances albumineuses dans la respiration des animaux. Mais la connaissance des produits de
+décomposition antérieurs à la soi-disant diastase, de même que celle des produits ultérieurs de décomposition de cet
+agent transformateur de l'amidon n'est pas absolument nécessaire pour obtenir un exposé général parfaitement clair de ce
+qui a lieu dans la germination des semences et par suite dans la fabrication du malt.
 
-La réaction est parfaitement identique avec celle qui a lieu par l'action du ferment, avec cette différence que, dans l'action de l'agent transformateur de l'amidon, il n'y a aucune séparation de molécules, mais il y a seulement une transformation moléculaire qui est la conséquence du passage d'une substance à l'état de décomposition.
+La réaction est parfaitement identique avec celle qui a lieu par l'action du ferment, avec cette différence que, dans
+l'action de l'agent transformateur de l'amidon, il n'y a aucune séparation de molécules, mais il y a seulement une
+transformation moléculaire qui est la conséquence du passage d'une substance à l'état de décomposition.
 
-Nous devons nous arrêter ici sur un point qui a rapport à la préparation du malt. Dans la germination de l'orge, par exemple, il y a absorption d'oxygène et dégagement d'acide carbonique : une substance albumineuse est transformée en agent modificateur de l'amidon, mais en même temps l'amidon de la semence est transformé en dextrine, puis en sucre. Lorsque l'orge a atteint un degré suffisant de germination, on le dessèche et l'action cesse. Si l'on moud alors le malt, si on le fait ensuite infuser dans l'eau chaude et si l'on abandonne l'infusion pendant quelque temps à elle-même, le reste de l'amidon est transformé en dextrine, puis en sucre. Il n'est pas nécessaire que, pendant la germination, toutes les substances albumineuses solubles se transforment en agent de transformation de l'amidon : il faut seulement qu'une partie de ces substances subissent cette transformation. Plus tard, lorsqu'on traite le malt moulu par l'eau chaude au contact de l'air, le reste des substances albumineuses solubles peut se transformer ainsi en agent modificateur qui, immédiatement après qu'il a pris naissance, peut réagir sur l'amidon ou sur la dextrine et déterminer leur transformation eh sucre. — Il pourrait aussi se faire que, par la germination, une quantité plus ou moins considérable des substances albumineuses solubles entre dans la voie de la transformation en agent modificateur pour ne subir définitivement cette transformation que plus tard, lorsqu'on traite par l'eau chaude le malt préalablement moulu.
+Nous devons nous arrêter ici sur un point qui a rapport à la préparation du malt. Dans la germination de l'orge, par
+exemple, il y a absorption d'oxygène et dégagement d'acide carbonique : une substance albumineuse est transformée en
+agent modificateur de l'amidon, mais en même temps l'amidon de la semence est transformé en dextrine, puis en sucre.
+Lorsque l'orge a atteint un degré suffisant de germination, on le dessèche et l'action cesse. Si l'on moud alors le
+malt, si on le fait ensuite infuser dans l'eau chaude et si l'on abandonne l'infusion pendant quelque temps à elle-même,
+le reste de l'amidon est transformé en dextrine, puis en sucre. Il n'est pas nécessaire que, pendant la germination,
+toutes les substances albumineuses solubles se transforment en agent de transformation de l'amidon : il faut seulement
+qu'une partie de ces substances subissent cette transformation. Plus tard, lorsqu'on traite le malt moulu par l'eau
+chaude au contact de l'air, le reste des substances albumineuses solubles peut se transformer ainsi en agent
+modificateur qui, immédiatement après qu'il a pris naissance, peut réagir sur l'amidon ou sur la dextrine et déterminer
+leur transformation eh sucre. — Il pourrait aussi se faire que, par la germination, une quantité plus ou moins
+considérable des substances albumineuses solubles entre dans la voie de la transformation en agent modificateur pour ne
+subir définitivement cette transformation que plus tard, lorsqu'on traite par l'eau chaude le malt préalablement moulu.
 
-Cela ressort immédiatement des expériences de De Saussure que nous avons indiquées p. 106, dans lesquelles, en 10 heures, il a, tant au moyen du gluten brut qu'au moyen de la mucine, transformé une quantité considérable d'amidon eu dextrine, puis en sucre. — La germination préalable des semences n'est donc pas nécessaire pour la production de l'agent modificateur : si l'on mélange de la farine d'orge avec de l'eau chaude et si l'on maintient le tout pendant quelques heures à une température de 50°C, l'agent de transformation de l'amidon peut prendre naissance, ainsi que l'expérience le démontre d'une manière convaincante. Si l'on maintient ainsi pendant quelques heures à une température de 50° une bouillie liquide d'orge, une quantité considérable de l'amidon de cette farine est transformée en dextrine, puis en sucre. Mais, dans la préparation de la bière, cette manière de procéder présenterait de l'inconvénient : en effet, il faudrait plusieurs heures pour transformer ainsi en dextrine et en sucre au moyen de la farine d'orge et de l'eau une quantité d'amidon dont la transformation s'effectue en quelques minutes lorsqu'on emploie le malt.
+Cela ressort immédiatement des expériences de De Saussure que nous avons indiquées p. 106, dans lesquelles, en 10
+heures, il a, tant au moyen du gluten brut qu'au moyen de la mucine, transformé une quantité considérable d'amidon eu
+dextrine, puis en sucre. — La germination préalable des semences n'est donc pas nécessaire pour la production de l'agent
+modificateur : si l'on mélange de la farine d'orge avec de l'eau chaude et si l'on maintient le tout pendant quelques
+heures à une température de 50°C, l'agent de transformation de l'amidon peut prendre naissance, ainsi que l'expérience
+le démontre d'une manière convaincante. Si l'on maintient ainsi pendant quelques heures à une température de 50° une
+bouillie liquide d'orge, une quantité considérable de l'amidon de cette farine est transformée en dextrine, puis en
+sucre. Mais, dans la préparation de la bière, cette manière de procéder présenterait de l'inconvénient : en effet, il
+faudrait plusieurs heures pour transformer ainsi en dextrine et en sucre au moyen de la farine d'orge et de l'eau une
+quantité d'amidon dont la transformation s'effectue en quelques minutes lorsqu'on emploie le malt.
 
-Dans tous les cas, il résulte de cette expérience que c'est une question de temps et qu'il n'est pas nécessaire de transformer préalablement, par la germination, les matières albumineuses solubles en agent modificateur de l'amidon ; mais que la transformation peut avoir lieu lorsque, après avoir mélangé avec de l'eau chaude la farine préalablement moulue, on expose le tout au contactée l'air (p. 4).
+Dans tous les cas, il résulte de cette expérience que c'est une question de temps et qu'il n'est pas nécessaire de
+transformer préalablement, par la germination, les matières albumineuses solubles en agent modificateur de l'amidon ;
+mais que la transformation peut avoir lieu lorsque, après avoir mélangé avec de l'eau chaude la farine préalablement
+moulue, on expose le tout au contactée l'air (p. 4).
 
-Certes, c'est un fait bien connu que, dans la préparation de la pâte destinée à la fabrication du pain et des pâtisseries, dans lesquels la quantité d'amidon diminue immédiatement dès que l'on expose à une température déterminée la farine préalablement transformée en pâte au moyen de l'eau chaude, il se produit immédiatement de la dextrine et du sucre. Plus la pâte a été maintenue longtemps à une température élevée, plus la quantité de dextrine et de sucre produite, et surtout la quantité de dextrine, est considérable. Ici la production de l'agent modificateur de l'amidon est simultanée avec la production du ferment ; en effet la pâte commence à se lever par suite de la production d'une certaine quantité d'acide carbonique : la production de l'un ne met pas obstacle à celle de l'autre. — Pour la production de l'un et de l'autre, et surtout pour celle du dernier, l'oxygène est nécessaire ; c'est par ce motif que la pâte est travaillée avec soin, pétrie, étendue, afin que l'oxygène puisse avoir partout accès : plus on a mis de soin, moins le pain présente le caractère d'une pâte préparée uniquement avec de la farine, et plus il est savoureux et riche en dextrine et en sucre.
+Certes, c'est un fait bien connu que, dans la préparation de la pâte destinée à la fabrication du pain et des
+pâtisseries, dans lesquels la quantité d'amidon diminue immédiatement dès que l'on expose à une température déterminée
+la farine préalablement transformée en pâte au moyen de l'eau chaude, il se produit immédiatement de la dextrine et du
+sucre. Plus la pâte a été maintenue longtemps à une température élevée, plus la quantité de dextrine et de sucre
+produite, et surtout la quantité de dextrine, est considérable. Ici la production de l'agent modificateur de l'amidon
+est simultanée avec la production du ferment ; en effet la pâte commence à se lever par suite de la production d'une
+certaine quantité d'acide carbonique : la production de l'un ne met pas obstacle à celle de l'autre. — Pour la
+production de l'un et de l'autre, et surtout pour celle du dernier, l'oxygène est nécessaire ; c'est par ce motif que la
+pâte est travaillée avec soin, pétrie, étendue, afin que l'oxygène puisse avoir partout accès : plus on a mis de soin,
+moins le pain présente le caractère d'une pâte préparée uniquement avec de la farine, et plus il est savoureux et riche
+en dextrine et en sucre.
 
-La présence de l'oxygène est nécessaire pour déterminer d'une manière puissante le développement de l'agent transformateur de l'amidon dans la semence en germination : la présence de l'oxygène est nécessaire pour déterminer sa production dans la pâte ordinaire faite avec de la farine, et ce qui a lieu dans la germination des plantes peut donc, en ce qui concerne la production d'une substance albumineuse active, être mis en lumière par les phénomènes qui se produisent dans la pâte lorsqu'on veut en fabriquer du pain. Celui qui veut étudier les phénomènes de la germination au point de vue seulement de la production de l'agent modificateur, fera donc bien de prendre de la farine de grain et d'en faire de la pâte. Dans ce cas, les phénomènes se produisent d'autant plus rapidement que l'on peut augmenter les points de contact des substances qui réagissent l'une sur l'autre, tandis que, dans la semence en germination, tout ce qui se passe est le résultat d'une osmose lente.
+La présence de l'oxygène est nécessaire pour déterminer d'une manière puissante le développement de l'agent
+transformateur de l'amidon dans la semence en germination : la présence de l'oxygène est nécessaire pour déterminer sa
+production dans la pâte ordinaire faite avec de la farine, et ce qui a lieu dans la germination des plantes peut donc,
+en ce qui concerne la production d'une substance albumineuse active, être mis en lumière par les phénomènes qui se
+produisent dans la pâte lorsqu'on veut en fabriquer du pain. Celui qui veut étudier les phénomènes de la germination au
+point de vue seulement de la production de l'agent modificateur, fera donc bien de prendre de la farine de grain et d'en
+faire de la pâte. Dans ce cas, les phénomènes se produisent d'autant plus rapidement que l'on peut augmenter les points
+de contact des substances qui réagissent l'une sur l'autre, tandis que, dans la semence en germination, tout ce qui se
+passe est le résultat d'une osmose lente.
 
-Péligot[^48] a prétendu que, dans une pâte préparée avec 125 grammes de farine de froment, 75 grammes d'eau et 10 grammes de levure de bière, il n'a pu trouver aucune trace de sucre, bien que la pâte fût en pleine fermentation. Le fait paraît d'autant plus étrange qu'il est en contradiction avec l'expérience usuelle. Par l'expérience fort simple qui va suivre, on peut s'assurer que, dans cette expérience dans laquelle Péligot n'a pas trouvé de sucre, il s'en produit cependant une quantité considérable. On mélange de la farine de froment avec de l'eau et de la levure bien sèche, et on laisse reposer le tout pendant deux heures dans un endroit chaud. Lorsque la masse est en pleine fermentation, on la traite par l'alcool, puis on filtre.
+Péligot[^48] a prétendu que, dans une pâte préparée avec 125 grammes de farine de froment, 75 grammes d'eau et 10
+grammes de levure de bière, il n'a pu trouver aucune trace de sucre, bien que la pâte fût en pleine fermentation. Le
+fait paraît d'autant plus étrange qu'il est en contradiction avec l'expérience usuelle. Par l'expérience fort simple qui
+va suivre, on peut s'assurer que, dans cette expérience dans laquelle Péligot n'a pas trouvé de sucre, il s'en produit
+cependant une quantité considérable. On mélange de la farine de froment avec de l'eau et de la levure bien sèche, et on
+laisse reposer le tout pendant deux heures dans un endroit chaud. Lorsque la masse est en pleine fermentation, on la
+traite par l'alcool, puis on filtre.
 
-D'autre part, on prend une autre quantité de la même farine et une autre quantité du même ferment, qui soient entre elles dans les proportions indiquées : on les mélange bien avec des quantités relativement équivalentes d'eau et d'alcool, puis on filtre pour obtenir une liqueur claire.
+D'autre part, on prend une autre quantité de la même farine et une autre quantité du même ferment, qui soient entre
+elles dans les proportions indiquées : on les mélange bien avec des quantités relativement équivalentes d'eau et d'
+alcool, puis on filtre pour obtenir une liqueur claire.
 
-Si l'on chauffe les deux dissolutions avec la liqueur cuivriquè, il se produit immédiatement dans la première un abondant précipité de protoxyde de cuivre, tandis que, dans la dernière, il ne s'en produit qu'une trace à peine sensible, provenant de la présence d'une petite quantité de dextrine qui s'était dissoute dans l'alcool.
+Si l'on chauffe les deux dissolutions avec la liqueur cuivriquè, il se produit immédiatement dans la première un
+abondant précipité de protoxyde de cuivre, tandis que, dans la dernière, il ne s'en produit qu'une trace à peine
+sensible, provenant de la présence d'une petite quantité de dextrine qui s'était dissoute dans l'alcool.
 
 Il ne peut donc exister aucun doute qu'il ne se produise du sucre dans la fermentation de la farine au moyen du ferment.
 
-De la première liqueur on a retiré le sucre, avec les caractères qui le caractérisent comme substance, de la manière suivante. On a évaporé jusqu'à siccité la dissolution alcoolique préalablement filtrée ; on a épuisé le résidu par l'alcool concentré ; on a filtré pour retenir sur le filtre la dextrine qui s'était formée en même temps, puis on a évaporé la liqueur ; on a traité par l'eau le résidu, on a filtré la liqueur sur du charbon animal, puis on l'a évaporée. Il est resté, comme résidu de l'évaporation, du sucre de fruits avec toutes les propriétés qui le caractérisent. Il fermentait aussitôt qu'on le mettait en contact avec de la levure de bière[^49].
+De la première liqueur on a retiré le sucre, avec les caractères qui le caractérisent comme substance, de la manière
+suivante. On a évaporé jusqu'à siccité la dissolution alcoolique préalablement filtrée ; on a épuisé le résidu par
+l'alcool concentré ; on a filtré pour retenir sur le filtre la dextrine qui s'était formée en même temps, puis on a
+évaporé la liqueur ; on a traité par l'eau le résidu, on a filtré la liqueur sur du charbon animal, puis on l'a
+évaporée. Il est resté, comme résidu de l'évaporation, du sucre de fruits avec toutes les propriétés qui le
+caractérisent. Il fermentait aussitôt qu'on le mettait en contact avec de la levure de bière[^49].
 
-Si l'on traite par l'alcool du pain blanc que l'on a préparé sans addition de lait, on peut facilement réussir à en séparer le sucre.
+Si l'on traite par l'alcool du pain blanc que l'on a préparé sans addition de lait, on peut facilement réussir à en
+séparer le sucre.
 
-En résumé, lorsque, après avoir fait une pâte avec de la farine de froment, on la met en pleine fermentation par une addition de ferment, il se produit deux phénomènes simultanés dont l'un consiste en une production d'une grande quantité de dextrine et de sucre, et dont l'autre est constitué par une décomposition immédiate d'une partie du sucre qui fermente et se transforme ainsi en alcool et en acide carbonique. Deux groupements organiques différents passent donc simultanément à l'état de décomposition. L'un est la substance albumineuse soluble non coagulable qui se transforme en agent modificateur de l'amidon; l'autre (peut-être la glutine) passe à l'état d'agent de dédoublement du sucre, et forme alors le contenu des cellules qui constituent le ferment : en effet, c'est toujours de cette manière que l'on prépare le ferment.
+En résumé, lorsque, après avoir fait une pâte avec de la farine de froment, on la met en pleine fermentation par une
+addition de ferment, il se produit deux phénomènes simultanés dont l'un consiste en une production d'une grande quantité
+de dextrine et de sucre, et dont l'autre est constitué par une décomposition immédiate d'une partie du sucre qui
+fermente et se transforme ainsi en alcool et en acide carbonique. Deux groupements organiques différents passent donc
+simultanément à l'état de décomposition. L'un est la substance albumineuse soluble non coagulable qui se transforme en
+agent modificateur de l'amidon; l'autre (peut-être la glutine) passe à l'état d'agent de dédoublement du sucre, et forme
+alors le contenu des cellules qui constituent le ferment : en effet, c'est toujours de cette manière que l'on prépare le
+ferment.
 
-Pour mettre en lumière d'un manière évidente la production du sucre dans une pâte de farine par la fermentation, nous ne devons pas omettre de rappeler ici que, dans la cuisson du pain, il se sépare de la pâte une certaine quantité d'alcool qui distille. On a même cherché en Angleterre à obtenir ainsi l'alcool en opérant sur de grandes quantités ; mais comme les appareils étaient fort coûteux, ce procédé n'a point passé dans la pratique usuelle.
+Pour mettre en lumière d'un manière évidente la production du sucre dans une pâte de farine par la fermentation, nous ne
+devons pas omettre de rappeler ici que, dans la cuisson du pain, il se sépare de la pâte une certaine quantité d'alcool
+qui distille. On a même cherché en Angleterre à obtenir ainsi l'alcool en opérant sur de grandes quantités ; mais comme
+les appareils étaient fort coûteux, ce procédé n'a point passé dans la pratique usuelle.
 
-Il restait encore à répondre à une autre question. La substance albumineuse soluble est-elle surtout la substance génératrice de la diastase, et, en outre, en admettant que la substance que l'on a nommée diastase ne soit, à proprement parler, qu'une substance à l'état de décomposition, cette substance est-elle la seule substance qui puisse engendrer de la diastase ? Ou, de même que le ferment peut être engendré par toutes sortes de substances en décomposition[^50], de même toutes sortes de substances albumineuses en décomposition peuvent-elles donner naissance à un agent modificateur de l'amidon ; bu plutôt les circonstances dans lesquelles la diastase effectue la transformation de l'amidon en dextrine et en sucre ne sont-elles pas précisément la cause pour laquelle une substance albumineuse subit cette transformation en agent modificateur de l'amidon. Si nous pouvons arriver ainsi à donner au mot diastase une signification générale ainsi que cela a lieu pour l'expression ferment dans la fermentation, la science aura perdu la diastase comme substance particulière, mais elle aura gagné, d'autre part, en ce qu'un phénomène qui avait un caractère spécial aura pris un caractère général.
+Il restait encore à répondre à une autre question. La substance albumineuse soluble est-elle surtout la substance
+génératrice de la diastase, et, en outre, en admettant que la substance que l'on a nommée diastase ne soit, à proprement
+parler, qu'une substance à l'état de décomposition, cette substance est-elle la seule substance qui puisse engendrer de
+la diastase ? Ou, de même que le ferment peut être engendré par toutes sortes de substances en décomposition[^50], de
+même toutes sortes de substances albumineuses en décomposition peuvent-elles donner naissance à un agent modificateur de
+l'amidon ; bu plutôt les circonstances dans lesquelles la diastase effectue la transformation de l'amidon en dextrine et
+en sucre ne sont-elles pas précisément la cause pour laquelle une substance albumineuse subit cette transformation en
+agent modificateur de l'amidon. Si nous pouvons arriver ainsi à donner au mot diastase une signification générale ainsi
+que cela a lieu pour l'expression ferment dans la fermentation, la science aura perdu la diastase comme substance
+particulière, mais elle aura gagné, d'autre part, en ce qu'un phénomène qui avait un caractère spécial aura pris un
+caractère général.
 
-Jusqu'à un certain point, le fait est déjà démontré. En effet, on avait, autrefois, trouvé du sucre dans toutes les espèces de grains, bien que des expériences plus récentes aient montré qu'ils n'en contenaient pas. Dans les analyses de Einhoff, de Proust, de De Saussure, que nous avons donnée p. 23, une certaine quantité de sucre se trouve toujours indiquée. On a trouvé du sucre, bien qu'il ne s'en trouvât pas dans le grain. Il devait donc être un produit de décomposition et s'être formé aux dépens de la dextrine, qui avait dû elle-même se produire aux dépens de l'amidon : sa production devait donc être la conséquence de ce que les substances albumineuses du grain étaient passées à l'état de décomposition par l'action de l'eau à une température élevée et au contact de l'air.
+Jusqu'à un certain point, le fait est déjà démontré. En effet, on avait, autrefois, trouvé du sucre dans toutes les
+espèces de grains, bien que des expériences plus récentes aient montré qu'ils n'en contenaient pas. Dans les analyses de
+Einhoff, de Proust, de De Saussure, que nous avons donnée p. 23, une certaine quantité de sucre se trouve toujours
+indiquée. On a trouvé du sucre, bien qu'il ne s'en trouvât pas dans le grain. Il devait donc être un produit de
+décomposition et s'être formé aux dépens de la dextrine, qui avait dû elle-même se produire aux dépens de l'amidon : sa
+production devait donc être la conséquence de ce que les substances albumineuses du grain étaient passées à l'état de
+décomposition par l'action de l'eau à une température élevée et au contact de l'air.
 
-Il résulte donc de là que, dans aucun grain amylacé, la germination n'est nécessaire pour déterminer la production d'une substance qui joue le rôle d'agent modificateur de-l'amidon et que l'orge n'est en aucune manière indispensable pour obtenir cette substance.
+Il résulte donc de là que, dans aucun grain amylacé, la germination n'est nécessaire pour déterminer la production d'une
+substance qui joue le rôle d'agent modificateur de-l'amidon et que l'orge n'est en aucune manière indispensable pour
+obtenir cette substance.
 
-Mais nous devons considérer la chose à un point de vue plus élevé, si nous voulons nous faire une idée véritablement exacte de la nature de ce que l'on a retiré de l'orge et considéré comme une substance particulière à laquelle on a donné le nom de diastase. Lassaigne, Bouchardat, Mialhe, Bernard et Barreswill, Sandras et Bouchardat, et Magendie, ont démontré, chacun à sa manière, que la transformation de l'amidon en dextrine, puis en sucre, peut être opérée, dans des circonstances très différentes, par différentes substances organiques et, par exemple, par la bile, par l'urine devenue acide, par le sérum du sang, par le sang, par la matière cérébrale, par le suc pancréatique, par le coeur, par la substance musculaire, par les poumons, par le foie, par les reins, tandis que, d'autre part, la transformation de l'amidon en dextrine et en sucre par l'action de la salive seule, ou par l'action de la salive et du mucus buccal, a été l'objet des recherches de Leuchs, de Schwann, de Wright et de Mialhe. Il nous suffira de citer deux exemples que nous emprunterons aux recherches de Magendie[^51]. Il mélangeait, dans un vase, de l'empois avec du sérum frais à la température de 40° centigrades ; après quelques instants, l'amidon avait disparu et, au bout d'un quart d'heure, on pouvait se convaincre que le mélange contenait du sucre et de la dextrine.
+Mais nous devons considérer la chose à un point de vue plus élevé, si nous voulons nous faire une idée véritablement
+exacte de la nature de ce que l'on a retiré de l'orge et considéré comme une substance particulière à laquelle on a
+donné le nom de diastase. Lassaigne, Bouchardat, Mialhe, Bernard et Barreswill, Sandras et Bouchardat, et Magendie, ont
+démontré, chacun à sa manière, que la transformation de l'amidon en dextrine, puis en sucre, peut être opérée, dans des
+circonstances très différentes, par différentes substances organiques et, par exemple, par la bile, par l'urine devenue
+acide, par le sérum du sang, par le sang, par la matière cérébrale, par le suc pancréatique, par le coeur, par la
+substance musculaire, par les poumons, par le foie, par les reins, tandis que, d'autre part, la transformation de
+l'amidon en dextrine et en sucre par l'action de la salive seule, ou par l'action de la salive et du mucus buccal, a été
+l'objet des recherches de Leuchs, de Schwann, de Wright et de Mialhe. Il nous suffira de citer deux exemples que nous
+emprunterons aux recherches de Magendie[^51]. Il mélangeait, dans un vase, de l'empois avec du sérum frais à la
+température de 40° centigrades ; après quelques instants, l'amidon avait disparu et, au bout d'un quart d'heure, on
+pouvait se convaincre que le mélange contenait du sucre et de la dextrine.
 
-Le sang lui-même, au moment où il sort de la veine, présente également la faculté d'opérer la transformation de l'amidon ; si l'on fait bouillir 5 grammes d'amidon avec 100 grammes d'eau, et si l'on mélange l'empois ainsi obtenu avec 200 grammes de sang, on observe que, au bout de quatre heures, la transformation de l'amidon est complète; et l'on trouve, à sa place, de la dextrine et du sucre.
+Le sang lui-même, au moment où il sort de la veine, présente également la faculté d'opérer la transformation de l'
+amidon ; si l'on fait bouillir 5 grammes d'amidon avec 100 grammes d'eau, et si l'on mélange l'empois ainsi obtenu avec
+200 grammes de sang, on observe que, au bout de quatre heures, la transformation de l'amidon est complète; et l'on
+trouve, à sa place, de la dextrine et du sucre.
 
-Le sang, pendant qu'il circule dans l'animal vivant, possède cette faculté au plus haut degré. Immédiatement après l'injection d'une certaine quantité d'empois dans la veine jugulaire d'un lapin, on ne pouvait plus retrouver aucun indice d'amidon dans le sang; mais on pouvait bientôt y constater la présence du sucre, bien que, avant l'expérience, il n'eût été possible de constater la présence d'aucune trace de sucre
+Le sang, pendant qu'il circule dans l'animal vivant, possède cette faculté au plus haut degré. Immédiatement après
+l'injection d'une certaine quantité d'empois dans la veine jugulaire d'un lapin, on ne pouvait plus retrouver aucun
+indice d'amidon dans le sang; mais on pouvait bientôt y constater la présence du sucre, bien que, avant l'expérience, il
+n'eût été possible de constater la présence d'aucune trace de sucre
 
-dans le sang du même animal. Pendant les cinq premières heures, la quantité de sucre contenue dans le sang du lapin allait toujours en augmentant ; mais, au bout de ce temps, elle commençait à diminuer et, sept heures après l'expérience, il n'y avait plus de sucre dans le sang du lapin.
+dans le sang du même animal. Pendant les cinq premières heures, la quantité de sucre contenue dans le sang du lapin
+allait toujours en augmentant ; mais, au bout de ce temps, elle commençait à diminuer et, sept heures après
+l'expérience, il n'y avait plus de sucre dans le sang du lapin.
 
 La même expérience, répétée sur des chiens, a donné le même résultat.
 
-Dans la physiologie de l'homme et des animaux, c'est un fait aujourd'hui généralement reconnu que l'amidon est transformé en sucre, non seulement dans l'estomac et dans les intestins, mais que cette transformation continue à s'opérer dans le sang. Si nous ajoutons que chacun des organes de l'économie animale possède cette faculté, il en résultera évidemment que c'est une idée trop exclusive et trop restreinte, et qui s'éloigne de la vérité, que celle qui admet dans l'orge germée une substance spéciale douée de la propriété indiquée.
+Dans la physiologie de l'homme et des animaux, c'est un fait aujourd'hui généralement reconnu que l'amidon est
+transformé en sucre, non seulement dans l'estomac et dans les intestins, mais que cette transformation continue à
+s'opérer dans le sang. Si nous ajoutons que chacun des organes de l'économie animale possède cette faculté, il en
+résultera évidemment que c'est une idée trop exclusive et trop restreinte, et qui s'éloigne de la vérité, que celle qui
+admet dans l'orge germée une substance spéciale douée de la propriété indiquée.
 
-Cette faculté de transformer l'amidon en dextrine et en sucre, que nous rencontrons à un si haut degré dans l'organisme animal, nous la rencontrons également dans le règne végétal. Nous la rencontrons surtout dans toutes les semences amylacées en germination, mais, en outre, dans toutes les parties de plantes qui contiennent de l'amidon, dans lesquelles l'amidon disparaît et est remplacé par de la dextrine et du sucre.
+Cette faculté de transformer l'amidon en dextrine et en sucre, que nous rencontrons à un si haut degré dans l'organisme
+animal, nous la rencontrons également dans le règne végétal. Nous la rencontrons surtout dans toutes les semences
+amylacées en germination, mais, en outre, dans toutes les parties de plantes qui contiennent de l'amidon, dans
+lesquelles l'amidon disparaît et est remplacé par de la dextrine et du sucre.
 
-Les expériences de Bouchardat[^52] méritent encore à un plus haut degré notre attention. Il fait remonter les premières notions sur le sujet qui nous occupe à Fourcroy, qui, le premier[^53], a parlé d'une fermentation saccharine, c'est-à-dire d'une réaction dans laquelle il se produit du sucre, et il donne le nom de fermentation glucosique à toute réaction dans laquelle il se produit du sucre par l'action d'une substance qui subit elle-même une transformation ; il n'y a cependant pas là, à proprement parler, une fermentation, mais il y a plutôt une transformation. En outre, Bouchardat considère, mais tout à fait à tort, comme étant des réactions du même ordre, la transformation que l'amidon subit par l'action de l'infusion de malt, et la décomposition, le dédoublement, qui se produit par l'action de la synaptase sur l'amygdaline, la salicine, etc.; cependant, fermentation, transformation, dédoublement, sont trois modes d'action essentiellement différents.
+Les expériences de Bouchardat[^52] méritent encore à un plus haut degré notre attention. Il fait remonter les premières
+notions sur le sujet qui nous occupe à Fourcroy, qui, le premier[^53], a parlé d'une fermentation saccharine,
+c'est-à-dire d'une réaction dans laquelle il se produit du sucre, et il donne le nom de fermentation glucosique à toute
+réaction dans laquelle il se produit du sucre par l'action d'une substance qui subit elle-même une transformation ; il
+n'y a cependant pas là, à proprement parler, une fermentation, mais il y a plutôt une transformation. En outre,
+Bouchardat considère, mais tout à fait à tort, comme étant des réactions du même ordre, la transformation que l'amidon
+subit par l'action de l'infusion de malt, et la décomposition, le dédoublement, qui se produit par l'action de la
+synaptase sur l'amygdaline, la salicine, etc.; cependant, fermentation, transformation, dédoublement, sont trois modes
+d'action essentiellement différents.
 
-Bouchardat a employé, pour ses expériences, de l'empois d'amidon, et il a vu que, au bout de vingt-quatre heures, les substances suivantes avaient transformé en sucre une certaine quantité d'empois et avaient ainsi donné naissance à une certaine quantité de sucre représentée par les chiffres suivants, que j'extrais du mémoire de Bouchardat : glutine, 0,3; albumine végétale sèche, gluten brut frais, 0,4; gluten brut sec en poudre, 1; chair putréfiée, 0,5 ; gluten putréfié, 0,8; ferment de la bière, 1; orge germée, 3,8; albumen d'orge germée, 3,8 ; orge putréfiée, 0,4. — Avec d'autres substances qu'il a exposées à un traitement analogue, il a aussi observé une production de sucre ; mais la quantité n'en est pas considérable.
+Bouchardat a employé, pour ses expériences, de l'empois d'amidon, et il a vu que, au bout de vingt-quatre heures, les
+substances suivantes avaient transformé en sucre une certaine quantité d'empois et avaient ainsi donné naissance à une
+certaine quantité de sucre représentée par les chiffres suivants, que j'extrais du mémoire de Bouchardat : glutine, 0,3;
+albumine végétale sèche, gluten brut frais, 0,4; gluten brut sec en poudre, 1; chair putréfiée, 0,5 ; gluten putréfié,
+0,8; ferment de la bière, 1; orge germée, 3,8; albumen d'orge germée, 3,8 ; orge putréfiée, 0,4. — Avec d'autres
+substances qu'il a exposées à un traitement analogue, il a aussi observé une production de sucre ; mais la quantité n'en
+est pas considérable.
 
-Bouchardat n'est aucunement d'avis que, dans toutes ces substances, on puisse retrouver la soi-disant diastase de Payen et de Persoz ; en effet, il a fait sur beaucoup de ces substances des efforts infructueux pour en retirer de la diastase en suivant la méthode indiquée. La faculté d'effectuer la transformation de l'amidon appartient par conséquent à un grand nombre de substances en décomposition. Nous nous trouvons donc ainsi de plus en plus éloignés de l'opinion qu'il existe une substance particulière, douée de cette propriété, qui mérite un nom particulier.
+Bouchardat n'est aucunement d'avis que, dans toutes ces substances, on puisse retrouver la soi-disant diastase de Payen
+et de Persoz ; en effet, il a fait sur beaucoup de ces substances des efforts infructueux pour en retirer de la diastase
+en suivant la méthode indiquée. La faculté d'effectuer la transformation de l'amidon appartient par conséquent à un
+grand nombre de substances en décomposition. Nous nous trouvons donc ainsi de plus en plus éloignés de l'opinion qu'il
+existe une substance particulière, douée de cette propriété, qui mérite un nom particulier.
 
-Dans des expériences qu'il a faites dans le but d'étudier l'influence de divers agents sur la transformation de l'amidon et dans lesquelles il a opéré sur un empois formé de 1 partie d'amidon pour 10 parties d'eau, dont il mélangeait 100 parties avec 5 parties d'orge germée en poudre, il a vu que l'acide nitrique, l'acide chlorhydrique, l'acide phosphorique, l'acide sulfurique, l'acide oxalique, l'acide tartrique et l'acide citrique arrêtaient complètement la transformation de l'amidon. Il n'en était pas de même de l'acide formique, de l'acide arsénieux, de l'acide tannique qui ralentissaient seulement l'action : l'acide acétique et l'acide cyanhydrique (acide prussique) ne paraissaient exercer qu'une action retardatrice très peu prononcée.
+Dans des expériences qu'il a faites dans le but d'étudier l'influence de divers agents sur la transformation de l'amidon
+et dans lesquelles il a opéré sur un empois formé de 1 partie d'amidon pour 10 parties d'eau, dont il mélangeait 100
+parties avec 5 parties d'orge germée en poudre, il a vu que l'acide nitrique, l'acide chlorhydrique, l'acide
+phosphorique, l'acide sulfurique, l'acide oxalique, l'acide tartrique et l'acide citrique arrêtaient complètement la
+transformation de l'amidon. Il n'en était pas de même de l'acide formique, de l'acide arsénieux, de l'acide tannique qui
+ralentissaient seulement l'action : l'acide acétique et l'acide cyanhydrique (acide prussique) ne paraissaient exercer
+qu'une action retardatrice très peu prononcée.
 
-La transformation de l'amidon était complètement arrêtée par la potasse, la soude et la chaux ; la magnésie, l'ammoniaque et les carbonates de potasse et de soude exercent une influence beaucoup moins prononcée ; l'influence du carbonate d'ammoniaque est encore bien moindre, et celle des bicarbonates alcalins est presque nulle.
+La transformation de l'amidon était complètement arrêtée par la potasse, la soude et la chaux ; la magnésie,
+l'ammoniaque et les carbonates de potasse et de soude exercent une influence beaucoup moins prononcée ; l'influence du
+carbonate d'ammoniaque est encore bien moindre, et celle des bicarbonates alcalins est presque nulle.
 
-Dans le grand nombre d'autres substances avec lesquelles Bouchardat a expérimenté, je citerai encore seulement l'alcool, l'éther, la créosote et les huiles essentielles de térébenthine, de moutarde, de citron et d'anis, qui ne ralentissent point la transformation de l'amidon. Il y a donc une différence essentielle entre ce qui se passe dans la transformation de l'amidon en dextrine et en sucre et ce qui a lieu dans la fermentation alcoolique ; en effet, les substances indiquées en dernier lieu arrêtent la fermentation alcoolique.
+Dans le grand nombre d'autres substances avec lesquelles Bouchardat a expérimenté, je citerai encore seulement l'alcool,
+l'éther, la créosote et les huiles essentielles de térébenthine, de moutarde, de citron et d'anis, qui ne ralentissent
+point la transformation de l'amidon. Il y a donc une différence essentielle entre ce qui se passe dans la transformation
+de l'amidon en dextrine et en sucre et ce qui a lieu dans la fermentation alcoolique ; en effet, les substances
+indiquées en dernier lieu arrêtent la fermentation alcoolique.
 
-On fera peut-être remarquer que, dans toutes ces expériences, on peut admettre l'identité de la source de l'activité chimique, puisque, dans les expériences faites avec toutes ces. substances, la quantité d'amidon qui a été transformée est peu considérable, — aussi bien dans l'expérience de De Saussure. dans laquelle on a employé du gluten brut, que dans l'expérience faite avec sa mucine, ainsi que dans les expériences de Magendie, de Bouchardat et de beaucoup d'autres, — mais que, au contraire, une petite quantité de diastase suffît pour transformer en sucre une quantité considérable d'amidon. Cette différence est bien connue : dans le malt, qui est considéré comme contenant 1/500 de diastase, il se trouve une substance dont il faut 2 parties pour transformer 1000 parties d'amidon en sucre et il ne faut que 1 partie de ce même malt pour transformer 1000 parties d'amidon en dextrine. Je ne crois pas, du reste, devoir attribuer une grande valeur à ce fait. En effet, comment ont été opérées ces déterminations ? La grande quantité de gluten brut qui est nécessaire pour opérer la transformation d'une, petite quantité d'amidon ne passe pas entièrement à l'état d'activité chimique, qui est la condition indispensable pour qu'il puisse transformer l'amidon en sucre ; une très petite quantité seulement de la masse passe à cet état ; il n'y a donc qu'une très petite quantité de la masse qui agit, tandis que le reste n'exerce aucune action (Kirchhoff). Toutes les substances dont il est question dans les expériences de Bouchardat et de Magendie sont dans le même cas. Mais il n'y a vraiment là aucun motif qui puisse porter à admettre l'opinion, ou bien que, dans toutes les substances qui opèrent la transformation de l'amidon, il se trouve un seul et même agent doué de la faculté d'opérer cette transformation, ou bien qu'il existe un nombre d'agents, doués de cette faculté, aussi grand que l'on peut trouver de substances qui opèrent avec succès cette transformation.
+On fera peut-être remarquer que, dans toutes ces expériences, on peut admettre l'identité de la source de l'activité
+chimique, puisque, dans les expériences faites avec toutes ces. substances, la quantité d'amidon qui a été transformée
+est peu considérable, — aussi bien dans l'expérience de De Saussure. dans laquelle on a employé du gluten brut, que dans
+l'expérience faite avec sa mucine, ainsi que dans les expériences de Magendie, de Bouchardat et de beaucoup d'autres, —
+mais que, au contraire, une petite quantité de diastase suffît pour transformer en sucre une quantité considérable
+d'amidon. Cette différence est bien connue : dans le malt, qui est considéré comme contenant 1/500 de diastase, il se
+trouve une substance dont il faut 2 parties pour transformer 1000 parties d'amidon en sucre et il ne faut que 1 partie
+de ce même malt pour transformer 1000 parties d'amidon en dextrine. Je ne crois pas, du reste, devoir attribuer une
+grande valeur à ce fait. En effet, comment ont été opérées ces déterminations ? La grande quantité de gluten brut qui
+est nécessaire pour opérer la transformation d'une, petite quantité d'amidon ne passe pas entièrement à l'état
+d'activité chimique, qui est la condition indispensable pour qu'il puisse transformer l'amidon en sucre ; une très
+petite quantité seulement de la masse passe à cet état ; il n'y a donc qu'une très petite quantité de la masse qui agit,
+tandis que le reste n'exerce aucune action (Kirchhoff). Toutes les substances dont il est question dans les expériences
+de Bouchardat et de Magendie sont dans le même cas. Mais il n'y a vraiment là aucun motif qui puisse porter à admettre
+l'opinion, ou bien que, dans toutes les substances qui opèrent la transformation de l'amidon, il se trouve un seul et
+même agent doué de la faculté d'opérer cette transformation, ou bien qu'il existe un nombre d'agents, doués de cette
+faculté, aussi grand que l'on peut trouver de substances qui opèrent avec succès cette transformation.
 
-De ce que nous venons de dire, on peut donc tirer la conclusion générale que des substances albumineuses à un état déterminé de décomposition jouissent de la faculté d'opérer la transformation de l'amidon en sucre. La tâche de la science est de préciser ce que l'on doit comprendre sous l'expression d'état déterminé. Comparativement, sinon scientifiquement, cet état est déjà précisé. Aucun mode d'activité chimique ne nous est complètement connu : celui-là no nous est donc pas plus connu que les autres.
+De ce que nous venons de dire, on peut donc tirer la conclusion générale que des substances albumineuses à un état
+déterminé de décomposition jouissent de la faculté d'opérer la transformation de l'amidon en sucre. La tâche de la
+science est de préciser ce que l'on doit comprendre sous l'expression d'état déterminé. Comparativement, sinon
+scientifiquement, cet état est déjà précisé. Aucun mode d'activité chimique ne nous est complètement connu : celui-là no
+nous est donc pas plus connu que les autres.
 
-De ce que nous avons dit, il résulte que l'expression de diastase devrait cesser d'être admise par la science ; en effet, ce nom rappelle l'idée d'une substance déterminée qui possède la propriété que nous avons reconnue appartenir à plusieurs substances, et cette idée n'a aucune raison d'être admise.
+De ce que nous avons dit, il résulte que l'expression de diastase devrait cesser d'être admise par la science ; en
+effet, ce nom rappelle l'idée d'une substance déterminée qui possède la propriété que nous avons reconnue appartenir à
+plusieurs substances, et cette idée n'a aucune raison d'être admise.
 
-Je crois qu'il est temps de faire disparaître de la science certaines dénominations, qui ont rendu certainement de grands services, mais qui arrêteraient son essor si l'on continuait à en faire usage plus longtemps. Parmi ces dénominations, vient se ranger celle de diastase.
+Je crois qu'il est temps de faire disparaître de la science certaines dénominations, qui ont rendu certainement de
+grands services, mais qui arrêteraient son essor si l'on continuait à en faire usage plus longtemps. Parmi ces
+dénominations, vient se ranger celle de diastase.
 
-Le mot ferment (en hollandais *gist*, en allemand *Gaehrungsstoff*) est employé dans le sens d'agent de dédoublement (*snijder*) ; le ferment qui détermine la production de la fermentation alcoolique peut être désigné sous la dénomination d'agent de dédoublement du sucre (*suiker-snijder*). — Une simple transformation sans dédoublement, lorsqu'on la considère au point de vue générai de sa cause originaire, peut, de même que l'action du ferment, lorsqu'on la considère comme un dédoublement de molécules organiques avec dégagement de gaz, être désignée par un nom particulier. On devrait alors employer, dans ce cas, la désignation d'agent de transformation (*omzetter*), et pour tout ce qui détermine la transformation de l'amidon en dextrine et en sucre, on pourrait employer l'expression d'agent de transformation de l'amidon (*zetmeel-omzetter*).
+Le mot ferment (en hollandais *gist*, en allemand *Gaehrungsstoff*) est employé dans le sens d'agent de dédoublement (
+*snijder*) ; le ferment qui détermine la production de la fermentation alcoolique peut être désigné sous la dénomination
+d'agent de dédoublement du sucre (*suiker-snijder*). — Une simple transformation sans dédoublement, lorsqu'on la
+considère au point de vue générai de sa cause originaire, peut, de même que l'action du ferment, lorsqu'on la considère
+comme un dédoublement de molécules organiques avec dégagement de gaz, être désignée par un nom particulier. On devrait
+alors employer, dans ce cas, la désignation d'agent de transformation (*omzetter*), et pour tout ce qui détermine la
+transformation de l'amidon en dextrine et en sucre, on pourrait employer l'expression d'agent de transformation de
+l'amidon (*zetmeel-omzetter*).
 
-Mais cette expression n'est plus employée dans le sens de l'agent de transformation de l'amidon, mais dans le sens d'un agent de transformation de l'amidon ; en effet, il y en a peut-être un grand nombre[^54].
+Mais cette expression n'est plus employée dans le sens de l'agent de transformation de l'amidon, mais dans le sens d'un
+agent de transformation de l'amidon ; en effet, il y en a peut-être un grand nombre[^54].
 
-Nous croyons devoir faire encore ici une observation. Berzelius avait déjà remarqué[^55] que tous les agents de transformation de l'amidon exigent en dehors de l'organisme vivant une température bien plus élevée que dans l'organisme vivant pour exercer leur action. L'observation est importante. Dans les semences en germination, l'amidon est transformé en dextrine et en sucre à la température ordinaire : dans l'organisme animal, l'amidon est également transformé en dextrine et en sucre à la température de l'animal. Une température d'environ 72°C est au contraire indispensable pour qu'un agent quelconque de transformation, même celui qui est le plus actif, puisse produire rapidement dans nos expériences la modification indiquée.
+Nous croyons devoir faire encore ici une observation. Berzelius avait déjà remarqué[^55] que tous les agents de
+transformation de l'amidon exigent en dehors de l'organisme vivant une température bien plus élevée que dans l'organisme
+vivant pour exercer leur action. L'observation est importante. Dans les semences en germination, l'amidon est transformé
+en dextrine et en sucre à la température ordinaire : dans l'organisme animal, l'amidon est également transformé en
+dextrine et en sucre à la température de l'animal. Une température d'environ 72°C est au contraire indispensable pour
+qu'un agent quelconque de transformation, même celui qui est le plus actif, puisse produire rapidement dans nos
+expériences la modification indiquée.
 
-On peut incontestablement admettre que, à l'intérieur de l'organisme, la quantité abondante d'agent de transformation qui y existe, détermine la même transformation à une température considérablement moins élevée, tandis qu'une température plus élevée est nécessaire lorsqu'il y a une quantité moindre du même agent.
+On peut incontestablement admettre que, à l'intérieur de l'organisme, la quantité abondante d'agent de transformation
+qui y existe, détermine la même transformation à une température considérablement moins élevée, tandis qu'une
+température plus élevée est nécessaire lorsqu'il y a une quantité moindre du même agent.
 
-Schlossberger[^56] conteste la valeur de l'argument indiqué par Berzelius et paraît pour cela se rattacher à l'opinion que c'est, dans le grain, une autre substance que la soi-disant diastase, qui détermine la transformation de l'amidon et qui peut être séparée par un des procédés connus. Il n'y a aucune raison d'admettre une autre substance : on devrait plutôt admettre que les manipulations au moyen desquelles on a effectué la séparation de la soi-disant diastase lui ont fait perdre une portion de l'intensité de sa faculté transformatrice et que, pour qu'elle puisse agir, il est besoin d'une température plus élevée que lorsque la substance n'a pas été traitée par l'alcool, chauffée, puis desséchée. — Une infusion de malt préparée à froid détermine la transformation des propriétés de l'empois d'amidon, même à la température ordinaire, si rapidement que cette transformation peut être observée à l'instant.
+Schlossberger[^56] conteste la valeur de l'argument indiqué par Berzelius et paraît pour cela se rattacher à l'opinion
+que c'est, dans le grain, une autre substance que la soi-disant diastase, qui détermine la transformation de l'amidon et
+qui peut être séparée par un des procédés connus. Il n'y a aucune raison d'admettre une autre substance : on devrait
+plutôt admettre que les manipulations au moyen desquelles on a effectué la séparation de la soi-disant diastase lui ont
+fait perdre une portion de l'intensité de sa faculté transformatrice et que, pour qu'elle puisse agir, il est besoin
+d'une température plus élevée que lorsque la substance n'a pas été traitée par l'alcool, chauffée, puis desséchée. — Une
+infusion de malt préparée à froid détermine la transformation des propriétés de l'empois d'amidon, même à la température
+ordinaire, si rapidement que cette transformation peut être observée à l'instant.
 
-Ce qui a poussé Schlossberger à tirer une conclusion aussi restreinte de nos connaissances relatives à l'agent de la germination du grain (qu'il désigne toujours sous le nom de ferment : or un ferment est un agent de dédoublement et non un agent de transformation), c'est que nous ne savons pas d'où provient, dans les semences oléagineuses, la diminution de la quantité de la matière grasse pendant la germination. Nous devons reconnaître en effet que nous ne le savons pas ; mais savons-nous ce qui détermine la transformation de l'amidon en dextrine, puis en sucre ?
+Ce qui a poussé Schlossberger à tirer une conclusion aussi restreinte de nos connaissances relatives à l'agent de la
+germination du grain (qu'il désigne toujours sous le nom de ferment : or un ferment est un agent de dédoublement et non
+un agent de transformation), c'est que nous ne savons pas d'où provient, dans les semences oléagineuses, la diminution
+de la quantité de la matière grasse pendant la germination. Nous devons reconnaître en effet que nous ne le savons pas ;
+mais savons-nous ce qui détermine la transformation de l'amidon en dextrine, puis en sucre ?
 
-Du reste, il paraît certain que, dans les semences en germination aussi bien que dans l'organisme animal, la matière grasse doit avoir son agent de transformation spécial, et si nous ne savons pas quelle est la substance qui, en passant originairement à l'état d'activité chimique, détermine surtout la transformation de la matière grasse en acide carbonique et en eau, nous pouvons ne pas nous en préoccuper ; en effet nous ne le savons pas d'une substance spéciale, mais nous le savons dans un sens général.
+Du reste, il paraît certain que, dans les semences en germination aussi bien que dans l'organisme animal, la matière
+grasse doit avoir son agent de transformation spécial, et si nous ne savons pas quelle est la substance qui, en passant
+originairement à l'état d'activité chimique, détermine surtout la transformation de la matière grasse en acide
+carbonique et en eau, nous pouvons ne pas nous en préoccuper ; en effet nous ne le savons pas d'une substance spéciale,
+mais nous le savons dans un sens général.
 
-En ce qui concerne ces dédoublements, comme celui que subit par exemple la matière grasse, je crois devoir attirer ici l'attention sur les expériences de Millon et de Reizet[^57] qui ont vu certaines matières grasses, et notamment l'huile d'olive, se décomposer, en présence de la mousse de platine, en eau et en acide carbonique à une température de 90°C et même de 80°C. Si, dans la germination ou dans l'économie animale, la matière grasse est transformée en acide carbonique et en eau, une portion de l'action doit être mise sur le compte de l'agent de dédoublement et une autre portion sur le compte de l'action de la température.
+En ce qui concerne ces dédoublements, comme celui que subit par exemple la matière grasse, je crois devoir attirer ici
+l'attention sur les expériences de Millon et de Reizet[^57] qui ont vu certaines matières grasses, et notamment l'huile
+d'olive, se décomposer, en présence de la mousse de platine, en eau et en acide carbonique à une température de 90°C et
+même de 80°C. Si, dans la germination ou dans l'économie animale, la matière grasse est transformée en acide carbonique
+et en eau, une portion de l'action doit être mise sur le compte de l'agent de dédoublement et une autre portion sur le
+compte de l'action de la température.
 
-Rechercher dans ce cas un agent spécial de dédoublement, ce serait se donner une peine inutile, absolument comme celle de rechercher un agent spécial de transformation de l'amidon. Ce que la science peut nous apprendre, c'est que la substance en question est une substance albumineuse qui se trouve à l'état de transformation chimique, ou bien, et c'est la notion la plus élevée à laquelle on puisse prétendre, la science peut nous apprendre de quelle nature est la substance qui subit la transformation et en quoi consiste cette transformation. Mais quelle est réellement cette substance, c'est une question qui ne peut pas être résolue, parce que, dans le phénomène en question, la substance cesse d'exister à son état primitif et se transforme et que c'est précisément sur ce fait que repose tout le phénomène, en sorte que ce qui détermine le caractère spécial de cette substance, c'est de ne pas avoir d'existence propre au point de vue chimique.
+Rechercher dans ce cas un agent spécial de dédoublement, ce serait se donner une peine inutile, absolument comme celle
+de rechercher un agent spécial de transformation de l'amidon. Ce que la science peut nous apprendre, c'est que la
+substance en question est une substance albumineuse qui se trouve à l'état de transformation chimique, ou bien, et c'est
+la notion la plus élevée à laquelle on puisse prétendre, la science peut nous apprendre de quelle nature est la
+substance qui subit la transformation et en quoi consiste cette transformation. Mais quelle est réellement cette
+substance, c'est une question qui ne peut pas être résolue, parce que, dans le phénomène en question, la substance cesse
+d'exister à son état primitif et se transforme et que c'est précisément sur ce fait que repose tout le phénomène, en
+sorte que ce qui détermine le caractère spécial de cette substance, c'est de ne pas avoir d'existence propre au point de
+vue chimique.
 
-Ce que nous venons de dire deviendra peut-être plus clair par la comparaison avec ce qui se passe dans le mode de préparation si rapide du vinaigre, sur lequel nous allons appeler actuellement l'attention. De l'esprit de malt, étendu d'eau, en un mot de l'alcool faible, se transforme en acide acétique par l'action simultanée de l'air atmosphérique et de la mousse de platine ou d'une quantité excessivement petite d'une substance organique en décomposition. On peut du reste prendre presque dans ce but une substance quelconque : en effet, dans la préparation rapide de l'acide acétique, on ajoute à l'alcool faible toute espèce de substances. Personne ne soulèvera assurément la question de savoir quelle est ici positivement la substance active : c'est un groupement organique complexe en mouvement.
+Ce que nous venons de dire deviendra peut-être plus clair par la comparaison avec ce qui se passe dans le mode de
+préparation si rapide du vinaigre, sur lequel nous allons appeler actuellement l'attention. De l'esprit de malt, étendu
+d'eau, en un mot de l'alcool faible, se transforme en acide acétique par l'action simultanée de l'air atmosphérique et
+de la mousse de platine ou d'une quantité excessivement petite d'une substance organique en décomposition. On peut du
+reste prendre presque dans ce but une substance quelconque : en effet, dans la préparation rapide de l'acide acétique,
+on ajoute à l'alcool faible toute espèce de substances. Personne ne soulèvera assurément la question de savoir quelle
+est ici positivement la substance active : c'est un groupement organique complexe en mouvement.
 
-Lorsqu'une mouche dépose ses œufs dans de la viande et lorsque, par suite, cette viande se pourrit, c'est au point de vue chimique un non-sens que de vouloir savoir quel groupement chimique en décomposition est la cause originaire de ce qui se passe.
+Lorsqu'une mouche dépose ses œufs dans de la viande et lorsque, par suite, cette viande se pourrit, c'est au point de
+vue chimique un non-sens que de vouloir savoir quel groupement chimique en décomposition est la cause originaire de ce
+qui se passe.
 
 Il me semble que cela est également, en grande partie, exact pour l'agent de la transformation de l'amidon.
 
-Enfin est-il besoin de rappeler que, d'après les expériences de Payen et de Persoz sur la diastase même[^58], ces chimistes ont trouvé cette substance, non seulement dans l'orge germée, dans l'avoine et dans le seigle, mais aussi dans les pommes de terre en germination et dans, les bourgeons d'*aylanthus glandulosa*.
+Enfin est-il besoin de rappeler que, d'après les expériences de Payen et de Persoz sur la diastase même[^58], ces
+chimistes ont trouvé cette substance, non seulement dans l'orge germée, dans l'avoine et dans le seigle, mais aussi dans
+les pommes de terre en germination et dans, les bourgeons d'*aylanthus glandulosa*.
 
 Nous devions donc incontestablement admettre que le règne végétal et le règne animal tout entiers en sont imprégnés.
 
-Ou bien n'existe-t-il pas de diastase qui, au printemps, détermine la mise en activité de tout le règne végétal et qui, non seulement détermine la dissolution de l'amidon, mais aussi mette en activité et entretienne toute espèce de décomposition ? Ce serait assurément une idée trop restreinte que celle qui consisterait à admettre une seule et même substance comme cause déterminante de tous ces phénomènes, lorsque nous voyons que, dans chacune des parties d'une plante ou d'un animal, le tout est maintenu à l'état actif par un ensemble complexe de substances, en sorte que si, sur cet ensemble de substances, on en ôte une, on ne peut plus se rendre compte de l'action de l'ensemble.
+Ou bien n'existe-t-il pas de diastase qui, au printemps, détermine la mise en activité de tout le règne végétal et qui,
+non seulement détermine la dissolution de l'amidon, mais aussi mette en activité et entretienne toute espèce de
+décomposition ? Ce serait assurément une idée trop restreinte que celle qui consisterait à admettre une seule et même
+substance comme cause déterminante de tous ces phénomènes, lorsque nous voyons que, dans chacune des parties d'une
+plante ou d'un animal, le tout est maintenu à l'état actif par un ensemble complexe de substances, en sorte que si, sur
+cet ensemble de substances, on en ôte une, on ne peut plus se rendre compte de l'action de l'ensemble.
 
-On a exprimé de la chicorée ; on a divisé en deux parties égales le suc obtenu ; on a ajouté à l'une de l'empois préparé avec de la fécule de pommes de terre ; on a fait digérer les deux liqueurs pendant 3 heures à une température de 60 à 70°C, puis on a essayé ensuite les deux liqueurs avec le réactif cuivrique. Dans les deux cas, il s'est produit une réduction qui est telle qu'il faut 4 parties de la liqueur qui contient le suc de chicorée seul pour réduire une quantité déterminée de réactif cuivrique, tandis que 3 parties seulement de la liqueur qui contient le suc de chicorée additionné d'amidon sont nécessaires pour produire la même action.
+On a exprimé de la chicorée ; on a divisé en deux parties égales le suc obtenu ; on a ajouté à l'une de l'empois préparé
+avec de la fécule de pommes de terre ; on a fait digérer les deux liqueurs pendant 3 heures à une température de 60 à
+70°C, puis on a essayé ensuite les deux liqueurs avec le réactif cuivrique. Dans les deux cas, il s'est produit une
+réduction qui est telle qu'il faut 4 parties de la liqueur qui contient le suc de chicorée seul pour réduire une
+quantité déterminée de réactif cuivrique, tandis que 3 parties seulement de la liqueur qui contient le suc de chicorée
+additionné d'amidon sont nécessaires pour produire la même action.
 
 Le suc de chicorée devrait donc, d'après Payen et Persoz, contenir de la diastase.
 
-Je pense que l'on pourrait à peine trouver un suc végétal qui soit privé de la faculté de transformer l'amidon en dextrine, puis en sucre, comme aussi on ne paraît connaître aucun liquide appartenant à l'économie animale ou aucun tissu animal auxquels cette faculté soit refusée si les circonstances dans lesquelles ils se trouvent n'y mettent pas obstacle.
+Je pense que l'on pourrait à peine trouver un suc végétal qui soit privé de la faculté de transformer l'amidon en
+dextrine, puis en sucre, comme aussi on ne paraît connaître aucun liquide appartenant à l'économie animale ou aucun
+tissu animal auxquels cette faculté soit refusée si les circonstances dans lesquelles ils se trouvent n'y mettent pas
+obstacle.
 
-La physiologie végétale peut ici, comme en quelques autres points, tirer des renseignements de la physiologie animale : mais je ne puis comprendre en aucune manière le débat interminable relatif à la question du sucre, que l'on voit se renouveler sans cesse à Paris, entre les savants français, bien qu'il paraisse devoir être terminé.
+La physiologie végétale peut ici, comme en quelques autres points, tirer des renseignements de la physiologie animale :
+mais je ne puis comprendre en aucune manière le débat interminable relatif à la question du sucre, que l'on voit se
+renouveler sans cesse à Paris, entre les savants français, bien qu'il paraisse devoir être terminé.
 
-Dans ce qui précède, je n'ai fait que peu mention de ce qui a été trouvé et supposé dans la physiologie animale relativement aux agents qui y déterminent la transformation de l'amidon : dans un ouvrage sur la bière, cela n'aurait pas été la place convenable pour le faire. Je ne crois pas cependant pouvoir m'abstenir de remarquer que dans la salive qui, de même que le suc pancréatique, possède à un très haut degré la propriété d'effectuer la transformation de l'amidon, Mialhe[^59] admet l'existence d'une diastase animale que l'on prépare de la même manière que la diastase végétale au moyen du malt (p. 97) ; que Bouchardat et Sandras admettent également une diastase animale dans le suc pancréatique.
+Dans ce qui précède, je n'ai fait que peu mention de ce qui a été trouvé et supposé dans la physiologie animale
+relativement aux agents qui y déterminent la transformation de l'amidon : dans un ouvrage sur la bière, cela n'aurait
+pas été la place convenable pour le faire. Je ne crois pas cependant pouvoir m'abstenir de remarquer que dans la salive
+qui, de même que le suc pancréatique, possède à un très haut degré la propriété d'effectuer la transformation de l'
+amidon, Mialhe[^59] admet l'existence d'une diastase animale que l'on prépare de la même manière que la diastase
+végétale au moyen du malt (p. 97) ; que Bouchardat et Sandras admettent également une diastase animale dans le suc
+pancréatique.
 
-Une preuve évidente qu'un agent de transformation de l'amidon est une substance à l'état de décomposition nous est précisément fournie par la salive. Ce n'est, pas le mucus de la cavité buccale, ni la salive seule, mais bien le mélange de mucus buccal et de salive qui opère si rapidement la transformation de l'amidon en sucre. La salive de la parotide ne paraît participer en rien à cette transformation ; il en est autrement des glandes que l'on désigne sous le nom de glandes submaxillaires.
+Une preuve évidente qu'un agent de transformation de l'amidon est une substance à l'état de décomposition nous est
+précisément fournie par la salive. Ce n'est, pas le mucus de la cavité buccale, ni la salive seule, mais bien le mélange
+de mucus buccal et de salive qui opère si rapidement la transformation de l'amidon en sucre. La salive de la parotide ne
+paraît participer en rien à cette transformation ; il en est autrement des glandes que l'on désigne sous le nom de
+glandes submaxillaires.
 
-Si un très grand nombre de substances exigent pour opérer la transformation de l'amidon en sucre un temps plus long que l'infusion de malt, la salive ou le suc pancréatique, cela ne prouve en aucune manière qu'il existe dans ces trois dernières substances un agent spécial présentant la faculté d'effectuer la transformation de l'amidon, mais cela prouve qu'il existe une substance fortement en décomposition[^60]. Dans le liquide mélangé contenu dans la cavité buccale, la salive fournit la matière de l'agent de transformation, tandis que le mucus buccal détermine sa mise en activité (ou réciproquement). Dans ce cas un agent de transformation est nécessaire pour produire l'agent de transformation, ce qui veut dire, en employant les termes usités en chimie, que les substances contenues dans le mucus buccal et dans la salive, en réagissant les unes sur les autres, déterminent la production d'un groupement moléculaire à l'état actif qui peut entraîner l'amidon dans son mouvement.
+Si un très grand nombre de substances exigent pour opérer la transformation de l'amidon en sucre un temps plus long que
+l'infusion de malt, la salive ou le suc pancréatique, cela ne prouve en aucune manière qu'il existe dans ces trois
+dernières substances un agent spécial présentant la faculté d'effectuer la transformation de l'amidon, mais cela prouve
+qu'il existe une substance fortement en décomposition[^60]. Dans le liquide mélangé contenu dans la cavité buccale, la
+salive fournit la matière de l'agent de transformation, tandis que le mucus buccal détermine sa mise en activité (ou
+réciproquement). Dans ce cas un agent de transformation est nécessaire pour produire l'agent de transformation, ce qui
+veut dire, en employant les termes usités en chimie, que les substances contenues dans le mucus buccal et dans la
+salive, en réagissant les unes sur les autres, déterminent la production d'un groupement moléculaire à l'état actif qui
+peut entraîner l'amidon dans son mouvement.
 
-Si l'on mâche du malt pendant quelques instants, si l'on enlève ensuite le tout de la bouche, si l'on y recherche le sucre et si l'on compare le résultat avec celui que donne une égale quantité de malt non mâché, on observe que la quantité de sucre contenue dans la première est beaucoup plus grande.
+Si l'on mâche du malt pendant quelques instants, si l'on enlève ensuite le tout de la bouche, si l'on y recherche le
+sucre et si l'on compare le résultat avec celui que donne une égale quantité de malt non mâché, on observe que la
+quantité de sucre contenue dans la première est beaucoup plus grande.
 
-Si l'on ajoute de la salive à de l'empois très épais, on peut observer à l’œil le passage de l'empois à l'état liquide : cette expérience nous apprend qu'il s'est formé de la dextrine et ensuite du sucre.
+Si l'on ajoute de la salive à de l'empois très épais, on peut observer à l’œil le passage de l'empois à l'état liquide :
+cette expérience nous apprend qu'il s'est formé de la dextrine et ensuite du sucre.
 
 L'action est instantanée et m'a paru plus rapide que celle qui est produite par une forte infusion do malt.
 
-Mais peut-il encore rester quelque doute qu'il n'y ait, dans cette transformation, un groupement moléculaire en mouvement, lorsqu'on voit le liquide mélangé contenu dans la cavité buccale perdre en peu de temps sa faculté de transformer l'amidon, lorsqu'on le conserve à la température ordinaire, précisément comme l'infusion de malt ?
+Mais peut-il encore rester quelque doute qu'il n'y ait, dans cette transformation, un groupement moléculaire en
+mouvement, lorsqu'on voit le liquide mélangé contenu dans la cavité buccale perdre en peu de temps sa faculté de
+transformer l'amidon, lorsqu'on le conserve à la température ordinaire, précisément comme l'infusion de malt ?
 
 --------------------------------
 [^1]: Comptes rendus de l'Académie des Sciences, t. XXVI. p 635.
 
 [^2]: Journal de pharmacie. 3e série, t. XIV, p. 105.
 
-[^3]: J'ai donné, p. 18, les analyses que Veltman et Moesman ont faites de la cendre d'orge et de malt d'orge. Par l'inspection des résultats, on s'apercevra que le malt, par le lavage et le ramollissement au moyen de l'eau (c'est, en effet, de cette manière qu'il avait été préparé), a perdu une quantité notable de sels solubles ; à ce point de vue, les résultats de ces analyses présentent de l'importance. Le malt fortement desséché, est indiqué dans ces analyses, est visiblement d'une origine différente : il en est de même du malt desséché : on ne peut donc pas comparer les résultats de l'analyse de leurs cendres avec ceux de l'analyse des cendres d'orge. Mais si nous comparons les résultats de l'analyse des cendres de malt desséché à 
-l'air avec ceux des cendres d'orge, nous trouvons qu'il existe dans le malt : Moins de potasse, de soude, de magnésie, d'acide sulfurique et de chlore ; Plus de chaux et de sesquioxyde de fer; La même quantité d'acide phosphorique. Une certaine quantité de chaux est donc passée de l'eau dans le malt et la quantité de chaux qui est en combinaison avec l'acide phosphorique est par suite plus considérable ; d'autre part, une certaine quantité des chlorures solubles et des sulfates de soude, de potasse et de magnésie qui sont contenus dans le grain en a été soustraite. L'augmentation du sesquioxyde de fer est la conséquence de ce qu'une portion du fer des conduits de la pompe qui amène l'eau s'est dissoute et a pénétré ensuite le malt. Mais, en admettant que, dans le ramollissement du grain, il y ait dissolution de sels solubles, la quantité en est, dans tous les cas. peu considérable.
+[^3]: J'ai donné, p. 18, les analyses que Veltman et Moesman ont faites de la cendre d'orge et de malt d'orge. Par
+l'inspection des résultats, on s'apercevra que le malt, par le lavage et le ramollissement au moyen de l'eau (c'est, en
+effet, de cette manière qu'il avait été préparé), a perdu une quantité notable de sels solubles ; à ce point de vue, les
+résultats de ces analyses présentent de l'importance. Le malt fortement desséché, est indiqué dans ces analyses, est
+visiblement d'une origine différente : il en est de même du malt desséché : on ne peut donc pas comparer les résultats
+de l'analyse de leurs cendres avec ceux de l'analyse des cendres d'orge. Mais si nous comparons les résultats de
+l'analyse des cendres de malt desséché à
+l'air avec ceux des cendres d'orge, nous trouvons qu'il existe dans le malt : Moins de potasse, de soude, de magnésie,
+d'acide sulfurique et de chlore ; Plus de chaux et de sesquioxyde de fer; La même quantité d'acide phosphorique. Une
+certaine quantité de chaux est donc passée de l'eau dans le malt et la quantité de chaux qui est en combinaison avec l'
+acide phosphorique est par suite plus considérable ; d'autre part, une certaine quantité des chlorures solubles et des
+sulfates de soude, de potasse et de magnésie qui sont contenus dans le grain en a été soustraite. L'augmentation du
+sesquioxyde de fer est la conséquence de ce qu'une portion du fer des conduits de la pompe qui amène l'eau s'est
+dissoute et a pénétré ensuite le malt. Mais, en admettant que, dans le ramollissement du grain, il y ait dissolution de
+sels solubles, la quantité en est, dans tous les cas. peu considérable.
 
 [^4]: Erdmann's Journal für praktische Chemie, t. LXIII, p. 49.
 
-[^5]: Proust (*Annales de chimie et de physique*, 1817, 2e série, t. V, p. 342) a prétendu que l'orge a perdu par la germination 1/3 de son poids.   
+[^5]: Proust (*Annales de chimie et de physique*, 1817, 2e série, t. V, p. 342) a prétendu que l'orge a perdu par la
+germination 1/3 de son poids.   
 <br/>
-Thomson (*Annales de chimie et de physique*, 1817, 2e série, t. VI, p. 216) émet avec raison une opinion contraire : l'orge et le malt étant tous deux supposés secs, Thomson a trouvé 8 pour 100 de perte, ce qui s'accorde avec les résultats obtenus en grand.
+Thomson (*Annales de chimie et de physique*, 1817, 2e série, t. VI, p. 216) émet avec raison une opinion contraire :
+l'orge et le malt étant tous deux supposés secs, Thomson a trouvé 8 pour 100 de perte, ce qui s'accorde avec les
+résultats obtenus en grand.
 
-[^6]: Nous avons indiqué, p. .51, que dans une expérience, nous avons obtenu seulement 0,57%, et cela en employant de l'eau distillée. Un résultat de 1,5% trouvé pratiquement parait donc douteux. 
+[^6]: Nous avons indiqué, p. .51, que dans une expérience, nous avons obtenu seulement 0,57%, et cela en employant de
+l'eau distillée. Un résultat de 1,5% trouvé pratiquement parait donc douteux.
 
 [^7]: Erdman's *Journal fûr praklische chemie*, t. LXVI, p. 311 et 318.
 
-[^8]: *Chemical Gazette*, 1854, p. 417 
+[^8]: *Chemical Gazette*, 1854, p. 417
 
 [^9]: Volfl, *Ackevbau*, 2e édit., t.I, p. 94.
 
-[^10]: *Annales de chimie et de physique*, t. LII, p. 268. 
+[^10]: *Annales de chimie et de physique*, t. LII, p. 268.
 
 [^11]: *Annales de chimie et de physique*, t. LV, p. 310.
 
@@ -1677,14 +2284,14 @@ Thomson (*Annales de chimie et de physique*, 1817, 2e série, t. VI, p. 216) ém
 
 [^20]: *Nouveau système de chimie organique*, t. I, 1838, p. 452.
 
-[^21]: Chevreul, *Nouvelles Annales du Muséum d'Histoire naturelle*. Paris, 
-1834, t. III, p. 241. nous donne un aperçu historique sur l'état de la question 
-dans lequel il cite presque tout ce qui a été publié sur l'amidon jusqu'à cette 
-année. Voir aussi Dumas (*Traité de Chimie appliquée aux arts*, t. IV, p. 65), 
-la bibliographie du chap. II, qui traite de l'amidon, des fécules et de la 
+[^21]: Chevreul, *Nouvelles Annales du Muséum d'Histoire naturelle*. Paris,
+1834, t. III, p. 241. nous donne un aperçu historique sur l'état de la question
+dans lequel il cite presque tout ce qui a été publié sur l'amidon jusqu'à cette
+année. Voir aussi Dumas (*Traité de Chimie appliquée aux arts*, t. IV, p. 65),
+la bibliographie du chap. II, qui traite de l'amidon, des fécules et de la
 dextrine. Voir également *Erdmann's Journal*, t. II,
 
-[^22]: *Mémoire sur le développement des végétaux*, 1844 p. 83, et Précis de 
+[^22]: *Mémoire sur le développement des végétaux*, 1844 p. 83, et Précis de
 Chimie industrielle, 4e édition, 1859, t II, p. 46.
 
 [^23]: *Poggendorff's Annalen*, t. XXXII, p. 129.
@@ -1709,13 +2316,24 @@ Chimie industrielle, 4e édition, 1859, t II, p. 46.
 
 [^33]: *L'Institut*, n° 1083, p. 338.
 
-[^34]: En ce qui concerne les sucres, nous ferons même remarquer que non seulement, à côté du sucre de cannes ou saccharose et du sucre de fruits ou glucose, il viendrait se ranger d'autres corps analogues, mais que l'on devrait peut-être même admettre plusieurs espèces de saccharoses et de glucoses ; ainsi Berthelot (Chimie organique fondée sur la synthèse, t. II, p. 2481), considère la glucose du malt comme étant une glucose spéciale qu'il désigne sous le nom de maltose, et il lui assigne les caractères suivants :
+[^34]: En ce qui concerne les sucres, nous ferons même remarquer que non seulement, à côté du sucre de cannes ou
+saccharose et du sucre de fruits ou glucose, il viendrait se ranger d'autres corps analogues, mais que l'on devrait
+peut-être même admettre plusieurs espèces de saccharoses et de glucoses ; ainsi Berthelot (Chimie organique fondée sur
+la synthèse, t. II, p. 2481), considère la glucose du malt comme étant une glucose spéciale qu'il désigne sous le nom de
+maltose, et il lui assigne les caractères suivants :
 <br/>
-« Sous l'influence de la diastase, rerment particulier contenu dans l'orge germée, l'amidon se change en une glucose particulière dont la nature a été établie principalement par les travaux de M. Biot et par ceux de M. Dubrunfaut. Cette transformation s'opère dans l'infusion de malt (orge germée), destinée à préparer la bière ; elle précède la transformation alcoolique qui donne naissance à cette boisson.
+« Sous l'influence de la diastase, rerment particulier contenu dans l'orge germée, l'amidon se change en une glucose
+particulière dont la nature a été établie principalement par les travaux de M. Biot et par ceux de M. Dubrunfaut. Cette
+transformation s'opère dans l'infusion de malt (orge germée), destinée à préparer la bière ; elle précède la
+transformation alcoolique qui donne naissance à cette boisson.
 <br/>
-« La maltose parait être également, au moins dans certains cas, le premier terme de la métamorphose de l'amidon sous l'influence ménagée des acides et précéder la formation définitive de la glucose ordinaire.
+« La maltose parait être également, au moins dans certains cas, le premier terme de la métamorphose de l'amidon sous l'
+influence ménagée des acides et précéder la formation définitive de la glucose ordinaire.
 <br/>
-« La maltose est cristallisable, mais seulement à la façon de la glucose ordinaire, avec laquelle elle offre de très grandes analogies. Elle est un peu moins soluble dans l'alcool, mais elle se distingue surtout par son pouvoir rotatoire, qui est dextrogire et triple de celui de la glucose ordinaire ; de plus, il parait être constant dès les premiers moments de la dissolution.
+« La maltose est cristallisable, mais seulement à la façon de la glucose ordinaire, avec laquelle elle offre de très
+grandes analogies. Elle est un peu moins soluble dans l'alcool, mais elle se distingue surtout par son pouvoir
+rotatoire, qui est dextrogire et triple de celui de la glucose ordinaire ; de plus, il parait être constant dès les
+premiers moments de la dissolution.
 <br/>
 « La maltose, soumise a une action prolongée des acides étendus, se change en glucose ordinaire.
 
@@ -1732,16 +2350,25 @@ Chimie industrielle, 4e édition, 1859, t II, p. 46.
 [^40]: *Poggendorff Ann.*, t. XXXII, p. 74
 <br/>
 Annales de Chimie et de Phisique, 3e série, t. LIII, p. 37, 1853.
-    	
+
 [^41]: *Journal de Chimie médicale*, 1833, p. 634.
 
-[^42]: Lacambre (*Traité complet de la fabrication des bières*, t.I, p. 73), dit que la diastase ne perd pas sa faculté modificatrice immédiatement au-dessus de 75e : d'après lui, elle la perd seulement à une température de 92 à 94°C, bien que, d'après ses observations, son action soit déjà plus faible à une température de 84 à 85°C.
-   
+[^42]: Lacambre (*Traité complet de la fabrication des bières*, t.I, p. 73), dit que la diastase ne perd pas sa faculté
+modificatrice immédiatement au-dessus de 75e : d'après lui, elle la perd seulement à une température de 92 à 94°C, bien
+que, d'après ses observations, son action soit déjà plus faible à une température de 84 à 85°C.
+
 [^43]: Littéralement : la substance mère (*de moederstof*).
 
 [^44]: Littéralement un grenier d'approvisionnement (*voorraadschuur.*)
 
-[^45]: Je ne dois pas pas omettre d'indiquer ici que l'infusion de noix de galle produit un précipité dans la liqueur, obtenue au moyen du malt, dont on a probablement séparé les substances albumineuses coagulables en la faisant bouillir. D'après cela, l'acide tannique du houblon devrait précipiter les substances albumineuses solides du malt ; mais la réaction n'a pas lieu lorsqu'on ajoute une quantité suffisante d'acide lactique. Cette liqueur, dans laquelle il se trouve en même temps de l'acide tannique et de l'acide lactique, peut être légèrement trouble, ce qui vient de la précipitation d'un tannate ; mais, par l'action de la chaleur, la liqueur redevient claire. Cette réaction particulière nous permettra plus tard d'expliquer comment il peut rester des substances albumineuses solubles dans la liqueur que l'on a fait bouillir avec du houblon.
+[^45]: Je ne dois pas pas omettre d'indiquer ici que l'infusion de noix de galle produit un précipité dans la liqueur,
+obtenue au moyen du malt, dont on a probablement séparé les substances albumineuses coagulables en la faisant bouillir.
+D'après cela, l'acide tannique du houblon devrait précipiter les substances albumineuses solides du malt ; mais la
+réaction n'a pas lieu lorsqu'on ajoute une quantité suffisante d'acide lactique. Cette liqueur, dans laquelle il se
+trouve en même temps de l'acide tannique et de l'acide lactique, peut être légèrement trouble, ce qui vient de la
+précipitation d'un tannate ; mais, par l'action de la chaleur, la liqueur redevient claire. Cette réaction particulière
+nous permettra plus tard d'expliquer comment il peut rester des substances albumineuses solubles dans la liqueur que l'
+on a fait bouillir avec du houblon.
 
 [^46]: *Schweigger's Journal*, 1812, t. XIV, p. 289.
 
@@ -1749,13 +2376,15 @@ Annales de Chimie et de Phisique, 3e série, t. LIII, p. 37, 1853.
 
 [^48]: *Annales de Chimie et de Physique*, 3e série, t. XXIX, p. 1.
 
-[^49]: On n'obtient pas par cette méthode la totalité du sucre, puisque, dans la pâte même, une portion du sucre est transformée immédiatement par la fermentation en alcool et en acide carbonique : il se produit donc dans la mise en pâte une quantité de dextrine relativement plus considérable que celle du sucre.
+[^49]: On n'obtient pas par cette méthode la totalité du sucre, puisque, dans la pâte même, une portion du sucre est
+transformée immédiatement par la fermentation en alcool et en acide carbonique : il se produit donc dans la mise en pâte
+une quantité de dextrine relativement plus considérable que celle du sucre.
 
 [^50]: *De Wijn*, p. 65.
 
 [^51]: *Comptes rendus*, 1846, t. XXIII, p. 189.
 
-[^52]: *Annales de Chimie et de Physique*, 3e série, t. XIV, p. 61. 2. 
+[^52]: *Annales de Chimie et de Physique*, 3e série, t. XIV, p. 61. 2.
 
 [^53]: *Système des connaissances chimiques*, t. VIII, p. 116. Paris, brumaire an IX (1800).
 
@@ -1771,4 +2400,5 @@ Annales de Chimie et de Phisique, 3e série, t. LIII, p. 37, 1853.
 
 [^59]: *Chimie appliquée à la Physiologie*. Paris, 1856, p. 38.
 
-[^60]: Le malt ne contient que 1/2 pour 100 de sucre, et cependant il est connu pour sa saveur douce ; cela vient de ce que le liquide mélangé qui se trouve dans la cavité buccale, transforme instantanément en sucre la dextrine du malt.
+[^60]: Le malt ne contient que 1/2 pour 100 de sucre, et cependant il est connu pour sa saveur douce ; cela vient de ce
+que le liquide mélangé qui se trouve dans la cavité buccale, transforme instantanément en sucre la dextrine du malt.

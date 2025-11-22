@@ -21,15 +21,14 @@ indispensable ; et, lors même qu'il n'y aurait pas d'autre raison de faire boui
 que présente le moût et à laquelle on ne peut pas remédier autrement, l'exigerait impérieusement.
 
 La cuisson a pour résultat de répartir également dans le moût les principes constituants du houblon, ce qui contribue à
-communiquer à la bière les
-propriétés qu'elle doit avoir.
+communiquer à la bière les propriétés qu'elle doit avoir.
 
 Une première transformation, que l'on cherche à produire par la cuisson du moût, est la coagulation d'une quantité
 considérable de matières albumineuses qui, si elles n'étaient pas séparées, détermineraient de suite une fermentation
 très vive et très rapide ; mais, en même temps, la bière qui a subi ainsi une fermentation vive et rapide, ne pourrait
 plus se conserver : en effet, ces deux propriétés sont intimement reliées l'une à l'autre. Par cette cuisson du moût, la
-liqueur se trouble et il se porte à sa surface une certaine quantité d'écume, qui est composée d'albumine coagulée et d'
-autres matières solides entraînées avec cette albumine hors de la cuve-matière. Si nous considérons cette écume à ce
+liqueur se trouble et il se porte à sa surface une certaine quantité d'écume, qui est composée d'albumine coagulée et
+d'autres matières solides entraînées avec cette albumine hors de la cuve-matière. Si nous considérons cette écume à ce
 point de vue qu'elle contient de l'albumine, nous voyons que le moût subit la perte d'une portion de la plus nutritive
 de ces parties constituantes dont elle perdra une quantité encore plus grande par la fermentation. Elle en a, du reste,
 déjà perdu une quantité assez considérable par l'empâtage ; en effet, 4/7 — 1/3 des matières albumineuses du malt sont
@@ -120,9 +119,9 @@ combinaison intime de la substance amère avec les principes constituants de la 
 saveur.
 
 Dans l'établissement de la Société des brasseries belges à Louvain, Lacambre et Persac[^4], suivant en cela l'exemple
-des brasseries anglaises, ont fait établir des chaudières fermées : l'emploi de ces chaudières présente cet avantage qu'
-il ne se perd pas d'huile essentielle de houblon. Dans ces chaudières, il existe en outre un moulinet qui maintient le
-houblon en mouvement et augmente ainsi ses points de contact avec le liquide. Redtenbacher[^5] conseille d'ajouter au
+des brasseries anglaises, ont fait établir des chaudières fermées : l'emploi de ces chaudières présente cet avantage
+qu'il ne se perd pas d'huile essentielle de houblon. Dans ces chaudières, il existe en outre un moulinet qui maintient
+le houblon en mouvement et augmente ainsi ses points de contact avec le liquide. Redtenbacher[^5] conseille d'ajouter au
 moût de l'extrait de houblon et de l'huile de houblon, au lieu de le faire bouillir avec le houblon. On retire du
 houblon à peu près 12% de cet extrait, et l'on obtient en même temps à peu près 0,2% d'huile de houblon, si l'on place
 un chapiteau sur la chaudière dans laquelle on prépare l'extrait.
@@ -147,12 +146,12 @@ qui ne sont pas séparées de la dissolution par l'acide tannique, on comprend q
 conserver plus longtemps qu'une bière faiblement houblonnée.
 
 Même dans la manière dont le houblon est ajouté, il existe une grande différence. Outre le houblon que l'on introduit
-dans la chaudière, on en ajoute aussi quelquefois une certaine quantité dans la cuve-matière, et on l'épuisé par de l'
-eau tiède simultanément avec le malt. Cette méthode paraît du reste étrange au point de vue scientifique. Dans d'autres
-localités, après avoir fait bouillir le moût avec du houblon, on ajoute encore du houblon dans les cuves où l'on fait
-fermenter la bière, afin de donner une saveur houblonnée très prononcée et de rendre la bière susceptible de se
-conserver plus longtemps. Balling conseille de faire bouillir le moût avec une partie de houblon et de filtrer sur une
-autre partie de houblon la liqueur chaude telle qu'elle sort de la chaudière, parce que, quand on opère ainsi, toute
+dans la chaudière, on en ajoute aussi quelquefois une certaine quantité dans la cuve-matière, et on l'épuisé par de
+l'eau tiède simultanément avec le malt. Cette méthode paraît du reste étrange au point de vue scientifique. Dans
+d'autres localités, après avoir fait bouillir le moût avec du houblon, on ajoute encore du houblon dans les cuves où
+l'on fait fermenter la bière, afin de donner une saveur houblonnée très prononcée et de rendre la bière susceptible de
+se conserver plus longtemps. Balling conseille de faire bouillir le moût avec une partie de houblon et de filtrer sur
+une autre partie de houblon la liqueur chaude telle qu'elle sort de la chaudière, parce que, quand on opère ainsi, toute
 l'huile essentielle de la dernière portion du houblon reste dans la liqueur, et parce que, en outre, il s'y dissout une
 nouvelle quantité d'acide tannique. (Voir en outre p. 157.)
 

@@ -122,12 +122,12 @@ n'existe souvent, dans les circonstances extérieures, que de petites différenc
 ce serait certainement s'éloigner de la vérité que d'attribuer à de petites influences accessoires toutes ces
 différences que peut présenter une bière par rapport à une autre. La quantité de grains employée, la nature et la
 quantité de l'eau dont on s'est servi, le mode de germination du grain, de dessiccation ou de torréfaction du malt,
-d'épuisement du malt, d'ébullition de la liqueur, etc., la manière dont le houblon y a été introduit et la quantité que
-l'on en a ajoutée, en outre le mode de refroidissement, la fermentation, en un mot toutes les opérations que nécessite
-la préparation de la bière, peuvent être les causes déterminantes qui donnent à une bière le caractère spécial que l'on
-désire lui donner. — Dans des localités où l'on opère d'après des règles fixes, on obtient une bière qui, non seulement,
-répond au goût des consommateurs, mais que l'on peut souvent reproduire dans d'autres endroits, lorsqu'un chef
-intelligent est à la tête de l'établissement.
+d'épuisement du malt, d'ébullition de la liqueur, *etc.*, la manière dont le houblon y a été introduit et la quantité
+que l'on en a ajoutée, en outre le mode de refroidissement, la fermentation, en un mot toutes les opérations que
+nécessite la préparation de la bière, peuvent être les causes déterminantes qui donnent à une bière le caractère spécial
+que l'on désire lui donner. — Dans des localités où l'on opère d'après des règles fixes, on obtient une bière qui, non
+seulement, répond au goût des consommateurs, mais que l'on peut souvent reproduire dans d'autres endroits, lorsqu'un
+chef intelligent est à la tête de l'établissement.
 
 Nous ne voulons cependant pas prétendre ici que l'influence des causes locales doit être considérée comme entièrement
 nulle. Au contraire, ces influences locales existent : mais leur action doive être éclaircie autant que possible. Si,
@@ -144,7 +144,13 @@ Il n'y a ici aucune raison d'admettre des esprits, bien que l'on ne soit pas enc
 tous les phénomènes exceptionnels que l'on rencontre dans la fabrication des bières dites locales.
 
 <table style="width: 100%">
-    <tr><td></td><td></td><td markdown="1">[Suivant : Chapitre 1](Chap. 1 - De la composition des différentes sortes de grains employés à la préparation de la bière.md)</td></tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td markdown="1">
+            [Suivant : Chapitre 1](Chap. 1 - De la composition des différentes sortes de grains employés à la préparation de la bière.md)
+        </td>
+    </tr>
 </table>
 
 [^1]: Berzelius, *Lehrbuch*, 1839, t. VIII, p. 110.

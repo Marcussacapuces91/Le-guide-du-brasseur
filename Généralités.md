@@ -151,7 +151,7 @@ tous les phénomènes exceptionnels que l'on rencontre dans la fabrication des b
       <td markdown="1">
 [Suivant : Chapitre 1](Chap. 1 - De la composition des différentes sortes de grains employés à la préparation de la bière.md)
 
-      </td>
+</td>
     </tr>
   </table>
 </figure>

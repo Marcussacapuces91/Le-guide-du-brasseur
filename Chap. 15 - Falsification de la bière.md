@@ -22,10 +22,8 @@ animal et que l'on fait ensuite fermenter.
 
 Si la quantité de sucre contenue dans la bière n'est pas considérable, on peut reconnaître toutes ces falsifications à
 l'aide de la détermination des quantités relatives d'extrait et d'alcool : dans les bières falsifiées, la quantité du
-premier
-
-est toujours trop faible. La détermination de la quantité et de la nature des sels contenus dans la bière peut encore
-donner à cet égard des indications importantes.
+premier est toujours trop faible. La détermination de la quantité et de la nature des sels contenus dans la bière peut
+encore donner à cet égard des indications importantes.
 
 La falsification de la bière au moyen de l'eau n'est pas à craindre ; on n'achèterait pas la bière ainsi falsifiée. On a
 plus de raisons d'admettre une addition de sucre, de dextrine ou de sirop de dextrine. La découverte d'une falsification

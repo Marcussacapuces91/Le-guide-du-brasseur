@@ -23,7 +23,7 @@ La bière, préparée au moyen de la fermentation par dépôt, si on ne la souti
 séparée et si on la transvase en ayant soin de la maintenir autant que possible à l'abri du contact de l'air, dans des
 tonneaux, quelquefois même très grands, peut être conservée claire, pourvu que la température du cellier soit
 suffisamment basse. La basse température est ici une condition essentielle de la bonne conservation de la bière. La
-fermentation tertiaire ne s'arrête pas lorsque la température descend jusqu'à 10° et 12° et même au-dessous : mais elle
+fermentation tertiaire ne s'arrête pas lorsque la température descend jusqu'à 10° et 12° et même au-dessous : mais elle
 marche alors très lentement, et cette lenteur de la fer. mentation tertiaire est précisément une des causes de la bonne
 conservation de la bière.
 
@@ -40,7 +40,7 @@ qui se dégage toujours de la bière, ce soutirage de la bière au moyen d'une p
 robinet), est un moyen qui peut l'empêcher en partie de devenir acide, parce que l'acide carbonique qui se dégage
 continuellement de la bière, remplit alors la partie du tonneau qui devient vide. Mais les dernières portions de bière
 que l'on soutire d'un pareil tonneau, présentent une saveur fade, ce qui vient de ce que la bière a perdu de l'acide
-carbonique : en effet, au fur et à mesure que le tonneau se
+carbonique : en effet, au fur et à mesure que le tonneau se
 
 1. De Wijn, p. 104.
 
@@ -55,22 +55,22 @@ sorte que, lorsqu'on ouvre les tonneaux, cet acide carbonique s'en dégage en do
 quantité est plus abondante ou plus faible, suivant que la marche de la fermentation a été plus vive ou plus paisible.
 L'air n'est aucunement nécessaire pour cela 1. Par la fermentation qui se produit dans les tonneaux, ou bien dans les
 flacons ou dans les cruches, la quantité de l'alcool augmente, tandis que la quantité de sucre diminue. La bière devient
-donc plus excitante, moins douceâtre au goût et moins nutritive : en même temps, elle devient plus légère. Il se produit
-ici, d'après les expériences de Berthelot (p. 245), de l'acide lactique et peut-être aussi de l'acide butyrique. Nous ne
-devons pas omettre d'indiquer en outre comme résultat de ces expériences (que nous avons passées en revue avec détail,
-afin de pouvoir en déduire ici en peu de mots les conséquences relatives à la décomposition de la bière), ce fait que,
-dans la conservation de la bière en tonneaux entièrement fermés, les substances albumineuses sont décomposées dans la
-même proportion que le sucre, en sorte que, finalement, dans la bière que l'on conserve en tonneaux fermés, on doit
-arriver à un état qui ne permette plus aucune transformation ultérieure. Il ne s'y trouve pas une quantité considérable
-de sucre et il n'y existe pas non plus une quantité considérable de substance susceptible de se transformer en ferment :
-l'alcool, l'acide carbonique et l'acide lactique s'y trouvent au contraire en quantité considérable. Comment, par suite,
-une action chimique pourrait-elle encore s'y produire ? La dextrine qui y existe remplit la fonction d'envelopper l'
-acide lactique de manière que la bière ne présente pas une saveuracide.
+donc plus excitante, moins douceâtre au goût et moins nutritive : en même temps, elle devient plus légère. Il se
+produit ici, d'après les expériences de Berthelot (p. 245), de l'acide lactique et peut-être aussi de l'acide butyrique.
+Nous ne devons pas omettre d'indiquer en outre comme résultat de ces expériences (que nous avons passées en revue avec
+détail, afin de pouvoir en déduire ici en peu de mots les conséquences relatives à la décomposition de la bière), ce
+fait que, dans la conservation de la bière en tonneaux entièrement fermés, les substances albumineuses sont décomposées
+dans la même proportion que le sucre, en sorte que, finalement, dans la bière que l'on conserve en tonneaux fermés, on
+doit arriver à un état qui ne permette plus aucune transformation ultérieure. Il ne s'y trouve pas une quantité
+considérable de sucre et il n'y existe pas non plus une quantité considérable de substance susceptible de se transformer
+en ferment : l'alcool, l'acide carbonique et l'acide lactique s'y trouvent au contraire en quantité considérable.
+Comment, par suite, une action chimique pourrait-elle encore s'y produire ? La dextrine qui y existe remplit la fonction
+d'envelopper l'acide lactique de manière que la bière ne présente pas une saveur acide.
 
 1. De Winj, p. 71.
 
 C'est ainsi que je me rends compte de l'état d'une bière préparée au moyen de la fermentation par dépôt, et contenue
-depuis quelque temps dans des tonneaux fermés. La liqueur ne se trouve pas à l'état de repos chimique absolu; mais
+depuis quelque temps dans des tonneaux fermés. La liqueur ne se trouve pas à l'état de repos chimique absolu ; mais
 l'activité chimique y est réduite à son minimum, et la bière, par sa manière d'être au point de vue chimique, ne se
 distingue alors que peu du vieux vin, en faisant abstraction toutefois de ce fait qu'elle est saturée d'acide
 carbonique.

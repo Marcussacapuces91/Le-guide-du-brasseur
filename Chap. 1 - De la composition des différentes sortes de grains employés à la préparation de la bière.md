@@ -174,13 +174,13 @@ réduction instantanée et si l'on considère la substance qui a déterminé la 
 obtient pour cent, dans chacune des espèces de grains indiquées :
 
 <figure markdown='1'>
-    <table>
-        <tr><th>Source         </th><th>Sucre </th></tr>
-        <tr><td>Dans le froment</td><td>0,22%</td></tr>
-        <tr><td>Dans l'orge    </td><td>0,19%</td></tr>
-        <tr><td>Dans le seigle </td><td>0,08%</td></tr>
-        <tr><td>Dans l'avoine  </td><td>0,12%</td></tr>
-    </table>
+  <table>
+    <tr><th>Source         </th><th>Sucre </th></tr>
+    <tr><td>Dans le froment</td><td>0,22%</td></tr>
+    <tr><td>Dans l'orge    </td><td>0,19%</td></tr>
+    <tr><td>Dans le seigle </td><td>0,08%</td></tr>
+    <tr><td>Dans l'avoine  </td><td>0,12%</td></tr>
+  </table>
 </figure>
 
 Le maximum s'élève donc dans le grain à 0,002.

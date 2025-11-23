@@ -20,7 +20,7 @@ social:
     url: mailto:sallysflowershop@example.com
     icon: mail
 ---
-# Le guide du brasseur
+
 ## ou
 # l'Art de faire la bière 
 

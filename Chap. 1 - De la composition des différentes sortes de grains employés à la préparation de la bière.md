@@ -901,6 +901,18 @@ qu'elle résulte de ce qui précède.
   </table>
 </figure>
 
+<table style="width: 100%;">
+  <tr>
+    <td style="text-align: left; width: 33%;" markdown="1">
+[Précédent : Généralités](Généralités.md)
+</td>
+    <td style="text-align: center; width: 33%;"></td>
+    <td style="text-align: right; width: 33%;" markdown="1">
+[Suivant : Chapitre 1](Chap. 2 - Du houblon.md)
+</td>
+  </tr>
+</table>
+
 [^1]: *Ältere und neuere Erfahrungen*, Ièna.
 
 [^2]: Je leur donne le nom de *matières cellulaires*, en comprenant sous ce nom, outre la *cellulose*, les matières que

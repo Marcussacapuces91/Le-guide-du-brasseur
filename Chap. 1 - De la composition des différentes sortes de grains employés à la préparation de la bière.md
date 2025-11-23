@@ -247,7 +247,7 @@ contenaient ces grains. On peut évaluer à 15,5% la quantité d'azote que conte
 En ce qui concerne la provenance des grains qui ont servi dans les analyses, sa connaissance ne présentait ici aucune
 importance ; en effet, il ne s'agit pas ici de donner un aperçu des principes qui constituent les grains, mais il est
 question d'obtenir un examen comparatif du grain, du malt, de la drêche et de la bière : il était donc indifférent de ne
-pas savoir quelle était la provenance de ces grains. Comme point de comparaison j'ai inséré en outre les analyses des
+pas savoir quelle était la provenance de ces grains. Comme point de comparaison, j'ai inséré en outre les analyses des
 espèces de grains indiquées, faites par d'autres chimistes, autant du moins qu'elles paraissent avoir quelque valeur.
 
 J'ai pensé qu'il était convenable d'indiquer ici seulement les résultats généraux auxquels les expériences d'Oudemans
@@ -317,57 +317,57 @@ J'ai en outre jugé bon de donner ici les résultats des analyses des cendres de
 </figure>
 
 <figure markdown='1'>
-  <figcaption style="font-size: 75%">Composition des cendres d'orge et de malt d'orge.</figcaption>
-    <table>
-        <tr>
-          <th rowspan=2></th>
-          <th colspan=2>Orge</th>
-          <th colspan=2>Malt d'Orge<br/>desséché à l'air.</th>
-          <th colspan=2>Malt d'Orge<br/>desséché à la Touraille[^a]</th>
-          <th rowspan=2>Malt d'Orge<br/>desséché fortement à la Touraille</th>
-        </tr>
-        <tr>
-          <th>Veltman</th>
-          <th>Mœsman</th>
-          <th>Veltman</th>
-          <th>Mœsman</th>
-          <th>Veltman</th>
-          <th>Mœsman</th>
-          <th>Veltman</th>
-          <th>Mœsman</th>
-        </tr>
-        <tr>
-          <th>Potasse</th><td>17,0</td><td>17,5</td><td>16,0</td><td>15,6</td><td>16,1</td><td>17,0</td><td>20,3</td><td>20,8</td>
-        </tr>
-        <tr>
-          <th>Soude</th><td>5,9</td><td>6,3</td><td>5,2</td><td>4,4</td><td>2,3</td><td>2,0</td><td>4,6</td><td>4,2</td>
-        </tr>
-        <tr>
-          <th>Chaux</th><td>2,7</td><td>3,1</td><td>4,0</td><td>4,9</td><td>4,2</td><td>4,2</td><td>6,0</td><td>5,6</td>
-        </tr>
-        <tr>
-          <th>Magnésie</th><td>7,2</td><td>6,8</td><td>6,5</td><td>7,1</td><td>6,1</td><td>5,6</td><td>5,8</td><td>6,0</td>
-        </tr>
-        <tr>
-          <th>Sexquioxyde de fer</th><td>0,5</td><td>0,5</td><td>0,9</td><td>0,9</td><td>1,5</td><td>1,9</td><td>0,8</td><td>1,0</td>
-        </tr>
-        <tr>
-          <th>Acide phosphorique</th><td>30,3</td><td><i>perdu</i></td><td>30,6</td><td>31,0</td><td>29,1</td><td>28,4</td><td>35,8</td><td>35,0</td>
-        </tr>
-        <tr>
-          <th>Acide sulfurique</th><td>1,4</td><td>1,5</td><td>1,1</td><td>1,0</td><td>2,0</td><td>1,8</td><td>0,7</td><td>0,8</td>
-        </tr>
-        <tr>
-          <th>Acide silicique insoluble</th><td>7,1</td><td>7,0</td><td rowspan='2'>35,1</td><td rowspan='2'>35,3</td><td>12,0</td><td>11,4</td><td>14,5</td><td rowspan='2'>25,9</td>
-        </tr>
-        <tr>
-          <th>Acide silicique soluble</th><td>26,0</td><td>26,7</td><td>26,4</td><td>27,1</td><td>12,1</td>
-        </tr>
-        <tr>
-          <th>Chlore</th><td>1,3</td><td>1,3</td><td>0,4</td><td>0,4</td><td>0,1</td><td>0,1</td><td>0,1</td><td>0,1</td>
-        </tr>
-    </table>
-  <figcaption style="font-size: 75%">La quantité des matières inorganiques contenues dans l'orge varie de 2,1 à 2,6%.</figcaption>
+<figcaption style="font-size: 75%">Composition des cendres d'orge et de malt d'orge.</figcaption>
+<table>
+<tr>
+<th rowspan=2></th>
+<th colspan=2>Orge</th>
+<th colspan=2>Malt d'Orge<br/>desséché à l'air.</th>
+<th colspan=2>Malt d'Orge<br/>desséché à la Touraille[^a]</th>
+<th rowspan=2>Malt d'Orge<br/>desséché fortement à la Touraille</th>
+</tr>
+<tr>
+<th>Veltman</th>
+<th>Mœsman</th>
+<th>Veltman</th>
+<th>Mœsman</th>
+<th>Veltman</th>
+<th>Mœsman</th>
+<th>Veltman</th>
+<th>Mœsman</th>
+</tr>
+<tr>
+<th>Potasse</th><td>17,0</td><td>17,5</td><td>16,0</td><td>15,6</td><td>16,1</td><td>17,0</td><td>20,3</td><td>20,8</td>
+</tr>
+<tr>
+<th>Soude</th><td>5,9</td><td>6,3</td><td>5,2</td><td>4,4</td><td>2,3</td><td>2,0</td><td>4,6</td><td>4,2</td>
+</tr>
+<tr>
+<th>Chaux</th><td>2,7</td><td>3,1</td><td>4,0</td><td>4,9</td><td>4,2</td><td>4,2</td><td>6,0</td><td>5,6</td>
+</tr>
+<tr>
+<th>Magnésie</th><td>7,2</td><td>6,8</td><td>6,5</td><td>7,1</td><td>6,1</td><td>5,6</td><td>5,8</td><td>6,0</td>
+</tr>
+<tr>
+<th>Sexquioxyde de fer</th><td>0,5</td><td>0,5</td><td>0,9</td><td>0,9</td><td>1,5</td><td>1,9</td><td>0,8</td><td>1,0</td>
+</tr>
+<tr>
+<th>Acide phosphorique</th><td>30,3</td><td><i>perdu</i></td><td>30,6</td><td>31,0</td><td>29,1</td><td>28,4</td><td>35,8</td><td>35,0</td>
+</tr>
+<tr>
+<th>Acide sulfurique</th><td>1,4</td><td>1,5</td><td>1,1</td><td>1,0</td><td>2,0</td><td>1,8</td><td>0,7</td><td>0,8</td>
+</tr>
+<tr>
+<th>Acide silicique insoluble</th><td>7,1</td><td>7,0</td><td rowspan='2'>35,1</td><td rowspan='2'>35,3</td><td>12,0</td><td>11,4</td><td>14,5</td><td rowspan='2'>25,9</td>
+</tr>
+<tr>
+<th>Acide silicique soluble</th><td>26,0</td><td>26,7</td><td>26,4</td><td>27,1</td><td>12,1</td>
+</tr>
+<tr>
+<th>Chlore</th><td>1,3</td><td>1,3</td><td>0,4</td><td>0,4</td><td>0,1</td><td>0,1</td><td>0,1</td><td>0,1</td>
+</tr>
+</table>
+<figcaption style="font-size: 75%">La quantité des matières inorganiques contenues dans l'orge varie de 2,1 à 2,6%.</figcaption>
 </figure>
 
 ## De l'orge.

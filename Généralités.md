@@ -1,6 +1,6 @@
 ---
-Title: Généralités
-Description: De la bière.
+title: Généralités
+description: De la bière.
 ---
 
 La bière est une boisson que l'on obtient en traitant par l'eau des grains modifiés par une germination modérée et en
@@ -143,8 +143,8 @@ ont pu devenir d'une température plus uniforme.
 Il n'y a ici aucune raison d'admettre des esprits, bien que l'on ne soit pas encore en état de remonter à la cause de
 tous les phénomènes exceptionnels que l'on rencontre dans la fabrication des bières dites locales.
 
-<figure style="width: 100%">
-  <table style="width: 100%">
+<figure style="width: 100%;">
+  <table style="width: 100%;">
     <tr>
       <td style="text-align: left"></td>
       <td style="text-align: center"></td>

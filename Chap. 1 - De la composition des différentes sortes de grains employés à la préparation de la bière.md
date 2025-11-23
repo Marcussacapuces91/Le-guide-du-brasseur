@@ -902,15 +902,24 @@ qu'elle résulte de ce qui précède.
 </figure>
 
 [^1]: *Ältere und neuere Erfahrungen*, Ièna.
-[^2]: Je leur donne le nom de *matières cellulaires*, en comprenant sous ce nom, outre la *cellulose*, les matières que 
+
+[^2]: Je leur donne le nom de *matières cellulaires*, en comprenant sous ce nom, outre la *cellulose*, les matières que
       l'on désigne ordinairement sous le nom de fibres végétales.
+
 [^3]: La méthode se trouve décrite dans *Verhandelingenen Onderzoekingen* 1e deel, 2e stuk, p. 16.
+
 [^4]: *Ann. de chimie et de physique*, 3e série, t. XXVI, p. 33.
+
 [^5]: *Ann. de chimie et de physique*, t. XXVI, p. 33.
+
 [^6]: Berzelius, *Jahresbericht*, t. XVIII, p. 275.
+
 [^7]: Erdmann's *Journal für pr. Chemie*, t. LXVI, p. 52.
+
 [^8]: De Gasparin, *Cours d'Agriculture*.
+
 [^9]: *Journal de pharmacie*, t. VIII, p. 353.
+
 [^10]: *Économie rurale*, 2<sup>e</sup> édition, Paris, 1850.
 [^11]: *Ann. de Ch. et de Phys*, 3<sup>e</sup> édition, t. VIII, p. 89.
 [^12]: *Liebig's Annal.*, t. LVIII, p. 166 et 212.

@@ -4,6 +4,9 @@ description: De la composition des différentes sortes de grains employés à la
 menu: Chap.  1<sup>er</sup> 
 ---
 
+## Chapitre premier
+### De la composition des différentes sortes de grains employés à la préparation de la bière
+
 Si l'on voulait s'occuper des diverses semences au moyen desquelles on peut préparer de la bière, ce n'est qu'avec
 difficulté que l'on pourrait en fixer le nombre. Toutes les substances qui contiennent de l'amidon, peuvent fournir de
 la dextrine et du sucre. Ce sucre peut fermenter : on peut donc préparer de la bière avec toutes les substances qui

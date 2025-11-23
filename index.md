@@ -59,7 +59,7 @@ Tous droits de traduction et de reproduction réservés.](/images/Guide%20du%20b
 
 * [Généralités](Généralités)
 * [Chapitre premier. De la composition des différentes sortes de grains employés à la préparation de la bière.](Chap.%201%20-%20De%20la%20composition%20des%20différentes%20sortes%20de%20grains%20employés%20à%20la%20préparation%20de%20la%20bière)
-  * Orge 
+  * [De l'orge](Chap.%201%20-%20De%20la%20composition%20des%20diff%C3%A9rentes%20sortes%20de%20grains%20employ%C3%A9s%20%C3%A0%20la%20pr%C3%A9paration%20de%20la%20bi%C3%A8re#de-lorge) 
   * Froment 
   * Examen comparatif de l'orge et du froment
 * [Chapitre 2. Du Houblon](Chap.%202%20-%20Du%20houblon)

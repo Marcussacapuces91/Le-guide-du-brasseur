@@ -1,7 +1,7 @@
 ---
-Title: Chapitre premier
-Description: De la composition des différentes sortes de grains employés à la préparation de la bière
-Menu: Chap.  1<sup>er</sup> 
+title: Chapitre premier
+description: De la composition des différentes sortes de grains employés à la préparation de la bière
+menu: Chap.  1<sup>er</sup> 
 ---
 
 Si l'on voulait s'occuper des diverses semences au moyen desquelles on peut préparer de la bière, ce n'est qu'avec
@@ -257,63 +257,63 @@ J'ai en outre jugé bon de donner ici les résultats des analyses des cendres de
 été obtenus dans le laboratoire d'Utrecht par MM. Veltman et Mœsman.
 
 <figure markdown='1'>
-  <figcaption>Composition des différentes espèces de grains et des malts correspondants.</figcaption>
-    <table>
-        <tr>
-          <th rowspan=2>100 parties contiennent ou donnent par leur transformation</th>
-          <th rowspan=2>Orge</th>
-          <th colspan=3>Malt</th>
-          <th colspan=4>Drêche (Malt épuisé)</th>
-          <th rowspan=2>Froment</th>
-          <th rowspan=2>Malt de froment<br/>desséché à l'air</th>
-          <th rowspan=2>Seigle</th>
-          <th rowspan=2>Malt de seigle<br/>desséché à l'air</th>
-          <th rowspan=2>Avoine</th>
-          <th rowspan=2>Malt d'avoine<br/>desséché à l'air</th>
-        </tr>
-        <tr>
-          <th>desséché à l'air</th>
-          <th>desséché à la touraille</th>
-          <th>fortement desséché à la touraille</th>
-          <th>desséchée</th>
-          <th>plus fortement desséchée</th>
-          <th>encore plus fortement desséchée</th>
-          <th>très fortement desséchée</th>
-        </tr>
-        <tr>
-          <td>Dextrine</td><td>4,5</td><td>6,5</td><td>5,8</td><td>9,4</td><td>0,0</td><td>0,0</td><td>0,0</td><td>0,0</td><td>4,5</td><td>6,2</td><td>5,2</td><td>12,7</td><td>5,0</td><td>7,1</td>
-        </tr>
-        <tr>
-          <td>Amidon</td><td>53,8</td><td>47,3</td><td>51,2</td><td>43,9</td><td>9,5</td><td>6,7</td><td>5,3</td><td>3,8</td><td>57,0</td><td>50,3</td><td>56,5</td><td>42,1</td><td>47,0</td><td>37,3</td>
-        </tr>
-        <tr>
-          <td>Sucre</td><td>0,0</td><td>0,4</td><td>0,6</td><td>0,8</td><td>0,0</td><td>0,0</td><td>0,0</td><td>0,0</td><td>0,0</td><td>1,6</td><td>0,0</td><td>1,1</td><td>0,0</td><td>0,4</td>
-        </tr>
-        <tr>
-          <td>Matières cellulaires</td><td>7,7</td><td>11,7</td><td>9,4</td><td>10,6</td><td>6,2</td><td>7,8</td><td>9,4</td><td>7,7</td><td>6,1</td><td>8,0</td><td>7,8</td><td>11,9</td><td>14,5</td><td>22,6</td>
-        </tr>
-        <tr>
-          <td>Matières albumineuses</td><td>9,7</td><td>11,0</td><td>9,1</td><td>9,7</td><td>4,1</td><td>4,7</td><td>5,4</td><td>4,3</td><td>11,5</td><td>11,9</td><td>10,4</td><td>11,7</td><td>12,1</td><td>13,3</td>
-        </tr>
-        <tr>
-          <td>Matières grasses</td><td>2,1</td><td>1,8</td><td>2,1</td><td>2,4</td><td>0,4</td><td>0,3</td><td>0,4</td><td>0,3</td><td>1,8</td><td>2,0</td><td>1,4</td><td>1,5</td><td>5,4</td><td>4,1</td>
-        </tr>
-        <tr>
-          <td>Matières inorganiques</td><td>2,5</td><td>2,6</td><td>2,4</td><td>2,6</td><td>1,1</td><td>1,3</td><td>1,2</td><td>1,1</td><td>1,7</td><td>1,8</td><td>1,8</td><td>1,8</td><td>2,8</td><td>3,1</td>
-        </tr>
-        <tr>
-          <td>Eau</td><td>18,1</td><td>16,1</td><td>11,1</td><td>8,2</td><td>79,3</td><td>79,1</td><td>78,6</td><td>82,5</td><td>16,0</td><td>14,4</td><td>16,4</td><td>15,6</td><td>14,9</td><td>14,1</td>
-        </tr>
-        <tr>
-          <td colspan="15"><hr/></td>
-        </tr>
-        <tr>
-          <td>Extrait alcoolique</td><td>0,7</td><td>3,7</td><td>4,1</td><td>4,4</td><td>...</td><td>...</td><td>...</td><td>...</td><td>0,8</td><td>4,4</td><td>1,2</td><td>5,2</td><td>0,6</td><td>4,1</td>
-        </tr>
-        <tr>
-          <td>Extrait aqueux</td><td>7,0</td><td>11,0</td><td>17,0</td><td>21,0</td><td>0,1</td><td>0,1</td><td>0,1</td><td>0,1</td><td>6,8</td><td>17,0</td><td>8,2</td><td>24,3</td><td>7,9</td><td>11,0</td>
-        </tr>
-    </table>
+<figcaption>Composition des différentes espèces de grains et des malts correspondants.</figcaption>
+<table>
+<tr>
+<th rowspan=2>100 parties contiennent ou donnent par leur transformation</th>
+<th rowspan=2>Orge</th>
+<th colspan=3>Malt</th>
+<th colspan=4>Drêche (Malt épuisé)</th>
+<th rowspan=2>Froment</th>
+<th rowspan=2>Malt de froment<br/>desséché à l'air</th>
+<th rowspan=2>Seigle</th>
+<th rowspan=2>Malt de seigle<br/>desséché à l'air</th>
+<th rowspan=2>Avoine</th>
+<th rowspan=2>Malt d'avoine<br/>desséché à l'air</th>
+</tr>
+<tr>
+<th>desséché à l'air</th>
+<th>desséché à la touraille</th>
+<th>fortement desséché à la touraille</th>
+<th>desséchée</th>
+<th>plus fortement desséchée</th>
+<th>encore plus fortement desséchée</th>
+<th>très fortement desséchée</th>
+</tr>
+<tr>
+<td>Dextrine</td><td>4,5</td><td>6,5</td><td>5,8</td><td>9,4</td><td>0,0</td><td>0,0</td><td>0,0</td><td>0,0</td><td>4,5</td><td>6,2</td><td>5,2</td><td>12,7</td><td>5,0</td><td>7,1</td>
+</tr>
+<tr>
+<td>Amidon</td><td>53,8</td><td>47,3</td><td>51,2</td><td>43,9</td><td>9,5</td><td>6,7</td><td>5,3</td><td>3,8</td><td>57,0</td><td>50,3</td><td>56,5</td><td>42,1</td><td>47,0</td><td>37,3</td>
+</tr>
+<tr>
+<td>Sucre</td><td>0,0</td><td>0,4</td><td>0,6</td><td>0,8</td><td>0,0</td><td>0,0</td><td>0,0</td><td>0,0</td><td>0,0</td><td>1,6</td><td>0,0</td><td>1,1</td><td>0,0</td><td>0,4</td>
+</tr>
+<tr>
+<td>Matières cellulaires</td><td>7,7</td><td>11,7</td><td>9,4</td><td>10,6</td><td>6,2</td><td>7,8</td><td>9,4</td><td>7,7</td><td>6,1</td><td>8,0</td><td>7,8</td><td>11,9</td><td>14,5</td><td>22,6</td>
+</tr>
+<tr>
+<td>Matières albumineuses</td><td>9,7</td><td>11,0</td><td>9,1</td><td>9,7</td><td>4,1</td><td>4,7</td><td>5,4</td><td>4,3</td><td>11,5</td><td>11,9</td><td>10,4</td><td>11,7</td><td>12,1</td><td>13,3</td>
+</tr>
+<tr>
+<td>Matières grasses</td><td>2,1</td><td>1,8</td><td>2,1</td><td>2,4</td><td>0,4</td><td>0,3</td><td>0,4</td><td>0,3</td><td>1,8</td><td>2,0</td><td>1,4</td><td>1,5</td><td>5,4</td><td>4,1</td>
+</tr>
+<tr>
+<td>Matières inorganiques</td><td>2,5</td><td>2,6</td><td>2,4</td><td>2,6</td><td>1,1</td><td>1,3</td><td>1,2</td><td>1,1</td><td>1,7</td><td>1,8</td><td>1,8</td><td>1,8</td><td>2,8</td><td>3,1</td>
+</tr>
+<tr>
+<td>Eau</td><td>18,1</td><td>16,1</td><td>11,1</td><td>8,2</td><td>79,3</td><td>79,1</td><td>78,6</td><td>82,5</td><td>16,0</td><td>14,4</td><td>16,4</td><td>15,6</td><td>14,9</td><td>14,1</td>
+</tr>
+<tr>
+<td colspan="15"><hr/></td>
+</tr>
+<tr>
+<td>Extrait alcoolique</td><td>0,7</td><td>3,7</td><td>4,1</td><td>4,4</td><td>...</td><td>...</td><td>...</td><td>...</td><td>0,8</td><td>4,4</td><td>1,2</td><td>5,2</td><td>0,6</td><td>4,1</td>
+</tr>
+<tr>
+<td>Extrait aqueux</td><td>7,0</td><td>11,0</td><td>17,0</td><td>21,0</td><td>0,1</td><td>0,1</td><td>0,1</td><td>0,1</td><td>6,8</td><td>17,0</td><td>8,2</td><td>24,3</td><td>7,9</td><td>11,0</td>
+</tr>
+</table>
 </figure>
 
 <figure markdown='1'>

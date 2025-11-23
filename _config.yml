@@ -5,3 +5,8 @@
 #remote_theme: pages-themes/just-the-docs@v0.10.1
 #plugins:
 #- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: Le Guide du Brasseur
+description: L'art de faire de la bière.
+show_downloads: true
+google_analytics:

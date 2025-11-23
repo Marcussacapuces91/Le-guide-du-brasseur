@@ -903,7 +903,7 @@ qu'elle résulte de ce qui précède.
 
 [^1]: *Ältere und neuere Erfahrungen*, Ièna.
 [^2]: Je leur donne le nom de *matières cellulaires*, en comprenant sous ce nom, outre la *cellulose*, les matières que 
-l'on désigne ordinairement sous le nom de fibres végétales.
+      l'on désigne ordinairement sous le nom de fibres végétales.
 [^3]: La méthode se trouve décrite dans *Verhandelingenen Onderzoekingen* 1e deel, 2e stuk, p. 16.
 [^4]: *Ann. de chimie et de physique*, 3e série, t. XXVI, p. 33.
 [^5]: *Ann. de chimie et de physique*, t. XXVI, p. 33.

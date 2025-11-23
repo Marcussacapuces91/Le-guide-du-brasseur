@@ -4,8 +4,8 @@ description: De la composition des différentes sortes de grains employés à la
 menu: Chap.  1<sup>er</sup> 
 ---
 
-## Chapitre premier
-### De la composition des différentes sortes de grains employés à la préparation de la bière
+# Chapitre premier
+## De la composition des différentes sortes de grains employés à la préparation de la bière
 
 Si l'on voulait s'occuper des diverses semences au moyen desquelles on peut préparer de la bière, ce n'est qu'avec
 difficulté que l'on pourrait en fixer le nombre. Toutes les substances qui contiennent de l'amidon, peuvent fournir de
@@ -834,9 +834,7 @@ farine de froment comme d'autant plus grande que cette farine donne plus de glut
 opinion est cependant généralement admise et la quantité de gluten est considérée, de même que le degré d'élasticité de
 la pâte obtenue avec la farine de froment, comme l'indice de sa bonne qualité. Millon dont j'ai déjà mentionné (p. 25)
 les recherches sur les différences que présente la quantité de gluten contenue dans le froment, s'exprime ainsi à ce
-sujet[^21] :
-
-> Cette donnée, en matière d'expertise, est de la dernière importance.
+sujet[^21] : « Cette donnée, en matière d'expertise, est de la dernière importance. »
 
 Tant qu'il ne sera pas prouvé que ces 4% de glutine qui se trouvent dans le gluten (et qui forment moins de 4% de toutes
 les substances albumineuses contenues dans le froment) ont une valeur aussi grande, et il n'y a jusqu'ici aucun motif
@@ -853,7 +851,7 @@ La dénomination de gluten peut conduire à la supposition que, si l'on a trouv�
 froment, il y a beaucoup moins d'élastine, tandis que c'est seulement la quantité de glutine qui est plus faible.
 
 En outre, le nom de gluten (en hollandais *Kleefstof*, en allemand *Kleber*, qui se traduisent littéralement en français
-par substance glutineuse) est impropre : en effet la matière glutineuse. du froment forme seulement 4% du gluten contenu
+par substance glutineuse) est impropre : en effet la matière glutineuse du froment forme seulement 4% du gluten contenu
 dans ce froment. La substance glutineuse contenue dans les grains est la glutine et non l'élastine.
 
 Je pense donc avoir démontré par les expériences indiquées ci-dessus que le mot *gluten* ne doit pas être employé dans

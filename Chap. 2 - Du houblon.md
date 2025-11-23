@@ -46,7 +46,7 @@ avait été impossible de séparer des fleurs la totalité des particules ténue
 qu'elles devraient encore s'élever à moitié. Il a trouvé, en outre, dans 100 parties de houblon :
 
 <figure markdown='1'>
-  ![](%base_url%/images/Guide%20du%20brasseur%20-%20Composition%20du%20houblon.png)
+  ![](/images/Guide%20du%20brasseur%20-%20Composition%20du%20houblon.png)
 </figure>
 
 D'après Wimmer, il est indispensable de diviser le houblon avant de l'employer à la préparation de la bière, parce que

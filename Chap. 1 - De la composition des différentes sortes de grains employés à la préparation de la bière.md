@@ -921,15 +921,27 @@ qu'elle résulte de ce qui précède.
 [^9]: *Journal de pharmacie*, t. VIII, p. 353.
 
 [^10]: *Économie rurale*, 2<sup>e</sup> édition, Paris, 1850.
+
 [^11]: *Ann. de Ch. et de Phys*, 3<sup>e</sup> édition, t. VIII, p. 89.
+
 [^12]: *Liebig's Annal.*, t. LVIII, p. 166 et 212.
+
 [^13]: Voyez en outre Virey dans le *Journ. de Pharm.*, t. III, p. 69 ; t. XIII, p. 342 ; t. VIII, p. 51 ; Henry.
+
 [^14]: Erdman's, *Journ. für pr. Chemie*, t. LXVI, p. 320.
+
 [^15]: *Annales de chimie et de physique*, 3<sup>e</sup> série, t. XXXI, p. 1.
+
 [^16]: *Annales de chimie et de physique*, 3<sup>e</sup> série, t. XXVI, p. 4.
+
 [^17]: *Annales de chimie et de physique*, t. XXXIX, p. 22.
+
 [^18]: *Journal de pharmacie*, 3<sup>e</sup> série, t XXV, p. 352, et *Comptes rendus*, t. XXXVIII, p. 12, 85, et 119.
+
 [^19]: *And. der Chemie und Pharm.*, t. L, p. 363 ; t. LIV, p. 355 ; t. LX, p. 361
+
 [^20]: *Annales de chimie et de physique*, 3<sup>e</sup> série, t. XXIX, p. 23.
+
 [^21]: *Journal de pharmacie*, 3<sup>e</sup> série, t, XXV, p. 354.
+
 [^22]: *Scheik. Onderz.*, II deel, p. 154, et IV deel, p. 404.

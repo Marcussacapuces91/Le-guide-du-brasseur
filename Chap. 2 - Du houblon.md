@@ -122,7 +122,7 @@ considérée comme étant la partie constituante qui est, principalement, sinon 
 physiologique.
 
 <figure markdown='1'>
-  ![](%base_url%/images/Guide%20du%20brasseur%20-%20Parties%20constituantes%20inorganiques%20du%20houblon.png)
+  ![](/images/Guide%20du%20brasseur%20-%20Parties%20constituantes%20inorganiques%20du%20houblon.png)
 </figure>
 
 Cette opinion ne paraît pas s'accorder avec celle de Rochleder[^7], qui attribue au houblon et au chanvre une action

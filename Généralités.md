@@ -146,9 +146,9 @@ tous les phénomènes exceptionnels que l'on rencontre dans la fabrication des b
 <figure style="width: 100%;">
   <table style="width: 100%;">
     <tr>
-      <td style="text-align: left; width: 33%;"></td>
-      <td style="text-align: center; width: 33%;"></td>
-      <td style="text-align: right; width: 33%;" markdown="1">
+      <td style="text-align: left; width: 100%;"></td>
+      <td style="text-align: center; width: 100%;"></td>
+      <td style="text-align: right; width: 100%;" markdown="1">
 [Suivant : Chapitre 1](Chap. 1 - De la composition des différentes sortes de grains employés à la préparation de la bière.md)
 
 </td>

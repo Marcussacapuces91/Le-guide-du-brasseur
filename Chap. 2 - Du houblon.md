@@ -1,8 +1,11 @@
 ---
-Title: Chapitre 2
-Description: Du houblon.
-Menu: Chap.  2 
+title: Chapitre 2
+description: Du houblon.
+menu: Chap.  2 
 ---
+
+# Chapitre 2.
+## Du houblon.
 
 La matière que l'on désigne en industrie sous le nom de houblon, est la fleur femelle de l'*humulus lupulus* dont les
 botanistes désignent l'inflorescence sous le nom d'inflorescence en chatons. Cette substance est généralement considérée
@@ -27,7 +30,7 @@ aucunement les considérer comme fournissant des substances, qui, par leur impor
 préparation de cette boisson.
 
 Turpin a reconnu dans ces glandes la présence de deux vésicules dans lesquelles il existe une huile éthérée, et
-Raspail [^1], par un examen plus approfondi, y a trouvé de la chlorophylle, une matière résineuse, une huile éthérée et
+Raspail[^1], par un examen plus approfondi, y a trouvé de la chlorophylle, une matière résineuse, une huile éthérée et
 du gluten.
 
 Payen et Chevallier ont analysé du houblon de différentes provenances, et ils ont trouvé comme minimum 8% et comme
@@ -180,13 +183,39 @@ Une substance, pour être considérée comme un véritable succédané du houblo
 bien alors, on doit, pour remplacer le houblon, employer trois corps qui, réunis, contiennent les trois substances
 indiquées.
 
+<table style="width: 100%;">
+  <tr>
+    <td style="text-align: left; width: 33%;" markdown="1">
+[Précédent : Chapitre 1](Chap. 1 - De la composition des différentes sortes de grains employés à la préparation de la bière.md)
+</td>
+    <td style="text-align: center; width: 33%;"></td>
+    <td style="text-align: right; width: 33%;" markdown="1">
+[Suivant : Chapitre 3](Chap. 3 - De l'eau.md)
+</td>
+  </tr>
+</table>
+
+
 [^1]: *Nouveau Système de chimie organique*, 1838, t. II, p. 184.
-[^2]: *Dictionnaire des arts et métiers*, art. HOUBLON, et *Journal de pharmacie*, t. VIII, p. 209 : Payen. Chevallier et Chappellet, *Traité du Houblon* 1825, in-12.
-[^3]: Ives, *Annals of Philosophy*, new series, t.I, p. 194 *Planche Journal de pharmacie*, t. VIII, p. 288. Payen et Chevallier. *Journal de pharmacie*, t. VIII, p. 209, et *Annales de chimie et de physique*, t. XX, p. 301, 1822.
+
+[^2]: *Dictionnaire des arts et métiers*, art. HOUBLON, et *Journal de pharmacie*, t. VIII, p. 209 : Payen. Chevallier
+      et Chappellet, *Traité du Houblon* 1825, in-12.
+
+[^3]: Ives, *Annals of Philosophy*, new series, t.I, p. 194 *Planche Journal de pharmacie*, t. VIII, p. 288. Payen et
+      Chevallier. *Journal de pharmacie*, t. VIII, p. 209, et *Annales de chimie et de physique*, t. XX, p. 301, 1822.
+
 [^4]: *Scheik.* Onderez, II Deel, 2 Stück, 1858, p. 87.
-[^5]: Sur le houblon, on peut consulter encore *Journal de pharmacie*, t. IV, p. 479 ; t. VIII, p. 75, 320, 351, 535, et t. IX, p. 558, *ledum palustre* employé dans la fabrication de la bière commune succédané du houblon.
+
+[^5]: Sur le houblon, on peut consulter encore *Journal de pharmacie*, t. IV, p. 479 ; t. VIII, p. 75, 320, 351, 535, et
+      t. IX, p. 558, *ledum palustre* employé dans la fabrication de la bière commune succédané du houblon.
+
 [^6]: *Phil. mag.*, Jan. 1848, p. 54 ; *Archiv. der Pharm.*, t. CV, p. 200.
+
 [^7]: *Erdmann's Journal*, t. XXXVIII, p. 356.
+
 [^8]: *Annalen der Pharmacie*, t. XXIV, p. 104.
-[^9]: Wagner's *Jahresbericht*, 1855, p. 203 : Siemens, in *Polytechnisches Central-Blatt*, 1858, p. 1429 ; Habich, *Der Bierbrauer*, 1859, n°1, p. 3.
+
+[^9]: Wagner's *Jahresbericht*, 1855, p. 203 : Siemens, in *Polytechnisches Central-Blatt*, 1858, p. 1429 ; Habich, *Der
+      Bierbrauer*, 1859, n°1, p. 3.
+
 [^10]: *Journal de pharmacie*, t. XIV, p. 495.

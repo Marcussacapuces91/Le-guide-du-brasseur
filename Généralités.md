@@ -143,16 +143,14 @@ ont pu devenir d'une température plus uniforme.
 Il n'y a ici aucune raison d'admettre des esprits, bien que l'on ne soit pas encore en état de remonter à la cause de
 tous les phénomènes exceptionnels que l'on rencontre dans la fabrication des bières dites locales.
 
-<figure style="width: 100%;">
-  <table style="width: 100%;">
-    <tr>
-      <td style="text-align: left; width: 33%;"></td>
-      <td style="text-align: center; width: 33%;"></td>
-      <td style="text-align: right; width: 33%;" markdown="1">
+<table style="width: 100%;">
+  <tr>
+    <td style="text-align: left; width: 33%;"></td>
+    <td style="text-align: center; width: 33%;"></td>
+    <td style="text-align: right; width: 33%;" markdown="1">
 [Suivant : Chapitre 1](Chap. 1 - De la composition des différentes sortes de grains employés à la préparation de la bière.md)
 </td>
-    </tr>
-  </table>
-</figure>
+  </tr>
+</table>
 
 [^1]: Berzelius, *Lehrbuch*, 1839, t. VIII, p. 110.

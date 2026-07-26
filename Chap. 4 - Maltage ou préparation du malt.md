@@ -484,7 +484,12 @@ résumé dans ce qui va suivre.
 l'orge non germée, les nombres suivants (je réunis ensemble l'hordéine avec l'amidon et la matière cellulaire) :
 
 <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
-  <table style="width: 100%;">
+
+|                                | Orge<br>non germée.  | Orge<br>germée.  |
+|:-------------------------------|:--------------------:|:----------------:|
+| Amidon et matières cellulaires |          87          |        68        |
+
+   <table style="width: 100%;">
     <tr><td>                                </td><th>Orge<br/>non germée.</th><th>Orge<br/>germée.</th></tr>
     <tr><th> Amidon et matières cellulaires </th><td> 87                 </td><td> 68             </td></tr>
     <tr><th> Sucre                          </th><td> 5                  </td><td> 15             </td></tr>

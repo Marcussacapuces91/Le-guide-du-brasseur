@@ -1,6 +1,6 @@
 ---
 Title: Chapitre 4
-Description: Maltage ou préparation du Malt.
+Description: Maltage ou préparation du malt.
 Menu: Chap.  4 
 ---
 

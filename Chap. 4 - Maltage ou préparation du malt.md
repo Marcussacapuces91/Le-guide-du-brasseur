@@ -889,7 +889,9 @@ la manière suivante :
 </figure>
 
 <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
-  <div markdown='1' style="width: 100%; text-align: center;">**Seigle.**</div>
+  <figcaption markdown='1'>
+**Seigle.**
+  </figcaption>
   <table style="width: 100%;">
     <tr><td>                                                   </td><th>Grain. </th><th> Malt.   </th></tr>
     <tr><th> Matières albumineuses                             </th><td> 12,5  </td><td> 14,1    </td></tr>
@@ -900,7 +902,9 @@ la manière suivante :
 </figure>
 
 <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
-  <div markdown='1' style="width: 100%; text-align: center;">**Avoine.**</div>
+  <figcaption markdown='1'>
+**Avoine.**
+  </figcaption>
   <table style="width: 100%;">
     <tr><td>                                                   </td><th>Grain. </th><th> Malt.   </th></tr>
     <tr><th> Matières albumineuses                             </th><td> 14,0  </td><td> 15,1    </td></tr>
@@ -913,7 +917,7 @@ la manière suivante :
 Par l'inspection de ces chiffres, nous reconnaissons que, pour les quatre espèces de grains, la somme des quatre
 substances non azotées diminue pendant la germination et que cette diminution s'élève:
 
-<figure markdown='1' style="width: 33%; margin-left: auto; margin-right: auto;">
+<figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
   <table style="width: 100%">
     <tr><th> Pour l'orge, à     </th><td> 1/8  </td></tr>
     <tr><th> Pour le froment, à </th><td> 1/19 </td></tr>

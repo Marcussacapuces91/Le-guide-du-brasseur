@@ -1,7 +1,7 @@
 ---
-title: Chapitre 4
-description: Maltage ou préparation du malt.
-menu: Chap.  4 
+title: 'Chapitre 4'
+description: 'Maltage ou préparation du malt.'
+menu: 'Chap.  4'
 ---
 
 Le malt est le grain germé. On nomme maltage la série d'opérations nécessaires pour faire germer le grain afin de le
@@ -879,12 +879,12 @@ la manière suivante :
 **Froment**
   </figcaption>
 
-|                                                           | Grain. | Malt. |
-|:----------------------------------------------------------|:------:|:-----:|
-| **Matières albumineuses**                                 |  13,9  | 14,5  |
-| **Les quatre substances non azotées**                     |  81,9  | 80,9  |
-| **Les matières albumineuses étant représentées par**      |  100   |  100  |
-| **Le calcul donne pour les 4 substances non azotées**     |  589   |  558  |
+|                                                       | Grain. | Malt. |
+|:------------------------------------------------------|:------:|:-----:|
+| **Matières albumineuses**                             |  13,9  | 14,5  |
+| **Les quatre substances non azotées**                 |  81,9  | 80,9  |
+| **Les matières albumineuses étant représentées par**  |  100   |  100  |
+| **Le calcul donne pour les 4 substances non azotées** |  589   |  558  |
 
 </figure>
 

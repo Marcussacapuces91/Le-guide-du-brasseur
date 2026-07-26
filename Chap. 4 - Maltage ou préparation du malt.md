@@ -860,16 +860,15 @@ savoir si les quatre substances non azotées ont diminué ou non. La réponse à
 la manière suivante :
 
 <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
-  <figcaption markdown='1'>
-    **Orge.**
-  </figcaption>
-  <table style="width: 100%;">
-    <tr><td>                                                   </td><th>Grain. </th><th> Malt.   </th></tr>
-    <tr><th> Matières albumineuses                             </th><td> 5,8   </td><td> 8,1     </td></tr>
-    <tr><th> Les quatre substances non azotées                 </th><td> 54,1  </td><td> 42,6    </td></tr>
-    <tr><th> Les matières albumineuses étant représentées par  </th><td> 100   </td><td> 100     </td></tr>
-    <tr><th> Le calcul donne pour les 4 substances non azotées </th><td> 679   </td><td> 596     </td></tr>
-  </table>
+  <figcaption markdown='1'>**Orge.**</figcaption>
+
+|                                                       | Grain. | Malt. |
+|:------------------------------------------------------|:------:|:-----:|
+| **Matières albumineuses**                             |  5,8   |  8,1  |
+| **Les quatre substances non azotées**                 |  54,1  | 42,6  |
+| **Les matières albumineuses étant représentées par**  |  100   |  100  |
+| **Le calcul donne pour les 4 substances non azotées** |  679   |  596  |
+
 </figure>
 
 <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">

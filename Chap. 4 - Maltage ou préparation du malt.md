@@ -485,18 +485,14 @@ l'orge non germée, les nombres suivants (je réunis ensemble l'hordéine avec l
 
 <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
 
-|                                | Orge<br>non germée.  | Orge<br>germée.  |
-|:-------------------------------|:--------------------:|:----------------:|
-| Amidon et matières cellulaires |          87          |        68        |
+|                                    | Orge<br>non germée. | Orge<br>germée. |
+|:-----------------------------------|:-------------------:|:---------------:|
+| **Amidon et matières cellulaires** |         87          |       68        |
+| **Sucre**                          |          5          |       15        |
+| **Dextrine**                       |          4          |       15        |
+| **Glutine et mucine**              |          3          |        1        |
+| **Résine jaune**                   |          1          |        1        |
 
-   <table style="width: 100%;">
-    <tr><td>                                </td><th>Orge<br/>non germée.</th><th>Orge<br/>germée.</th></tr>
-    <tr><th> Amidon et matières cellulaires </th><td> 87                 </td><td> 68             </td></tr>
-    <tr><th> Sucre                          </th><td> 5                  </td><td> 15             </td></tr>
-    <tr><th> Dextrine                       </th><td> 4                  </td><td> 15             </td></tr>
-    <tr><th> Glutine et mucine              </th><td> 3                  </td><td> 1              </td></tr>
-    <tr><th> Résine jaune                   </th><td> 1                  </td><td> 1              </td></tr>
-  </table>
 </figure>
 
 Quelque pauvres que soient ces résultats, ils nous apprennent cependant quelque chose par leur comparaison : en effet,

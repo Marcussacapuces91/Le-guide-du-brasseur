@@ -860,7 +860,9 @@ savoir si les quatre substances non azotées ont diminué ou non. La réponse à
 la manière suivante :
 
 <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
-  <div markdown='1' style="width: 100%; text-align: center;">**Orge.**</div>
+  <figcaption markdown='1'>
+    **Orge.**
+  </figcaption>
   <table style="width: 100%;">
     <tr><td>                                                   </td><th>Grain. </th><th> Malt.   </th></tr>
     <tr><th> Matières albumineuses                             </th><td> 5,8   </td><td> 8,1     </td></tr>
@@ -871,7 +873,9 @@ la manière suivante :
 </figure>
 
 <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
-  <div markdown='1' style="width: 100%; text-align: center;">**Froment.**</div>
+  <figcaption markdown='1'>
+    **Froment**
+  </figcaption>
   <table style="width: 100%;">
     <tr><td>                                                   </td><th>Grain. </th><th> Malt.   </th></tr>
     <tr><th> Matières albumineuses                             </th><td> 13,9  </td><td> 14,5    </td></tr>

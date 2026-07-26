@@ -177,13 +177,13 @@ réduction instantanée et si l'on considère la substance qui a déterminé la 
 obtient pour cent, dans chacune des espèces de grains indiquées :
 
 <figure markdown='1'>
-<table>
-<tr><th>Source         </th><th>Sucre </th></tr>
-<tr><td>Dans le froment</td><td>0,22%</td></tr>
-<tr><td>Dans l'orge    </td><td>0,19%</td></tr>
-<tr><td>Dans le seigle </td><td>0,08%</td></tr>
-<tr><td>Dans l'avoine  </td><td>0,12%</td></tr>
-</table>
+    <table>
+        <tr><th>Source         </th><th>Sucre </th></tr>
+        <tr><td>Dans le froment</td><td>0,22%</td></tr>
+        <tr><td>Dans l'orge    </td><td>0,19%</td></tr>
+        <tr><td>Dans le seigle </td><td>0,08%</td></tr>
+        <tr><td>Dans l'avoine  </td><td>0,12%</td></tr>
+    </table>
 </figure>
 
 Le maximum s'élève donc dans le grain à 0,002.
@@ -415,7 +415,7 @@ préparation de la bière. Nous reproduisons ci-dessous ces chiffres déjà conn
 qui correspondent à l'orge desséchée.
 
 <figure markdown='1'>
-  <figcaption>Composition de l'orge, d'après Oudemans.</figcaption>
+  <figcaption>**Composition de l'orge, d'après Oudemans.**</figcaption>
   <table>
     <tr><th>                       </th><th>Orge non desséchée</th><th>Orge desséchée</th></tr>
     <tr><th>Amidon                 </th><td> 53,8             </td><td> 65,7         </td></tr>
@@ -886,18 +886,18 @@ qu'elle résulte de ce qui précède.
   </figcaption>
   <table>
     <tr><td></td><td colspan=2>Froment</td><td colspan=2>Orge</td></tr>
-    <tr><th>Amidon                  </th><td> 57,0 </td><td> 67,9 </td><td> 53,8 </td><td> 65,7 </td></tr>
-    <tr><th>Dextrine                </th><td>  4,5 </td><td>  5,4 </td><td>  4,5 </td><td>  5,5 </td></tr>
-    <tr><th>Glutine, soluble dans l'alcool, insoluble dans l'eau </th><td> 0,42 </td><td>  0,5 </td><td> 0,28 </td><td>  0,3 </td></tr>
-    <tr><th>Substance albumineuse coagulable </th><td> 0,26 </td><td>  0,3 </td><td> 0,28 </td><td>  0,3 </td></tr>
-    <tr><th>Deux substances albumineuses solubles dans l'eau, non coagulables </th><td> 1,55 </td><td>  1,9 </td><td> 1,55 </td><td>  1,9 </td></tr>
-    <tr><th>Substances albumineuses insolubles </th><td> 9,27 </td><td> 11,0 </td><td> 7,59 </td><td>  9,3 </td></tr>
-    <tr><th>Matières grasses        </th><td>  1,8 </td><td>  2,1 </td><td>  2,1 </td><td>  2,5 </td></tr>
-    <tr><th>Matières cellulaires    </th><td>  6,1 </td><td>  7,2 </td><td>  7,7 </td><td>  9,4 </td></tr>
-    <tr><th>Substances inorganiques </th><td>  1,7 </td><td>  2,0 </td><td>  2,5 </td><td>  3,1 </td></tr>
-    <tr><th>Eau                     </th><td> 16,0 </td><td>  ... </td><td> 18,1 </td><td>  ... </td></tr>
-    <tr><th>Substances extractives et autres </th><td>  1,4 </td><td>  1,7 </td><td>  1,6 </td><td>  2,0 </td></tr>
-    <tr><th>                        </th><th>100,0 </th><th>100,0 </th><th> 100,0 </th><th> 100,0 </th></tr>
+    <tr><th>Amidon                                                           </th><td> 57,0 </td><td> 67,9 </td><td> 53,8 </td><td> 65,7 </td></tr>
+    <tr><th>Dextrine                                                         </th><td>  4,5 </td><td>  5,4 </td><td>  4,5 </td><td>  5,5 </td></tr>
+    <tr><th>Glutine, soluble dans l'alcool, insoluble dans l'eau             </th><td> 0,42 </td><td>  0,5 </td><td> 0,28 </td><td>  0,3 </td></tr>
+    <tr><th>Substance albumineuse coagulable                                 </th><td> 0,26 </td><td>  0,3 </td><td> 0,28 </td><td>  0,3 </td></tr>
+    <tr><th>Deux substances albumineuses solubles dans l'eau, non coagulables</th><td> 1,55 </td><td>  1,9 </td><td> 1,55 </td><td>  1,9 </td></tr>
+    <tr><th>Substances albumineuses insolubles                               </th><td> 9,27 </td><td> 11,0 </td><td> 7,59 </td><td>  9,3 </td></tr>
+    <tr><th>Matières grasses                                                 </th><td>  1,8 </td><td>  2,1 </td><td>  2,1 </td><td>  2,5 </td></tr>
+    <tr><th>Matières cellulaires                                             </th><td>  6,1 </td><td>  7,2 </td><td>  7,7 </td><td>  9,4 </td></tr>
+    <tr><th>Substances inorganiques                                          </th><td>  1,7 </td><td>  2,0 </td><td>  2,5 </td><td>  3,1 </td></tr>
+    <tr><th>Eau                                                              </th><td> 16,0 </td><td>  ... </td><td> 18,1 </td><td>  ... </td></tr>
+    <tr><th>Substances extractives et autres                                 </th><td>  1,4 </td><td>  1,7 </td><td>  1,6 </td><td>  2,0 </td></tr>
+    <tr><th>                                                                 </th><th>100,0 </th><th>100,0 </th><th>100,0 </th><th>100,0 </th></tr>
   </table>
 </figure>
 

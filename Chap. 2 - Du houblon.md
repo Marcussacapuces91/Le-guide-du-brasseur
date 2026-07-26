@@ -46,7 +46,17 @@ avait été impossible de séparer des fleurs la totalité des particules ténue
 qu'elles devraient encore s'élever à moitié. Il a trouvé, en outre, dans 100 parties de houblon :
 
 <figure markdown='1'>
-  ![](/images/Guide%20du%20brasseur%20-%20Composition%20du%20houblon.png)
+  <table>
+    <tr><td></td><th>Folioles<br>de la fleure</th><th>Poussière<br>jaune</th><th>Folioles<br>et poussière<br>ensemble</th></tr>
+    <tr><th>Huile volatile         </th><td>  ... </td><td> 0,12 </td><td>  0,12 </td></tr>
+    <tr><th>Acide tannique         </th><td>  1,6 </td><td> 0,7  </td><td>  2,3  </td></tr>
+    <tr><th>Substance amère        </th><td>  4,7 </td><td> 3,0  </td><td>  7,7  </td></tr>
+    <tr><th>Substance gommeuse     </th><td>  5,8 </td><td> 1,3  </td><td>  7,1  </td></tr>
+    <tr><th>Substance résineuse    </th><td>  2,0 </td><td> 2,9  </td><td>  4,9  </td></tr>
+    <tr><th>Cellules végétales     </th><td> 64,0 </td><td> 9,0  </td><td> 73,0  </td></tr>
+    <tr><th>Acide tannique         </th><td> 1,6 </td><td> 0,7  </td><td> 2,3  </td></tr>
+    <tr><th>Extrait aqueux         </th><td>78,1<br>12,1 %</td><td>17,02<br>4,9 %</td><td>95,12<br>17 %</td></tr>
+  </table>
 </figure>
 
 D'après Wimmer, il est indispensable de diviser le houblon avant de l'employer à la préparation de la bière, parce que
@@ -122,7 +132,26 @@ considérée comme étant la partie constituante qui est, principalement, sinon 
 physiologique.
 
 <figure markdown='1'>
-  ![](/images/Guide%20du%20brasseur%20-%20Parties%20constituantes%20inorganiques%20du%20houblon.png)
+  <figcaption markdown='1'>
+**Parties constituantes inorganiques du houblon**
+  </figcaption>
+  <table>
+    <tr><td></td><th colspan=2>Way et Ogston</th><th>Hawkhurst</th><th>Nesbit</th></tr>
+    <tr><th>Potasse                </th><td>  12 </td><td>  25 </td><td> 19,4 </td><td> 25,2 </td></tr>
+    <tr><th>Chlorure de Potassium  </th><td> ... </td><td>   3 </td><td>  ... </td><td>  1,7 </td></tr>
+    <tr><th>Chlorure de Sodium     </th><td> ... </td><td> ... </td><td>  ... </td><td>  7,2 </td></tr>
+    <tr><th>Chaux                  </th><td>  18 </td><td>  22 </td><td> 14,2 </td><td> 16,0 </td></tr>
+    <tr><th>Magnésie               </th><td>   6 </td><td>   5 </td><td>  5,3 </td><td>  5,8 </td></tr>
+    <tr><th>Sesquioxyde de Fer     </th><td>   2 </td><td>   2 </td><td>  2,7 </td><td>  7,5<br><small>Phosphate de<br>sesqui-oxyde<br>de fer</small> </td></tr>
+    <tr><th>Acide Phosphorique     </th><td>  21 </td><td>   7 </td><td> 14,6 </td><td>  9,8 </td></tr>
+    <tr><th>Acide Sulfurique       </th><td>   7 </td><td>  14 </td><td>  8,3 </td><td>  5,4 </td></tr>
+    <tr><th>Acide Silicique        </th><td>  23 </td><td>  20 </td><td> 17,9 </td><td> 21,5 </td></tr>
+    <tr><th>Acide Carbonique       </th><td>   5 </td><td>   2 </td><td> 11,0 </td><td>  ... </td></tr>
+    <tr><th>Soude                  </th><td> ... </td><td> ... </td><td>  0,7 </td><td>  ... </td></tr>
+    <tr><th>Alumine?               </th><td> ... </td><td> ... </td><td>  1,2 </td><td>  ... </td></tr>
+    <tr><th>Chlore                 </th><td> ... </td><td> ... </td><td>  2,3 </td><td>  ... </td></tr>
+    <tr><th>Quantité de cendres (%)</th><td>   8 </td><td>   6 </td><td>  ... </td><td>  ... </td></tr>
+  </table>
 </figure>
 
 Cette opinion ne paraît pas s'accorder avec celle de Rochleder[^7], qui attribue au houblon et au chanvre une action
@@ -157,8 +186,8 @@ introduit L'hydrogène de zinc et on ajoute de l'acide chlorhydrique. L'hydrogè
 dépens de l'acide sulfureux, de l'eau et de l'hydrogène sulfuré, que l'on peut facilement reconnaître en faisant passer
 le gaz qui se dégage dans une dissolution d'acétate de plomb.
 
-Wagner conseille d'employer dans ce but le nitrocyanure de sodium, qui prend une couleur rouge-pourpre par l'action d'
-une trace, même très faible, de gaz hydrogène sulfuré lorsqu'on fait passer ce gaz dans une dissolution de ce sel
+Wagner conseille d'employer dans ce but le nitrocyanure de sodium, qui prend une couleur rouge pourpre par l'action
+d'une trace, même très faible, de gaz hydrogène sulfuré lorsqu'on fait passer ce gaz dans une dissolution de ce sel
 additionnée de potasse.
 
 Quelque sensible que soit cette réaction, Wagner n'a pu, on l'employant, trouver au bout de quelques mois aucune trace
@@ -190,7 +219,7 @@ indiquées.
 </td>
     <td style="text-align: center; width: 33%;"></td>
     <td style="text-align: right; width: 33%;" markdown="1">
-[Suivant : Chapitre 3](Chap. 3 - De l'eau.md)
+[Suivant : Chapitre 3](Chap. 3 - De l%27eau.md)
 </td>
   </tr>
 </table>

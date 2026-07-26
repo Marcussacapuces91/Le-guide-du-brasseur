@@ -1,6 +1,7 @@
-CHAPITRE XI
-
-DE LA FERMENTATION TERTIAIRE.
+---
+title: Chapitre 11
+description: De la fermentation tertiaire
+---
 
 La fermentation complémentaire comprend les transformations que la bière subit dans les tonneaux tant qu'il se sépare de
 la levure. Dans une bonne bière, elle doit être entièrement terminée avant que cette bière soit livrée à la
@@ -23,7 +24,7 @@ La bière, préparée au moyen de la fermentation par dépôt, si on ne la souti
 séparée et si on la transvase en ayant soin de la maintenir autant que possible à l'abri du contact de l'air, dans des
 tonneaux, quelquefois même très grands, peut être conservée claire, pourvu que la température du cellier soit
 suffisamment basse. La basse température est ici une condition essentielle de la bonne conservation de la bière. La
-fermentation tertiaire ne s'arrête pas lorsque la température descend jusqu'à 10° et 12° et même au-dessous : mais elle
+fermentation tertiaire ne s'arrête pas lorsque la température descend jusqu'à 10° et 12° et même au-dessous : mais elle
 marche alors très lentement, et cette lenteur de la fer. mentation tertiaire est précisément une des causes de la bonne
 conservation de la bière.
 

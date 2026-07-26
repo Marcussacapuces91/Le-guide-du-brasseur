@@ -68,7 +68,7 @@ On ne peut donc recommander exclusivement aucune espèce d'eau en particulier co
 pour la préparation d'une très bonne bière. Si l'on veut qu'il passe dans la bière une quantité aussi grande que
 possible des parties constituantes nutritives du grain, on doit employer de préférence la plus pure des eaux ordinaires,
 l'eau de pluie. L'eau de canal, qui, en Hollande, tient en dissolution environ 1/5000 de sels, ne peut pas exercer, par
-les sels qu'elle contient, une grande influence sur la qualité de la bière. Mais l'eau de source, qui contient 5,6, 7
+les sels qu'elle contient, une grande influence sur la qualité de la bière. Mais l'eau de source, qui contient 5, 6, 7
 fois plus de sels que l'eau de canal, exerce en effet une certaine influence sur la préparation de la bière.
 
 Il n'est pas besoin d'observer que l'eau ne doit pas tenir de matière en suspension ou contenir d'autres matières
@@ -86,6 +86,18 @@ chargée de principes excrémentiels humains, s'étonner que l'on emploie encore
 canaux des villes.
 
 Cela arrive du reste rarement dans la Hollande en général si propre.
+
+<table style="width: 100%;">
+  <tr>
+    <td style="text-align: left; width: 33%;" markdown="1">
+[Précédent : Chapitre 2](Chap. 2 - Du houblon.md)
+</td>
+    <td style="text-align: center; width: 33%;"></td>
+    <td style="text-align: right; width: 33%;" markdown="1">
+[Suivant : Chapitre 4](Chap. 4 - Maltage ou préparation du malt.md)
+</td>
+  </tr>
+</table>
 
 [^1]: *Annalen der Chemie und Pharmacie*, t. LXI, p. 168.
 [^2]: Dingler, *Polytechnisches Journal*, t, XLI, p. 395.

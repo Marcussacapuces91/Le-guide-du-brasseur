@@ -535,35 +535,38 @@ tard, lorsque la plumule commence à se développer plus complètement, il en es
 ## <a name="66-71">Orge</a>. {#Orge}
 
 <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
-  <table style="width: 100%;">
-  <tr><td>                         </td><th>Orge. </th><th>Malt d'orge<br/>desséché à l'air.</th></tr>
-  <tr><th> Dextrine                </th><td>4,5   </td><td>6,5     </td></tr>
-  <tr><th> Amidon                  </th><td>53,8  </td><td>47,3    </td></tr>
-  <tr><th> Sucre                   </th><td>...   </td><td>0,4     </td></tr>
-  <tr><th> Matières cellulaires    </th><td>7,7   </td><td>11,7    </td></tr>
-  <tr><th> Substances albumineuses </th><td>9,7   </td><td>11,0    </td></tr>
-  <tr><th> Matière grasse          </th><td>2,1   </td><td>1,8     </td></tr>
-  <tr><th> Cendres                 </th><td>2,5   </td><td>2,6     </td></tr>
-  <tr><th> Eau                     </th><td>18,1  </td><td>16,1    </td></tr>
-  <tr><th>                         </th><th>98,4  </th><th>97,4    </th></tr>
-  </table>
+
+|                              |  Orge.   | Malt d'orge<br>desséché à l'air. |
+|:-----------------------------|:--------:|:--------------------------------:|
+| **Dextrine**                 |   4,5    |               6,5                |
+| **Amidon**                   |   53,8   |               47,3               |
+| **Sucre**                    |   ...    |               0,4                |
+| **Matières cellulaires**     |   7,7    |               11,7               |
+| **Substances albumineuses**  |   9,7    |               11,0               |
+| **Matière grasse**           |   2,1    |               1,8                |
+| **Cendres**                  |   2,5    |               2,6                |
+| **Eau**                      |   18,1   |               16,1               |
+|                              | **98,4** |             **97,4**             |
+
 </figure>
 
 Si nous ramenons ces résultats à ce qu'ils seraient pour 100, les substances
 étant supposées sèches, nous obtiendrons :
 
 <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
-  <table style="width: 100%;">
-  <tr><td>                         </td><th>Orge. </th><th>Malt d'orge<br/>desséché à l'air.</th></tr>
-  <tr><th> Dextrine                </th><td>5,6   </td><td>8,0     </td></tr>
-  <tr><th> Amidon                  </th><td>67,0  </td><td>58,1    </td></tr>
-  <tr><th> Sucre                   </th><td>0,0   </td><td>0,5     </td></tr>
-  <tr><th> Matières cellulaires    </th><td>9,6   </td><td>14,4    </td></tr>
-  <tr><th> Substances albumineuses </th><td>12,1  </td><td>13,6    </td></tr>
-  <tr><th> Matière grasse          </th><td>2,1   </td><td>1,8     </td></tr>
-  <tr><th> Cendres                 </th><td>3,1   </td><td>3,2     </td></tr>
-  <tr><th>                         </th><th>100   </th><th>100     </th></tr>
-  </table>
+
+|                             |  Orge.  | Malt d'orge<br>desséché à l'air. |
+|:---------------------------:|:-------:|:--------------------------------:|
+|        **Dextrine**         |   5.6   |               8,0                |
+|         **Amidon**          |  67,0   |               58,1               |
+|          **Sucre**          |   0,0   |               0,5                |
+|  **Matières cellulaires**   |   9,6   |               14,4               |
+| **Substances albumineuses** |  12,1   |               13,6               |
+|     **Matière grasse**      |  _2,1_  |              _1,8_               |
+|         **Cendres**         |   3,1   |               3,2                |
+|           **Eau**           |  18,1   |               16,1               |
+|                             | **100** |             **100**              |
+
 </figure>
 
 Par l'examen de ces nombres, nous voyons :

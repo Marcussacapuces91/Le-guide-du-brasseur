@@ -2246,15 +2246,9 @@ transformer l'amidon, lorsqu'on le conserve à la température ordinaire, préci
 
 [^4]: Erdmann's Journal für praktische Chemie, t. LXIII, p. 49.
 
-[^5]: Proust (*Annales de chimie et de physique*, 1817, 2e série, t. V, p. 342) a prétendu que l'orge a perdu par la
-germination 1/3 de son poids.   
-<br/>
-Thomson (*Annales de chimie et de physique*, 1817, 2e série, t. VI, p. 216) émet avec raison une opinion contraire :
-l'orge et le malt étant tous deux supposés secs, Thomson a trouvé 8 pour 100 de perte, ce qui s'accorde avec les
-résultats obtenus en grand.
+[^5]: Proust (*Annales de chimie et de physique*, 1817, 2e série, t. V, p. 342) a prétendu que l'orge a perdu par la germination 1/3 de son poids.<br/>Thomson (*Annales de chimie et de physique*, 1817, 2e série, t. VI, p. 216) émet avec raison une opinion contraire : l'orge et le malt étant tous deux supposés secs, Thomson a trouvé 8 pour 100 de perte, ce qui s'accorde avec les résultats obtenus en grand.
 
-[^6]: Nous avons indiqué, p. .51, que dans une expérience, nous avons obtenu seulement 0,57%, et cela en employant de
-l'eau distillée. Un résultat de 1,5% trouvé pratiquement parait donc douteux.
+[^6]: Nous avons indiqué, p. .51, que dans une expérience, nous avons obtenu seulement 0,57%, et cela en employant de l'eau distillée. Un résultat de 1,5% trouvé pratiquement parait donc douteux.
 
 [^7]: Erdman's *Journal fûr praklische chemie*, t. LXVI, p. 311 et 318.
 
@@ -2284,15 +2278,9 @@ l'eau distillée. Un résultat de 1,5% trouvé pratiquement parait donc douteux.
 
 [^20]: *Nouveau système de chimie organique*, t. I, 1838, p. 452.
 
-[^21]: Chevreul, *Nouvelles Annales du Muséum d'Histoire naturelle*. Paris,
-1834, t. III, p. 241. nous donne un aperçu historique sur l'état de la question
-dans lequel il cite presque tout ce qui a été publié sur l'amidon jusqu'à cette
-année. Voir aussi Dumas (*Traité de Chimie appliquée aux arts*, t. IV, p. 65),
-la bibliographie du chap. II, qui traite de l'amidon, des fécules et de la
-dextrine. Voir également *Erdmann's Journal*, t. II,
+[^21]: Chevreul, *Nouvelles Annales du Muséum d'Histoire naturelle*. Paris, 1834, t. III, p. 241. nous donne un aperçu historique sur l'état de la question dans lequel il cite presque tout ce qui a été publié sur l'amidon jusqu'à cette année. Voir aussi Dumas (*Traité de Chimie appliquée aux arts*, t. IV, p. 65), la bibliographie du chap. II, qui traite de l'amidon, des fécules et de la dextrine. Voir également *Erdmann's Journal*, t. II,
 
-[^22]: *Mémoire sur le développement des végétaux*, 1844 p. 83, et Précis de
-Chimie industrielle, 4e édition, 1859, t II, p. 46.
+[^22]: *Mémoire sur le développement des végétaux*, 1844 p. 83, et Précis de Chimie industrielle, 4e édition, 1859, t II, p. 46.
 
 [^23]: *Poggendorff's Annalen*, t. XXXII, p. 129.
 
@@ -2316,26 +2304,7 @@ Chimie industrielle, 4e édition, 1859, t II, p. 46.
 
 [^33]: *L'Institut*, n° 1083, p. 338.
 
-[^34]: En ce qui concerne les sucres, nous ferons même remarquer que non seulement, à côté du sucre de cannes ou
-saccharose et du sucre de fruits ou glucose, il viendrait se ranger d'autres corps analogues, mais que l'on devrait
-peut-être même admettre plusieurs espèces de saccharoses et de glucoses ; ainsi Berthelot (Chimie organique fondée sur
-la synthèse, t. II, p. 2481), considère la glucose du malt comme étant une glucose spéciale qu'il désigne sous le nom de
-maltose, et il lui assigne les caractères suivants :
-<br/>
-« Sous l'influence de la diastase, rerment particulier contenu dans l'orge germée, l'amidon se change en une glucose
-particulière dont la nature a été établie principalement par les travaux de M. Biot et par ceux de M. Dubrunfaut. Cette
-transformation s'opère dans l'infusion de malt (orge germée), destinée à préparer la bière ; elle précède la
-transformation alcoolique qui donne naissance à cette boisson.
-<br/>
-« La maltose parait être également, au moins dans certains cas, le premier terme de la métamorphose de l'amidon sous l'
-influence ménagée des acides et précéder la formation définitive de la glucose ordinaire.
-<br/>
-« La maltose est cristallisable, mais seulement à la façon de la glucose ordinaire, avec laquelle elle offre de très
-grandes analogies. Elle est un peu moins soluble dans l'alcool, mais elle se distingue surtout par son pouvoir
-rotatoire, qui est dextrogire et triple de celui de la glucose ordinaire ; de plus, il parait être constant dès les
-premiers moments de la dissolution.
-<br/>
-« La maltose, soumise a une action prolongée des acides étendus, se change en glucose ordinaire.
+[^34]: En ce qui concerne les sucres, nous ferons même remarquer que non seulement, à côté du sucre de cannes ou saccharose et du sucre de fruits ou glucose, il viendrait se ranger d'autres corps analogues, mais que l'on devrait peut-être même admettre plusieurs espèces de saccharoses et de glucoses ; ainsi Berthelot (Chimie organique fondée sur la synthèse, t. II, p. 2481), considère la glucose du malt comme étant une glucose spéciale qu'il désigne sous le nom de maltose, et il lui assigne les caractères suivants :<br/>« Sous l'influence de la diastase, rerment particulier contenu dans l'orge germée, l'amidon se change en une glucose particulière dont la nature a été établie principalement par les travaux de M. Biot et par ceux de M. Dubrunfaut. Cette transformation s'opère dans l'infusion de malt (orge germée), destinée à préparer la bière ; elle précède la transformation alcoolique qui donne naissance à cette boisson.<br/>« La maltose parait être également, au moins dans certains cas, le premier terme de la métamorphose de l'amidon sous l'influence ménagée des acides et précéder la formation définitive de la glucose ordinaire.<br/>« La maltose est cristallisable, mais seulement à la façon de la glucose ordinaire, avec laquelle elle offre de très grandes analogies. Elle est un peu moins soluble dans l'alcool, mais elle se distingue surtout par son pouvoir rotatoire, qui est dextrogire et triple de celui de la glucose ordinaire ; de plus, il parait être constant dès les premiers moments de la dissolution.<br/>« La maltose, soumise a une action prolongée des acides étendus, se change en glucose ordinaire ».
 
 [^35]: *Gährung's Chemie*, l. c., p. 36.
 
@@ -2347,28 +2316,17 @@ premiers moments de la dissolution.
 
 [^39]: Pour épuiser ainsi le grain par l'eau, on traitait le grain humecté par l'eau même qui avait servi à l'humecter.
 
-[^40]: *Poggendorff Ann.*, t. XXXII, p. 74
-<br/>
-Annales de Chimie et de Phisique, 3e série, t. LIII, p. 37, 1853.
+[^40]: *Poggendorff Ann.*, t. XXXII, p. 74<br/>Annales de Chimie et de Phisique, 3e série, t. LIII, p. 37, 1853.
 
 [^41]: *Journal de Chimie médicale*, 1833, p. 634.
 
-[^42]: Lacambre (*Traité complet de la fabrication des bières*, t.I, p. 73), dit que la diastase ne perd pas sa faculté
-modificatrice immédiatement au-dessus de 75e : d'après lui, elle la perd seulement à une température de 92 à 94°C, bien
-que, d'après ses observations, son action soit déjà plus faible à une température de 84 à 85°C.
+[^42]: Lacambre (*Traité complet de la fabrication des bières*, t.I, p. 73), dit que la diastase ne perd pas sa faculté modificatrice immédiatement au-dessus de 75e : d'après lui, elle la perd seulement à une température de 92 à 94°C, bien que, d'après ses observations, son action soit déjà plus faible à une température de 84 à 85°C.
 
 [^43]: Littéralement : la substance mère (*de moederstof*).
 
 [^44]: Littéralement un grenier d'approvisionnement (*voorraadschuur.*)
 
-[^45]: Je ne dois pas pas omettre d'indiquer ici que l'infusion de noix de galle produit un précipité dans la liqueur,
-obtenue au moyen du malt, dont on a probablement séparé les substances albumineuses coagulables en la faisant bouillir.
-D'après cela, l'acide tannique du houblon devrait précipiter les substances albumineuses solides du malt ; mais la
-réaction n'a pas lieu lorsqu'on ajoute une quantité suffisante d'acide lactique. Cette liqueur, dans laquelle il se
-trouve en même temps de l'acide tannique et de l'acide lactique, peut être légèrement trouble, ce qui vient de la
-précipitation d'un tannate ; mais, par l'action de la chaleur, la liqueur redevient claire. Cette réaction particulière
-nous permettra plus tard d'expliquer comment il peut rester des substances albumineuses solubles dans la liqueur que l'
-on a fait bouillir avec du houblon.
+[^45]: Je ne dois pas pas omettre d'indiquer ici que l'infusion de noix de galle produit un précipité dans la liqueur, obtenue au moyen du malt, dont on a probablement séparé les substances albumineuses coagulables en la faisant bouillir. D'après cela, l'acide tannique du houblon devrait précipiter les substances albumineuses solides du malt ; mais la réaction n'a pas lieu lorsqu'on ajoute une quantité suffisante d'acide lactique. Cette liqueur, dans laquelle il se trouve en même temps de l'acide tannique et de l'acide lactique, peut être légèrement trouble, ce qui vient de la précipitation d'un tannate ; mais, par l'action de la chaleur, la liqueur redevient claire. Cette réaction particulière nous permettra plus tard d'expliquer comment il peut rester des substances albumineuses solubles dans la liqueur que l'on a fait bouillir avec du houblon.
 
 [^46]: *Schweigger's Journal*, 1812, t. XIV, p. 289.
 
@@ -2376,9 +2334,7 @@ on a fait bouillir avec du houblon.
 
 [^48]: *Annales de Chimie et de Physique*, 3e série, t. XXIX, p. 1.
 
-[^49]: On n'obtient pas par cette méthode la totalité du sucre, puisque, dans la pâte même, une portion du sucre est
-transformée immédiatement par la fermentation en alcool et en acide carbonique : il se produit donc dans la mise en pâte
-une quantité de dextrine relativement plus considérable que celle du sucre.
+[^49]: On n'obtient pas par cette méthode la totalité du sucre, puisque, dans la pâte même, une portion du sucre est transformée immédiatement par la fermentation en alcool et en acide carbonique : il se produit donc dans la mise en pâte une quantité de dextrine relativement plus considérable que celle du sucre.
 
 [^50]: *De Wijn*, p. 65.
 
@@ -2400,5 +2356,4 @@ une quantité de dextrine relativement plus considérable que celle du sucre.
 
 [^59]: *Chimie appliquée à la Physiologie*. Paris, 1856, p. 38.
 
-[^60]: Le malt ne contient que 1/2 pour 100 de sucre, et cependant il est connu pour sa saveur douce ; cela vient de ce
-que le liquide mélangé qui se trouve dans la cavité buccale, transforme instantanément en sucre la dextrine du malt.
+[^60]: Le malt ne contient que 1/2 pour 100 de sucre, et cependant il est connu pour sa saveur douce ; cela vient de ce que le liquide mélangé qui se trouve dans la cavité buccale, transforme instantanément en sucre la dextrine du malt.

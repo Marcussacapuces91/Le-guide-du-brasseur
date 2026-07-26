@@ -729,18 +729,18 @@ De l'examen de ces nombres, il résulte :
 4. Que la quantité des matières cellulaires s'est au contraire élevée de 9,4 à 14,4, c'est-à-dire qu'elle est montée à 5
    en plus de 9,4 : elle a donc passé de 2 à 3.
 
-   Les matières cellulaires, la dextrine, l'amidon et le sucre, réunis ensemble, donnent:
+   Les matières cellulaires, la dextrine, l'amidon et le sucre, réunis ensemble, donnent :
 
    <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
-      <table style="width: 100%;">
+   <table style="width: 100%;">
       <tr><td>                         </td><th>Seigle.</th><th>Malt de seigle.</th></tr>
       <tr><th> Dextrine                </th><td> 6,2   </td><td> 15,3    </td></tr>
       <tr><th> Amidon                  </th><td> 68,0  </td><td> 50,9    </td></tr>
       <tr><th> Sucre                   </th><td> ...   </td><td> 1,3     </td></tr>
       <tr><th> Matières cellulaires    </th><td> 9,4   </td><td> 14,4    </td></tr>
       <tr><th>                         </th><th> 83,6  </th><th> 81,9    </th></tr>
-      </table>
-    </figure>
+   </table>
+   </figure>
 
    Pour le seigle aussi, la somme de ces substances a diminué comme pour l'orge et pour le froment.
 5. Que la quantité de matière grasse n'a pas diminué.
@@ -861,7 +861,9 @@ savoir si les quatre substances non azotées ont diminué ou non. La réponse à
 la manière suivante :
 
 <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
-  <figcaption markdown='1'>**Orge.**</figcaption>
+  <figcaption markdown='1'>
+**Orge.**
+   </figcaption>
 
 |                                                       | Grain. | Malt. |
 |:------------------------------------------------------|:------:|:-----:|

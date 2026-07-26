@@ -1,7 +1,7 @@
 ---
-Title: Chapitre 5
-Description: Dessiccation du Malt.
-Menu: Chap.  5
+title: 'Chapitre 5'
+description: 'Dessiccation du Malt.'
+menu: 'Chap.  5'
 ---
 
 Lorsque les premiers rudiments des radicelles de la jeune plante se sont développés jusqu'à une longueur suffisante, ce
@@ -644,6 +644,20 @@ transformée en sucre. Ce résultat s'harmonise très bien avec ce que nous avon
 résultat fourni par les expériences d'Oudemans. Il est du reste douteux que les produits de torréfaction puissent être
 comptés au nombre des parties constituantes nutritives de la bière. Dans mon opinion, cette question est encore
 indécise.
+
+
+<table style="width: 100%;">
+  <tr>
+    <td style="text-align: left; width: 33%;" markdown="1">
+[Précédent : Chapitre 4<br>Maltage ou préparation du malt](Chap. 3 - Maltage ou préparation du malt.md)
+</td>
+    <td style="text-align: center; width: 33%;"></td>
+    <td style="text-align: right; width: 33%;" markdown="1">
+[Suivant : Chapitre 6<br>Empatage](Chap. 6 - Empatage.md)
+</td>
+  </tr>
+</table>
+
 
 [^1]: En Hollande, la dessiccation à air libre est spécialement désignée sous le nom de dessiccation (*droogen*), tandis que la dessiccation au moyen de la chaleur artificielle prend le nom de *eesten* : de même, en Allemagne, la première seule conserve le nom de *trocknen*, et la seconde prend le nom de *darren*. Si l'on voulait donner aussi en France deux noms différents aux deux modes de dessiccation, on pourrait conserver pour le premier le nom de dessiccation, et désigner la dessiccation au moyen de la chaleur artificielle sous le nom de torréfaction : le malt desséché au moyen de la chaleur artificielle (en hollandais *geëste mout* ; en allemand *darrmalz*) devrait alors être désigné sous le nom de malt torréfié.
 [^2]: *Traité de Chimie organique*, t. II, p. 565.

@@ -2231,7 +2231,7 @@ quantité de sucre contenue dans la première est beaucoup plus grande.
 Si l'on ajoute de la salive à de l'empois très épais, on peut observer à l’œil le passage de l'empois à l'état liquide :
 cette expérience nous apprend qu'il s'est formé de la dextrine et ensuite du sucre.
 
-L'action est instantanée et m'a paru plus rapide que celle qui est produite par une forte infusion do malt.
+L'action est instantanée et m'a paru plus rapide que celle qui est produite par une forte infusion de malt.
 
 Mais peut-il encore rester quelque doute qu'il n'y ait, dans cette transformation, un groupement moléculaire en
 mouvement, lorsqu'on voit le liquide mélangé contenu dans la cavité buccale perdre en peu de temps sa faculté de
@@ -2241,11 +2241,11 @@ transformer l'amidon, lorsqu'on le conserve à la température ordinaire, préci
 <table style="width: 100%;">
   <tr>
     <td style="text-align: left; width: 33%;" markdown="1">
-[Précédent : Chapitre 3](Chap. 3 - De l'eau.md)
+[Précédent : Chapitre 3<br>De l'eau](Chap. 3 - De l'eau.md)
 </td>
     <td style="text-align: center; width: 33%;"></td>
     <td style="text-align: right; width: 33%;" markdown="1">
-[Suivant : Chapitre 5](Chap. 5 - Dessication du malt.md)
+[Suivant : Chapitre 5<br>Dessiccation du malt](Chap. 5 - Dessiccation du malt.md)
 </td>
   </tr>
 </table>

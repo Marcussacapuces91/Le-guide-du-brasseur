@@ -1457,7 +1457,7 @@ sous l'eau et sous le récipient d'une pompe à air, on peut s'assurer que le gr
 outre il y a de l'air dans l'eau.
 
 En ce qui concerne la durée de temps qui doit s'écouler avant qu'il commence à se produire de la diastase, on ne peut
-pas la déterminer ; mais on n'est certainement pas éloigné de la vérité lorsqu'on admet qu'il commence à s'en former
+pas la déterminer ; mais on n'est certainement pas éloigné de la vérité lorsqu'on admet qu'il commence à s'en former
 à partir du moment où on commence à humecter le grain. Son développement ultérieur paraît marcher de front avec la
 production de la dextrine et du sucre dans la semence en germination, du moins jusqu'à un certain point : à partir de ce
 point, il y a diminution.
@@ -2242,21 +2242,7 @@ transformer l'amidon, lorsqu'on le conserve à la température ordinaire, préci
 
 [^2]: Journal de pharmacie. 3e série, t. XIV, p. 105.
 
-[^3]: J'ai donné, p. 18, les analyses que Veltman et Moesman ont faites de la cendre d'orge et de malt d'orge. Par
-l'inspection des résultats, on s'apercevra que le malt, par le lavage et le ramollissement au moyen de l'eau (c'est, en
-effet, de cette manière qu'il avait été préparé), a perdu une quantité notable de sels solubles ; à ce point de vue, les
-résultats de ces analyses présentent de l'importance. Le malt fortement desséché, est indiqué dans ces analyses, est
-visiblement d'une origine différente : il en est de même du malt desséché : on ne peut donc pas comparer les résultats
-de l'analyse de leurs cendres avec ceux de l'analyse des cendres d'orge. Mais si nous comparons les résultats de
-l'analyse des cendres de malt desséché à
-l'air avec ceux des cendres d'orge, nous trouvons qu'il existe dans le malt : Moins de potasse, de soude, de magnésie,
-d'acide sulfurique et de chlore ; Plus de chaux et de sesquioxyde de fer; La même quantité d'acide phosphorique. Une
-certaine quantité de chaux est donc passée de l'eau dans le malt et la quantité de chaux qui est en combinaison avec l'
-acide phosphorique est par suite plus considérable ; d'autre part, une certaine quantité des chlorures solubles et des
-sulfates de soude, de potasse et de magnésie qui sont contenus dans le grain en a été soustraite. L'augmentation du
-sesquioxyde de fer est la conséquence de ce qu'une portion du fer des conduits de la pompe qui amène l'eau s'est
-dissoute et a pénétré ensuite le malt. Mais, en admettant que, dans le ramollissement du grain, il y ait dissolution de
-sels solubles, la quantité en est, dans tous les cas. peu considérable.
+[^3]: J'ai donné, p. 18, les analyses que Veltman et Moesman ont faites de la cendre d'orge et de malt d'orge. Par l'inspection des résultats, on s'apercevra que le malt, par le lavage et le ramollissement au moyen de l'eau (c'est, en effet, de cette manière qu'il avait été préparé), a perdu une quantité notable de sels solubles ; à ce point de vue, les résultats de ces analyses présentent de l'importance. Le malt fortement desséché, est indiqué dans ces analyses, est visiblement d'une origine différente : il en est de même du malt desséché : on ne peut donc pas comparer les résultats de l'analyse de leurs cendres avec ceux de l'analyse des cendres d'orge. Mais si nous comparons les résultats de l'analyse des cendres de malt desséché à l'air avec ceux des cendres d'orge, nous trouvons qu'il existe dans le malt : Moins de potasse, de soude, de magnésie, d'acide sulfurique et de chlore ; Plus de chaux et de sesquioxyde de fer; La même quantité d'acide phosphorique. Une certaine quantité de chaux est donc passée de l'eau dans le malt et la quantité de chaux qui est en combinaison avec l'acide phosphorique est par suite plus considérable ; d'autre part, une certaine quantité des chlorures solubles et des sulfates de soude, de potasse et de magnésie qui sont contenus dans le grain en a été soustraite. L'augmentation du sesquioxyde de fer est la conséquence de ce qu'une portion du fer des conduits de la pompe qui amène l'eau s'est dissoute et a pénétré ensuite le malt. Mais, en admettant que, dans le ramollissement du grain, il y ait dissolution de sels solubles, la quantité en est, dans tous les cas. peu considérable.
 
 [^4]: Erdmann's Journal für praktische Chemie, t. LXIII, p. 49.
 

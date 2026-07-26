@@ -876,15 +876,16 @@ la manière suivante :
 
 <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
   <figcaption markdown='1'>
-    **Froment**
+**Froment**
   </figcaption>
-  <table style="width: 100%;">
-    <tr><td>                                                   </td><th>Grain. </th><th> Malt.   </th></tr>
-    <tr><th> Matières albumineuses                             </th><td> 13,9  </td><td> 14,5    </td></tr>
-    <tr><th> Les quatre substances non azotées                 </th><td> 81,9  </td><td> 80,9    </td></tr>
-    <tr><th> Les matières albumineuses étant représentées par  </th><td> 100   </td><td> 100     </td></tr>
-    <tr><th> Le calcul donne pour les 4 substances non azotées </th><td> 589   </td><td> 558     </td></tr>
-  </table>
+
+|                                                           | Grain. | Malt. |
+|:----------------------------------------------------------|:------:|:-----:|
+| **Matières albumineuses**                                 |  13,9  | 14,5  |
+| **Les quatre substances non azotées**                     |  81,9  | 80,9  |
+| **Les matières albumineuses étant représentées par**      |  100   |  100  |
+| **Le calcul donne pour les 4 substances non azotées**     |  589   |  558  |
+
 </figure>
 
 <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">

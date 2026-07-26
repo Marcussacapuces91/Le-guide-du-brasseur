@@ -1,7 +1,7 @@
 ---
-Title: Chapitre 4
-Description: Maltage ou préparation du malt.
-Menu: Chap.  4 
+title: Chapitre 4
+description: Maltage ou préparation du malt.
+menu: Chap.  4 
 ---
 
 Le malt est le grain germé. On nomme maltage la série d'opérations nécessaires pour faire germer le grain afin de le

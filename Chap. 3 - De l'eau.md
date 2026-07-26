@@ -1,7 +1,7 @@
 ---
-Title: Chapitre 3
-Description: "De l'eau."
-Menu: Chap.  3 
+title: Chapitre 3
+description: "De l'eau."
+menu: Chap.  3 
 ---
 
 L'eau que l'on emploie dans la préparation de la bière, tant celle qui sert pour opérer le mouillage du grain que celle

@@ -2237,7 +2237,20 @@ Mais peut-il encore rester quelque doute qu'il n'y ait, dans cette transformatio
 mouvement, lorsqu'on voit le liquide mélangé contenu dans la cavité buccale perdre en peu de temps sa faculté de
 transformer l'amidon, lorsqu'on le conserve à la température ordinaire, précisément comme l'infusion de malt ?
 
---------------------------------
+
+<table style="width: 100%;">
+  <tr>
+    <td style="text-align: left; width: 33%;" markdown="1">
+[Précédent : Chapitre 3](Chap. 3 - De l'eau.md)
+</td>
+    <td style="text-align: center; width: 33%;"></td>
+    <td style="text-align: right; width: 33%;" markdown="1">
+[Suivant : Chapitre 5](Chap. 5 - Dessication du malt.md)
+</td>
+  </tr>
+</table>
+
+
 [^1]: Comptes rendus de l'Académie des Sciences, t. XXVI. p 635.
 
 [^2]: Journal de pharmacie. 3e série, t. XIV, p. 105.

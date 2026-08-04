@@ -41,7 +41,7 @@ température du cellier n'est pas suffisamment basse. Dans des cruches ou dans d
 la bière devienne acide, parce que l'air qui est nécessaire pour transformer l'alcool en acide acétique ne peut pas y
 avoir accès.
 
-Bières plates. — Plus d'une cause peut contribuer à ce que les bières deviennent plates. Dans le cas le plus simple,
+*Bières plates.* — Plus d'une cause peut contribuer à ce que les bières deviennent plates. Dans le cas le plus simple,
 l'absence de saveur de la bière peut être seulement la conséquence de ce qu'il s'est volatilisé de l'acide carbonique.
 J'ai déjà observé à plusieurs reprises que, dans aucune bière, l'acide carbonique ne peut faire défaut ; que, quelque
 faible que cette fermentation puisse être, il doit toujours se produire dans la bière une fermentation, en sorte que,
@@ -58,7 +58,7 @@ la substance susceptible de déterminer la fermentation peut être consommée, o
 entretenir cette fermentation lente a pu être décomposé. Dans cette dernière hypothèse, la bière ne peut plus devenir
 acide : par suite du manque de sucre et d'acide carbonique, elle devient fade.
 
-Bières filantes. — Le fait que certaines bières deviennent filantes peut être attribué à ce que la dextrine qui existe
+*Bières filantes.* — Le fait que certaines bières deviennent filantes peut être attribué à ce que la dextrine qui existe
 dans la bière et le sucre qui s'y trouve encore se transforment en mucus végétal. Desfosses a reproduit artificiellement
 cette transformation en faisant bouillir la levure de bière avec de l'eau, en ajoutant à cette liqueur une grande
 quantité de sucre, et en laissant reposer le tout pendant quelque temps dans un endroit chaud. Le mucus végétal qui se

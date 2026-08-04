@@ -10,3 +10,5 @@ title: Le Guide du Brasseur
 description: L'art de faire de la bière.
 show_downloads: true
 google_analytics:
+
+theme: minima

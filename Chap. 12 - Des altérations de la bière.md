@@ -1,6 +1,7 @@
-CHAPITRE XII
-
-DES ALTÉRATIONS DE LA BIÈRE.
+---
+title: Chapitre 12
+description: Des altérations de la bière.
+---
 
 Une bière est d'autant moins exposée à s'altérer qu'elle est plus riche en alcool, plus fortement houblonnée, plus
 claire et plus complètement préservée du contact de l'air.
@@ -13,11 +14,12 @@ seulement sur la nécessité de tenir la bière à l'abri du contact de l'air.
 Une conséquence de la préservation incomplète du contact de l'air est la formation d'une certaine quantité d'acide
 acétique. Les bières passent alors à l'état de bières aigres.
 
-Bières aigres. — Lorsque l'alcool est étendu et lorsqu'il se trouve en contact avec des molécules qui sont à l'état
-d'activité chimique, il se transforme par l'action de l'oxygène de l'air en acide acétique :
-C4H6O 2 + O4 = C4H4O 4 + 2HO. La production du vinaigre par procédé rapide en est un exemple. Il existe dans la bière
-une quantité abondante de molécules en mouvement. Il s'y trouve de l'alcool : il est donc seulement besoin que l'air,
-ait accès pour qu'il puisse se produire du vinaigre.
+*Bières aigres.* — Lorsque l'alcool est étendu et lorsqu'il se trouve en contact avec des molécules qui sont à l'état
+d'activité chimique, il se transforme par l'action de l'oxygène de l'air en acide acétique :
+`C<sub>4</sub>H<sub>6</sub>O<sub>2</sub> + O<sub>4</sub> = C<sub>4</sub>H<sub>4</sub>O<sub>4</sub> + 2HO`. La production
+du vinaigre par procédé rapide en est un exemple. Il existe dans la bière une quantité abondante de molécules en
+mouvement. Il s'y trouve de l'alcool : il est donc seulement besoin que l'air, ait accès pour qu'il puisse se
+produire du vinaigre.
 
 Il se produit de l'acide acétique dans toutes les bières dès qu'elles sont exposées au contact de l'air : mais c'est
 dans les bières jeunes que cette production s'effectue le plus rapidement, et c'est dans les bières riches en alcool

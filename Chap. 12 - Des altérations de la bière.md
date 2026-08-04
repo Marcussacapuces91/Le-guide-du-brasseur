@@ -16,7 +16,7 @@ acétique. Les bières passent alors à l'état de bières aigres.
 
 *Bières aigres.* — Lorsque l'alcool est étendu et lorsqu'il se trouve en contact avec des molécules qui sont à l'état
 d'activité chimique, il se transforme par l'action de l'oxygène de l'air en acide acétique :
-`C<sub>4</sub>H<sub>6</sub>O<sub>2</sub> + O<sub>4</sub> = C<sub>4</sub>H<sub>4</sub>O<sub>4</sub> + 2HO`. La production
+C<sub>4</sub>H<sub>6</sub>O<sub>2</sub> + O<sub>4</sub> = C<sub>4</sub>H<sub>4</sub>O<sub>4</sub> + 2HO. La production
 du vinaigre par procédé rapide en est un exemple. Il existe dans la bière une quantité abondante de molécules en
 mouvement. Il s'y trouve de l'alcool : il est donc seulement besoin que l'air, ait accès pour qu'il puisse se
 produire du vinaigre.
@@ -63,8 +63,8 @@ dans la bière et le sucre qui s'y trouve encore se transforment en mucus végé
 cette transformation en faisant bouillir la levure de bière avec de l'eau, en ajoutant à cette liqueur une grande
 quantité de sucre, et en laissant reposer le tout pendant quelque temps dans un endroit chaud. Le mucus végétal qui se
 produit fait devenir bientôt la liqueur épaisse. Péligot, en traitant de la même manière le gluten, a obtenu une
-quantité de mucus végétal égale à environ 1/3 de la quantité de sucre employée 1. Je me suis déjà occupé de cette
-question dans un autre ouvrage 2.
+quantité de mucus végétal égale à environ 1/3 de la quantité de sucre employée[^1]. Je me suis déjà occupé de cette
+question dans un autre ouvrage[^2].
 
 Lorsque cette maladie se produit dans la bière, elle parait provenir de phénomènes morbides préexistant dans le malt et
 dans le moût.
@@ -76,12 +76,12 @@ n'indique pas qu'il y existe en somme une grande quantité de dextrine. Cela se 
 lambick provenant d'une brasserie d'Utrecht. Cette bière, lorsqu'on la verse, forme une colonne filiforme : elle est
 très épaisse et ne comporte pas plus de 3,5 pour 100 d'extrait. La dextrine s'est donc transformée en mucus végétal.
 
-Bières moisies. — Les bières plates moisissent rapidement : la moisissure d'une bière est, dans le plupart des cas, la
-conséquence de ce qu'elle était plate. Mais, d'autre part, la production de la moisissure dans une bière peut
+*Bières moisies.* — Les bières plates moisissent rapidement : la moisissure d'une bière est, dans la plupart des cas, la
+conséquence de ce qu'elle était plate. Mais, d'autre part, la production de la moisissure dans une bière peut provenir
+de ce qu'elle a été enfermée dans des tonneaux dont les parois étaient couvertes de moisissures, ainsi que cela peut
+arriver à des tonneaux qui ont séjourné dans des caves où l'air n'a que difficilement accès.
 
-1. Dumas, Chimie appliquée aux arts, t. VI, p. 335,
+[^1]: Dumas, *Chimie appliquée aux arts*, t. VI, p. 335,
 
-2. De Wijn, p. 101.
+[^2]: *De Wijn*, p. 101.
 
-provenir de ce qu'elle a été enfermée dans des tonneaux dont les parois étaient couvertes de moisissures, ainsi que cela
-peut arriver à des tonneaux qui ont séjourné dans des caves où l'air n'a que difficilement accès.

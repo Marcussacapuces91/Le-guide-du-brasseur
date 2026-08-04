@@ -1,6 +1,7 @@
-CHAPITRE XIII
-
-DE LA COMPOSITION DE LA BIÈRE.
+---
+title: Chapitre 13
+description: De la composition de la bière.
+---
 
 Nous devons d'abord distinguer dans la bière quatre parties constituantes dont les quantités respectives peuvent
 présenter des variations illimitées ; ces quatre substances sont l'acide carbonique, l'alcool, l'extrait qui reste comme
@@ -19,15 +20,14 @@ bois d'où l'acide carbonique peut s'échapper, contenir une quantité d'acide c
 même de la bière.
 
 Toutefois, comme la fermentation continue toujours, l'acide carbonique qui se dégage est toujours remplacé, lors même
-que la bière n'est pas renfermée dans des tonneaux
-
-dans lesquels l'air ne peut pas pénétrer ; dans les bières de garde qui séjournent dans les tonneaux, la quantité
-d'acide carbonique n'est donc pas sujette à de grandes variations. D'après les déterminations de Kaiser et d'autres
-expérimentateurs, la quantité d'acide carbonique varie en poids de 0,18 à 0,1 pour 100 : elle est donc, au maximum, de
-18 parties d'acide carbonique pour 10000 de bière ou de 2 pour 1000. Un litre d'acide carbonique pèse presque 2 grammes
-à la pression atmosphérique ordinaire. Par conséquent, une bière qui contient en poids 2/1000 d'acide carbonique, en
-serait presque saturée si elle n'était que de l'eau. Une bière qui contient 0,10 pour 100 ou 18/10000 d'acide carbonique
-en poids contient donc autant d'acide carbonique que de l'eau qui en serait saturée sans pression.
+que la bière n'est pas renfermée dans des tonneaux dans lesquels l'air ne peut pas pénétrer ; dans les bières de garde
+qui séjournent dans les tonneaux, la quantité d'acide carbonique n'est donc pas sujette à de grandes variations. D'après
+les déterminations de Kaiser et d'autres expérimentateurs, la quantité d'acide carbonique varie en poids de 0,18 à 0,1
+pour 100 : elle est donc, au maximum, de 18 parties d'acide carbonique pour 10000 de bière ou de 2 pour 1000. Un litre
+d'acide carbonique pèse presque 2 grammes à la pression atmosphérique ordinaire. Par conséquent, une bière qui contient
+en poids 2/1000 d'acide carbonique, en serait presque saturée si elle n'était que de l'eau. Une bière qui contient 0,10
+pour 100 ou 18/10000 d'acide carbonique en poids contient donc autant d'acide carbonique que de l'eau qui en serait
+saturée sans pression.
 
 Ces résultats nous suffisent pour nous rendre compte de la quantité d'acide carbonique qui est contenue dans une bonne
 bière de garde qui n'est pas mousseuse. Elle est toujours moindre que le volume total de la bière dans laquelle cet
@@ -44,15 +44,13 @@ lorsqu'on la verse, une quantité considérable d'acide carbonique se perde dans
 considérable dans la liqueur lorsque cette dernière ne reste exposée que très peu de temps au contact de l'air.
 
 Une indication plus exacte de la quantité d'acide carbonique qui est condensée dans les bières mousseuses, est du reste
-à peine nécessaire : en effet la bière la plus mousseuse centient, lorsqu'on la livre à la consommation, une quantité
+à peine nécessaire : en effet la bière la plus mousseuse contient, lorsqu'on la livre à la consommation, une quantité
 très variable d'acide carbonique : la plus grande partie de cet acide s'est perdue dans l'air pendant qu'on versait la
-bière. Lorsque la bière a cessé de mousser, elle doit con-
+bière. Lorsque la bière a cessé de mousser, elle doit contenir au maximum un volume d'acide carbonique à peu près égal
+au sien, ce qui représente en poids à peu près 2 grammes pour 1 litre de bière[^1].
 
-tenir au maximum un volume d'acide carbonique à peu près égal au sien, ce qui représente en poids à peu près 2 grammes
-pour 1 litre de bière 1.
-
-Alcool. — La quantité d'alcool contenue dans la bière varie aussi notablement, entre les limites de 2 à 8 pour cent, en
-sorte que les bières les plus fortes, relativement à la quantité d'alcool, marchent de pair avec les vins les plus
+*Alcool.* — La quantité d'alcool contenue dans la bière varie aussi notablement, entre les limites de 2 à 8 pour cent,
+en sorte que les bières les plus fortes, relativement à la quantité d'alcool, marchent de pair avec les vins les plus
 faibles.
 
 La quantité d'alcool contenue dans la bière ne dépend pas seulement de la quantité de grains qui a été employée à la
@@ -65,35 +63,20 @@ quantité de substance susceptible de se transformer en levure, qui préexistait
 les bières d'une saveur douce ne sont pas très alcooliques et que les bières riches en alcool ne sont pas douces, de
 même que cela se présente pour le vin.
 
-Extrait. — Moins on a employé de grains pour la préparation d'une bière, moins cette bière contient de substances
+*Extrait.* — Moins on a employé de grains pour la préparation d'une bière, moins cette bière contient de substances
 solides. C'est ce qui se présente lorsque l'amidon du malt a été transformé aussi complètement que possible en sucre
 pendant l'empâtage et lorsque, dans la fermentation, le sucre a été transformé aussi complètement que possible en alcool
 et en acide carbonique.
 
-Des bières très fortes, c'est-à-dire très acooliques, peuvent
-
-1. Pour empêcher l'acide carbonique de s'échapper des tonneaux qui sont partiellement remplis d'air, Wecker (Polyt.
-   centr. Blatt., 1857 p. 895) a recommandé de comprimer de l'air dans les tonneaux : cet air exerce alors une pression
-   sur la bière et par conséquent aussi sur l'acide carbonique qu'elle contient, en sorte que cet acide ne peut pas s
-   échapper.
-
-Ce procédé peut présenter des difficultés dans la pratique : mais il parait devoir bien répondre au but proposé.
-
-Wecker voudrait que l'on soumit à la même pression la bière contenue dans les grands tonneaux où l'on conserve la bière
-en cave, dans les véritables pays à bière, et dont on la soutire directement pour la livrer a la consommation, afin de
-se préserver ainsi de la petite perte d'acide carbonique qui est inévitable lorsqu'on faitusage d'une pompe aspirante.
-
-Il resterait cependant à savoir si l'air ainsi condensé dans les tonneaux n'expose pas la bière à devenir acide.
-
-donc donner seulement une petite quantité de matières solides par l'évaporation. Mais ce résidu contient alors une
-quantité considérable de substances salines et, sous ce rapport, la bière est encore un aliment d'un pouvoir nutritif
-important.
+Des bières très fortes, c'est-à-dire très alcooliques, peuvent donc donner seulement une petite quantité de matières
+solides par l'évaporation. Mais ce résidu contient alors une quantité considérable de substances salines et, sous ce
+rapport, la bière est encore un aliment d'un pouvoir nutritif important.
 
 La quantité de substances solides qui reste comme résidu après l'évaporation de la bière, présente des variations très
-notables; ordinairement, elle est de 3 à 6 pour 100, mais il y a des bières qui en contiennent beaucoup plus. C'est ce
-résidu qui contient surtout les parties constituantes nutritives de la bière.
+notables ; ordinairement, elle est de 3 à 6 pour 100, mais il y a des bières qui en contiennent beaucoup plus. C'est
+ce résidu qui contient surtout les parties constituantes nutritives de la bière.
 
-On détermine cette quantité d'extrait en évaporant la bière au bain-marie et en desséchant le résidu à 130°. Il prend
+On détermine cette quantité d'extrait en évaporant la bière au bain-marie et en desséchant le résidu à 130°C. Il prend
 une couleur toujours de plus en plus foncée et se modifie par suite de plus en plus.
 
 D'après les expériences de Dufft que nous indiquerons plus loin, la méthode de Balling, dans laquelle on déduit la
@@ -106,985 +89,179 @@ C'est ici l'endroit le plus convenable pour indiquer les différents résultats 
 des quantités d'alcool et d'extrait contenues dans les différentes bières. De leurs quantités respectives et de la
 quantité d'alcool dépendent surtout les propriétés de la bière. Mais on ne doit pas croire que ces déterminations
 fassent connaître tout ce que l'on peut désirer relativement à la bière. On peut désirer que la bière soit claire ou
-trouble ; qu'elle soit d'une saveur acidule ou d'une saveur douce; qu'elle présente une saveur amère ou qu'elle ne soit
-pas amère ; qu'elle soit brune, brun-clair ou blanche ; qu'elle soit mousseuse ou non mousseuse et qu'elle présente
-encore d'autres propriétés différentes; on peut désirer surtout qu'elle soit plus ou moins houblonnée.
+trouble ; qu'elle soit d'une saveur acidule ou d'une saveur douce ; qu'elle présente une saveur amère ou qu'elle ne
+soit pas amère ; qu'elle soit brune, brun-clair ou blanche ; qu'elle soit mousseuse ou non mousseuse et qu'elle présente
+encore d'autres propriétés différentes ; on peut désirer surtout qu'elle soit plus ou moins houblonnée.
 
 Comme nous devons nous occuper plus loin de l'étude des parties constituantes de la bière, il ne paraîtra pas superflu
 de donner ici une indication des résultats que l'on a trouvés pour la quantité d'alcool et la quantité d'extrait.
-J'indiquerai
-
-en même temps les autres parties constituantes lorsque ces indications auront été données.
+J'indiquerai en même temps les autres parties constituantes lorsque ces indications auront été données.
 
 Il est difficile de faire un choix parmi les déterminations des parties constituantes de la bière, qui ont été faites.
 Je ne les ai cependant pas citées toutes, mais j'en ai cité un grand nombre, et de préférence celles des bières, de
 provenance bien connue, qui ont été faites par des méthodes éprouvées, mais seulement lorsque les auteurs de ces
 analyses ont indiqué les méthodes par lesquelles ils ont opéré. Cependant j'ai des doutes sur quelques déterminations,
-mais relata refero. Toutes ces analyses répondent complètement à ce que l'on peut en exiger, et notamment elles donnent
+mais relata refero. Toutes ces analyses répondent complètement à ce que l'on peut en exiger, et notamment, elles donnent
 bien une idée générale de la composition de la bière et des sortes de bières les plus renommées.
 
-KAISER 1 (BIÈRE DE BAVIÈRE, EN 100 PARTIES).
-
-o
-
-BIÈRE JEUNE D'HIVER.
-
-De la brasserie des Augustinsde Munich.
-
-1849
-
-1,018
-
-3,9
-
-5,9
-
-1,4
-
-De la brasserie Leist de Munich
-
-1853
-
-1,019
-
-3,3
-
-6,0
-
-1,6
-
-D'Augsbourg
-
-1854
-
-1,013
-
-4,0
-
-4,5
-
-1,8
-
-De Bayreuth
-
-1854
-
-1,016
-
-2,3
-
-5,4
-
-1,8
-
-De Landshut
-
-1854
-
-1,018
-
-3,4
-
-5,7
-
-1,8
-
-D'Anspach
-
-1854
-
-1,015
-
-3,2
-
-5,2
-
-1,8
-
-BIÈRE DE GARDE D'ÉTÉ.
-
-De la brasserie de la Cour à Munich
-
-1846
-
-1,011
-
-4,4
-
-3,9
-
-1,6
-
-De la brasserie de Deigel-Maier
-
-1853
-
-1,022
-
-3,7
-
-6,6
-
-1,3
-
-De la brasserie de la Cour
-
-1852
-
-1,018
-
-4,3
-
-5,1
-
-1,8
-
-Du cloître des Franciscains (agée de 10 mois)
-
-1853
-
-1,012
-
-5,2
-
-5,0
-
-1,5
-
-BIÈRES FORTES.
-
-Double bière de la brasserie de Zacherl.
-
-1853
-
-1,026
-
-5,2
-
-7,8
-
-1,8
-
-Salvator-bier de la même brasserie
-
-1853
-
-1,034
-
-4,6
-
-9,5
-
-1,3
-
-Bock-bier de la brasserie de Mader…
-
-1852
-
-1,027
-
-4,2
-
-9,2
-
-1,7
-
-Ale de la brasserie de Sedelmaier
-
-1850
-
-1,022
-
-7,8
-
-8,4
-
-1,8
-
-1. Gerding, dans Musprat-Stohmann, loc. cit., p. 691.
-
-D
-
-L o o o L
-
-si
-
-AUTRES BIÈRES.
-
-De Wanka, à Prague (ferment, par dépôt).
-
-1848
-
-1,013
-
-4,8
-
-4,7
-
-1,8
-
-De Pstross, à Prague (ferment, supernc.).
-
-1844
-
-1,017
-
-4,5
-
-5,1
-
-1,5
-
-Porter de Barclay-Perkins. Londres
-
-1852
-
-1,017
-
-5,4
-
-6,0
-
-1,6
-
-Scotych-ale de W. Younger, Edimbourg, âgée de deux ans
-
-1851
-
-1,030
-
-8,5
-
-10,9
-
-1,5
-
-Lambick de Bruxelles
-
-1841
-
-1,004
-
-5,5
-
-3,4
-
-2,0
-
-Faro de Bruxelles
-
-1841
-
-1,004
-
-4,9
-
-3,0
-
-2,0
-
-Bière d'orge de Bruxelles
-
-1841
-
-1,006
-
-5,0
-
-3,8
-
-1,9
-
-Mumme de Brunswick
-
-1854
-
-1,231
-
-3,6
-
-47,6
-
-1,2
-
-KAISER 1 (BIÈRE DE BAVIÈRE).
-
-Bière de Brey, à Munich
-
-3,0
-
-5,8
-
-Bière du comte Buttlar
-
-2,7
-
-5,9
-
-Bière de trois ans
-
-3,7
-
-3,9
-
-Bière d'un an
-
-3,5
-
-3,6
-
-Double bière des Augustins
-
-3,6
-
-8,0
-
-Salvator-Bier de Zacherl
-
-4,2
-
-8,1
-
-Bock de la brasserie de la Cour
-
-4,0
-
-7,2
-
-Bière à l'instar de l'ale
-
-KAISER 2 (BIÈRE BELGE).
-
-6,0
-
-7,0
-
-Lambick de Bruxelles
-
-4,7
-
-3,4
-
-Faro de Bruxelles
-
-4,1
-
-3,0
-
-Bière d'orge de Bruxelles
-
-4,2
-
-3,8
-
-...
-
-KAISER (BIÈRE DE BRUNSWICK).
-
-Mumme de Brunswick
-
-1,8
-
-39,0
-
-Bière de garde, brassée par la méthode bavaroise, Otto
-
-3,5
-
-5,4
-
-Bière douce de Brunswick, Otto
-
-1,3
-
-14,0
-
-Bière de Brunswick, brassée par la méthode munichoise, Balhorn
-
-5,0
-
-6,5
-
-...
-
-Léo 3 a analysé deux espèces de bières de Munich, désignées sous les noms de Heilige Vater-Bier et de Bockbier. Toutes
-les deux sont des bières d'une bonne qualité, des bières doubles. La première est mise en vente le 2 avril de chaque
-année dans la brasserie de Zacherl. Le Bockbier,
-
-1. Kunst und Gewerbe-Blatt des Polyt. Vereins in Berlin, 1842 : extrait du Pharm. Centr. Blatt.
-
-2. Loc. cit. ,1842
-
-3. Erdmann's Journal für praktische Chernie, t. XVII, p. 107.
-
-qui est préparé seulement dans la brasserie Royale, est livré à la consommation en mai.
-
-Pesant spécif.
-
-Alcool.
-
-Extrait.
-
-Acide carb.
-
-Bière désignée sous le nom de Heilige Vater-Bier...
-
-1,03
-
-4,9
-
-13,0
-
-0,08
-
-Bockbier
-
-1,02
-
-3,9
-
-8,5
-
-0,08
-
-Le liquide que l'on avait obtenu en soumettant à la distillation la première sorte de bière, n'était pas du tout acide :
-pour la seconde, on n'a pas donné d'indication analogue. Heydloff 1 a obtenu les résultats suivants :
-
-Alcool.
-
-Extrait.
-
-Bière de Nuremberg
-
-3,8
-
-6,2
-
-— d'Erlangen
-
-3,8
-
-6,0
-
-— de Bamberg
-
-4,1
-
-5,8
-
-— d'Erfurth, de Treitsckhe
-
-3,7
-
-5,5
-
-— — de Schlegel
-
-4,1
-
-6,5
-
-— — de John
-
-3,7
-
-6,0
-
-— — de Büchner
-
-4,2
-
-6,5
-
-Porter anglais
-
-5,1
-
-9,2
-
-Nous devons a Bley 2 les analyses suivantes :
-
-Pesanteur spécif.
-
-Acide acétique.
-
-Acide carb.
-
-xtrait. Alcool.
-
-Bière brune. Bernburg
-
-1,028
-
-0,0068
-
-0,150
-
-7,75 3,06
-
-Gose (bière blanche)
-
-1,020
-
-0,0050
-
-0,110
-
-4,30 5,00
-
-Broyhan de Piessen (bière blanch)
-
-1,015
-
-0,0055
-
-0,076
-
-4,40 4,00
-
-Vérit. bière de garde de Bavière
-
-1,005
-
-0,0011
-
-0,140
-
-6,40 8,30
-
-Bière de Bavière de Ballendstädt
-
-1,0055
-
-0,0052
-
-0,119
-
-5,50 9,50
-
-Dufft 3 a trouvé, dans la bière de Rudolstadt, sur 100 parties :
-
-Alcool
-
-4,84
-
-Gluten, albumine végétale
-
-0,06
-
-Extrait précipitable par un sel de plomb
-
-2,96
-
-Gomme et mucus végétal avec phosphates.
-
-3,00
-
-Sucre et acides végétaux
-
-1,36
-
-Eau
-
-87,88
-
-Dans 11 sortes de bière dont 1 à 6 étaient des bières de garde et 7 à 11 des bières préparées par fermentation su-
-
-1. Polyt. Central Blatt, 1853, p. 699.
-
-2. Archiv. der Pharm., t. XCVI, p. 146.
-
-3. Archiv. der Pharm., 2e série, t. XXXVIII, p. 280.
-
-perficielle et qui avaient été brassées à Rudolstadt, il a trouvé :
-
-pesanteur spécif. à 17°,5.
-
-Alcool en poids.
-
-Extrait.
-
-esant. spécif. de la bière dont on a préalablem. séparé l'alcool, prise à 15°, 6
-
-1...
-
-1,012
-
-4,8
-
-5,0
-
-1,020
-
-2
-
-1,012
-
-3,4
-
-4,3
-
-1,017
-
-3...
-
-1,013
-
-4,0
-
-5,0
-
-1,020
-
-4,
-
-1,012
-
-3,9
-
-5,5
-
-1,022
-
-5. ,
-
-1,005
-
-3,9
-
-3,8
-
-1,025
-
-6.
-
-1,008
-
-3,9
-
-4,0
-
-1,010
-
-7
-
-1,015
-
-2,4
-
-4,3
-
-1,017
-
-8.
-
-1,013
-
-2,6
-
-4,0
-
-1,016
-
-9. ,
-
-1,012
-
-2,4
-
-4,5
-
-1,018
-
-10...
-
-1,019
-
-2,0
-
-6,0
-
-1,024
-
-11
-
-1,007
-
-2,1
-
-3,5
-
-1,013
-
-Lacambre 1 a donné les indications suivantes qui sont les résultats d'analyses dont le plus grand nombre ont été faites
-par lui. Les premiers nombres expriment les résultats obtenus pour la bière jeune, tandis que les seconds expriment les
-résultats obtenus pour la bière de garde.
-
-Alcool.
-
-Extrait.
-
-Ale de Londres
-
-7
-
-8
-
-6,5
-
-5
-
-Ale de Hambourg
-
-5,5
-
-6
-
-6
-
-5
-
-Ale ordinaire de Londres
-
-4
-
-5
-
-5
-
-4
-
-Porter
-
-5
-
-6
-
-7
-
-6
-
-Porter ordinaire de Londres
-
-3
-
-4
-
-5
-
-4
-
-Salvator de Munich
-
-5
-
-6
-
-12
-
-10
-
-Bock de Munich
-
-3,5
-
-4
-
-9
-
-7
-
-Bière ordinaire de Bavière
-
-3
-
-4
-
-6,5
-
-4,5
-
-Lambick de Bruxelles
-
-4,5
-
-6
-
-5,5
-
-3,5
-
-Faro de Bruxelles
-
-2,5
-
-4
-
-5
-
-3
-
-Guide beer de Diest
-
-3,5
-
-6
-
-8
-
-5,5
-
-Peeterman de Louvain
-
-3,5
-
-5
-
-8
-
-5,5
-
-Bière blanche de Louvain 1re
-
-2,25
-
-3,25
-
-5
-
-3,5
-
-Double uytzet de Gand
-
-3,25
-
-4,5
-
-5
-
-4
-
-Uytzet simple de Gand
-
-2,75
-
-3,5
-
-4
-
-3
-
-Bière d'orge d'Anvers
-
-3
-
-3,5
-
-4,5
-
-3
-
-Bière forte de Strasbourg
-
-4
-
-4,5
-
-4
-
-3,5
-
-Bière forte de Lille
-
-4
-
-5
-
-4
-
-3
-
-Bière blanche de Paris
-
-3,5
-
-4
-
-8
-
-5
-
-WACKENRODER 2.
-
-Alcool.
-
-Extr.
-
-Album.
-
-cend.
-
-Bière de Lichtenhain
-
-3,2
-
-4,5
-
-0,05
-
-0,2
-
-Bière d'Ilmenau
-
-3,1
-
-7,1
-
-0,08
-
-0,2
-
-1. Loc. Cit., p. 258. 2 Erdmann's Journal, 1834.
-
-Bière d'Iéna (soi-disant d'Erlangen)
-
-3,0
-
-6,1
-
-0,05
-
-0,2
-
-Bière de Weimar (soi-disant de Bamberg)
-
-2,8
-
-6,3
-
-0,03
-
-0,2
-
-Bière de Oberweimar
-
-2,6
-
-7,3
-
-0,02
-
-0,3
-
-Double bière d'Iéna
-
-2,1
-
-7,2
-
-0,03
-
-0,2
+<figure markdown='1'>
+  <figcaption markdown='1'>
+**KAISER[^2] (BIÈRE DE BAVIÈRE, EN 100 PARTIES).**
+</figcaption>
+
+|                                                                | Dates | Pesanteur<br>spécifique | Alcool | Extrait | Acide carbo.<br>p. 1000 part. |
+|:---------------------------------------------------------------|:-----:|:-----------------------:|:------:|:-------:|:-----------------------------:|
+| **Bières jeunes d'hiver.**                                     |       |                         |        |         |                               |
+| De la brasserie des Augustins de Munich                        | 1849  |          1,018          |  3,9   |   5,9   |              1,4              |
+| De la brasserie Leist de Munich                                | 1853  |          1,019          |  3,3   |   6,0   |              1,6              |
+| D'Augsbourg                                                    | 1854  |          1,013          |  4,0   |   4,5   |              1,8              |
+| De Bayreuth                                                    | 1854  |          1,016          |  2,3   |   5,4   |              1,8              |
+| De Landshut                                                    | 1854  |          1,018          |  3,4   |   5,7   |              1,8              |
+| D'Anspach                                                      | 1854  |          1,015          |  3,2   |   5,2   |              1,8              |
+| **Bières garde d'été.**                                        |       |                         |        |         |                               |
+| De la brasserie de la Cour à Munich                            | 1846  |          1,011          |  4,4   |   3,9   |              1,6              |
+| De la brasserie de Deigel-Maier                                | 1853  |          1,022          |  3,7   |   6,6   |              1,3              |
+| De la brasserie de la Cour                                     | 1852  |          1,018          |  4,3   |   5,1   |              1,8              |
+| Du cloître des Franciscains (agée de 10 mois)                  | 1853  |          1,012          |  5,2   |   5,0   |              1,5              |
+| **Bières fortes.**                                             |       |                         |        |         |                               |
+| Double bière de la brasserie de Zacherl                        | 1853  |          1,026          |  5,2   |   7,8   |              1,8              |
+| Salvator-bier de la même brasserie                             | 1853  |          1,034          |  4,6   |   9,5   |              1,3              |
+| Bock-bier de la brasserie de Mader                             | 1852  |          1,027          |  4,2   |   9,2   |              1,7              |
+| Ale de la brasserie de Sedelmaier                              | 1850  |          1,022          |  7,8   |   8,4   |              1,8              |
+| **Autres Bières.**                                             |       |                         |        |         |                               |
+| De Wanka, à Prague (ferment, par dépôt).                       | 1848  |          1,013          |  4,8   |   4,7   |              1,8              |
+| De Pstross, à Prague (ferment, supernc.)                       | 1844  |          1,017          |  4,5   |   5,1   |              1,5              |
+| Porter de Barclay-Perkins. Londres                             | 1852  |          1,017          |  5,4   |   6,0   |              1,6              |
+| Scotych-ale de W. Younger, Edimbourg, âgée de deux ans         | 1851  |          1,030          |  8,5   |  10,9   |              1,5              |
+| Lambick de Bruxelles                                           | 1841  |          1,004          |  5,5   |   3,4   |              2,0              | 
+| Faro de Bruxelles                                              | 1841  |          1,004          |  4,9   |   3,0   |              2,0              |
+| Bière d'orge de Bruxelles                                      | 1841  |          1,006          |  5,0   |   3,8   |              1,9              |
+| Mumme de Brunswick                                             | 1854  |          1,231          |  3,6   |  47,6   |              1,2              |
+| **Kaiser[^3] (Bière de Bavière)**                              |       |                         |        |         |                               |
+| Bière de Brey, à Munich                                        |       |                         |  3,0   |   5,8   |                               |
+| Bière du comte Buttlar                                         |       |                         |  2,7   |   5,9   |                               |
+| Bière de trois ans                                             |       |                         |  3,7   |   3,9   |                               | 
+| Bière d'un an                                                  |       |                         |  3,5   |   3,6   |                               |
+| Double bière des Augustins                                     |       |                         |  3,6   |   8,0   |                               |
+| Salvator-Bier de Zacherl                                       |       |                         |  4,2   |   8,1   |                               |
+| Bock de la brasserie de la Cour                                |       |                         |  4,0   |   7,2   |                               |
+| Bière à l'instar de l'ale                                      |       |                         |  6,0   |   7,0   |                               |
+| **Kaiser[^4] (Bière Belge).**                                  |       |                         |        |         |                               |
+| Lambick de Bruxelles                                           |       |                         |  4,7   |   3,4   |                               |
+| Faro de Bruxelles                                              |       |                         |  4,1   |   3,0   |                               |
+| Bière d'orge de Bruxelles                                      |       |                         |  4,2   |   3,8   |                               |
+| **Kaiser (Bière de Brunswick).**                               |       |                         |        |         |                               |
+| Mumme de Brunswick                                             |       |                         |  1,8   |  39,0   |                               |
+| Bière de garde, brassée par la méthode bavaroise, Otto         |       |                         |  3,5   |   5,4   |                               |
+| Bière douce de Brunswick, Otto                                 |       |                         |  1,3   |  14,0   |                               |
+| Bière de Brunswick, brassée par la méthode munichoise, Balhorn |       |                         |  5,0   |   6,5   |                               |
+
+</figure>
+
+Léo[^5] a analysé deux espèces de bières de Munich, désignées sous les noms de *Heilige Vater-Bier* et de *Bockbier*.
+Toutes les deux sont des bières d'une bonne qualité, des bières doubles. La première est mise en vente le 2 avril de
+chaque année dans la brasserie de Zacherl. Le *Bockbier*, qui est préparé seulement dans la brasserie Royale, est livré
+à la consommation en mai.
+
+|                                                  | Pesant spécif. | Alcool. | Extrait. | Acide carb. |
+|--------------------------------------------------|:--------------:|:-------:|:--------:|:-----------:|
+| Bière désignée sous le nom de Heilige Vater-Bier |      1,03      |   4,9   |   13,0   |    0,08     |
+| Bockbier                                         |      1,02      |   3,9   |   8,5    |    0,08     |
+
+Le liquide que l'on avait obtenu en soumettant à la distillation la première sorte de bière, n'était pas du tout
+acide : pour la seconde, on n'a pas donné d'indication analogue. Heydloff[^6] a obtenu les résultats suivants :
+
+|                            | Alcool. | Extrait. |
+|----------------------------|:-------:|:--------:|
+| Bière de Nuremberg         |   3,8   |   6,2    |
+| — d'Erlangen               |   3,8   |   6,0    |
+| — de Bamberg               |   4,1   |   5,8    |
+| — d'Erfurth, de Treitsckhe |   3,7   |   5,5    |
+| — — de Schlegel            |   4,1   |   6,5    |
+| — — de John                |   3,7   |   6,0    |
+| — — de Büchner             |   4,2   |   6,5    |
+| Porter anglais             |   5,1   |   9,2    |
+
+Nous devons a Bley[^7] les analyses suivantes :
+
+|                                   | Pesanteur<br>spécif. | Acide<br>acétique. | Acide<br>>carb. | Extrait. | Alcool. |
+|-----------------------------------|:--------------------:|:------------------:|:---------------:|:--------:|:-------:|
+| Bière brune. Bernburg             |        1,028         |       0,0068       |      0,150      |   7,75   |  3,06   |
+| Gose (bière blanche)              |        1,020         |       0,0050       |      0,110      |   4,30   |  5,00   |
+| Broyhan de Piessen (bière blanch) |        1,015         |       0,0055       |      0,076      |   4,40   |  4,00   |
+| Vérit. bière de garde de Bavière  |        1,005         |       0,0011       |      0,140      |   6,40   |  8,30   |
+| Bière de Bavière de Ballendstädt  |        1,0055        |       0,0052       |      0,119      |   5,50   |  9,50   |
+
+Dufft[^8] a trouvé, dans la bière de Rudolstadt, sur 100 parties :
+
+<table>
+   <tr><td>Alcool                                  </td><td> 4,84</td></tr>
+   <tr><td>Gluten, albumine végétale               </td><td> 0,06</td></tr>
+   <tr><td>Extrait précipitable par un sel de plomb</td><td> 2,96</td></tr>
+   <tr><td>Gomme et mucus végétal avec phosphates  </td><td> 3,00</td></tr>
+   <tr><td>Sucre et acides végétaux                </td><td> 1,36</td></tr>
+   <tr><td>Eau                                     </td><td>87,88</td></tr>
+</table>
+
+Dans 11 sortes de bière dont 1 à 6 étaient des bières de garde et 7 à 11 des bières préparées par fermentation
+superficielle et qui avaient été brassées à Rudolstadt, il a trouvé :
+
+|     | Pesanteur spécif.<br>à 17,5°. | Alcool en<br>poids. | Extrait. | Pesant. spécif. de la bière dont on<br>a préalablem. séparé l'alcool,<br>prise à 15,6° |
+|:---:|:-----------------------------:|:-------------------:|:--------:|:--------------------------------------------------------------------------------------:|
+|  1  |             1,012             |         4,8         |   5,0    |                                         1,020                                          |
+|  2  |             1,012             |         3,4         |   4,3    |                                         1,017                                          |
+|  3  |             1,013             |         4,0         |   5,0    |                                         1,020                                          |
+|  4  |             1,012             |         3,9         |   5,5    |                                         1,022                                          |
+|  5  |             1,005             |         3,9         |   3,8    |                                         1,025                                          |
+|  6  |             1,008             |         3,9         |   4,0    |                                         1,010                                          |
+|  7  |             1,015             |         2,4         |   4,3    |                                         1,017                                          |
+|  8  |             1,013             |         2,6         |   4,0    |                                         1,016                                          |
+|  9  |             1,012             |         2,4         |   4,5    |                                         1,018                                          |
+| 10  |             1,019             |         2,0         |   6,0    |                                         1,024                                          |
+| 11  |             1,007             |         2,1         |   3,5    |                                         1,013                                          |
+
+Lacambre[^9] a donné les indications suivantes qui sont les résultats d'analyses dont le plus grand nombre ont été
+faites par lui. Les premiers nombres expriment les résultats obtenus pour la bière jeune, tandis que les seconds
+expriment les résultats obtenus pour la bière de garde.
+
+<figure>
+   <table>
+      <tr><td>                                         </td><th colspan="2">Alcool.</th><th colspan="2">Extrait.</th></tr>
+      <tr><td> Ale de Londres                          </td><td> 7    </td><td> 8    </td><td>  6,5 </td><td>  5   </td></tr>
+      <tr><td> Ale de Hambourg                         </td><td> 5,5  </td><td> 6    </td><td>  6   </td><td>  5   </td></tr>
+      <tr><td> Ale ordinaire de Londres                </td><td> 4    </td><td> 5    </td><td>  5   </td><td>  4   </td></tr>
+      <tr><td> Porter                                  </td><td> 5    </td><td> 6    </td><td>  7   </td><td>  6   </td></tr>
+      <tr><td> Porter ordinaire de Londres             </td><td> 3    </td><td> 4    </td><td>  5   </td><td>  4   </td></tr>
+      <tr><td> Salvator de Munich                      </td><td> 5    </td><td> 6    </td><td> 12   </td><td> 10   </td></tr>
+      <tr><td> Bock de Munich                          </td><td> 3,5  </td><td> 4    </td><td>  9   </td><td>  7   </td></tr>
+      <tr><td> Bière ordinaire de Bavière              </td><td> 3    </td><td> 4    </td><td>  6,5 </td><td>  4,5 </td></tr>
+      <tr><td> Lambick de Bruxelles                    </td><td> 4,5  </td><td> 6    </td><td>  5,5 </td><td>  3,5 </td></tr>
+      <tr><td> Faro de Bruxelles                       </td><td> 2,5  </td><td> 4    </td><td>  5   </td><td>  3   </td></tr>
+      <tr><td> Guide beer de Diest                     </td><td> 3,5  </td><td> 6    </td><td>  8   </td><td>  5,5 </td></tr>
+      <tr><td> Peeterman de Louvain                    </td><td> 3,5  </td><td> 5    </td><td>  8   </td><td>  5,5 </td></tr>
+      <tr><td> Bière blanche de Louvain 1<sup>re</sup> </td><td> 2,25 </td><td> 3,25 </td><td>  5   </td><td>  3,5 </td></tr>
+      <tr><td> Double uytzet de Gand                   </td><td> 3,25 </td><td> 4,5  </td><td>  5   </td><td>  4   </td></tr>
+      <tr><td> Uytzet simple de Gand                   </td><td> 2,75 </td><td> 3,5  </td><td>  4   </td><td>  3   </td></tr>
+      <tr><td> Bière d'orge d'Anvers                   </td><td> 3    </td><td> 3,5  </td><td>  4,5 </td><td>  3   </td></tr>
+      <tr><td> Bière forte de Strasbourg               </td><td> 4    </td><td> 4,5  </td><td>  4   </td><td>  3,5 </td></tr>
+      <tr><td> Bière forte de Lille                    </td><td> 4    </td><td> 5    </td><td>  4   </td><td>  3   </td></tr>
+      <tr><td> Bière blanche de Paris                  </td><td> 3,5  </td><td> 4    </td><td>  8   </td><td>  5   </td></tr>
+   </table>
+</figure>
+
+<figure markdown="1">
+   <figcaption markdown="1">Wackenroder[^10].</figcaption>
+
+|                                         | Alcool. | Extr. | Album. | Cend. |
+|-----------------------------------------|:-------:|:-----:|:------:|:-----:|
+| Bière de Lichtenhain                    |   3,2   |  4,5  |  0,05  |  0,2  |
+| Bière d'Ilmenau                         |   3,1   |  7,1  |  0,08  |  0,2  |
+| Bière d'Iéna (soi-disant d'Erlangen)    |   3,0   |  6,1  |  0,05  |  0,2  |
+| Bière de Weimar (soi-disant de Bamberg) |   2,8   |  6,3  |  0,03  |  0,2  |
+| Bière de Oberweimar                     |   2,6   |  7,3  |  0,02  |  0,3  |
+| Double bière d'Iéna                     |   2,1   |  7,2  |  0,03  |  0,2  |
+
+</figure>
 
 BIÈRE DE HESSE 1.
 
@@ -2431,3 +1608,26 @@ déterminantes de son pouvoir nutritif. 2 litres de
 bonne bière d'été de Bavière contiennent 1,6 gr. d'acide phosphorique, ce qui représente une quantité d'acide
 phosphorique égale à celle contenue dans 530 grammes de viande fraîche de boeuf et dans 220 grammes de pain (contenant
 45 pour 100 d'eau).
+
+[^1]: Pour empêcher l'acide carbonique de s'échapper des tonneaux qui sont partiellement remplis d'air, Wecker (*Polyt. centr. Blatt.*, 1857 p. 895) a recommandé de comprimer de l'air dans les tonneaux : cet air exerce alors une pression sur la bière et par conséquent aussi sur l'acide carbonique qu'elle contient, en sorte que cet acide ne peut pas s'échapper.
+   Ce procédé peut présenter des difficultés dans la pratique : mais il parait devoir bien répondre au but proposé.
+   Wecker voudrait que l'on soumit à la même pression la bière contenue dans les grands tonneaux où l'on conserve la bière en cave, dans les véritables pays à bière, et dont on la soutire directement pour la livrer a la consommation, afin de se préserver ainsi de la petite perte d'acide carbonique qui est inévitable lorsqu'on fait usage d'une pompe aspirante.
+   Il resterait cependant à savoir si l'air ainsi condensé dans les tonneaux n'expose pas la bière à devenir acide.
+
+[^2]: Gerding, dans Musprat-Stohmann, *loc. cit.*, p. 691.
+
+[^3]: *Kunst und Gewerbe-Blatt des Polyt. Vereins in Berlin*, 1842 : extrait du *Pharm. Centr. Blatt.*
+
+[^4] *Loc. cit.* ,1842
+
+[^5]: Erdmann's *Journal für praktische Chernie*, t. XVII, p. 107.
+
+[^6]: *Polyt. Central Blatt*, 1853, p. 699.
+
+[^7]: *Archiv. der Pharm.*, t. XCVI, p. 146.
+
+[^8]: *Archiv. der Pharm.*, 2e série, t. XXXVIII, p. 280.
+
+[^9]: *Loc. Cit.*, p. 258.
+
+[^10]: Erdmann's *Journal*, 1834.

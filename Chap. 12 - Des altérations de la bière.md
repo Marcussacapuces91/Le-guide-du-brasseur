@@ -81,6 +81,20 @@ conséquence de ce qu'elle était plate. Mais, d'autre part, la production de la
 de ce qu'elle a été enfermée dans des tonneaux dont les parois étaient couvertes de moisissures, ainsi que cela peut
 arriver à des tonneaux qui ont séjourné dans des caves où l'air n'a que difficilement accès.
 
+
+<table style="width: 100%;">
+  <tr>
+    <td style="text-align: left; width: 33%;" markdown="1">
+[Précédent : Chapitre 11<br>De la fermentation tertiaire](Chap. 11 - De la fermentation tertiaire.md)
+</td>
+    <td style="text-align: center; width: 33%;"></td>
+    <td style="text-align: right; width: 33%;" markdown="1">
+[Suivant : Chapitre 13<br>De la composition de la bière](Chap. 13 - De la composition de la bière.md)
+</td>
+  </tr>
+</table>
+
+
 [^1]: Dumas, *Chimie appliquée aux arts*, t. VI, p. 335,
 
 [^2]: *De Wijn*, p. 101.

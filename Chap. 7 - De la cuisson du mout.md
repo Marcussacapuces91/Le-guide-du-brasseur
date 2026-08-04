@@ -226,14 +226,37 @@ Dans beaucoup de brasseries, on fait passer au travers d'un filtre à houblon le
 les bacs refroidissoirs : ce filtre consiste en un sac ou en un tonneau rempli de houblon que la liqueur traverse pour
 en sortir claire. Disposé convenablement, ce mode de filtration paraît être le meilleur.
 
+<table style="width: 100%;">
+  <tr>
+    <td style="text-align: left; width: 33%;" markdown="1">
+[Précédent : Chapitre 6<br>Empatage](Chap. 6 - Empatage.md)
+</td>
+    <td style="text-align: center; width: 33%;"></td>
+    <td style="text-align: right; width: 33%;" markdown="1">
+[Suivant : Chapitre 8<br>Du refroidissement du moult](Chap. 8 - Du refroidissement du moult.md)
+</td>
+  </tr>
+</table>
+
+
 [^1]: Dans ce cas, la quantité de liquide qui se perd par l'évaporation, ne doit plus etre évaluée à 1/12 ainsi qu'on l'a indiqué p. 179 ; mais elle est beaucoup plus considérable.
+
 [^2]: Pour donner à quelques bières brunes la coloration que l'on désire, on introduit dans la chaudière une petite quantité de potasse, de soude ou de chaux. La quantité nécessaire pour déterminer la coloration varie suivant la proportion d'acide contenue dans le moût. Si cette proportion d'acide est considérable, il est nécessaire d'employer une plus grande quantité d'alcali pour qu'il en existe à l'état libre une certaine quantité qui puisse agir sur le sucre de fruits : si la proportion d'acide contenue dans le mout est peu considérable, la quantité d'alcali qu'il faut ajouter est moindre. L'alcali qui ne rencontre pas d'acide pour le saturer, agit seul sur le sucre de fruits, de manière à y déterminer la production d'une substance brune. On comprend bien que je ne recommande pas ce mode d'opérer : je l'explique seulement. Je ne recommande pas davantage, pour colorer le moût dans le but d'en préparer des bières plus foncées, l'addition de jus de réglisse, de chicorée torréfiée, de caramel, qui constituent de véritables falsifications. — Le malt auquel on a fait prendre par la torréfaction une couleur foncée est le seul moyen convenable de colorer le moût.
+
 [^3]: Voir le tableau de Levesaue dans Muspratt-Stohmann, *loc. cit.* p. 634.
+
 [^4]: Lacambre, *Traité complet de la fabrication des bières*, nouvelle édition, 1856, t. I, p. 174.
+
 [^5]: *Mittheil. des Ver. zur Ermitt. der Geverb. in Böhmen*, février 1843.
+
 [^6]: Muspratt Stohmann, *loc. cit.*, p. 629.
+
 [^7]: Erdmann's *Journal*, t. VI, p. 29.
+
 [^8]: *Loc. cit.*, nouvelle édition, 1856, t I, p. 182.
+
 [^9]: *Handbuch für Bierbrauer*, 1854, p. 350.
+
 [^10]: *Polyt. Centr. bl.*, 1855, p. 310.
+
 [^11]: *Id.*, 1853, p. 1147.

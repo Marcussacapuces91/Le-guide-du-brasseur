@@ -99,5 +99,7 @@ Cela arrive du reste rarement dans la Hollande en général si propre.
   </tr>
 </table>
 
+
 [^1]: *Annalen der Chemie und Pharmacie*, t. LXI, p. 168.
+
 [^2]: Dingler, *Polytechnisches Journal*, t, XLI, p. 395.

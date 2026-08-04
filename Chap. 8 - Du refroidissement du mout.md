@@ -37,8 +37,8 @@ caséine et les substances albumineuses du malt possèdent également cette prop
 l'ébullition du moût, ces substances albumineuses ne contiennent plus d'agent transformateur de l'amidon ; mais, sous
 leur nouvel état, les matières albumineuses qui restent insolubles jouissent de la propriété d'absorber de l'oxygène et
 de se transformer en agent susceptible de déterminer la transformation du sucre en acide lactique. Il ne se produit ici,
-ni assimilation, ni séparation d'aucun des éléments du sucre: une simple modification du groupement moléculaire suffit (
-p. 155 et 186).
+ni assimilation, ni séparation d'aucun des éléments du sucre: une simple modification du groupement moléculaire suffit
+(p. 155 et 186).
 
 Pour obtenir une grande quantité d'acide lactique, on moud le malt en farine fine ; on l'humecte avec de l'eau et on le
 laisse exposé à l'air: la pâte contient au bout de peu de jours une grande quantité d'acide lactique. Il en est de même
@@ -262,6 +262,20 @@ lorsqu'on le traite par l'alcool, il lui communique une saveur amère.
 Lorsque la liqueur a atteint le degré de refroidissement désiré, on la filtre avec soin pour en séparer toute trace de
 dépôt, puis on la fait fermenter.
 
+<table style="width: 100%;">
+  <tr>
+    <td style="text-align: left; width: 33%;" markdown="1">
+[Précédent : Chapitre 7<br>De la cuisson du moult](Chap. 7 - De la cuisson du moult.md)
+</td>
+    <td style="text-align: center; width: 33%;"></td>
+    <td style="text-align: right; width: 33%;" markdown="1">
+[Suivant : Chapitre 9<br>Fermentation du moult](Chap. 9 - Fermentation du moult.md)
+</td>
+  </tr>
+</table>
+
 [^1]: Dingler's *Journal*, t. CIL, p. 63.
+
 [^2]: *Loc. cit.*, p. 243, ou 3e édit., t.I, fascicule I, p. 164.
+
 [^3]: *Loc. cit.*, p. 338.

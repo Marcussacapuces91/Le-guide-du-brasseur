@@ -816,18 +816,18 @@ anhydres : 100 parties de malt touraillé perdent, par l'action de l'eau dans l'
 Admettons, en nombres ronds, de 65 à 75.
 
 Ces quantités sont à peu près celles que l'on obtient d'après Muspratt[^17] en Angleterre. Il admet en effet 78,3% de
-principes utiles dans lé malt d'orge : d'après ses indications, pour un quarter ou 352 livres, il doit se dissoudre,
-dans le traitement par l'eau, 234 à 249 livres; ce qui représente 66 à 71%. La différence n'est pas grande ; mais chaque
-centième en moins ôte à la bière qui en résulte une certaine quantité des principes constituants du grain. Dans tous les
-cas, ces résultats nous apprennent que la différence qui existe entre les bières anglaises et les bières hollandaises ne
-vient pas de la manière défectueuse dont on traite en Hollande le grain dans l'empâtage ; elle ne provient pas non plus
-des quantités relatives d'eau et de malt que l'on emploie.
+principes utiles dans le malt d'orge : d'après ses indications, pour un _quarter_ ou 352 livres, il doit se dissoudre,
+dans le traitement par l'eau, 234 à 249 livres ; ce qui représente 66 à 71%. La différence n'est pas grande ; mais
+chaque centième en moins ôte à la bière qui en résulte une certaine quantité des principes constituants du grain. Dans
+tous les cas, ces résultats nous apprennent que la différence qui existe entre les bières anglaises et les bières
+hollandaises ne vient pas de la manière défectueuse dont on traite en Hollande le grain dans l'empâtage ; elle ne
+provient pas non plus des quantités relatives d'eau et de malt que l'on emploie.
 
-Balling, en traitant 10 loths[^18] de malt par 43 1/3 loths d'eau à 75°C, a obtenu 50 loths de moût et 3 1/2 loths de
-drêche sèche. Essayés au moyen de son saccharimètre, ces 50 loths ont fourni 6 loths d'extraits : 100 parties de malt,
-traitées par l'eau, perdraient donc 60 parties de substances solubles. Ce résultat, qui est le résultat le moins élevé
-que l'on obtienne en Hollande, est cependant considéré par Balling comme satisfaisant ; il paraît probable qu'il ne s'
-applique qu'à du malt contenant de l'eau.
+Balling, en traitant 10 _loths_[^18] de malt par 43 1/3 _loths_ d'eau à 75°C, a obtenu 50 _loths_ de moût et 3 1/2
+_loths_ de drêche sèche. Essayés au moyen de son saccharimètre, ces 50 _loths_ ont fourni 6 _loths_ d'extraits :
+100 parties de malt, traitées par l'eau, perdraient donc 60 parties de substances solubles. Ce résultat, qui est le
+résultat le moins élevé que l'on obtienne en Hollande, est cependant considéré par Balling comme satisfaisant ; il
+paraît probable qu'il ne s'applique qu'à du malt contenant de l'eau.
 
 Knapp[^19] admet, pour le malt desséché, une perte moyenne de 65%.
 
@@ -1143,32 +1143,74 @@ J'examinerai un peu plus loin cette question, en parlant du refroidissement du m
 moût exposé pendant quelque temps à l'air n'a pas donné d'acide acétique par la distillation, mais que, par l'ébullition
 avec du carbonate de zinc, il a donné une quantité considérable de lactate de zinc.
 
+
+<table style="width: 100%;">
+  <tr>
+    <td style="text-align: left; width: 33%;" markdown="1">
+[Précédent : Chapitre 5<br>Dessication du malt](Chap. 5 - Dessication du malt.md)
+</td>
+    <td style="text-align: center; width: 33%;"></td>
+    <td style="text-align: right; width: 33%;" markdown="1">
+[Suivant : Chapitre 7<br>De la cuisson du moult](Chap. 7 - De la cuisson du moult.md)
+</td>
+  </tr>
+</table>
+
+
 [^1]: Le nom sous lequel on désigne cette opération, varie suivant les pays : en Hollande, elle porte le nom de *beslag maken* (empâtage) ou de *bestaan* (détrempage) ; en Allemagne, on lui donne généralement le nom de *Maischen* (d'élayage, démélage) ; en Angleterre, celui de *mashing* (démélage). En France, on la désigne généralement sous le nom de *macération* ou de *brassage*, d'où dérivent les expressions brasseur, brasserie, brassin, *etc.*, et qui lui vient de la manière dont on l'exécute généralement encore dans un grand nombre de localités, c'est-à-dire à force de bras. L'appareil dans lequel le brassage s'opère est désigné suivant les pays : en Hollande, sous le nom de *beslag-kuip* ; en Allemagne, sous le nom de *Maiscbottich* ; en Angleterre, sous le nom de *mashing-lun*, et en France, sous le nom de *cuve-matière*.
+
 [^2]: Relativement à l'emploi de la vapeur dans l'empâtage, voir Habich (*Taschenbuch der Chemie des Bierea*, 1858, p. 38).
+
 [^3]: Dans le but d'extraire du résidu des trempes l'amidon qui y est reste (dont la présence est la cause pour laquelle, entre autres, on emploie avec avantage ce résidu pour la nourriture des bestiaux) et de le transformer en dextrine, puis en sucre, Piesse (*Phil. Map.*, t. XXI, p. 317) conseille de mettre de côté une portion du malt, 1/30 par exemple. — Lorsqu'on effectue la deuxième trempe, on y ajoute la portion de malt que l'on a ainsi mise de côté. L'agent de transformation de l'amidon qu'elle contient peut alors agir sur l'amidon que contient le résidu et lui faire subir la transformation indiquée. D'après Piesse, la totalité de l'agent de transformation se séparerait donc du malt dans la préparation de la première trempe, en laissant dans le résidu une quantité relativement plus considérable d'amidon. En outre, suivant lui, la puissance active de l'agent de transformation est plus ou moins amoindrie pendant la préparation de la première trempe par suite de la production de dextrine ou de sucre qui a eu lieu, ce qui est conforme à ce qui a lieu pour la levure dont la puissance active est amoindrie par la production d'une grande quantité d'alcool. Lorsque nous nous occuperons d'expliquer le mode de réaction chimique qui prend naissance dans cette opération, nous examinerons avec plus de détail si le conseil de Piesse est bon ou s'il ne l'est pas.
+
 [^4]: Siemens, *Supplement von Prechtl's Encyclopaedie, von Karmarsch*, c, p. 414.
+
 [^5]: En ce qui concerne la séparation de la quantité d'infusion de malt que retient la drêche, on trouvera des renseignements utiles dans l'ouvrage de Habich (*Der Bierbrauer*, 1859, p. 8, n. 1)
+
 [^6]: *Loc. cit.*, p. 325.
+
 [^7]: *Dingler's Polyt. Journal*, t. CIII, p. 375.
+
 [^8]: *Erdmann's Journal*, t. LXVI, p. 312.
+
 [^9]: Cette quantité me parait trop faible. (Voir p. 18)
+
 [^10]: À cette température, ces substances ne peuvent pas perdre complètement l'eau qu'elles contiennent.
+
 [^11]: *Erdmann's Journal*, t. LXVI, p. 316.
+
 [^12]: *Wagner's Jahresbericht*, 1856, p. 231.
+
 [^13]: *Id.*, 1856, p. 232.
+
 [^14]: *Chimie industrielle*, 4e édit., t. II, p. 316.
+
 [^15]: *Loc. cit.*, p. 125.
+
 [^16]: Knapp rectifie, p. 325 (*loc. cit.*), l'indication inexacte de 21 à 26 p. 100 de matières albumineuses dans la drêche, qu'il avait donnée, p. 125.
+
 [^17]: Mupratt-Stohmann, *loc. cit.*, p. 578.
+
 [^18]: La livre de Vienne (Autriche) de 32 loths présente une valeur égale à 0,560kg : la valeur du loth en grammes est donc de 17,50g.
+
 [^19]: *Loc. cit.*, p. 326.
+
 [^20]: Muspratt, *loc. cit.*
+
 [^21]: *Polyt. Centralbl*, 1856, p. 190.
+
 [^22]: *Handbuch der Bierbrauer*, p. 190.
+
 [^23]: *Chimie industrielle* 1859, 4e édit., t. II, p. 312
+
 [^24]: Nous admettons ici, pour simplifier, que le malt présente la même pesanteur spécifique que l'orge (100 litres d'orge pèsent 64 à 67 kg)
+
 [^25]: *Gahrungs Chemie*, t.1, fascicule I, tableau E.
+
 [^26]: *De Wijn*, p. 240.
+
 [^27]: *Jahresbericht von Liebig und Hermann Kopp*, 1852, p. 801.
+
 [^28]: La manière dont on doit opérer l'essai halimétrique lorsqu'on veut s'en servir pour apprécier la qualité d'une bière, est expliquée avec détails dans un grand nombre d'endroits et notamment dans le *Polyt. Centralblatt*, 1837, p. 33; la méthode optique de Steinheil se trouve également décrite dans le même recueil, 1844, p. 117 et 1846, p. 387. Je me contenterai de donner ces indications ; aucun sujet n'a été examiné avec plus de détail dans les journaux scientifiques depuis quelques années. — Dans le recueil que nous venons d'indiquer, on trouve citées en différents endroits des analyses de Kaiser et d'autres chimistes qui sont indiquées comme provenant du *Baierisches Kunst-und Gewerbe-Blatt*, et que je ne connais pas. Si, dans ce traité, je ne m'arrête pas davantage sur la détermination de force de l'extrait de malt de la bière, cela tient à ce que j'ai déjà traité cette question dans mon ouvrage sur le vin. On pourra du reste consulter sur ce sujet les ouvrages de Balling, de Müller et de Habich, *etc.*, *etc.* Relativement aux saccharimètres de Allen, de Bate, de Dring, de Fage et de Long, et relativement à l'influence de la température sur la pesanteur spécifique du malt, on peut consulter l'ouvrage anglais de Sheridan Muspratt : *Chemistry theoretical, practical and analytical as applied and relating to the arts and manufactures*, t.1, art. Beer, ou bien la traduction allemande du même ouvrage : Muspratt : *Theoretische, praktische und analytische Chemie, in Anwendungauf Künste und Gewerbe, von Stohmann und Gerding*, 1854,t.1, art. Bier.
+
 [^29]: On réussit très bien à neutraliser les substances acides qui peuvent adhérer aux cuves-matières en bois, en nettoyant ces cuves de temps en temps avec de la chaux.

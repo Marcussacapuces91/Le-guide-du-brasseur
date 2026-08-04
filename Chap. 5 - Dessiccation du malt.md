@@ -645,11 +645,10 @@ résultat fourni par les expériences d'Oudemans. Il est du reste douteux que le
 comptés au nombre des parties constituantes nutritives de la bière. Dans mon opinion, cette question est encore
 indécise.
 
-
 <table style="width: 100%;">
   <tr>
     <td style="text-align: left; width: 33%;" markdown="1">
-[Précédent : Chapitre 4<br>Maltage ou préparation du malt](Chap. 3 - Maltage ou préparation du malt.md)
+[Précédent : Chapitre 4<br>Maltage ou préparation du malt](Chap. 4 - Maltage ou préparation du malt.md)
 </td>
     <td style="text-align: center; width: 33%;"></td>
     <td style="text-align: right; width: 33%;" markdown="1">
@@ -660,15 +659,27 @@ indécise.
 
 
 [^1]: En Hollande, la dessiccation à air libre est spécialement désignée sous le nom de dessiccation (*droogen*), tandis que la dessiccation au moyen de la chaleur artificielle prend le nom de *eesten* : de même, en Allemagne, la première seule conserve le nom de *trocknen*, et la seconde prend le nom de *darren*. Si l'on voulait donner aussi en France deux noms différents aux deux modes de dessiccation, on pourrait conserver pour le premier le nom de dessiccation, et désigner la dessiccation au moyen de la chaleur artificielle sous le nom de torréfaction : le malt desséché au moyen de la chaleur artificielle (en hollandais *geëste mout* ; en allemand *darrmalz*) devrait alors être désigné sous le nom de malt torréfié.
+
 [^2]: *Traité de Chimie organique*, t. II, p. 565.
+
 [^3]: *Bulletin de Néerlande*, 1840, p. 37.
+
 [^4]: *Annales de Chimie et de Physique*, t. LXVII, p. 157.
+
 [^5]: *Lehrbuch*, t. IV, p. 691.
+
 [^6]: *Annalen der Chemie und Pharmacie*, t LXXXV, p. 74.
+
 [^7]: *Id.*, t. XLIX, p. 1.
+
 [^8]: *Annales de Chimie et de Physique*, 3e série, 1858, t. LII, p. 352.
+
 [^9]: Ceux de nos lecteurs qui voudraient faire une étude plus approfondie des corps dont nous venons de parler, feront bien de consulter non seulement les différents mémoires que nous avons cités, mais aussi l'article que M. Bertbelot ( *Chimie organique fondée sur la synthèse*, t. I.J, P. 314) a consacré à l'étude de ces composés.
+
 [^10]: *Chemische Technologie*, t. II. p. 313.
+
 [^11]: Schubarth, *Techn. Chemie*, 1851, t. III, p. 528.
+
 [^12]: On ne doit pas considérer ce malt fortement touraillé comme étant du malt-couleur, mais comme étant du malt desséché au degré où il doit l'être pour la préparation de la bière qui est désignée sous le nom de *oud bruin bier*.
+
 [^13]: Voir Pyrodextrine (Gélis, *Journal de Pharmacie*, 1858, t XXXIII, p. 405).

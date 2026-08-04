@@ -12,3 +12,6 @@ show_downloads: true
 google_analytics:
 
 theme: minima
+
+minima:
+  skin: auto

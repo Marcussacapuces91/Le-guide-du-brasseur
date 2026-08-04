@@ -105,8 +105,8 @@ mais relata refero. Toutes ces analyses répondent complètement à ce que l'on 
 bien une idée générale de la composition de la bière et des sortes de bières les plus renommées.
 
 <figure markdown='1'>
-  <figcaption markdown='1'>
-**KAISER[^2] (BIÈRE DE BAVIÈRE, EN 100 PARTIES).**
+  <figcaption markdown='1' style="text-align: center">
+**Kaiser[^2] (Bière de Bavière, en 100 parties).**
 </figcaption>
 
 |                                                                | Dates | Pesanteur<br>spécifique | Alcool | Extrait | Acide carbo.<br>p. 1000 part. |
@@ -171,6 +171,8 @@ chaque année dans la brasserie de Zacherl. Le *Bockbier*, qui est préparé seu
 Le liquide que l'on avait obtenu en soumettant à la distillation la première sorte de bière, n'était pas du tout
 acide : pour la seconde, on n'a pas donné d'indication analogue. Heydloff[^6] a obtenu les résultats suivants :
 
+<figure markdown="1">
+
 |                            | Alcool. | Extrait. |
 |----------------------------|:-------:|:--------:|
 | Bière de Nuremberg         |   3,8   |   6,2    |
@@ -181,6 +183,8 @@ acide : pour la seconde, on n'a pas donné d'indication analogue. Heydloff[^6] 
 | — — de John                |   3,7   |   6,0    |
 | — — de Büchner             |   4,2   |   6,5    |
 | Porter anglais             |   5,1   |   9,2    |
+
+</figure>
 
 Nous devons a Bley[^7] les analyses suivantes :
 
@@ -250,7 +254,9 @@ expriment les résultats obtenus pour la bière de garde.
 </figure>
 
 <figure markdown="1">
-   <figcaption markdown="1">Wackenroder[^10].</figcaption>
+   <figcaption markdown="1">
+Wackenroder[^10].
+</figcaption>
 
 |                                         | Alcool. | Extr. | Album. | Cend. |
 |-----------------------------------------|:-------:|:-----:|:------:|:-----:|
@@ -263,71 +269,39 @@ expriment les résultats obtenus pour la bière de garde.
 
 </figure>
 
-BIÈRE DE HESSE 1.
+<figure markdown="1">
+   <figcaption markdown="1">
+Bière de Hesse[^11]
+</figcaption>
 
-Alcool.
+|                | Alcool. | Extrait. |
+|----------------|:-------:|:--------:|
+| Bière de Kinz  |   4,7   |   4,6    |
+| — Schwarzel    |   3,9   |   4,8    |
+| — Barth        |   3,5   |   4,3    |
+| — Schreiber    |   3,3   |   4,2    |
+| — Ampt         |   3,3   |   3,8    |
 
-Extrait.
+</figure>
 
-Bière de Kinz
+<figure markdown="1">
+   <figcaption markdown="1">
+Bière de Hanovre[^12]
+</figcaption>
 
-4,7
+|                     | Alcool. | Extrait. |
+|---------------------|:-------:|:--------:|
+| Bière de Clausthal  |   6,0   |   6,3    |
+| — Meyer             |   4,4   |   6,5    |
+| — Wölde             |   4,8   |   4,3    |
+| — la brasserie Amts |   1,9   |   11,0   |
 
-4,6
+</figure>
 
-— Schwarzel
 
-3,9
 
-4,8
 
-— Barth
 
-3,5
-
-4,3
-
-— Schreiber
-
-3,3
-
-4,2
-
-— Ampt
-
-3,3
-
-3,8
-
-BIÈRE DE HANOVRE 1.
-
-Alcool.
-
-Extrait.
-
-Bière de Clausthal
-
-6,0
-
-6,3
-
-— Meyer
-
-4,4
-
-6,5
-
-— Wölde
-
-4,8
-
-4,3
-
-— la brasserie Amts
-
-1,9
-
-11,0
 
 Pesanteur spécif.
 

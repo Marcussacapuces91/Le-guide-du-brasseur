@@ -4,18 +4,15 @@ description: De la composition des différentes sortes de grains employés à la
 menu: Chap.  1<sup>er</sup> 
 ---
 
-# Chapitre premier
-## De la composition des différentes sortes de grains employés à la préparation de la bière
-
 Si l'on voulait s'occuper des diverses semences au moyen desquelles on peut préparer de la bière, ce n'est qu'avec
 difficulté que l'on pourrait en fixer le nombre. Toutes les substances qui contiennent de l'amidon, peuvent fournir de
 la dextrine et du sucre. Ce sucre peut fermenter : on peut donc préparer de la bière avec toutes les substances qui
 contiennent de l'amidon. Il n'y a pas de motif pour que l'on ne puisse pas également bien employer à cette préparation
 les pois et les haricots. Le riz peut très bien servir à la préparation de la bière : il en est de même du sarrasin et
-du seigle. Dans les pays où le maïs est cultivé en abondance, on s'en sert quelquefois pour la préparation de la bière ;
-dans d'autres endroits, on emploie du seigle : en Angleterre, on emploie quelquefois de l'avoine. Mais les espèces de
-grains les plus en usage sont l'orge et le froment : c'est par cette raison que nous nous bornerons surtout à l'examen
-de la composition de ces deux sortes de grains.
+du seigle. Dans les pays où le maïs est cultivé en abondance, on s'en sert quelquefois pour la préparation de la 
+bière ; dans d'autres endroits, on emploie du seigle : en Angleterre, on emploie quelquefois de l'avoine. Mais les
+espèces de grains les plus en usage sont l'orge et le froment : c'est par cette raison que nous nous bornerons surtout à
+l'examen de la composition de ces deux sortes de grains.
 
 Le froment donne une bonne bière, surtout lorsqu'il est mélangé avec l'orge ; mais le prix du froment est
 comparativement trop élevé pour que l'on puisse l'employer de préférence à la fabrication dé la bière.

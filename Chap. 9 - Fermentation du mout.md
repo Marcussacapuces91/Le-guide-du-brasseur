@@ -291,14 +291,14 @@ En ce qui concerne le fait qu'il se forme quelques cellules nouvelles lorsque le
 trouve en contact avec l'eau sucrée, cela prouve seulement qu'il peut aussi y avoir de cette manière une production de
 nouvelle levure, mais cela ne prouve aucunement qu'il y ait une relation génétique entre le développement d'un végétal
 qui constituerait essentiellement la moisissure de levure et le dédoublement d'un groupe organique, du sucre. La règle
-est que le dédoublement d'un groupe a détermine le dédoublement d'un groupe b ; mais en ce qui concerne l'hypothèse que
-la production d'une cellule peut avoir pour conséquence une décomposition d'une substance organique aussi énergique que
-peut l'être celle du sucre dans la fermentation, elle serait unique dans tout le règne organique, et doit être prouvée
-d'une manière péremptoire ou doit être rejetée.
+est que le dédoublement d'un groupe `a` détermine le dédoublement d'un groupe `b` ; mais en ce qui concerne l'hypothèse
+que la production d'une cellule peut avoir pour conséquence une décomposition d'une substance organique aussi énergique
+que peut l'être celle du sucre dans la fermentation, elle serait unique dans tout le règne organique, et doit être
+prouvée d'une manière péremptoire ou doit être rejetée.
 
 Il est en effet suffisamment démontré que, dans la fermentation, il y a dédoublement des parties constituantes de la
-levure : il est également prouvé que le dédoublement d'un groupe a détermine le dédoublement d'un groupe b. Ceux donc
-qui admettent le dédoublement de la levure comme cause du dédoublement du sucre partent d'un point de départ
+levure : il est également prouvé que le dédoublement d'un groupe `a` détermine le dédoublement d'un groupe `b`. Ceux
+donc qui admettent le dédoublement de la levure comme cause du dédoublement du sucre partent d'un point de départ
 parfaitement déterminé qu'ils ne peuvent abandonner sans tomber dans l'arbitraire.
 
 Si, en même temps que le dédoublement de a et le dédoublement de b qui résulte du premier, il se produit un
@@ -319,9 +319,9 @@ de nouvelles cellules proportionnelle à la quantité de sucre décomposée, et 
 La question est transportée par M. Pasteur sur un autre terrain, lorsqu'il dit que la levure qui, après avoir été
 soumise à l'ébullition avec de l'eau, détermine la fermentation, étant devenue de la levure ordinaire, tout se passe
 comme pour le jus du raisin, qui fermente spontanément : il dit en effet quelque chose d'analogue à ce qui suit : le
-commencement de la fermentation du jus de raisin a lieu sans cellules de levure; le commencement de la fermentation peut
-donc avoir également lieu au moyen de cellules de levure épuisées par l'ébullition. — Nous n'avons pas besoin d'aller
-plus loin.
+commencement de la fermentation du jus de raisin a lieu sans cellules de levure ; le commencement de la fermentation 
+peut donc avoir également lieu au moyen de cellules de levure épuisées par l'ébullition. — Nous n'avons pas besoin
+d'aller plus loin.
 
 La production de la fermentation dans du jus de raisin dans lequel on n'a introduit aucune cellule de levure, et la
 progression simultanée de la fermentation ne viennent apporter aucune preuve en faveur d'une production de cellules de
@@ -396,7 +396,7 @@ levure.
 
 Le fait que, dans la fermentation, il peut se produire de la levure dégénérée, aussi bien que de la levure saine, est
 bien connu : on sait également qu'une petite quantité de sucre échappe au dédoublement en alcool et en acide carbonique.
-Hoffman, Graham et Redwood ont trouvé comme ésidu de la fermentation une matière extractive s'élevant à une quantité de
+Hoffman, Graham et Redwood ont trouvé comme résidu de la fermentation une matière extractive s'élevant à une quantité de
 3%. M. Pasteur a indiqué dans ce résidu, comme en faisant partie normalement, l'acide succinique dont la quantité
 pouvait s'élever à environ 0,5% de la quantité de sucre employée. Après avoir concentré le liquide qui reste après la
 fermentation du sucre, on le précipite par un sel d'argent, puis on décompose le sel d'argent par l'hydrogène sulfuré. —
@@ -500,7 +500,7 @@ substance amère du houblon communique une saveur amère et pour pouvoir la fair
 complètement rempli. Toutefois, il se dépose aussi du ferment au fond de la cuve. Lorsqu'il cesse de s'élever de
 l'écume, ce qui a lieu pour les bières jeunes au bout de 3 à 4 jours, on transvase la bière dans d'autres tonneaux, et
 on la livre à la consommation. Pour la préparation de la bière de garde, on laisse reposer le tout pendant quelque temps
-dans le tonneau et l'on tranvase au moyen d'une pompe la liqueur claire dans d'autres tonneaux où elle subit
+dans le tonneau et l'on transvase au moyen d'une pompe la liqueur claire dans d'autres tonneaux où elle subit
 tranquillement la fermentation complémentaire et devient ainsi de la bière de garde.
 
 *Fermentation par dépôt*. — La fermentation par dépôt exige pour sa mise en activité une température plus basse et
@@ -556,8 +556,8 @@ ainsi, ne peut pas être nuisible, puisqu'il y a en même temps de l'alcool.
 La bière, préparée avec fermentation par dépôt, est déjà par cela même susceptible de se conserver plus longtemps que
 celle qui a été préparée par fermentation superficielle. Elle peut très rapidement être obtenue claire et ne plus
 contenir de levure. Au bout de quelque temps, il se dépose encore de la levure ; on soutire alors la bière dans un autre
-tonneau où on la conserve. Mise en bouteille, elle ne mousse que très peu lorsqu'on la verse: cette particularité mérite
-à notre avis d'être examinée de plus près.
+tonneau où on la conserve. Mise en bouteille, elle ne mousse que très peu lorsqu'on la verse : cette particularité
+mérite à notre avis d'être examinée de plus près.
 
 La différence entre la fermentation superficielle et la fermentation par dépôt est suffisamment importante pour mériter
 d'arrêter notre attention encore plus longtemps. Les végétaux qui constituent la levure, sont, ainsi que nous l'avons
@@ -693,11 +693,11 @@ convenable. La première impression dépend donc de la nature de la levure: or c
 déterminante de tout le phénomène, puisque la levure de dépôt, par l'action lente à laquelle elle donne lieu, ne peut
 produire que de la levure de dépôt, tandis que la levure superficielle, par l'action vive qu'elle détermine, peut
 seulement donner naissance à de la levure superficielle. Lorsque l'action est lente, l'air est moins complètement
-éloigné de la liqueur, que lorsque l'action est très vive: en effet, dans ce dernier, cas, la masse d'acide carbonique
-qui se dégage chasse l'air.
+éloigné de la liqueur, que lorsque l'action est très vive : en effet, dans ce dernier, cas, la masse d'acide
+carbonique qui se dégage chasse l'air.
 
 La cause de tout le phénomène réside donc dans l'impression primitive que l'une ou l'autre des deux sortes de levures a
-faite sur le moût. Mais de là résulte une différence d'action qui réagit d'une manière déterminée sur tout le phénomène.
+fait sur le moût. Mais de là résulte une différence d'action qui réagit d'une manière déterminée sur tout le phénomène.
 
 Pour pouvoir expliquer la différence qui existe entre la fermentation superficielle et la fermentation par dépôt, la
 connaissance de la différence entre la levure superficielle et la levure de dépôt nous serait nécessaire: or cette
@@ -712,7 +712,7 @@ levure superficielle, donne naissance à une substance qui exerce une action viv
 lente, donne naissance à de la levure de dépôt.
 
 Ces deux faits étant admis, ils peuvent nous être utiles dans l'examen ultérieur du phénomène, lorsque nous soulevons la
-question suivante: que se passe-t-il dans la fermentation dont la marche est lente ? Que se passe-t-il dans la
+question suivante : que se passe-t-il dans la fermentation dont la marche est lente ? Que se passe-t-il dans la
 fermentation dont la marche est rapide ?
 
 Dans la fermentation dont la marche est lente, l'oxygène de l'air a certainement un accès plus facile : mais l'accès
@@ -731,8 +731,8 @@ quantité. Lorsqu'il y a production d'acide lactique, il ne se produit pas en m�
 existe une quantité considérable d'acide lactique, il ne peut pas facilement se produire de l'acide acétique.
 
 Cela nous fournit une différence importante entre les bières produites au moyen de la fermentation par dépôt et les
-bières produites au moyen de la fermentation superficielle. Les premières peuvent être exposées à l'air sans que l'
-alcool s'y transforme facilement en acide acétique : en effet, l'acide lactique empêche cette transformation. Les
+bières produites au moyen de la fermentation superficielle. Les premières peuvent être exposées à l'air sans que 
+l'alcool s'y transforme facilement en acide acétique : en effet, l'acide lactique empêche cette transformation. Les
 dernières au contraire ne contiennent que peu d'acide lactique : l'alcool peut donc y passer à l'état d'acide acétique
 par l'action de l'air.
 
@@ -870,7 +870,7 @@ même opération, non seulement jusqu'à ce que l'on ait obtenu une quantité su
 que l'on ait obtenu de la levure superficielle ou de la levure de dépôt qui présente les propriétés convenables pour
 déterminer la fermentation dans la préparation de la bière[^31].
 
-Lorsqu'on manque de levure, on peut, d'après Fownes, en préparer de la manière suivante[^32] :
+Lorsqu'on manque de levure, on peut, d'après Fownes, en préparer de la manière suivante[^32] :
 
 Après avoir malaxé de la farine de froment avec de l'eau, de manière à en former une pâte ferme, on expose le tout à une
 température modérément élevée. Il commence, au bout de trois jours, à se dégager de la masse une odeur aigre,
@@ -1031,7 +1031,7 @@ mais n'ont pas produit de mannite.
 
 50g de glucose, 800g d'eau, 20g de fromage et 50g de gypse n'ont donné, du 18 décembre 1855 au 12 mai 1858, aucune trace
 d'alcool. Il existait dans la liqueur une certaine quantité de cellules de levure. Le 2 juin, on a ajouté 50g de craie
-et 20g de fromage. Le 22 juin, la glucose avait disparu ; il s'était produit 7g d'alcool, c'est-à-dire 14%, du lactate
+et 20g de fromage. Le 22 juin, le glucose avait disparu ; il s'était produit 7g d'alcool, c'est-à-dire 14%, du lactate
 de chaux, du butyrate de chaux, mais il ne s'était pas produit de mannite, ni de sulfure de calcium.
 
 Les expériences suivantes ne présentent pas une moindre importance pour le but que nous nous proposons.
@@ -1087,11 +1087,11 @@ nouvelles expériences comparatives.
   <tr>
     <td style="text-align: left; width: 33%;" markdown="1">
 [Précédent : Chapitre 8<br>Du refroidissement du moût](Chap. 8 - Du refroidissement du mout.md)
-    </td>
+</td>
     <td style="text-align: center; width: 33%;"></td>
     <td style="text-align: right; width: 33%;" markdown="1">
 [Suivant : Chapitre 10<br>De la fermentation complémentaire](Chap. 10 - De la fermentation complémentaire.md)
-    </td>
+</td>
   </tr>
 </table>
 
@@ -1104,34 +1104,19 @@ nouvelles expériences comparatives.
 
 [^6]: *Scheih. onderz.*, t. II, p. 447, 1845.
 
-[^7]: Dans son mémoire sur la fermentation alcoolique, M. Pasteur (*Annales de Chimie et de Physiques*, 3e série, t.
-LVIII, p.323 et suivantes, 1860), désigne ces deux sortes de levures sous les noms de levure supérieure (*boven-gist*)
-et de levure inférieure (*onder-gist*). Les dénominations de levure superficielle et de levure de dépôt qui avaient été
-adoptées par Gèrhardt (Liebig, *Traité de Chimie organique*, traduction française, Paris, 1840, t. I, introduction, p.
-XLII), nous ont paru devoir être préférées et donnent à notre avis une idée plus exacte de la nature des phénomènes.
+[^7]: Dans son mémoire sur la fermentation alcoolique, M. Pasteur (*Annales de Chimie et de Physiques*, 3e série, t. LVIII, p.323 et suivantes, 1860), désigne ces deux sortes de levures sous les noms de levure supérieure (*boven-gist*) et de levure inférieure (*onder-gist*). Les dénominations de levure superficielle et de levure de dépôt qui avaient été adoptées par Gèrhardt (Liebig, *Traité de Chimie organique*, traduction française, Paris, 1840, t. I, introduction, p. XLII), nous ont paru devoir être préférées et donnent à notre avis une idée plus exacte de la nature des phénomènes.
 
 [^8]: *De Wijn*, 1. c.
 
-[^9]: Suivant M. Pasteur (*loc. cit.*, p. 376), « l'azote de la levure ne se transforme jamais en ammoniaque pendant la
-fermentation alcoolique. Loin qu'il se forme de l'ammoniaque, celle que l'on ajoute peut meme disparaître. » Les
-expériences que M. Pasteur cite a l'appui de cette proposition ne nous paraissent pas convaincantes, ni démonstratives.
+[^9]: Suivant M. Pasteur (*loc. cit.*, p. 376), « l'azote de la levure ne se transforme jamais en ammoniaque pendant la fermentation alcoolique. Loin qu'il se forme de l'ammoniaque, celle que l'on ajoute peut meme disparaître. » Les expériences que M. Pasteur cite a l'appui de cette proposition ne nous paraissent pas convaincantes, ni démonstratives.
 
-[^10]: Schmidt, *Annalender Chem. und Pharm.*, t. LXI, p. 168. — L'expérience de Schmidt et celle de M. Pasteur que nous
-avons indiquée dans la note de la page 212, nous paraissent conduire seulement a cette conclusion que, dans une liqueur
-qui contient seulement du sucre, il peut se produire de la cellulose aux dépens de ce sucre.
+[^10]: Schmidt, *Annalender Chem. und Pharm.*, t. LXI, p. 168. — L'expérience de Schmidt et celle de M. Pasteur que nous avons indiquée dans la note de la page 212, nous paraissent conduire seulement a cette conclusion que, dans une liqueur qui contient seulement du sucre, il peut se produire de la cellulose aux dépens de ce sucre.
 
-[^11]: *Comptes rendus de l'Académie des Sciences*, t. XLVI, p. 179 et p. 857 — Annales de Chimie et de Physique, 3e
-série, t. LVIII. 233, 80p 16
+[^11]: *Comptes rendus de l'Académie des Sciences*, t. XLVI, p. 179 et p. 857 — Annales de Chimie et de Physique, 3e série, t. LVIII. 233, 80p 16
 
-[^12]: En ce qui est relatif au fait allégué par M. Pasteur (voir la note de la p. 214) que, loin d'y avoir formation d'
-ammoniaque pendant la fermentation alcoolique, celle que l'on ajoute peut disparaître, il n'a rien qui doive précisément
-nous étonner : 1° si nous admettons avec M. Pasteur (voir la note de la p. 212) qu'il peut se produire de la levure dans
-un milieu formé de sucre, d'un sel ammoniacal et de phosphates ; 2° si nous nous rappelons ce fait que, pendant la
-fermentation, il y a production d'un acide qu'une certaine quantité d'ammoniaque a pu saturer : mais il ne prouve pas
-que, par la décomposition ultérieure de la levure qui est une matière azotée, il ne puisse pas se produire d'ammoniaque.
+[^12]: En ce qui est relatif au fait allégué par M. Pasteur (voir la note de la p. 214) que, loin d'y avoir formation d'ammoniaque pendant la fermentation alcoolique, celle que l'on ajoute peut disparaître, il n'a rien qui doive précisément nous étonner : 1° si nous admettons avec M. Pasteur (voir la note de la p. 212) qu'il peut se produire de la levure dans un milieu formé de sucre, d'un sel ammoniacal et de phosphates ; 2° si nous nous rappelons ce fait que, pendant la fermentation, il y a production d'un acide qu'une certaine quantité d'ammoniaque a pu saturer : mais il ne prouve pas que, par la décomposition ultérieure de la levure qui est une matière azotée, il ne puisse pas se produire d'ammoniaque.
 
-[^13]: *Comptes rendus de l'Académie des sciences*, t. XLVII, p. 224. — *Annales de Chimie et de Physique*, t. LVIII, p.
-323 et suivantes, 1860.
+[^13]: *Comptes rendus de l'Académie des sciences*, t. XLVII, p. 224. — *Annales de Chimie et de Physique*, t. LVIII, p. 323 et suivantes, 1860.
 
 [^14]: *Chimie appliquée aux arts*, t. VI, p. 466.
 
@@ -1161,14 +1146,11 @@ que, par la décomposition ultérieure de la levure qui est une matière azotée
 
 [^27]: *De Wijn scheikundig beschouwd*, p. 44.
 
-[^28]: Dans les deux liqueurs, je n'ai observé aucune différence pendant le cours ultérieur de la fermentation : dans
-toutes les deux, la marche est la même, en sorte que l'acide lactique possède bien la faculté de dissoudre les
-substances albumineuses, mais n'accélère pas plus qu'il ne ralentit la fermentation. (*De Wijn*, p. 64.)
+[^28]: Dans les deux liqueurs, je n'ai observé aucune différence pendant le cours ultérieur de la fermentation : dans toutes les deux, la marche est la même, en sorte que l'acide lactique possède bien la faculté de dissoudre les substances albumineuses, mais n'accélère pas plus qu'il ne ralentit la fermentation. (*De Wijn*, p. 64.)
 
 [^29]: *Dingler's Journal*, t. CXLVIII, p. 379.
 
-[^30]: La question de la conservation de la levure a été traitée avec détail par A. Müller dans *Erdmann's Journal*, t.
-LVII, p. 162.
+[^30]: La question de la conservation de la levure a été traitée avec détail par A. Müller dans *Erdmann's Journal*, t. LVII, p. 162.
 
 [^31]: Müller, *Handbuch für Bierbrauer*, 1854, p. 39.
 
@@ -1178,12 +1160,6 @@ LVII, p. 162.
 
 [^34]: *Annalen der Chemie und Pharmacie*, t. LVI, p. 356.
 
-[^35]: *Annales de Chimie et de Physique*, 3e série, t. L, p. 322. — Depuis la publication de l'édition hollandaise de
-ce traité, Berthelot a résumé ses idées sur la fermentation dans sa *Chimie organique fondée sur la synthèse*, t. II, p.
-604 et suivantes, à laquelle nous renverrons également ceux de nos lecteurs qui désireraient connaître avec plus de
-détail l'opion de ce chimiste sur le sujet si important dont il est ici question.
+[^35]: *Annales de Chimie et de Physique*, 3e série, t. L, p. 322. — Depuis la publication de l'édition hollandaise de ce traité, Berthelot a résumé ses idées sur la fermentation dans sa *Chimie organique fondée sur la synthèse*, t. II, p. 604 et suivantes, à laquelle nous renverrons également ceux de nos lecteurs qui désireraient connaître avec plus de détail l'opion de ce chimiste sur le sujet si important dont il est ici question.
 
 [^36]: *De Wijn*, p. 56.
-
-
-

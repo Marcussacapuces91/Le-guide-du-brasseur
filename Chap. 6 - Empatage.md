@@ -1115,11 +1115,11 @@ près autant de sucre que de dextrine, comme cela arrive toujours dans les infus
 méthode saccharimétrique indique alors une quantité trop faible de matières solides[^28].
 
 Le passage du moût à l'aigre, ce danger si redouté du brassage, mérite sans contredit d'être examiné par nous au point
-de vue chimique avec quelque détail. Il peut se produire, soit pendant l'empâtage dans la cuve-matière, soit pendant le
-refroidissement dans les bacs refroidissoirs, soit pendant la fermentation dans la cuve-guilloire, ou bien, enfin, dans
-la liqueur fermentée. Dans le dernier cas, la production de l'acide acétique a lieu aux dépens de l'alcool, et tout ce
-qui s'applique à la production du vinaigre de vin, du vinaigre de raisin et du vinaigre de bière, s'applique également
-au passage de la bière à l'aigre.
+de vue chimique avec quelques détails. Il peut se produire, soit pendant l'empâtage dans la cuve-matière, soit pendant
+le refroidissement dans les bacs refroidissoirs, soit pendant la fermentation dans la cuve-guilloire, ou bien, enfin,
+dans la liqueur fermentée. Dans le dernier cas, la production de l'acide acétique a lieu aux dépens de l'alcool, et tout
+ce qui s'applique à la production du vinaigre de vin, du vinaigre de raisin et du vinaigre de bière, s'applique
+également au passage de la bière à l'aigre.
 
 Mais les causes pour lesquelles le moût tourne à l'aigre dans la cuve-matière, ou pour lesquelles la liqueur qui a déjà
 été soumise à l'ébullition subit la même transformation dans les bacs refroidissoirs, sont, au contraire, tout autres.

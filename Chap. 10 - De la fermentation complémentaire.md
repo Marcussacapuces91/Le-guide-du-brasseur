@@ -13,7 +13,7 @@ fermentation complémentaire : le nom de fermentation cerminale (en hollandais, 
 *Ausgährung*), leur conviendrait mieux. On trouble la fermentation qui a lieu dans la cuve-guilloire ; mais la
 fermentation ainsi troublée ne peut nullement être désignée sous le nom de fermentation complémentaire.
 
-Lorsque la fermentatien principale est terminée, on clarifie quelquefois la bière avant de laisser s'y accomplir la
+Lorsque la fermentation principale est terminée, on clarifie quelquefois la bière avant de laisser s'y accomplir la
 fermentation complémentaire proprement dite. Une bonne bière, bien brassée et bien préparée, est claire, et comme, au
 moyen d'une bonne préparation, on obtient toujours une bière qui n'est pas trouble, on ne devrait, à proprement parler,
 ajouter à la bière aucun agent de clarification. Mais, d'une part, l'imperfection des méthodes et, d'autre part, la
@@ -44,7 +44,7 @@ Cette circonstance présente l'inconvénient que tout l'acide tannique contenu d
 est impossible que la bière ainsi séparée se conserve longtemps.
 
 Jusqu'ici, on n'a pas pu, pour clarifier la bière, remplacer la colle de poisson par aucune autre substance. Je parle
-ici seulement de la clarification de la bière: j'ai traité (p. 250) de la clarification du moût.
+ici seulement de la clarification de la bière : j'ai traité (p. 250) de la clarification du moût.
 
 Les conditions qui sont favorables à la clarification de la bière, sont: la préparation d'un malt qui soit de bonne
 qualité et qui soit bien actif ; l'emploi d'un malt dont la totalité ait été touraillée ; la mouture du malt en
@@ -90,7 +90,7 @@ Son énergie dépend du reste d'un très grand nombre de circonstances. Le liqui
 encore de la levure, et cette levure est de la levure de dépôt, pour la bière préparée au moyen de la fermentation
 superficielle de même que pour la bière préparée au moyen de la fermentation par dépôt: dans la bière préparée au moyen
 de la fermentation superficielle, il se dépose du moins, au fond des tonneaux, de la levure qui possède d'une manière
-plus ou moins prononcée le caractère de la levure de dépôt . Cela nous montre précisément que toutes les bières, quel
+plus ou moins prononcée le caractère de la levure de dépôt. Cela nous montre précisément que toutes les bières, quel
 que soit leur mode de préparation, subissent alors une fermentation que l'on pourrait considérer comme une véritable
 fermentation par dépôt. Cela doit être indubitablement attribué à ce que le ferment qui se dépose au fond des tonneaux
 est devenu déjà en partie inactif et ne peut par suite déterminer aucune autre fermentation qu'une fermentation peu
@@ -198,11 +198,11 @@ moyen doit toutefois être considéré comme une falsification ; nous y reviendr
   <tr>
     <td style="text-align: left; width: 33%;" markdown="1">
 [Précédent : Chapitre 9<br>Fermentation du moût](Chap. 9 - Fermentation du mout.md)
-    </td>
+</td>
     <td style="text-align: center; width: 33%;"></td>
     <td style="text-align: right; width: 33%;" markdown="1">
 [Suivant : Chapitre 11<br>De la fermentation tertiaire](Chap. 11 - De la fermentation tertiaire.md)
-    </td>
+</td>
   </tr>
 </table>
 

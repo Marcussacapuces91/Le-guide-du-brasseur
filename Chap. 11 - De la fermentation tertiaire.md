@@ -91,11 +91,11 @@ de temps en contact avec l'air.
   <tr>
     <td style="text-align: left; width: 33%;" markdown="1">
 [Précédent : Chapitre 10<br>De la fermentation complémentaire](Chap. 10 - De la fermentation complémentaire.md)
-    </td>
+</td>
     <td style="text-align: center; width: 33%;"></td>
     <td style="text-align: right; width: 33%;" markdown="1">
 [Suivant : Chapitre 12<br>Des altérations de la bière](Chap. 12 - Des altérations de la bière.md)
-    </td>
+</td>
   </tr>
 </table>
 

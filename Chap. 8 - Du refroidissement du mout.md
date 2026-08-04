@@ -75,7 +75,7 @@ résultent de ce contact.
 Habich [^1] a considéré la nécessité d'un bon refroidissement à cet autre point de vue qu'on ne peut pas préparer en été
 de la bière par fermentation avec dépôt, lorsqu'on suit la méthode de refroidissement ordinaire, mais qu'on peut en
 obtenir ainsi seulement dans la saison froide. Il dit que la question devrait être résolue de manière que l'on pût
-obtenir de bonne bière dans toutes les saisons, mais que, en été, on ne peut pas obtenir par la méthode ordinaire un
+obtenir de bonnes bières dans toutes les saisons, mais que, en été, on ne peut pas obtenir par la méthode ordinaire un
 refroidissement suffisant et que l'on ne peut pas, par suite, arriver à une bonne fermentation avec dépôt, et il pense
 qu'il serait tout à fait convenable d'apporter des améliorations aux appareils de refroidissement afin d'atteindre le
 but indiqué.
@@ -160,10 +160,10 @@ approximativement de la manière suivante, en allant de haut en bas.
 De cette manière, on peut effectuer un refroidissement très notable du moût au moyen d'une quantité d'eau froide
 relativement plus faible et l'on peut en outre utiliser dans la brasserie l'eau qui s'écoule des tubes refroidisseurs.
 
-Ce procédé paraît atteindre le but indiqué: au lieu d'un bac élevé, on peut mettre deux bacs plus petits l'un à côté de
-l'autre et utiliser seulement dans la brasserie l'eau la plus chaude, tandis que l'on fait traverser le second bac à l'
-eau qui est plus froide. Enfin on peut amener par l'addition de morceaux de glace le moût à une température aussi basse
-qu'on peut le désirer.
+Ce procédé paraît atteindre le but indiqué : au lieu d'un bac élevé, on peut mettre deux bacs plus petits l'un à côté
+de l'autre et utiliser seulement dans la brasserie l'eau la plus chaude, tandis que l'on fait traverser le second bac à
+l'eau qui est plus froide. Enfin, on peut amener par l'addition de morceaux de glace le moût à une température aussi
+basse qu'on peut le désirer.
 
 Lorsqu'on met ce procédé en pratique, on ne se trouve plus en présence de la difficulté qui est inhérente à la
 circulation du moût dans des tubes qui sont refroidis extérieurement par l'eau, et qui consiste en ce que ces tubes ne
@@ -184,8 +184,8 @@ Dans les bacs refroidissoirs, il se sépare une substance floconneuse (désigné
 de *Kühlgeläger*) que nous devons examiner d'une manière plus approfondie.
 
 La quantité de cette substance floconneuse a été estimée par Balling[^2] à <sup>1</sup>/<sub>2</sub> livre pour 100
-livres de malt. Balling la considère comme étant de l'albumine. Toutefois ce précipité est éminemment composé de deux
-substances différentes: une portion s'est produite par l'action de l'air, tandis que l'autre s'est déposée par le
+livres de malt. Balling la considère comme étant de l'albumine. Toutefois, ce précipité est éminemment composé de deux
+substances différentes : une portion s'est produite par l'action de l'air, tandis que l'autre s'est déposée par le
 refroidissement. Si on laisse refroidir la liqueur chaude et complètement claire dans un flacon qui en soit complètement
 rempli et qui soit fermé, elle donne par le refroidissement un dépôt qui se redissout de nouveau par l'action de la
 chaleur. Si l'on décante ensuite dans une capsule large le contenu clair et refroidi, du flacon, il se trouble et ce
@@ -200,8 +200,8 @@ et l'avoir filtré chaud, il se troublait encore par le refroidissement. L'iode 
 une quantité considérable d'amidon, et le sesquichlorure de fer indiquait la présence de l'acide tannique.
 
 La production de ce précipité n'est pas du tout à désirer dans la préparation de la bière ; lorsqu'il se produit, la
-bière est moins susceptible de se conserver: en effet l'amidon qui est resté dans le moût sans se modifier augmente sa
-tendance à devenir acide.
+bière est moins susceptible de se conserver : en effet l'amidon qui est resté dans le moût sans se modifier augmente
+sa tendance à devenir acide.
 
 Un bon moût ne présente en aucune manière les réactions de l'amidon: on n'a donc pas à craindre que ce dépôt s'y
 produise. Mais s'il est resté de l'amidon dans le moût, cet amidon détermine dans les bacs refroidissoirs une
@@ -235,11 +235,11 @@ les molécules en mouvement ; dans tous les cas, l'action que pourrait exercer d
 transformant en acide gallique, est très peu énergique.
 
 L'autre portion du dépôt qui se produit par l'action de l'air est une combinaison de matière albumineuse, d'acide
-tannique et d'apothème d'acide tannique: cette dernière substance s'est produite par l'action de l'air. Cette portion du
-dépôt est brune : elle est soluble dans les alcalis et peut être précipitée de cette dissolution par l'action des
-acides. Elle se dissout dans l'acide acétique concentré et peut être précipitée de la dissolution par un alcali. La
+tannique et d'apothème d'acide tannique : cette dernière substance s'est produite par l'action de l'air. Cette
+portion du dépôt est brune : elle est soluble dans les alcalis et peut être précipitée de cette dissolution par l'action
+des acides. Elle se dissout dans l'acide acétique concentré et peut être précipitée de la dissolution par un alcali. La
 prussiate jaune de potasse produit dans la dissolution acétique un abondant précipité d'albumine. Une dissolution
-concentrée de potasse eh dégage de l'ammoniaque: si l'on traite le dépôt par la potasse sur une lame d'argent, cette
+concentrée de potasse eh dégage de l'ammoniaque : si l'on traite le dépôt par la potasse sur une lame d'argent, cette
 lame est noircie par suite d'une production de sulfure d'argent : tous ces caractères y démontrent la présence d'une
 substance albumineuse. La dissolution acétique de cette substance est colorée en noir par un sel de sesquioxyde de fer.
 Il s'y trouve donc de l'acide tannique: le précipité est donc du tannate d'albumine.
@@ -248,9 +248,9 @@ Knapp[^3], qui indique la plupart de ces réactions que j'ai du reste toutes vé
 s'est effectué, il ne reste plus d'acide tannique.
 
 Mais, dans le moût aussi bien que dans la bière, les réactifs peuvent facilement induire en erreur en ce qui est relatif
-à l'acide tannique: en effet, dans ces deux liquides, l'acide tannique n'est pas précipité par la colle de poisson. Le
-tannate de colle de poisson, comme le tannate d'albumine, se dissout facilement dans l'acide lactique. Or, comme, dans
-le moût ainsi que dans la bière, il existe de l'acide lactique, la présence de l'acide tannique peut ne pas y être
+à l'acide tannique : en effet, dans ces deux liquides, l'acide tannique n'est pas précipité par la colle de poisson.
+Le tannate de colle de poisson, comme le tannate d'albumine, se dissout facilement dans l'acide lactique. Or, comme,
+dans le moût ainsi que dans la bière, il existe de l'acide lactique, la présence de l'acide tannique peut ne pas y être
 indiquée par la colle de poisson, à moins que l'acide lactique n'ait été préalablement neutralisé par une base. La
 question de savoir s'il existe ou non de l'acide tannique dans le liquide qui se trouve sur les bacs refroidissoirs ne
 peut assurément présenter aucun doute: mais il nous resterait à savoir si l'acide tannique reste à cet état dans la
@@ -267,11 +267,11 @@ dépôt, puis on la fait fermenter.
   <tr>
     <td style="text-align: left; width: 33%;" markdown="1">
 [Précédent : Chapitre 7<br>De la cuisson du moût](Chap. 7 - De la cuisson du mout.md)
-    </td>
+</td>
     <td style="text-align: center; width: 33%;"></td>
     <td style="text-align: right; width: 33%;" markdown="1">
 [Suivant : Chapitre 9<br>Fermentation du moût](Chap. 9 - Fermentation du mout.md)
-    </td>
+</td>
   </tr>
 </table>
 

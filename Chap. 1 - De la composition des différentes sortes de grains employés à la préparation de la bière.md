@@ -1,7 +1,6 @@
 ---
 title: Chapitre premier
 description: De la composition des différentes sortes de grains employés à la préparation de la bière
-menu: Chap.  1<sup>er</sup> 
 ---
 
 Si l'on voulait s'occuper des diverses semences au moyen desquelles on peut préparer de la bière, ce n'est qu'avec

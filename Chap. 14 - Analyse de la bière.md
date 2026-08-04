@@ -1,6 +1,7 @@
-CHAPITRE XIV
-
-ANALYSE DE LA BIÈRE
+---
+title: Chapitre 14
+description: Analyse de la bière.
+---
 
 En faisant l'analyse de la bière, on a pour but de déterminer les quantités respectives de l'acide carbonique, de
 l'extrait, du sucre et de la dextrine, des substances albumineuses, des sels inorganiques et des matières étrangères qui
@@ -19,16 +20,15 @@ est en première et en dernière instance le seul juge qui puisse émettre un ju
 
 Dans ce qui va suivre, je donnerai en peu de mots les règles qui peuvent conduire à la connaissance de la nature et de
 la quantité de chacune des parties constituantes qui se trouvent dans la bière. Il ne manque pas de chimistes qui aient
-antérieurement examiné ce sujet. Parmi ces chi-
+antérieurement examiné ce sujet. Parmi ces chimistes, je ne citerai que Zenneck qui, dans son *Anleitung zur
+Untersuchung des Bieres*, avait déjà donné, dès 1834, un grand nombre d'indications utiles dont, au point de vue technique, il est
+encore actuellement convenable de tenir compte dans la pratique. Je ne puis naturellement avoir en vue qu'une analyse
+scientifique, et je renverrai à l'ouvrage de Zenneck le lecteur pour beaucoup de particularités dont je ne ferai pas
+mention et qu'il a traitées.
 
-mistes, je ne citerai que Zenneck qui, dans son Anleitung zur Untersuchung des Bieres, avait déjà donné, dès 1834, un
-grand nombre d'indications utiles dont, au point de vue technique, il est encore actuellement convenable de tenir compte
-dans la pratique. Je ne puis naturellement avoir en vue qu'une analyse scientifique, et je renverrai à l'ouvrage de
-Zenneck le lecteur pour beaucoup de particularités dont je ne ferai pas mention et qu'il a traitées.
-
-Acide carbonique. — Afin que, en ouvrant les flacons ou les cruches, aussi bien qu'en transvasant la bière, il ne se
+*Acide carbonique.* — Afin que, en ouvrant les flacons ou les cruches, aussi bien qu'en transvasant la bière, il ne se
 dégage pas d'acide carbonique, on doit, pour les bières fortement mousseuses, opérer cette détermination dans les
-cruches ou dans les flacons mêmes, et aussitôt que le flacon est ouvert on doit le fermer rapidement avec un bouchon,
+cruches ou dans les flacons mêmes, et aussitôt que le flacon est ouvert, on doit le fermer rapidement avec un bouchon,
 muni d'un tube à recueillir les gaz qui plonge dans de l'eau de baryte dont il doit y avoir une quantité suffisante et
 qui doit être maintenue à l'abri du contact de l'air. On porte le flacon ou la cruche dans un vase de fer rempli d'eau
 salée, et l'on chauffe jusqu'à ce que tout l'acide carbonique soit chassé. On pèse le carbonate de baryte obtenu et l'on
@@ -39,43 +39,38 @@ inutile : on peut alors chauffer cette bière dans une cornue.
 La détermination de l'acide carbonique contenu dans la bière n'a que peu d'importance au point de vue pratique. En
 général, ce que les simples phénomènes physiques nous apprennent est suffisant dans la plupart des cas.
 
-Alcool. — Le seul moyen de déterminer la quantité de l'alcool contenu dans la bière consiste à soumettre à la
+*Alcool.* — Le seul moyen de déterminer la quantité de l'alcool contenu dans la bière consiste à soumettre à la
 distillation un poids déterminé de cette bière à laquelle on a préalablement ajouté de la chaux dans le but d'empêcher
 l'acide acétique de se volatiliser : on laisse bien refroidir le liquide qui a passé à la distillation ; on le recueille
 avec soin à l'abri du contact de l'air et l'on en détermine la quantité et la pesanteur spécifique, en ayant soin de
 noter la température.
 
 Les déterminations des quantités d'alcool contenues dans des liqueurs qui, outre l'alcool, ne contiennent que de l'eau,
-et par suite aussi de la quantité de bière soumise à l'expérience, peuvent être déduites de la quantité d'alcool con¬
+et par suite aussi de la quantité de bière soumise à l'expérience, peuvent être déduites de la quantité d'alcool
+contenue dans le liquide qui a passé à la distillation. Ce sujet est trop connu pour que nous ayons besoin de nous y
+arrêter plus longtemps. Tous les instruments que l'on a recommandés dans ce but, n'ont de valeur qu'en ce qu'ils 
+n'occupent pas beaucoup de place. Dans la plupart des cas, ils affectent une certaine coquetterie véritablement risible.
 
-tenue dans le liquide qui a passé à la distillation. Ce sujet est trop connu pour que nous ayons besoin de nous y
-arrêter plus longtemps. Tous les instruments que l'on a recommandés dans ce but, n'ont de valeur qu'en ce qu'ils n'
-occupent pas beaucoup de place. Dans la plupart des cas, ils affectent une certaine coquetterie véritablement risible.
+*Extrait.* — On détermine la quantité de la liqueur qui reste après que l'on en a séparé l'alcool et une partie de
+l'eau : admettons que la quantité de la liqueur qui reste s'élève à la moitié de celle de la bière. Au moyen d'un
+aréomètre, ou même au moyen d'un procédé plus sensible, on détermine sa pesanteur spécifique. Les résultats donnés par
+Balling, que nous avons indiqués p. 183, comportent une exactitude suffisante. Si l'on est parti de 1 litre de bière,
+par exemple, et si l'on trouve pour la liqueur évaporée jusqu'à moitié une pesanteur spécifique de 1,024, cela indique
+que le demi-litre contient 6% d'extrait, et que, par suite, le litre en contient 3. — On peut aussi, après avoir évaporé
+l'alcool et une partie de l'eau, ajouter de nouveau de l'eau, de manière à obtenir exactement une liqueur dont la
+quantité soit égale à celle de la bière employée et déterminer alors la pesanteur spécifique[^1].
 
-Extrait. — On détermine la quantité de la liqueur qui reste après que l'on en a séparé l'alcool et une partie de l'eau :
-admettons que la quantité de la liqueur qui reste s'élève à la moitié de celle de la bière. Au moyen d'un aréomètre, ou
-même au moyen d'un procédé plus sensible, on détermine sa pesanteur spécifique. Les résultats donnés par Balling, que
-nous avons indiqués p. 183, comportent une exactitude suffisante. Si l'on est parti de 1 litre de bière, par exemple, et
-si l'on trouve pour la liqueur évaporée jusqu'à moitié une pesanteur spécifique de 1,024, cela indique que le demi-litre
-contient 6 p. 100 d'extrait, et que, par suite, le litre en contient 3. — On peut aussi, après avoir évaporé l'alcool et
-une partie de l'eau, ajouter de nouveau de l'eau, de manière à obtenir exactement une liqueur dont la quantité soit
-égale à celle de la bière employée et déterminer alors la pesanteur spécifique 1.
-
-Je ne répéterai pas ici ce que j'ai dit dans un autre ouvrage 2 relativement aux autres méthodes au moyen desquelles on
-peut déterminer les quantités respectives d'alcool et d'extrait. Tout ce que j'ai dit en cet endroit relativement aux
+Je ne répéterai pas ici ce que j'ai dit dans un autre ouvrage[^2] relativement aux autres méthodes au moyen desquelles
+on peut déterminer les quantités respectives d'alcool et d'extrait. Tout ce que j'ai dit en cet endroit relativement aux
 ébullioscopes, s'applique également à la bière.
 
 On peut du reste consulter à cet égard la note de la page 185.
 
-Acide acétique et acide lactique. — Si l'on veut connaître la quantité de ces deux acides, qui du reste ne manquent dans
-aucune bière, on opère cette détermination au moyen de dissolutions tirées de saccharate de chaux, d'eau de baryte ou d'
-autres liqueurs alcalines. On prend deux quantités égales de bière ; on évapore l'une jusqu'à siccité ; puis on dissout
-le résidu dans l'eau. En déterminant la quantité d'acide contenue dans la partie non évaporée, on obtient la quantité de
-l'acide acétique et de l'acide lactique réunis : l'autre quantité donne l'acide lactique.
-
-1. De Wijn scheikundig onderzocht, p. 239.
-
-2. Loc. cit., p. 114.
+*Acide acétique et acide lactique.* — Si l'on veut connaître la quantité de ces deux acides, qui du reste ne manquent
+dans aucune bière, on opère cette détermination au moyen de dissolutions tirées de saccharate de chaux, d'eau de baryte
+ou d'autres liqueurs alcalines. On prend deux quantités égales de bière ; on évapore l'une jusqu'à siccité ; puis on
+dissout le résidu dans l'eau. En déterminant la quantité d'acide contenue dans la partie non évaporée, on obtient la
+quantité de l'acide acétique et de l'acide lactique réunis : l'autre quantité donne l'acide lactique.
 
 Ce que nous désignons ici comme acide lactique, comprend en outre l'acide dérivé du sucre par la fermentation (p. 282 et
 283).
@@ -102,102 +97,77 @@ du sucre par la fermentation. On en opère la séparation de la manière suivant
 cette dissolution le glucate de plomb, tandis que le lactate et l'acétate de plomb restent dissous. Dans la liqueur
 filtrée, on peut précipiter le lactate de plomb par l'ammoniaque.
 
-Sucre. — On détermine la quantité du sucre contenu dans la bière en évaporant la bière jusqu'à consistance d'extrait
+*Sucre.* — On détermine la quantité du sucre contenu dans la bière en évaporant la bière jusqu'à consistance d'extrait
 liquide, en traitant cet extrait par l'alcool, en filtrant, en évaporant la liqueur filtrée et en recherchant la
-quantité de
+quantité de sucre au moyen de la liqueur cuivrique d'épreuve. Je ne prétends pas ici qu'il n'existe pas en même temps
+dans la bière d'autres substances solubles dans l'alcool et qui puissent agir également sur la liqueur cuivrique
+d'épreuve et augmenter par suite la quantité du sucre ; malgré cela, cette méthode est encore la moins inexacte.
 
-sucre au moyen de la liqueur cuivrique d'épreuve. Je ne prétends pas ici qu'il n'existe pas en même temps dans la bière
-d'autres substances solubles dans l'alcool et qui puissent agir également sur la liqueur cuivrique d'épreuve et
-augmenter par suite la quantité du sucre ; malgré cela, cette méthode est encore la moins inexacte.
+Engelmann (voir précédemment, p. 270) a trouvé 14,9% d'extrait dans le moût et 6,5% d'extrait dans la bière : la
+différence s'élève à 8,4%. D'après le calcul, ces 8,4% de sucre devraient donner 4,3 d'alcool : il a trouvé 4,2.
 
-Engelmann (voir précédemment, p. 270) a trouvé 14,9 pour 100 d'extrait dans le moût et 6,5 pour 100 d'extrait dans la
-bière : la différence s'élève à 8,4 pour 100. D'après le calcul, ces 8,4 pour 100 de sucre devraient donner 4,8
-d'alcool : il a trouvé 4,2.
+Dans l'exemple indiqué, dans lequel 8,4% de sucre étaient passés à l'état d'alcool, Engelmann a trouvé dans la bière
+1,1% de sucre. Dans quatre autres sortes de bière, il a trouvé :
 
-Dans l'exemple indiqué, dans lequel 8,4 pour 100 de sucre étaient passés à l'état d'alcool, Engelmann a trouvé dans la
-bière 1,1 p. 100 de sucre. Dans quatre autres sortes de bière, il a trouvé :
-
-Sucre dans la bière.
-
-Sucre transformé en alcool.
-
-1,0
-
-6,2
-
-0,7
-
-7,1
-
-1,0
-
-6,3
-
-1,9
-
-5,7
+| Sucre dans la bière. | Sucre transformé en alcool. |
+|:--------------------:|:---------------------------:|
+|         1,0          |             6,2             |
+|         0,7          |             7,1             |
+|         1,0          |             6,3             |
+|         1,9          |             5,7             |
 
 Dans les cinq exemples d'Engelmann, il disparaît donc des 2/3 au 9/10 du sucre du moût qui se transforment en alcool. La
 dernière sorte était de la petite bière.
 
-Dextrine. — On étend d'eau l'extrait de bière traité par l'alcool : on fait bouillir le tout avec un peu d'acide
-sulfurique étendu pour transformer la dextrine en sucre, et l'on sépare les autres parties constituantes au moyen de l'
-alcool. On évapore la solution alcoolique ; on traite le résidu par l'eau et l'on détermine au moyen de la liqueur
+*Dextrine.* — On étend d'eau l'extrait de bière traité par l'alcool : on fait bouillir le tout avec un peu d'acide
+sulfurique étendu pour transformer la dextrine en sucre, et l'on sépare les autres parties constituantes au moyen de
+l'alcool. On évapore la solution alcoolique ; on traite le résidu par l'eau et l'on détermine au moyen de la liqueur
 cuivrique d'épreuve la quantité du sucre qui s'est produit. Ici également, d'autres substances peuvent être transformées
-eu sucre et agir aussi sur la liqueur cuivrique d'épreuve. Toutefois cette méthode est la moins inexacte. 225 parties de
-la quantité de sucre trouvée en dernier lieu, représentent 202,5 parties de dextrine : nous admettons ici pour la
-formule du sucre C 12 H 12 O 11, et pour celle de la dextrine C 12 H 10 O 10.
+eu sucre et agir aussi sur la liqueur cuivrique d'épreuve. Toutefois, cette méthode est la moins inexacte. 225 parties
+de la quantité de sucre trouvée en dernier lieu, représentent 202,5 parties de dextrine : nous admettons ici pour la
+formule du sucre C<sub>12</sub>H<sub>12</sub>O<sub>11</sub>, et pour celle de la dextrine
+C<sub>12</sub>H<sub>10</sub>O<sub>10</sub>.
 
-Wackenroder 1, dans des analyses de quelques sortes de bières, a établi des distinctions plus nombreuses que l'on
-
-1. De cerevisioe vera mixtione et indole chemica, Jenae, 1850.
-
-n'en établit généralement dans les analyses des bières.
+Wackenroder[^3], dans des analyses de quelques sortes de bières, a établi des distinctions plus nombreuses que l'on n'en
+établit généralement dans les analyses des bières.
 
 Il désigne sous la dénomination de sucre ce qui, dans l'extrait de bière est dissous par l'alcool ordinaire, et il
-trouve, dans les bières de Munich, de 0,2 à 0,4 p. 100 de ce sucre.
+trouve, dans les bières de Munich, de 0,2 à 0,4% de ce sucre.
 
-Wackenroder nomme dextrine la partie insoluble dans l'alcool, et il trouve une quantité de 5 à 8 p. 100 de cette
-dextrine.
+Wackenroder nomme dextrine la partie insoluble dans l'alcool, et il trouve une quantité de 5 à 8% de cette dextrine.
 
 Ces quantités me paraissent trop élevées.
 
-Substances albumineuses. — Pour la détermination de ces substances albumineuses, il reste à peine un autre mode d'opérer
-que d'évaporer une quantité connue de bière et de déterminer, dans l'extrait la quantité d'azote par la méthode de Will
-et Varrentrapp.
+*Substances albumineuses.* — Pour la détermination de ces substances albumineuses, il reste à peine un autre mode
+d'opérer que d'évaporer une quantité connue de bière et de déterminer, dans l'extrait la quantité d'azote par la méthode
+de Will et Varrentrapp.
 
-Parties constituantes inorganiques. — Pour déterminer les parties constituantes inorganiques, on évapore jusqu'à siccité
-une quantité déterminée de bière ; on incinère le résidu et l'on analyse la cendre par les méthodes connues.
+*Parties constituantes inorganiques.* — Pour déterminer les parties constituantes inorganiques, on évapore jusqu'à
+siccité une quantité déterminée de bière ; on incinère le résidu et l'on analyse la cendre par les méthodes connues.
 
-On peut, au moyen d'une méthode analogue à celle que j'ai indiquée pour le vin dans un autre ouvrage 1, isoler la
+On peut, au moyen d'une méthode analogue à celle que j'ai indiquée pour le vin dans un autre ouvrage[^4], isoler la
 plupart des substances qui sont dissoutes dans la bière, en la traitant successivement par l'acétate neutre de plomb,
-par le sous-acétate de plomb, par le sous-acétate de (plomb et l'ammoniaque, en lavant les trois précipités ainsi
+par le sous-acétate de plomb, par le sous-acétate de plomb et l'ammoniaque, en lavant les trois précipités ainsi
 obtenus, en les mettant chacun séparément en suspension dans l'eau et en faisant passer de l'hydrogène sulfuré dans les
 trois liqueurs ainsi que dans la liqueur filtrée et séparée ainsi du précipité obtenu au moyen du sous-acétate de plomb
 et de l'ammoniaque.
 
-Ces liqueurs sont toutes les quatre colorées si la bière dont on est parti est colorée : mais la liqueur provenant de la
-combinaison sulfurée obtenue au moyen de l'acétate neutre de plomb est celle qui présente la couleur la plus foncée.
+Ces liqueurs sont toutes les quatre colorées si la bière dont on est parti est colorée : mais la liqueur provenant de
+la combinaison sulfurée obtenue au moyen de l'acétate neutre de plomb est celle qui présente la couleur la plus foncée.
 
 En traitant de la manière indiquée une bière de couleur jaune clair préparée au moyen de la fermentation superficielle,
-on a obtenu pour les quatre liqueurs les réactions suivantes 2.
+on a obtenu pour les quatre liqueurs les réactions suivantes[^5].
 
-La liqueur, provenant du précipité, produit par l'acètale
-
-1. De Wijn, p. 283.
-
-2. On n'a pas recherché l'acide succinique dont la présence dans la bière était encore inconnue.
-
-de plomb, présente une réaction acide : elle est colorée en brun foncé : elle donne un abondant précipité avec l'eau de
-chaux, avec le chlorure de magnésium et l'ammoniaque.
+*La liqueur, provenant du précipité, produit par l'acétate de plomb*, présente une réaction acide : elle est colorée en
+brun foncé : elle donne un abondant précipité avec l'eau de chaux, avec le chlorure de magnésium et l'ammoniaque.
 
 Une dissolution de gélatine produit, dans la liqueur neutralisée par l'ammoniaque, un léger précipité de tannate de
 gélatine.
 
 Le sesquichlorure de fer détermine une coloration noire de gallate et de tannate de fer.
 
-Dans la dissolution neutralisée par l'ammoniaque, l'acide tannique produit des précipités qui sont des combinaisons d'
-acide tannique et de substances albumineuses. La dissolution de sublimé corrosif (bichlorure de mercure) détermine
+Dans la dissolution neutralisée par l'ammoniaque, l'acide tannique produit des précipités qui sont des combinaisons 
+d'acide tannique et de substances albumineuses. La dissolution de sublimé corrosif (bichlorure de mercure) détermine
 également la production d'un précipité.
 
 L'acide nitrique étendu ne produit pas de précipité.
@@ -220,8 +190,7 @@ beaucoup plus forte qu'elle ne pourrait l'être si elle ne provenait que de cett
 dextrine dans la dissolution, la réduction ne peut donc pas provenir de cette cause ; mais elle peut provenir de là
 présence d'une certaine quantité d'acide apoglucique.
 
-La liqueur, provenant du précipité obtenu avec le sous-acétate de plomb, était colorée en jaune. On ne pouvait pas
-
+*La liqueur, provenant du précipité obtenu avec le sous-acétate de plomb*, était colorée en jaune. On ne pouvait pas
 s'attendre à y trouver, ni acide phosphorique, ni acide sulfurique. Elle présentait une réaction acide.
 
 L'acide nitrique étendu n'y produisait pas de précipité.
@@ -243,7 +212,7 @@ et de la dextrine.
 
 Nous trouvons donc ici des substances albumineuses et l'acide que nous avons désigné sous le nom d'acide glucique.
 
-La liqueur, provenant du précipité obtenu au moyen du sous-acétate de plomb et de l'ammoniaque, présentait encore une
+*La liqueur, provenant du précipité obtenu au moyen du sous-acétate de plomb et de l'ammoniaque*, présentait encore une
 réaction acide et était également de couleur jaune.
 
 L'acide nitrique étendu n'y produisait pas de précipité.
@@ -260,7 +229,7 @@ La liqueur cuivrique d'épreuve est fortement réduite par le sucre qui y existe
 L'alcool y produit un précipité abondant de dextrine, et, si l'on fait bouillir la liqueur avec du carbonate de zinc, il
 se dépose du lactate de zinc par le refroidissement.
 
-La liqueur qui s'est séparée du dernier précipité, après avoir été traitée par l'hydrogène sulfuré, était presque
+*La liqueur qui s'est séparée du dernier précipité, après avoir été traitée par l'hydrogène sulfuré*, était presque
 incolore.
 
 L'acide nitrique concentré y produisait, avec l'aide d'une faible chaleur, une coloration jaune qui devenait rouge
@@ -274,7 +243,7 @@ La liqueur cuivrique d'épreuve ne subit aucune trace de réduction par l'action
 On trouve du reste, dans cette dissolution, de la chaux, de la magnésie, de la potasse, de la soude et du chlore. Dans
 aucune des quatre dissolutions, l'iode n'a indiqué aucune trace de réaction indiquant la présence de l'amidon.
 
-La bière de Munich, désignée sous le nom de Heilige Vater-Bier dont nous avons indiqué (p. 325) la composition d'après
+La bière de Munich, désignée sous le nom de *Heilige Vater-Bier* dont nous avons indiqué (p. 325) la composition d'après
 Leo, a fourni les réactions suivantes :
 
 Pesanteur spécifique 1,03. Elle colore en rouge le papier de tournesol ; elle donne avec l'eau de chaux un abondant
@@ -288,10 +257,7 @@ que les réactions auxquelles on doit s'attendre en tenant compte des sels conte
 de la bière ; il en est de même du nitrate d'argent, mais les substances organiques déterminent la réduction d'une
 certaine quantité d'argent.
 
-Wackenroder 1 a examiné également l'action de différents réactifs sur les bières et spécialement sur les bières
-
-1. Erdmann's Journal, t. XVIII, p. 196.
-
+Wackenroder[^6] a examiné également l'action de différents réactifs sur les bières et spécialement sur les bières 
 brunes. Toutes ces bières lui ont donné les réactions suivantes.
 
 L'alcool produit un précipité blanc.
@@ -333,10 +299,9 @@ L'infusion de noix de galle détermine la production de flocons blancs.
 
 L'extrait de bière, traité par l'alcool et évaporé de nouveau, abandonne à l'éther une matière grasse inodore, insipide.
 Lorsqu'on dissout dans l'eau la portion de l'extrait qui s'est dissoute dans l'alcool, elle donne une liqueur trouble,
-présentant une réaction acide, qui est précipitée par l'acétate de plomb, par le nitrate de bioxyde de mercure,
-
-par le nitrate d'argent, par le sublimé et par l'infusion de noix de galles. Wackenroder considère l'acide comme étant
-de l'acide malique. Il a trouvé en outre dans cet extrait alcoolique du sucre qui, mélangé avec la levure, fermentait,
+présentant une réaction acide, qui est précipitée par l'acétate de plomb, par le nitrate de bioxyde de mercure, par le
+nitrate d'argent, par le sublimé et par l'infusion de noix de galles. Wackenroder considère l'acide comme étant de 
+l'acide malique. Il a trouvé en outre dans cet extrait alcoolique du sucre qui, mélangé avec la levure, fermentait,
 et une substance brune, de nature sirupeuse.
 
 Si l'on traite par l'eau la portion de l'extrait qui ne s'est pas dissoute dans l'alcool, on obtient une liqueur qui
@@ -349,35 +314,52 @@ de galle un précipité blanc sale.
 Comme la bière se comporte généralement à l'égard des réactifs de la manière qui vient d'être indiquée, je pense qu'il
 est inutile de m'arrêter plus longtemps sur ces réactions.
 
-Van-Den-Broek a fait une analyse d'une pierre à bière (bier-steen) 1. Cette analyse a donné les résultats suivants :
+Van-Den-Broek a fait une analyse d'une pierre à bière (*bier-steen*)[^7]. Cette analyse a donné les résultats
+suivants :
 
-Sucre de fruits
-
-45,21
-
-Sucre de cannes
-
-39,76
-
-Substances albumineuses
-
-6,16
-
-Matière grasse et substances végétales insolubles
-
-1,09
-
-Substances inorganiques
-
-2,22
+<figure>
+    <table>
+        <tr><th> Sucre de fruit                                    </th><td> 45,21 </td></tr>
+        <tr><th> Sucre de cannes                                   </th><td> 39,76 </td></tr>
+        <tr><th> Substances albumineuses                           </th><td>  6,16 </td></tr>
+        <tr><th> Matière grasse et substances végétales insolubles </th><td>  1,09 </td></tr>
+        <tr><th> Substances inorganiques                           </th><td>  2,22 </td></tr>
+    </table>
+</figure>
 
 On met cette soi-disant pierre à bière en digestion avec de l'eau, puis on mélange le tout avec de la levure. Par la
-fermentation, on obtient de la bière. — Balling a également analysé une pareille pierre à bière (bier-steen,
-granensteen, zèilithoïde) dont on devait la découverte à Rietch 2. La bière que l'on a préparée au moyen de cette pierre
-à bière, contenait 6,6 pour 100 d'extrait et 3,7 pour 100 d'alcool 3.
+fermentation, on obtient de la bière. — Balling a également analysé une pareille pierre à bière (*bier-steen*,
+*granensteen*, *zeilithoïde*) dont on devait la découverte à Rietch[^8]. La bière que l'on a préparée au moyen de cette
+pierre à bière, contenait 6,6% d'extrait et 3,7% d'alcool[^9].
 
-1. Aanteekeningen der Sectie-verg. voorNat. en Geneesk, van het Prov. Utr. Gen., 22 avril 1854.
 
-2. Polyt. Centr. BL, 1853, p. 247 ; voyez aussi Dingler's Journal CXLI, p. 75.
+<table style="width: 100%;">
+  <tr>
+    <td style="text-align: left; width: 33%;" markdown="1">
+[Précédent : Chapitre 13<br>De la composition de la bière](Chap. 13 - De la composition de la bière.md)
+</td>
+    <td style="text-align: center; width: 33%;"></td>
+    <td style="text-align: right; width: 33%;" markdown="1">
+[Suivant : Chapitre 15<br>Falsification de la bière](Chap. 15 - Falsification de la bière.md)
+</td>
+  </tr>
+</table>
 
-3. Polyt. Centr. BL, 1854, p. 1202.
+
+[^1]: *De Wijn scheikundig onderzocht*, p. 239.
+
+[^2]: *Loc. cit.*, p. 114.
+
+[^3]: *De cerevisioe vera mixtione et indole chemica*, Jenae, 1850.
+
+[^4]: *De Wijn*, p. 283.
+
+[^5]: On n'a pas recherché l'acide succinique dont la présence dans la bière était encore inconnue.
+
+[^6]: Erdmann's *Journal*, t. XVIII, p. 196.
+
+[^7]: *Aanteekeningen der Sectie-verg. voorNat. en Geneesk, van het Prov. Utr. Gen.*, 22 avril 1854.
+
+[^8]: *Polyt. Centr. Bl.*, 1853, p. 247 ; voyez aussi *Dingler's Journal* CXLI, p. 75.
+
+[^9]: *Polyt. Centr. Bl.*, 1854, p. 1202.

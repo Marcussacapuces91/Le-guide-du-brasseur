@@ -1082,15 +1082,25 @@ Ce sujet, très important au point de vue de ses conséquences pratiques sur leq
 de Balling (*Gährung's Chemie*, t.1, fascicule I, p. 128, 2e édition), mériterait assurément d'être élucidé par de
 nouvelles expériences comparatives.
 
+
+<table style="width: 100%;">
+  <tr>
+    <td style="text-align: left; width: 33%;" markdown="1">
+[Précédent : Chapitre 8<br>Du refroidissement du moût](Chap. 8 - Du refroidissement du mout.md)
+    </td>
+    <td style="text-align: center; width: 33%;"></td>
+    <td style="text-align: right; width: 33%;" markdown="1">
+[Suivant : Chapitre 10<br>De la fermentation complémentaire](Chap. 10 - De la fermentation complémentaire.md)
+    </td>
+  </tr>
+</table>
+
+
 [^3]: *Scheik. onderz.*, t. IV, p 283
 
 [^4]: *Scheik. onderz.*, t. II, p. 460.
 
-[^5]: Suivant Pasteur (*Annales de Chimie et de Physique*, 3e série, t. LVIII, p. 323 et suivantes, 1860), ce serait aux
-dépens des éléments du sucre que la cellulose de la levure se produit. M. Pasteur se fonde ici sur ce fait qu'il a
-observé une production de levure dans un milieu formé de sucre, d'un sel ammoniacal et de phosphates, et sur ce que,
-dans la fermentation du sucre en présence de matières albuminoldes, il y a dans la levure plus de cellulose après
-qu'avant la fermentation.
+[^5]: Suivant Pasteur (*Annales de Chimie et de Physique*, 3e série, t. LVIII, p. 323 et suivantes, 1860), ce serait aux dépens des éléments du sucre que la cellulose de la levure se produit. M. Pasteur se fonde ici sur ce fait qu'il a observé une production de levure dans un milieu formé de sucre, d'un sel ammoniacal et de phosphates, et sur ce que, dans la fermentation du sucre en présence de matières albuminoldes, il y a dans la levure plus de cellulose après qu'avant la fermentation.
 
 [^6]: *Scheih. onderz.*, t. II, p. 447, 1845.
 

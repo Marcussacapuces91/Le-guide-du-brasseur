@@ -1151,7 +1151,7 @@ avec du carbonate de zinc, il a donné une quantité considérable de lactate de
 </td>
     <td style="text-align: center; width: 33%;"></td>
     <td style="text-align: right; width: 33%;" markdown="1">
-[Suivant : Chapitre 7<br>De la cuisson du moult](Chap. 7 - De la cuisson du moult.md)
+[Suivant : Chapitre 7<br>De la cuisson du moût](Chap. 7 - De la cuisson du mout.md)
 </td>
   </tr>
 </table>

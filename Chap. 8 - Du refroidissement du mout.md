@@ -262,17 +262,19 @@ lorsqu'on le traite par l'alcool, il lui communique une saveur amère.
 Lorsque la liqueur a atteint le degré de refroidissement désiré, on la filtre avec soin pour en séparer toute trace de
 dépôt, puis on la fait fermenter.
 
+
 <table style="width: 100%;">
   <tr>
     <td style="text-align: left; width: 33%;" markdown="1">
-[Précédent : Chapitre 7<br>De la cuisson du moult](Chap. 7 - De la cuisson du moult.md)
-</td>
+[Précédent : Chapitre 7<br>De la cuisson du moût](Chap. 7 - De la cuisson du mout.md)
+    </td>
     <td style="text-align: center; width: 33%;"></td>
     <td style="text-align: right; width: 33%;" markdown="1">
-[Suivant : Chapitre 9<br>Fermentation du moult](Chap. 9 - Fermentation du moult.md)
-</td>
+[Suivant : Chapitre 9<br>Fermentation du moût](Chap. 9 - Fermentation du mout.md)
+    </td>
   </tr>
 </table>
+
 
 [^1]: Dingler's *Journal*, t. CIL, p. 63.
 

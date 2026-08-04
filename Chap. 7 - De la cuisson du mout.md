@@ -229,11 +229,11 @@ en sortir claire. Disposé convenablement, ce mode de filtration paraît être l
 <table style="width: 100%;">
   <tr>
     <td style="text-align: left; width: 33%;" markdown="1">
-[Précédent : Chapitre 6<br>Empatage](Chap. 6 - Empatage.md)
+[Précédent : Chapitre 6<br>Empâtage](Chap. 6 - Empatage.md)
 </td>
     <td style="text-align: center; width: 33%;"></td>
     <td style="text-align: right; width: 33%;" markdown="1">
-[Suivant : Chapitre 8<br>Du refroidissement du moult](Chap. 8 - Du refroidissement du moult.md)
+[Suivant : Chapitre 8<br>Du refroidissement du moût](Chap. 8 - Du refroidissement du mout.md)
 </td>
   </tr>
 </table>

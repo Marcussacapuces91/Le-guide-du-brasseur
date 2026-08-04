@@ -193,6 +193,20 @@ n'agit pas rapidement, on enlève à la bière la levure qui s'y trouve et l'on 
 Si la bière est devenue acide, on y ajoute du bicarbonate de soude afin de saturer l'acide acétique qu'elle contient. Ce
 moyen doit toutefois être considéré comme une falsification ; nous y reviendrons plus loin.
 
+
+<table style="width: 100%;">
+  <tr>
+    <td style="text-align: left; width: 33%;" markdown="1">
+[Précédent : Chapitre 9<br>Fermentation du moût](Chap. 9 - Fermentation du mout.md)
+    </td>
+    <td style="text-align: center; width: 33%;"></td>
+    <td style="text-align: right; width: 33%;" markdown="1">
+[Suivant : Chapitre 11<br>De la fermentation tertiaire](Chap. 11 - De la fermentation tertiaire.md)
+    </td>
+  </tr>
+</table>
+
+
 [^1]: *Loc. cit.*, p. 348.
 
 [^2]: Müller, *loc. cit.*, p. 357.

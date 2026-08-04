@@ -39,22 +39,21 @@ Toutefois, la bière non mousseuse contient une forte proportion d'acide carboni
 lesquelles elle est généralement appréciée comme boisson.
 
 Si la fermentation lente de la bière a lieu dans des tonneaux ou dans des flacons hermétiquement fermés, l'acide
-carbonique s'y accumule précisément comme s'il y avait été comprimé au moyen d'une pression artificielle; et, bien que,
-lorsqu'on la verse, une quantité considérable d'acide carbonique se perde dans l'air, il en reste encore une quantité
-considérable dans la liqueur lorsque cette dernière ne reste exposée que très peu de temps au contact de l'air.
+carbonique s'y accumule précisément comme s'il y avait été comprimé au moyen d'une pression artificielle ; et, bien
+que, lorsqu'on la verse, une quantité considérable d'acide carbonique se perde dans l'air, il en reste encore une
+quantité considérable dans la liqueur lorsque cette dernière ne reste exposée que très peu de temps au contact de l'air.
 
 Une indication plus exacte de la quantité d'acide carbonique qui est condensée dans les bières mousseuses, est du reste
-à peine nécessaire : en effet la bière la plus mousseuse contient, lorsqu'on la livre à la consommation, une quantité
-très variable d'acide carbonique : la plus grande partie de cet acide s'est perdue dans l'air pendant qu'on versait la
-bière. Lorsque la bière a cessé de mousser, elle doit contenir au maximum un volume d'acide carbonique à peu près égal
-au sien, ce qui représente en poids à peu près 2 grammes pour 1 litre de bière[^1].
+à peine nécessaire : en effet la bière la plus mousseuse contient, lorsqu'on la livre à la consommation, une quantité
+très variable d'acide carbonique : la plus grande partie de cet acide s'est perdue dans l'air pendant qu'on versait
+la bière. Lorsque la bière a cessé de mousser, elle doit contenir au maximum un volume d'acide carbonique à peu près
+égal au sien, ce qui représente en poids à peu près 2 grammes pour 1 litre de bière[^1].
 
-*Alcool.* — La quantité d'alcool contenue dans la bière varie aussi notablement, entre les limites de 2 à 8 pour cent,
-en sorte que les bières les plus fortes, relativement à la quantité d'alcool, marchent de pair avec les vins les plus
-faibles.
+*Alcool.* — La quantité d'alcool contenue dans la bière varie aussi notablement, entre les limites de 2 à 8%, en sorte
+que les bières les plus fortes, relativement à la quantité d'alcool, marchent de pair avec les vins les plus faibles.
 
 La quantité d'alcool contenue dans la bière ne dépend pas seulement de la quantité de grains qui a été employée à la
-préparation de la bière : si l'on a employé beaucoup de grains, si l'on a traité convenablement le malt et si la
+préparation de la bière : si l'on a employé beaucoup de grains, si l'on a traité convenablement le malt et si la
 fermentation s'est bien accomplie, la quantité d'alcool doit être plus grande. Le contraire doit avoir lieu lorsque la
 fermentation n'a pas eu un cours bien régulier.
 
@@ -220,7 +219,7 @@ Dufft[^8] a trouvé, dans la bière de Rudolstadt, sur 100 parties :
 </figure>
 
 Dans 11 sortes de bière dont 1 à 6 étaient des bières de garde et 7 à 11 des bières préparées par fermentation
-superficielle et qui avaient été brassées à Rudolstadt, il a trouvé :
+superficielle et qui avaient été brassées à Rudolstadt, il a trouvé :
 
 <figure markdown="1">
 
@@ -380,8 +379,8 @@ expriment les résultats obtenus pour la bière de garde.
 </figure>
 
 Engelmann[^17] a fait, dans le laboratoire de Fresenius, des déterminations de la quantité respective des principes
-contenus dans la bière de Wiesbaden (les quatre premières sortes sont des bières doubles : la dernière est de la petite
-bière) qui présentent une grande importance notamment au point de vue de la comparaison des différentes méthodes
+contenus dans la bière de Wiesbaden (les quatre premières sortes sont des bières doubles : la dernière est de la
+petite bière) qui présentent une grande importance notamment au point de vue de la comparaison des différentes méthodes
 d'analyses. Pour 1, 2 et 3, les déterminations ont été faites par la méthode de Balling ; pour 4 et 5, ces
 déterminations ont été effectuées par la méthode optique de Steinheil.
 
@@ -445,17 +444,17 @@ fixes et libres.
 
 </figure>
 
-Comme on peut le voir, les bières analysées ne manquent pas d'alcool : mais si l'on en excepte le boschbier, la quantité
-d'extrait n'est pas considérable. Toutefois nous ne devons pas omettre d'observer que, dans les expériences de
+Comme on peut le voir, les bières analysées ne manquent pas d'alcool : mais si l'on en excepte le boschbier, la 
+quantité d'extrait n'est pas considérable. Toutefois, nous ne devons pas omettre d'observer que, dans les expériences de
 Hekmeijer, les extraits qui avaient été maintenus à une température de 13° étaient réellement secs. On se demande si
 cela s'applique également aux déterminations d'extraits de bière des autres chimistes. Quelques simples que soit la
 dessiccation d'une substance organique, on ne l'opère souvent qu'incomplètement parce qu'on emploie une température trop
 basse.
 
-Une bière de Hollande d'une très bonne qualité est celle de Nuijs et Cie de Middelbourg, que l'on apprécie généralement
-à cause de sa limpidité, de sa faculté de se conserver et de sa saveur. Avec un extrait dont la quantité s'élève à 5,18,
-on trouve les parties constituantes suivantes ; les principes du houblon, les matières grasses et les autres substances
-qui peuvent être mélangées, n'ont pas été déterminées séparément :
+Une bière de Hollande d'une très bonne qualité est celle de Nuijs et C<sup>ie</sup> de Middelbourg, que l'on apprécie
+généralement à cause de sa limpidité, de sa faculté de se conserver et de sa saveur. Avec un extrait dont la quantité
+s'élève à 5,18, on trouve les parties constituantes suivantes ; les principes du houblon, les matières grasses et les
+autres substances qui peuvent être mélangées, n'ont pas été déterminées séparément :
 
 <figure markdown="1">
    <table>
@@ -483,7 +482,7 @@ d'alcool : dans l'infusion de malt, il devait donc exister 9,9% de sucre. Si no
 d'extrait, nous obtenons 15,08% d'extrait dans le moût avant la fermentation.
 
 Prenons pour autre exemple une ale d'Écosse (p. 265) dans laquelle on a trouvé 8,5 d'alcool et 10,9 d'extrait, nous
-obtiendrons : `8,5 x 2 = 17 + 10,9 = 27,9%` d'extrait dans le moût avant la fermentation.
+obtiendrons : `8,5 x 2 = 17 + 10,9 = 27,9%` d'extrait dans le moût avant la fermentation.
 
 Pour cette dernière, on doit employer par conséquent trois fois plus de grains ou trois fois moins d'eau pour l'infusion
 du malt que pour celle dont nous avons donné un exemple p. 179.
@@ -496,7 +495,7 @@ Pour que nous puissions nous rendre un compte exact des chiffres trouvés, nous 
 approfondie chacune des parties constituantes en particulier que l'on rencontre dans la bière et dont le nombre est loin
 d'être peu considérable.
 
-Parmi les parties constituantes de l'extrait de bière, nous rencontrons inévitablement : de la dextrine, du sucre, de
+Parmi les parties constituantes de l'extrait de bière, nous rencontrons inévitablement : de la dextrine, du sucre, de
 l'acide tannique ou de l'acide gallique, de la substance amère et de la résine de houblon, des substances albumineuses
 de différentes espèces, de l'extrait de levure, de l'extrait de houblon, de la matière grasse, des sels ammoniacaux
 provenant de la décomposition de la levure, des substances salines provenant du malt, du houblon et de l'eau. Nous
@@ -513,24 +512,24 @@ qualité de la bière ou de remplacer un principe utile par un principe moins bo
 En passant en revue ces parties constituantes, nous nous arrêterons sur les plus importantes. Il n'est pas besoin
 d'indiquer que le sucre dont il est ici question est du sucre de fruits et que l'espèce de sucre de fruits à laquelle il
 appartient vient se placer à la limite extrême de la série des sucres et se transforme avec une excessive facilité en
-acide glucique : que la *dextrine*, dans la bière brune, est mélangée avec de la *substance gommeuse produite par
+acide glucique : que la *dextrine*, dans la bière brune, est mélangée avec de la *substance gommeuse produite par
 torréfaction*. Nous n'avons pas besoin de nous arrêter sur le fait même de l'existence de ces trois substances dans la
 bière ; mais nous dirons encore un mot sur leurs quantités respectives.
 
 Les quantités de *dextrine*, de *sucre* et de *substance gommeuse produite par torréfaction* sont proportionnelles à la
-quantité d'extrait : elles en constituent ensemble environ les 7/8. Dans les bières douces, c'est le sucre qui domine :
-dans les bières épaisses peu colorées, c'est la dextrine : dans les bières brunes, c'est la substance gommeuse produite
-par torréfaction, soit seule, soit réunie à la dextrine. Les deux premières sont assurément des principes nutritifs ; en
-ce qui concerne la dernière, cela dépend de la température à laquelle la dessiccation à la touraille a été effectuée. En
-général, si l'on fait abstraction des bières très épaisses, la quantité des trois substances indiquées est faible : une
-beurrée peu épaisse contient une quantité de principes nutritifs beaucoup plus considérable qu'un litre de bonne bière
-dans lequel 30 à 40 grammes des trois substances indiquées se trouvent mélangés.
+quantité d'extrait : elles en constituent ensemble environ les 7/8. Dans les bières douces, c'est le sucre qui
+domine : dans les bières épaisses peu colorées, c'est la dextrine : dans les bières brunes, c'est la substance
+gommeuse produite par torréfaction, soit seule, soit réunie à la dextrine. Les deux premières sont assurément des
+principes nutritifs ; en ce qui concerne la dernière, cela dépend de la température à laquelle la dessiccation à la
+touraille a été effectuée. En général, si l'on fait abstraction des bières très épaisses, la quantité des trois
+substances indiquées est faible : une beurrée peu épaisse contient une quantité de principes nutritifs beaucoup plus
+considérable qu'un litre de bonne bière dans lequel 30 à 40 grammes des trois substances indiquées se trouvent mélangés.
 
 J'ai laissé indécise la question de savoir si la substance gommeuse produite par torréfaction devait être comptée, dans
 toute la force de l'expression, parmi les substances nutritives de la bière qui se transforment entièrement en sucre
 dans l'organisme humain. Ce qui n'a lieu qu'incomplètement dans le moût (p. 83) pourrait peut-être s'effectuer
-entièrement par l'action de la salive ou du suc pancréatique. Les observations nécessaires font encore ici
-entièrement défaut.
+entièrement par l'action de la salive ou du suc pancréatique. Les observations nécessaires font encore ici entièrement
+défaut.
 
 *Substances albumineuses.* — Si l'on ne tient compte que de sa nature même, la bière ne doit pas contenir une grande
 quantité de substances albumineuses ; j'ai déjà examiné plusieurs fois ce sujet avec une exactitude suffisante ; j'ai
@@ -538,10 +537,10 @@ quantité de substances albumineuses ; j'ai déjà examiné plusieurs fois ce s
 des quantités différentes.
 
 Nous devons à peu près les seules connaissances que nous possédions sur ce sujet, à Gorup-Besanez qui a trouvé dans la
-liqueur résultant du traitement de l'extrait de bière par l'alcool une quantité d'azote égale à 1,73 gramme : cet
-extrait provenait de 100 litres de bière de Bavière. En partant, pour le calcul, d'une quantité d'azote égale à 15,5
-p.100, on obtient 25,58 grammes de substances albumineuses p. 100 litres, c'est-à-dire 1/4 de gramme pour 1 litre. Mais
-les substances albumineuses de la bière ne sont pas entièrement solubles dans l'alcool : le résultat que nous venons
+liqueur résultant du traitement de l'extrait de bière par l'alcool une quantité d'azote égale à 1,73 gramme : cet
+extrait provenait de 100 litres de bière de Bavière. En partant, pour le calcul, d'une quantité d'azote égale à 15,5%,
+on obtient 25,58 grammes de substances albumineuses p. 100 litres, c'est-à-dire 1/4 de gramme pour 1 litre. Mais
+les substances albumineuses de la bière ne sont pas entièrement solubles dans l'alcool : le résultat que nous venons
 d'indiquer n'exprime donc pas la quantité totale de substances albumineuses qui est contenue dans la bière.
 
 Liebig, s'appuyant sur des indications contenues dans un mémoire de L. A. Büchner sur la puissance nutritive de la bière
@@ -587,8 +586,8 @@ Par la fermentation, la quantité de substances albumineuses contenue dans 100 p
 levure, et que les 2/3 de ces substances albumineuses passent dans la bière.
 
 On ne peut cependant pas encore, pour différentes raisons, conclure de là qu'il se trouve dans l'extrait de bière 2/3 de
-7 p. 100 ou 4,6 p. 100 de substances albumineuses : on doit d'abord faire remarquer que, par la cuisson et par le
-refroidissement, une partie de l'eau de l'infusion du malt s'évapore : mais, en outre, il n'existe pas de relation
+7 p. 100 ou 4,6 p. 100 de substances albumineuses : on doit d'abord faire remarquer que, par la cuisson et par le
+refroidissement, une partie de l'eau de l'infusion du malt s'évapore : mais, en outre, il n'existe pas de relation
 simple entre l'extrait de malt et l'extrait de bière à cause de la quantité différente de sucre qui est transformée en
 alcool, ce qui peut déterminer une augmentation relative de la quantité des substances albumineuses contenue dans
 l'extrait de bière.
@@ -597,13 +596,13 @@ Si, conformément à la détermination des chimistes anglais, 4,6 p. 100 des sub
 restaient dissoutes, et si les 2/3 du sucre de cet extrait de malt étaient décomposés par la fermentation, l'extrait de
 bière devrait contenir en moyenne 14 p. 100 environ de substances albumineuses.
 
-Dans ce calcul, nous avons admis comme point de départ qu'il y avait 12 p. 100 d'extrait de malt dans l'infusion de malt
-dans laquelle 8 p. 100 de sucre sont décomposés par la fermentation : on devait donc obtenir un extrait de bière
-s'élevant à 4 p. 100. Je n'ai pas tenu compte ici de l'évaporation qui a lieu pendant la cuisson et pendant le
+Dans ce calcul, nous avons admis comme point de départ qu'il y avait 12% d'extrait de malt dans l'infusion de malt
+dans laquelle 8% de sucre sont décomposés par la fermentation : on devait donc obtenir un extrait de bière
+s'élevant à 4%. Je n'ai pas tenu compte ici de l'évaporation qui a lieu pendant la cuisson et pendant le
 refroidissement.
 
-Une pareille bière est une bonne bière : elle contient 4 p. 100 d'alcool et 4 p. 100 d'extrait. — 4 p. 100 d'extrait,
-contenant 14 p. 100 de substances albumineuses, donnent 5,6 grammes de substances albumineuses pour 1 litre de bière.
+Une pareille bière est une bonne bière : elle contient 4% d'alcool et 4% d'extrait. — 4% d'extrait, contenant 14% de
+substances albumineuses, donnent 5,6 grammes de substances albumineuses pour 1 litre de bière.
 
 Je pense en effet que ces nombres expriment approximativement la quantité moyenne de substances albumineuses contenue
 dans une bonne bière. Je reprends de nouveau les points fondamentaux du calcul. On suppose d'abord que le malt
@@ -619,18 +618,18 @@ Que nous apprend du reste l'expérience sous ce rapport ? Hekmeijer a trouvé da
 bier du Boog* 1,60 et 1,68% d'azote et dans l'extrait fourni par une *prinsessen bier*, 1,77. On en déduit par
 le calcul pour la quantité d'albumine contenue dans l'extrait provenant de la *oud bruin bier* 10,7% et pour la
 quantité d'albumine contenue dans l'extrait provenant de la *prinsessen bier* 11,5 p. 100; ces résultats, comme on le
-voit, présentent une concordance suffisante avec ceux que nous avons trouvés par les deux autres méthodes : la *oud
-bruin bier* contenait 3,8 p. 100 d'extrait : la *prinsessen bier* contenait 4 p. 100 d'extrait (p. 272).
+voit, présentent une concordance suffisante avec ceux que nous avons trouvés par les deux autres méthodes : la *oud
+bruin bier* contenait 3,8% d'extrait : la *prinsessen bier* contenait 4% d'extrait (p. 272).
 
 Dans un litre de bière, on trouve, ainsi que nous l'avons vu p. 272 pour la *oud bruin bier*, 4,1 grammes ; pour la
 *prinsessen bier*, 4,6 grammes de substances albumineuses.
 
 La bière de Nuijs et C<sup>ie</sup>, dont il a été question p. 273, contenait une quantité double de substances
 albumineuses, c'est-à-dire 8,3 grammes pour 1 litre. L'albumine contenue dans l'extrait atteignait la proportion élevée
-de 16 p. 100 de l'extrait ; en effet, 100 parties d'extrait fournissaient 2,46 d'azote.
+de 16% de l'extrait ; en effet, 100 parties d'extrait fournissaient 2,46 d'azote.
 
 Payen[^21] indique une bonne bière de Strasbourg dont l'analyse avait été faite par lui et par Poinsot. Cette bière, qui
-avait été préparée au moyen d'orge et de houblon, contenait :
+avait été préparée au moyen d'orge et de houblon, contenait :
 
 <figure>
    <table>
@@ -644,26 +643,26 @@ avait été préparée au moyen d'orge et de houblon, contenait :
 100 parties d'extrait sec donnaient 1,69 d'azote, en sorte que 1 litre de cette bière contenait 48,4 grammes d'un
 extrait dont la proportion d'azote était presque égale à celle de l'orge ; en effet, en partant d'une quantité d'azote
 égale à 15,5%, on trouvait par le calcul 10,9% de substance azotée. Dans 100 parties de cette bière, il se
-trouvait 0,08 d'azote ; si l'on en déduit la quantité des substances albumineuses, on trouve 0,52 : ce qui nous donne de
-nouveau la forte proportion de 5 grammes par litre de bière.
+trouvait 0,08 d'azote ; si l'on en déduit la quantité des substances albumineuses, on trouve 0,52 : ce qui nous
+donne de nouveau la forte proportion de 5 grammes par litre de bière.
 
 Wackenroder dit avoir trouvé, dans toutes les bières, de l'albumine végétale qui se coagulait par l'évaporation de la
 bière et dont la quantité s'élevait à 1/4 et à 3/4 % du poids de l'extrait de bière[^22]. La quantité qu'il indique
 est beaucoup trop faible. — Les analyses de Wackenroder que nous avions citées p. 268, indiquent pour les substances
-albumineuses contenues dans la bière une proportion qui est également peu considérable : il trouve, en effet, pour 10000
-parties de bière 2 parties comme minimum et 8 comme maximum. Ces quantités sont encore beaucoup trop petites.
+albumineuses contenues dans la bière une proportion qui est également peu considérable : il trouve, en effet, pour
+10000 parties de bière 2 parties comme minimum et 8 comme maximum. Ces quantités sont encore beaucoup trop petites.
 
-Les substances azotées qui peuvent se trouver dans la bière, sont :
+Les substances azotées qui peuvent se trouver dans la bière, sont :
    
 1. Des substances qui se sont produites par l'action de l'ébullition sur les matières albumineuses solubles dans
-   l'eau ;
-2. Des substances albumineuses solubles dans les acides faibles (l'acide acétique, acide lactique) ;
-3. Un reste de parties constituantes d'agent transformateur qui s'est formé après la cuisson ;
+   l'eau ;
+2. Des substances albumineuses solubles dans les acides faibles (l'acide acétique, acide lactique) ;
+3. Un reste de parties constituantes d'agent transformateur qui s'est formé après la cuisson ;
 4. De l'extrait de levure (p. 211).
 
 La bière donne avec l'acide tannique un précipité considérable, ce qui vient de ce qu'elle tient de l'albumine en
 dissolution. Cependant, le moût a été soumis à l'ébullition avant la fermentation, et il a même été bouilli avec du
-houblon contenant du tannin. — Combien nous sommes loin de connaître cette classe importante de substances !
+houblon contenant du tannin. — Combien nous sommes loin de connaître cette classe importante de substances !
 
 Lorsque nous nous occuperons de l'analyse de la bière, nous verrons que l'on peut y distinguer au moins quatre sortes
 différentes de substances albumineuses.
@@ -706,8 +705,9 @@ la liqueur cuivrique d'épreuve.
 
 Tel est l'état de nos connaissances sur cette substance. Ce n'est pas de l'extrait de levure ; en effet de 1,5 à 3 et
 6% en volumes de levure de bière, on retire 4,4, 3,7 et 3,7% de sucre employé. Si, par suite, il y avait une
-quantité suffisante de levure, une plus grande quantité de levure ne pouvait pas être en état d'en produire davantage :
-cette substance est donc un produit de la décomposition du sucre par la fermentation et ne provient pas de la levure.
+quantité suffisante de levure, une plus grande quantité de levure ne pouvait pas être en état d'en produire
+davantage : cette substance est donc un produit de la décomposition du sucre par la fermentation et ne provient pas
+de la levure.
 
 Cette substance paraît être de l'acide glucique[^24] : on la sépare de la bière en la faisant digérer avec de la
 chaux, ainsi que nous le ferons voir un peu plus loin. La liqueur, filtrée et séparée de l'excès de chaux, est évaporée,
@@ -730,14 +730,14 @@ Dans tous les cas, il ne s'en trouve qu'une petite quantité dans la bière.
 Cet acide contribue en partie avec l'acide lactique et l'acide acétique à communiquer à la bière une saveur acidulé.
 
 *Autres acides organiques.* — Il y a deux acides qui ne manquent dans aucune bière et qui, par la nature même du mode de
-préparation de la bière, ne peuvent pas manquer : ces deux acides sont l'acide lactique et l'acide acétique. Ce dernier
+préparation de la bière, ne peuvent pas manquer : ces deux acides sont l'acide lactique et l'acide acétique. Ce dernier
 est volatil, le premier ne l'est pas.
 
 *Acide acétique.* — La production d'une trace d'acide acétique est inévitable, dès qu'un liquide alcoolique étendu, qui
 est mélangé avec des substances organiques, se trouve en contact avec l'air. Il se produit alors de l'acide acétique
 pendant et après la fermentation. On peut le séparer par distillation, pourvu que l'on continue la distillation assez
 longtemps ; en effet l'extrait de bière retient fortement l'acide acétique. La quantité d'acide acétique contenue
-dans la bonne bière est très faible : elle a été indiqué p. 267 et p. 272.
+dans la bonne bière est très faible : elle a été indiqué p. 267 et p. 272.
 
 *Acide lactique.* — Nous avons déjà traité, d'une manière suffisamment détaillée, de l'acide lactique qui est contenu
 dans la bière. On le retrouve dans toutes les bières. Marchand a indiqué sa présence dans les bières belges. En faisant
@@ -769,13 +769,13 @@ avec celle que l'on n'a pas fait digérer avec de la peau, on reconnaît l'absen
 l'acide gallique. Dans la liqueur que l'on a fait digérer avec de la peau, le sel de sesquioxyde de fer produit une
 coloration aussi prononcée que dans la portion de la liqueur qui n'a pas subi le même traitement.
 
-Toutes les bières de garde se comportent de la même manière : dans les bières jeunes, on peut trouver des traces d'acide
-tannique ; dans le moût après la fermentation, on en trouve une plus grande quantité ; dans le moût après la cuisson, on
-en trouve une quantité encore plus grande. L'air qui est en dissolution dans la bière, suffit pour transformer en acide
-gallique la petite quantité d'acide tannique qui s'y trouve.
+Toutes les bières de garde se comportent de la même manière : dans les bières jeunes, on peut trouver des traces
+d'acide tannique ; dans le moût après la fermentation, on en trouve une plus grande quantité ; dans le moût après la
+cuisson, on en trouve une quantité encore plus grande. L'air qui est en dissolution dans la bière, suffit pour
+transformer en acide gallique la petite quantité d'acide tannique qui s'y trouve.
 
 *Sels ammoniacaux.* — La bière n'en contient qu'une très petite quantité. Le malt contient de l'acide phosphorique et de
-la magnésie : si donc, dans la fermentation, il s'est produit de l'ammoniaque par la décomposition de la levure, elle
+la magnésie : si donc, dans la fermentation, il s'est produit de l'ammoniaque par la décomposition de la levure, elle
 doit déterminer une production de phosphate ammoniaco-magnésien. Tel est le motif pour lequel on ne trouve que des
 traces d'ammoniaque dans la bière lorsqu'elle est claire, à moins que, en décomposant par un alcali les substances
 albumineuses de la bière, on n'ait déterminé ainsi un dégagement d'ammoniaque. Parmi les substances albumineuses, il y
@@ -783,7 +783,7 @@ en a qui ne peuvent pas supporter l'action de l'alcali même le plus faible sans
 un dégagement d'ammoniaque.
 
 Lorsqu'on tient compte de l'acide phosphorique et de la magnésie que l'on rencontre dans toutes les bières, on pourrait
-penser que l'on ne peut y rencontrer aucune trace d'ammoniaque : mais on doit observer qu'une certaine quantité de
+penser que l'on ne peut y rencontrer aucune trace d'ammoniaque : mais on doit observer qu'une certaine quantité de
 phosphate ammoniaco-magnésien insoluble, à un état de très grande division, peut être retenue par la dextrine de la
 bière. Quoi qu'il en soit, la quantité d'ammoniaque contenue dans la bière est excessivement faible, ainsi que nous
 l'avons déjà fait observer.
@@ -811,9 +811,9 @@ bien nette à cet égard ; en effet, on n'opère pas la distillation de très gr
 possible d'obtenir sans cela une quantité suffisante de produits volatils.
 
 Je ne sais pas sur quelles raisons on s'appuie pour admettre d'une manière si positive l'absence des huiles de pommes de
-terre dans la bière. Il s'en produit dans toute espèce de fermentation : dans celle des grains (esprit de malt), il s'en
-produit une quantité considérable. Pourquoi donc, en présence d'une grande quantité d'eau, ne s'en produirait-il aucune
-trace ?
+terre dans la bière. Il s'en produit dans toute espèce de fermentation : dans celle des grains (esprit de malt), il
+s'en produit une quantité considérable. Pourquoi donc, en présence d'une grande quantité d'eau, ne s'en produirait-il
+aucune trace ?
 
 *Acide sulfureux, huiles pyrogènèes, huile essentielle de houblon.* — Lorsqu'on veut conserver pendant longtemps des
 bières en tonneaux, et lorsqu'on emploie pour cela de grands tonneaux, on a, dans quelques localités, l'habitude de
@@ -841,27 +841,27 @@ matière grasse et la résine de houblon ; pour la substance amère, on la disso
 Il n'existe pas de bière houblonnée dans laquelle la présence des deux principes ne puisse pas être démontrée.
 
 *Matières colorantes du malt touraillé.* — Plus le malt a été fortement touraillé, plus la bière est foncée. Les
-matières colorantes du malt touraillé sont de deux sortes : une portion de ces matières colorantes se précipite quand on
-traite la bière par l'acétate neutre de plomb, tandis qu'une autre portion reste dans la liqueur. La portion qui s'est
-combinée avec le plomb paraît être de l'acide apoglucique, du moins elle se comporte comme telle : la portion de ces
-matières colorantes qui reste dissoute dans la liqueur plombique ne présente en aucune manière les caractères d'un
-acide. Elle n'est pas précipitée par le chlorure d'étain ; elle peut, du reste, être séparée. Si l'on ajoute de
+matières colorantes du malt touraillé sont de deux sortes : une portion de ces matières colorantes se précipite quand 
+on traite la bière par l'acétate neutre de plomb, tandis qu'une autre portion reste dans la liqueur. La portion qui
+s'est combinée avec le plomb paraît être de l'acide apoglucique, du moins elle se comporte comme telle : la portion
+de ces matières colorantes qui reste dissoute dans la liqueur plombique ne présente en aucune manière les caractères
+d'un acide. Elle n'est pas précipitée par le chlorure d'étain ; elle peut, du reste, être séparée. Si l'on ajoute de
 l'hydrogène sulfuré à la liqueur filtrée et séparée ainsi du précipité produit par le chlorure d'étain, et si l'on
 détermine ainsi une précipitation de sulfure d'étain, toute la matière colorante reste avec le sulfure d'étain par suite
-d'une attraction de surface : la liqueur que l'on sépare du sulfure d'étain est incolore, et la matière colorante peut
+d'une attraction de surface : la liqueur que l'on sépare du sulfure d'étain est incolore, et la matière colorante peut
 ensuite être séparée du sulfure d'étain.
 
 Les *parties constituantes inorganiques de la bière*, à l'exception toutefois de la petite quantité que le houblon et
 l'eau ont apportée et que nous négligerons ici, proviennent du malt ou du grain que l'on a employé concurremment avec le
 malt. Le malt, lorsqu'il est épuisé, est cependant bien loin d'avoir perdu tous les sels inorganiques qu'il contenait
-(p. 172) : et en effet, la totalité des sels inorganiques du malt n'a pas passé dans le moût. S'il en était ainsi, la
+(p. 172) : et en effet, la totalité des sels inorganiques du malt n'a pas passé dans le moût. S'il en était ainsi, la
 bière serait une dissolution concentrée de ces combinaisons salines. La dissolution est, du reste, suffisamment
 concentrée, ce que l'on doit attribuer d'abord à ce qu'un très grand nombre des principes organiques insolubles de
 l'orge sont devenus solubles ; en effet, la plus grande partie de l'amidon s'est transformée en dextrine et en sucre
 solubles.
 
-Mais, de plus, des acides prennent naissance dans la préparation de toute espèce de bière : il se produit toujours une
-certaine quantité d'acide lactique qui peut même quelquefois être considérable, et au moins une certaine quantité
+Mais, de plus, des acides prennent naissance dans la préparation de toute espèce de bière : il se produit toujours
+une certaine quantité d'acide lactique qui peut même quelquefois être considérable, et au moins une certaine quantité
 d'acide acétique. La solubilité des sels contenus dans le malt devient ainsi plus grande, et le phosphate de chaux,
 ainsi que le phosphate de magnésie, se dissolvent.
 
@@ -871,14 +871,14 @@ chlorure de sodium, il se trouvait, dans l'orge, du sulfate de potasse et d'autr
 et du phosphate de soude qui sont tous deux des sels solubles dans l'eau. L'acide phosphorique domine du reste à un tel
 point qu'il détermine le caractère de toute la cendre d'orge.
 
-La bière doit donc contenir une quantité considérable de sels inorganiques : je leur ai attribué, p. 2, une partie de la
-puissance nutritive de la bière ; et, comme nous avons maintenant démontré d'une manière plus positive l'existence de
-ces combinaisons salines dans la bière, nous pouvons faire ressortir l'utilité de l'usage de la bière pour les personnes
-sur lesquelles ces combinaisons salines peuvent exercer un effet salutaire, comme lés convalescents, les enfants
-scrofuleux ou les personnes rachitiques, les femmes qui allaitent, *etc.*, *etc.*
+La bière doit donc contenir une quantité considérable de sels inorganiques : je leur ai attribué, p. 2, une partie de
+la puissance nutritive de la bière ; et, comme nous avons maintenant démontré d'une manière plus positive l'existence
+de ces combinaisons salines dans la bière, nous pouvons faire ressortir l'utilité de l'usage de la bière pour les
+personnes sur lesquelles ces combinaisons salines peuvent exercer un effet salutaire, comme lés convalescents, les
+enfants scrofuleux ou les personnes rachitiques, les femmes qui allaitent, *etc.*, *etc.*
 
 Dans la fermentation du moût qui a subi l'ébullition, il se sépare de la levure, et, par suite il se sépare de ce
-liquide une quantité considérable de phosphates : en effet, la levure est riche en phosphates (p. 241).
+liquide une quantité considérable de phosphates : en effet, la levure est riche en phosphates (p. 241).
 
 Cependant, il en reste encore dans la bière. Une expérience très simple peut du reste nous montrer que, dans toutes les
 bières et surtout dans les bières très fortes, il existe une quantité notable de phosphate de chaux et de phosphate de
@@ -893,7 +893,7 @@ concordance que la cendre de bière d'orge présente avec la cendre d'orge.
 En général, la composition de la cendre d'une bière est un signe caractéristique de la qualité de cette bière. Les
 pommes de terre, le sirop de fécule de pommes de terre, les autres sirops et les autres substances que l'on emploie à la
 préparation de la bière, donnent une bière qui fournit, par la combustion, des cendres d'une autre composition et dont
-la quantité est moindre : ces cendres contiennent donc moins de phosphates.
+la quantité est moindre : ces cendres contiennent donc moins de phosphates.
 
 W. Martius[^29] a analysé les cendres d'une bière d'Erlangen.
 
@@ -911,7 +911,7 @@ W. Martius[^29] a analysé les cendres d'une bière d'Erlangen.
 | Chlore             |         2,91         |        1,3         |              1,3               |
 | Acide silicique    |        10,82         |        33,1        |              33,7              |
 
-Cendres pour 1000 parties de bière : 2,88 ; extrait : 36,93
+Cendres pour 1000 parties de bière : 2,88 ; extrait : 36,93
 
 </figure>
 
@@ -933,9 +933,9 @@ celle de la bière même.
 
 Les bières sur lesquelles ces analyses ont été opérées étaient des bières d'Erlangen d'une même période de brassage.
 
-Mitscherlich a trouvé dans la cendre d'une bière qui avait été préparée au moyen de la fermentation par dépôt : 40,8 de
-potasse ; 0,5 de soude ; 20 de phosphate de magnésie ; 20 d'acide phosphorique ; 2,6 de phosphate de chaux ;
-16,6 d'acide silicique (p. 241).
+Mitscherlich a trouvé dans la cendre d'une bière qui avait été préparée au moyen de la fermentation par dépôt : 40,8 
+de potasse ; 0,5 de soude ; 20 de phosphate de magnésie ; 20 d'acide phosphorique ; 2,6 de phosphate de
+chaux ; 16,6 d'acide silicique (p. 241).
 
 Les analyses que nous avons indiquées nous apprennent en général que la cendre de bière se rapproche de la composition
 de la cendre d'orge.
@@ -958,9 +958,9 @@ porter de 5,7 à 14,6% de cendres, et avec l'ale de 3,4 à 12,0% de cendres qui 
 
 </figure>
 
-Berzelius[^32] désigne comme parties constituantes de la cendre de la bière : le phosphate de potasse mélangé avec une
-très petite quantité de sulfate de potasse, de carbonate de potasse et de chlorure de potassium ; du phosphate de chaux,
-du phosphate de magnésie et un peu de silice.
+Berzelius[^32] désigne comme parties constituantes de la cendre de la bière : le phosphate de potasse mélangé avec
+une très petite quantité de sulfate de potasse, de carbonate de potasse et de chlorure de potassium ; du phosphate de
+chaux, du phosphate de magnésie et un peu de silice.
 
 Si l'on y ajoute du phosphate de soude, la composition est exacte. On ne doit cependant pas s'attendre à ce que
 l'analyse des cendres de la bière donne toute espèce de résultat heureux relativement à la composition de la bière. En
@@ -975,14 +975,14 @@ donne 805 g. d'acide phosphorique.
 
 100 parties de malt laissent par le brassage 33 à 36 parties de résidu qui contiennent 1% d'acide phosphorique. De
 l'acide phosphorique contenu dans 115 kg de malt, il en passe donc 350 g dans la bière. Avec 115 kg de malt,
-on brasse en Bavière 7 *Eimers* ou 478 litres de bière d'hiver et 6 *Eimers* ou 411 litres de bières d'été : 1 litre
+on brasse en Bavière 7 *Eimers* ou 478 litres de bière d'hiver et 6 *Eimers* ou 411 litres de bières d'été : 1 litre
 de bière d'hiver contient donc 0,73 g d'acide phosphorique et 1 litre de bière d'été, 0,85 du même acide.
 
 Partant de là, Keller veut que la quantité d'acide phosphorique contenue dans la bière devienne un signe caractéristique
-de la quantité de malt qui a été employée à la préparation de la bière. Mais cela est impossible : une eau calcaire
+de la quantité de malt qui a été employée à la préparation de la bière. Mais cela est impossible : une eau calcaire
 enlève de l'acide phosphorique à la bière. La présence d'une grande quantité d'acide lactique dans la bière pourrait
 faire entrer dans la bière une nouvelle quantité d'acide phosphorique. Mais nous ne pouvons pas nous rendre compte de
-ces deux circonstances : et, quelque exacte que soit en général la conclusion de Keller, les raisons que nous avons
+ces deux circonstances : et, quelque exacte que soit en général la conclusion de Keller, les raisons que nous avons
 indiquées s'opposent à ce qu'elle puisse être utilisée pour une application de cette nature.
 
 Keller pense avec beaucoup de raison que la quantité d'acide phosphorique contenue dans la bière est une des conditions
@@ -1006,11 +1006,12 @@ fraîche de bœuf et dans 220 grammes de pain (contenant 45% d'eau).
 
 
 [^1]: Pour empêcher l'acide carbonique de s'échapper des tonneaux qui sont partiellement remplis d'air, Wecker
-      (*Polyt. centr. Blatt.*, 1857 p. 895) a recommandé de comprimer de l'air dans les tonneaux : cet air exerce alors
-      une pression sur la bière et par conséquent aussi sur l'acide carbonique qu'elle contient, en sorte que cet acide
-      ne peut pas s'échapper.
+      (*Polyt. centr. Blatt.*, 1857 p. 895) a recommandé de comprimer de l'air dans les tonneaux : cet air exerce
+      alors une pression sur la bière et par conséquent aussi sur l'acide carbonique qu'elle contient, en sorte que cet
+      acide ne peut pas s'échapper.
       
-      Ce procédé peut présenter des difficultés dans la pratique : mais il parait devoir bien répondre au but proposé.
+      Ce procédé peut présenter des difficultés dans la pratique : mais il parait devoir bien répondre au but
+      proposé.
 
       Wecker voudrait que l'on soumit à la même pression la bière contenue dans les grands tonneaux où l'on conserve la
       bière en cave, dans les véritables pays à bière, et dont on la soutire directement pour la livrer a la
@@ -1021,7 +1022,7 @@ fraîche de bœuf et dans 220 grammes de pain (contenant 45% d'eau).
 
 [^2]: Gerding, dans Musprat-Stohmann, *loc. cit.*, p. 691.
 
-[^3]: *Kunst und Gewerbe-Blatt des Polyt. Vereins in Berlin*, 1842 : extrait du *Pharm. Centr. Blatt.*
+[^3]: *Kunst und Gewerbe-Blatt des Polyt. Vereins in Berlin*, 1842 : extrait du *Pharm. Centr. Blatt.*
 
 [^4]: *Loc. cit.* ,1842
 

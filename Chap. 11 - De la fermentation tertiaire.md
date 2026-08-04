@@ -99,6 +99,7 @@ de temps en contact avec l'air.
   </tr>
 </table>
 
+
 [^1]: *De Wijn*, p. 104.
 
 [^2]: *De Winj*, p. 71.

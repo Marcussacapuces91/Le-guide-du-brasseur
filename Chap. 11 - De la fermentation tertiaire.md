@@ -13,24 +13,24 @@ En indiquant les expériences de Berthelot, j'ai déjà eu l'occasion (p. 241) d
 Subit pendant cette troisième période de la fermentation.
 
 Cette fermentation tertiaire se produit dans toutes les bières ; mais elle n'est pas toujours accompagnée des mêmes
-phénomènes. La bière préparée au moyen de la fermentation par dépôt contient peu de sucre et beaucoup d'acide lactique ;
-elle ne mousse jamais fortement lorsqu'on la verse hors du flacon qui la contient. Dans la bière qui a été préparée au
-moyen de la fermentation superficielle et qui contient beaucoup de sucre, il se produit, lorsque cette bière contient
-une quantité suffisante de levure, une diminution de la quantité de sucre et une augmentation de la quantité d'alcool,
-et cette bière peut retenir un volume d'acide carbonique quadruple ou quintuple du sien. Les flacons ou les cruches ont
-par conséquent à supporter une pression de deux à trois atmosphères.
+phénomènes. La bière préparée au moyen de la fermentation par dépôt contient peu de sucre et beaucoup d'acide
+lactique ; elle ne mousse jamais fortement lorsqu'on la verse hors du flacon qui la contient. Dans la bière qui a été
+préparée au moyen de la fermentation superficielle et qui contient beaucoup de sucre, il se produit, lorsque cette bière
+contient une quantité suffisante de levure, une diminution de la quantité de sucre et une augmentation de la quantité
+d'alcool, et cette bière peut retenir un volume d'acide carbonique quadruple ou quintuple du sien. Les flacons ou les
+cruches ont par conséquent à supporter une pression de deux à trois atmosphères.
 
-La bière, préparée au moyen de la fermentation par dépôt, si on ne la soutire que lorsque la levure-s'en est entièrement
+La bière, préparée au moyen de la fermentation par dépôt, si on ne la soutire que lorsque la levure s'en est entièrement
 séparée et si on la transvase en ayant soin de la maintenir autant que possible à l'abri du contact de l'air, dans des
 tonneaux, quelquefois même très grands, peut être conservée claire, pourvu que la température du cellier soit
 suffisamment basse. La basse température est ici une condition essentielle de la bonne conservation de la bière. La
-fermentation tertiaire ne s'arrête pas lorsque la température descend jusqu'à 10° et 12° et même au-dessous : mais elle
-marche alors très lentement, et cette lenteur de la fer. mentation tertiaire est précisément une des causes de la bonne
-conservation de la bière.
+fermentation tertiaire ne s'arrête pas lorsque la température descend jusqu'à 10° et 12° et même au-dessous : mais
+elle marche alors très lentement, et cette lenteur de la fer. mentation tertiaire est précisément une des causes de la
+bonne conservation de la bière.
 
 Pour éviter que l'air ne pénètre dans les tonneaux qui contiennent la bière, on a en Bavière l'habitude de les enduire
 intérieurement d'une couche de poix, ce qui présente en outre l'avantage d'introduire dans la bière, ainsi que les
-anciens le faisaient pour leurs vins 1, une certaine quantité d'huile pyrogénée qui exerce une action contraire à la
+anciens le faisaient pour leurs vins[^1], une certaine quantité d'huile pyrogénée qui exerce une action contraire à la
 décomposition.
 
 Les bières que l'on puise au tonneau finissent toutes par devenir acides lorsqu'on ne consomme pas en peu de jours tout
@@ -41,11 +41,8 @@ qui se dégage toujours de la bière, ce soutirage de la bière au moyen d'une p
 robinet), est un moyen qui peut l'empêcher en partie de devenir acide, parce que l'acide carbonique qui se dégage
 continuellement de la bière, remplit alors la partie du tonneau qui devient vide. Mais les dernières portions de bière
 que l'on soutire d'un pareil tonneau, présentent une saveur fade, ce qui vient de ce que la bière a perdu de l'acide
-carbonique : en effet, au fur et à mesure que le tonneau se
-
-1. De Wijn, p. 104.
-
-vide, l'espace vide se remplit d'acide carbonique et la bière en perd une quantité proportionnelle.
+carbonique : en effet, au fur et à mesure que le tonneau se vide, l'espace vide se remplit d'acide carbonique et la
+bière en perd une quantité proportionnelle.
 
 Comme la bière est continuellement en fermentation et comme elle cesse d'être de la bière dès que la fermentation y est
 terminée, on peut tirer de là, en ce qui concerne sa conservation, les conséquences suivantes.
@@ -54,9 +51,9 @@ Lorsqu'on la conserve dans des tonneaux qui sont hermétiquement fermés et qui 
 bière, qui paraît avoir cessé de fermenter, se charge d'une quantité d'acide carbonique de plus en plus considérable, en
 sorte que, lorsqu'on ouvre les tonneaux, cet acide carbonique s'en dégage en donnant naissance à une mousse dont la
 quantité est plus abondante ou plus faible, suivant que la marche de la fermentation a été plus vive ou plus paisible.
-L'air n'est aucunement nécessaire pour cela 1. Par la fermentation qui se produit dans les tonneaux, ou bien dans les
+L'air n'est aucunement nécessaire pour cela[^2]. Par la fermentation qui se produit dans les tonneaux, ou bien dans les
 flacons ou dans les cruches, la quantité de l'alcool augmente, tandis que la quantité de sucre diminue. La bière devient
-donc plus excitante, moins douceâtre au goût et moins nutritive : en même temps, elle devient plus légère. Il se
+donc plus excitante, moins douceâtre au goût et moins nutritive : en même temps, elle devient plus légère. Il se
 produit ici, d'après les expériences de Berthelot (p. 245), de l'acide lactique et peut-être aussi de l'acide butyrique.
 Nous ne devons pas omettre d'indiquer en outre comme résultat de ces expériences (que nous avons passées en revue avec
 détail, afin de pouvoir en déduire ici en peu de mots les conséquences relatives à la décomposition de la bière), ce
@@ -64,14 +61,12 @@ fait que, dans la conservation de la bière en tonneaux entièrement fermés, le
 dans la même proportion que le sucre, en sorte que, finalement, dans la bière que l'on conserve en tonneaux fermés, on
 doit arriver à un état qui ne permette plus aucune transformation ultérieure. Il ne s'y trouve pas une quantité
 considérable de sucre et il n'y existe pas non plus une quantité considérable de substance susceptible de se transformer
-en ferment : l'alcool, l'acide carbonique et l'acide lactique s'y trouvent au contraire en quantité considérable.
+en ferment : l'alcool, l'acide carbonique et l'acide lactique s'y trouvent au contraire en quantité considérable.
 Comment, par suite, une action chimique pourrait-elle encore s'y produire ? La dextrine qui y existe remplit la fonction
 d'envelopper l'acide lactique de manière que la bière ne présente pas une saveur acide.
 
-1. De Winj, p. 71.
-
 C'est ainsi que je me rends compte de l'état d'une bière préparée au moyen de la fermentation par dépôt, et contenue
-depuis quelque temps dans des tonneaux fermés. La liqueur ne se trouve pas à l'état de repos chimique absolu ; mais
+depuis quelque temps dans des tonneaux fermés. La liqueur ne se trouve pas à l'état de repos chimique absolu ; mais
 l'activité chimique y est réduite à son minimum, et la bière, par sa manière d'être au point de vue chimique, ne se
 distingue alors que peu du vieux vin, en faisant abstraction toutefois de ce fait qu'elle est saturée d'acide
 carbonique.
@@ -90,3 +85,21 @@ très vive, en sorte que l'on ne doit penser en aucune manière à un équilibre
 l'acide carbonique qui était comprimé, s'échappe à l'extérieur avec force, et la bière, qui était claire pendant qu'on
 la versait, se trouble et laisse déposer une quantité considérable de levure au fond du verre, si on l'y laisse un peu
 de temps en contact avec l'air.
+
+
+<table style="width: 100%;">
+  <tr>
+    <td style="text-align: left; width: 33%;" markdown="1">
+[Précédent : Chapitre 10<br>De la fermentation complémentaire](Chap. 10 - De la fermentation complémentaire.md)
+    </td>
+    <td style="text-align: center; width: 33%;"></td>
+    <td style="text-align: right; width: 33%;" markdown="1">
+[Suivant : Chapitre 12<br>Des altérations de la bière](Chap. 12 - Des altérations de la bière.md)
+    </td>
+  </tr>
+</table>
+
+[^1]: *De Wijn*, p. 104.
+
+[^2]: *De Winj*, p. 71.
+

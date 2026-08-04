@@ -140,7 +140,7 @@ Les parties constituantes solubles dans l'eau qui existent dans les grains et da
 ainsi obtenues. Pour les grains, cette opération pouvait être facilement effectuée ; mais, pour les malts, elle
 présentait un certain degré de difficulté, ce qui venait de ce que les matières albumineuses que ces malts contenaient
 se décomposaient très facilement et déterminaient également la décomposition de l'amidon. Par suite, on obtenait, d'une
-part, des résultats inexacts, et, d'autre part, la filtration devenait impossible.— Le seul mode d'opérer qui restait à
+part, des résultats inexacts, et, d'autre part, la filtration devenait impossible. — Le seul mode d'opérer qui restait à
 employer, était le suivant : après avoir moulu le malt en poudre fine, on le laisse digérer pendant quelques heures avec
 de l'eau froide, en ayant soin d'agiter de temps en temps : on laisse ensuite les parties solides se déposer : on
 décante la liqueur claire au moyen d'une pipette, on la porte dans un vase taré ; on l'évapore, on la dessèche à 120°C
@@ -173,14 +173,15 @@ cuivrique, la liqueur ainsi obtenue. Dans les liqueurs provenant des quatre sort
 réduction instantanée et si l'on considère la substance qui a déterminé la réduction comme étant du sucre de canne, on
 obtient pour cent, dans chacune des espèces de grains indiquées :
 
-<figure markdown='1'>
-    <table>
-        <tr><th>Source         </th><th>Sucre </th></tr>
-        <tr><td>Dans le froment</td><td>0,22%</td></tr>
-        <tr><td>Dans l'orge    </td><td>0,19%</td></tr>
-        <tr><td>Dans le seigle </td><td>0,08%</td></tr>
-        <tr><td>Dans l'avoine  </td><td>0,12%</td></tr>
-    </table>
+<figure markdown="1">
+
+| Source          | Sucre |
+|-----------------|:-----:|
+| Dans le froment | 0,22% |
+| Dans l'orge     | 0,19% |
+| Dans le seigle  | 0,08% |
+| Dans l'avoine   | 0,12% |
+
 </figure>
 
 Le maximum s'élève donc dans le grain à 0,002.
@@ -324,7 +325,7 @@ J'ai en outre jugé bon de donner ici les résultats des analyses des cendres de
 <th colspan=2>Orge</th>
 <th colspan=2>Malt d'Orge<br/>desséché à l'air.</th>
 <th colspan=2>Malt d'Orge<br/>desséché à la Touraille[^a]</th>
-<th rowspan=2>Malt d'Orge<br/>desséché fortement à la Touraille</th>
+<th colspan=2>Malt d'Orge<br/>desséché fortement à la Touraille</th>
 </tr>
 <tr>
 <th>Veltman</th>
@@ -412,23 +413,24 @@ préparation de la bière. Nous reproduisons ci-dessous ces chiffres déjà conn
 qui correspondent à l'orge desséchée.
 
 <figure markdown='1'>
-  <figcaption>**Composition de l'orge, d'après Oudemans.**</figcaption>
-  <table>
-    <tr><th>                       </th><th>Orge non desséchée</th><th>Orge desséchée</th></tr>
-    <tr><th>Amidon                 </th><td> 53,8             </td><td> 65,7         </td></tr>
-    <tr><th>Dextrine               </th><td>  4,5             </td><td>  5,5         </td></tr>
-    <tr><th>Matières cellulaires   </th><td>  7,7             </td><td>  9,4         </td></tr>
-    <tr><th>Matières albumineuses  </th><td>  9,7             </td><td> 11,8         </td></tr>
-    <tr><th>Matière grasse         </th><td>  2,1             </td><td>  2,5         </td></tr>
-    <tr><th>Substances inorganiques</th><td>  2,5             </td><td>  3,1         </td></tr>
-    <tr><th>Eau                    </th><td> 18,1             </td><td>  ---         </td></tr>
-    <tr><th>Autres substances      </th><td>  1,6             </td><td>  2,0         </td></tr>
-    <tr><th>                       </th><th>100,0             </th><th>100,0         </th></tr>
-  </table>
+  <figcaption markdown="1">**Composition de l'orge, d'après Oudemans.**</figcaption>
+
+|                             | Orge non desséchée | Orge desséchée |
+|-----------------------------|:------------------:|:--------------:|
+| **Amidon**                  |        53,8        |      65,7      |
+| **Dextrine**                |        4,5         |      5,5       |
+| **Matières cellulaires**    |        7,7         |      9,4       |
+| **Matières albumineuses**   |        9,7         |      11,8      |
+| **Matière grasse**          |        2,1         |      2,5       |
+| **Substances inorganiques** |        2,5         |      3,1       |
+| **Eau**                     |        18,1        |      ---       |
+| **Autres substances         |        1,6         |      2,0       |
+|                             |     **100,0**      |   **100,0**    |
+
 </figure>
 
 Pour ce qui concerne les matières constituantes spéciales de l'orge, on ne possède presque que le peu de renseignements
-qui suivent :
+qui suivent :
 
 Par la distillation de 4 livres d'orge, additionnées de 4 livres d'eau et de 6 livres d'acide sulfurique, Emmet a obtenu
 de l'acide formique[^6] et Beckmann[^7] un acide gras solide qu'il a nommé acide hordéique. Cet acide fond à 60°C,
@@ -898,6 +900,7 @@ qu'elle résulte de ce qui précède.
   </table>
 </figure>
 
+
 <table style="width: 100%;">
   <tr>
     <td style="text-align: left; width: 33%;" markdown="1">
@@ -905,7 +908,7 @@ qu'elle résulte de ce qui précède.
 </td>
     <td style="text-align: center; width: 33%;"></td>
     <td style="text-align: right; width: 33%;" markdown="1">
-[Suivant : Chapitre 1](Chap. 2 - Du houblon.md)
+[Suivant : Chapitre 2](Chap. 2 - Du houblon.md)
 </td>
   </tr>
 </table>

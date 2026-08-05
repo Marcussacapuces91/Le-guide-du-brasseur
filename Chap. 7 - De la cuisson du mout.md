@@ -1,8 +1,10 @@
 ---
 Title: Chapitre 7
 Description: De la cuisson du moût.
-Menu: Chap.  7
 ---
+
+# {{ page.title }}
+# <small>{{ page.description }}</small>
 
 Quelle que soit la manière dont le moût a été préparé, on le fait bouillir, et quelquefois même on l'évapore pour le
 concentrer ; dans ce dernier cas, la cuisson doit durer plus longtemps[^1].

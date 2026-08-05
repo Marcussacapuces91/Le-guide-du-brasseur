@@ -3,6 +3,9 @@ title: Chapitre 12
 description: Des altérations de la bière.
 ---
 
+# {{ page.title }}
+# <small>{{ page.description }}</small>
+
 Une bière est d'autant moins exposée à s'altérer qu'elle est plus riche en alcool, plus fortement houblonnée, plus
 claire et plus complètement préservée du contact de l'air.
 

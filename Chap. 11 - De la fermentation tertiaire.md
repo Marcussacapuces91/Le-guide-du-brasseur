@@ -3,6 +3,9 @@ title: Chapitre 11
 description: De la fermentation tertiaire
 ---
 
+# {{ page.title }}
+# <small>{{ page.description }}</small>
+
 La fermentation complémentaire comprend les transformations que la bière subit dans les tonneaux tant qu'il se sépare de
 la levure. Dans une bonne bière, elle doit être entièrement terminée avant que cette bière soit livrée à la
 consommation. Mais lorsqu'elle est terminée et lorsqu'on a transvasé dans d'autres tonneaux ou bien dans des flacons ou

@@ -3,6 +3,9 @@ title: Chapitre 14
 description: Analyse de la bière.
 ---
 
+# {{ page.title }}
+# <small>{{ page.description }}</small>
+
 En faisant l'analyse de la bière, on a pour but de déterminer les quantités respectives de l'acide carbonique, de
 l'extrait, du sucre et de la dextrine, des substances albumineuses, des sels inorganiques et des matières étrangères qui
 s'y trouvent mélangées.

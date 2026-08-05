@@ -3,6 +3,9 @@ title: Chapitre 15
 description: Falsification de la bière.
 ---
 
+# {{ page.title }}
+# <small>{{ page.description }}</small>
+
 Un grand nombre de falsifications de la bière que l'on rencontre surtout en Angleterre, ont été signalées par la
 science : je prends ici la dénomination de falsification de la bière dans le sens d'addition de substances que l'on ne
 doit pas s'attendre à y trouver, en tenant compte de son mode de fabrication, ou bien encore de substances nuisibles.

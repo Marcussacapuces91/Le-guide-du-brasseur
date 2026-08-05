@@ -1,6 +1,10 @@
-CHAPITRE XVII
+---
+title: Chapitre 17
+description: Des substances dont on peut se servir en place de grains pour préparer une bonne boisson.
+---
 
-DES SUBSTANCES DONT ON PEUT SE SERVIR EN PLACE DE GRAINS POUR PRÉPARER UNE BONNE BOISSON.
+# {{ page.title }}
+# <small>{{ page.description }}</small>
 
 Nous avons vu que, dans la préparation de la bière, une certaine portion de principes utiles est perdue; cela nous
 conduit naturellement à la question de savoir par quelles substances on peut remplacer une partie des grains afin

@@ -3,6 +3,9 @@ Title: Chapitre 10
 Description: De la fermentation complémentaire
 ---
 
+# {{ page.title }}
+# <small>{{ page.description }}</small>
+
 Sous la dénomination de fermentation complémentaire, on ne désigne pas toujours le même ordre de faits. On devrait
 comprendre, sous la dénomination de fermentation principale, la période de la fermentation pendant laquelle cette
 dernière est dans toute sa force, et, par conséquent, dans la fermentation par dépôt, l'ensemble des phénomènes qui ont

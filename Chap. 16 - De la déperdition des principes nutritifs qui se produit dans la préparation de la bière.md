@@ -1,6 +1,10 @@
-CHAPITRE XVI
+---
+title: Chapitre 16
+description: De la déperdition de principes nutritifs qui se produit dans la préparation de la bière.
+---
 
-DE LA DÉPERDITION DE PRINCIPES NUTRITIFS QUI SE PRODUIT DANS LA PRÉPARATION DE LA BIÈRE.
+# {{ page.title }}
+# <small>{{ page.description }}</small>
 
 Par les observations que nous avons faites jusqu'ici, on voit qu'une portion de l'orge, du froment ou de l'espèce de
 grain quelconque, qui avait été employée primitivement à la préparation de la bière, n'est pas utilisée dans cette

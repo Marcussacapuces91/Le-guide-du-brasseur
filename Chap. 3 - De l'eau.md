@@ -1,8 +1,10 @@
 ---
 title: Chapitre 3
 description: "De l'eau."
-menu: Chap.  3 
 ---
+
+# {{ page.title }}
+# <small>{{ page.description }}</small>
 
 L'eau que l'on emploie dans la préparation de la bière, tant celle qui sert pour opérer le mouillage du grain que celle
 que l'on emploie au traitement du malt, à son empâtage, exerce une influence notable sur la qualité de la bière. De

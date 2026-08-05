@@ -1,8 +1,10 @@
 ---
 Title: Chapitre 8
 Description: Du refroidissement du moût.
-Menu: Chap. 8
 ---
+
+# {{ page.title }}
+# <small>{{ page.description }}</small>
 
 La liqueur claire que l'on a soutirée de la chaudière, doit fermenter pour passer à l'état de bière. Mais, avant que
 cette liqueur puisse fermenter, on doit la faire refroidir ; et, suivant la nature de la fermentation que l'on veut y

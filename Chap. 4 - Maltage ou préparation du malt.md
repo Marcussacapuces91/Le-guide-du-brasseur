@@ -1,8 +1,10 @@
 ---
 title: 'Chapitre 4'
 description: 'Maltage ou préparation du malt.'
-menu: 'Chap.  4'
 ---
+
+# {{ page.title }}
+# <small>{{ page.description }}</small>
 
 Le malt est le grain germé. On nomme maltage la série d'opérations nécessaires pour faire germer le grain afin de le
 rendre apte à être employé pour la fabrication de la bière.

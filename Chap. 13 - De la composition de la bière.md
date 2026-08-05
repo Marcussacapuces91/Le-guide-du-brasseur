@@ -3,6 +3,9 @@ title: Chapitre 13
 description: De la composition de la bière.
 ---
 
+# {{ page.title }}
+# <small>{{ page.description }}</small>
+
 Nous devons d'abord distinguer dans la bière quatre parties constituantes dont les quantités respectives peuvent
 présenter des variations illimitées ; ces quatre substances sont l'acide carbonique, l'alcool, l'extrait qui reste comme
 résidu lorsqu'on évapore la bière et l'eau dans laquelle ces substances sont dissoutes.

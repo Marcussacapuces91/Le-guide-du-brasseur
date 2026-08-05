@@ -3,6 +3,9 @@ Title: Chapitre 10
 Descrption: Fermentation du moût.
 ---
 
+# {{ page.title }}
+# <small>{{ page.description }}</small>
+
 Lorsque le moût est refroidi, on le fait fermenter,
 
 Le but de la fermentation est de transformer en alcool et en acide carbonique une très grande partie du sucre contenu

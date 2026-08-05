@@ -1,8 +1,10 @@
 ---
 title: 'Chapitre 5'
 description: 'Dessiccation du Malt.'
-menu: 'Chap.  5'
 ---
+
+# {{ page.title }}
+# <small>{{ page.description }}</small>
 
 Lorsque les premiers rudiments des radicelles de la jeune plante se sont développés jusqu'à une longueur suffisante, ce
 qui est un signe que la transformation chimique voulue s'est produite dans le grain (p. 54), on dessèche le malt, non

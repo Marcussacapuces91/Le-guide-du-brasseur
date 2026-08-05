@@ -6,7 +6,7 @@ description: Fermentation du moût.
 # {{ page.title }}
 # <small>{{ page.description }}</small>
 
-Lorsque le moût est refroidi, on le fait fermenter,
+Lorsque le moût est refroidi, on le fait fermenter.
 
 Le but de la fermentation est de transformer en alcool et en acide carbonique une très grande partie du sucre contenu
 dans le moût : on doit toutefois avoir soin qu'il reste encore dans la liqueur une certaine quantité de sucre qui ne
@@ -30,7 +30,7 @@ Dans la préparation de certaines bières, comme les bières belges connues sous
 transvase directement, ainsi que nous l'avons déjà indiqué, le moût convenablement refroidi dans des tonneaux où on
 l'abandonne à lui-même, pour qu'il y subisse une fermentation lente, sans qu'on y ajoute de ferment.
 
-Il existe deux sortes de fermentation: la fermentation superficielle (en Hollandais, *boven-gisting* ; en allemand,
+Il existe deux sortes de fermentation : la fermentation superficielle (en Hollandais, *boven-gisting* ; en allemand,
 *Obergährung*) et la fermentation avec dépôt (en hollandais, *ondergisting* ; en allemand, *Untergährung*); la première
 exige la plus élevée et la seconde la plus basse des températures indiquées. Leur dénomination indique la nature des
 deux phénomènes. Dans la fermentation superficielle, le ferment monte à la surface sous forme d'écume ; dans la

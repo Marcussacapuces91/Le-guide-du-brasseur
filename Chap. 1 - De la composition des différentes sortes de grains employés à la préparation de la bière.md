@@ -909,6 +909,8 @@ qu'elle résulte de ce qui précède.
   </table>
 </figure>
 
+{{ prev_page.url }}
+{{ prev_page.title }}
 
 <table style="width: 100%;">
   <tr>

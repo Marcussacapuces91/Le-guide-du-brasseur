@@ -1,6 +1,6 @@
 ---
-Title: Chapitre 10
-Description: De la fermentation complémentaire
+title: Chapitre 10
+description: De la fermentation complémentaire
 ---
 
 # {{ page.title }}

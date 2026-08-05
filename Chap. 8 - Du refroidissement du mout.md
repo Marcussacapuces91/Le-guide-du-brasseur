@@ -1,6 +1,6 @@
 ---
-Title: Chapitre 8
-Description: Du refroidissement du moût.
+title: Chapitre 8
+description: Du refroidissement du moût.
 ---
 
 # {{ page.title }}

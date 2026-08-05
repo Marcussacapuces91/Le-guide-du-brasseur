@@ -1,6 +1,6 @@
 ---
-Title: Chapitre 7
-Description: De la cuisson du moût.
+title: Chapitre 7
+description: De la cuisson du moût.
 ---
 
 # {{ page.title }}

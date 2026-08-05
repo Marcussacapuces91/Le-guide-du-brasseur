@@ -1,6 +1,6 @@
 ---
-Title: Chapitre 6
-Description: Empâtage.
+title: Chapitre 6
+description: Empâtage.
 ---
 
 # {{ page.title }}

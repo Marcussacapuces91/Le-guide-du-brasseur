@@ -876,7 +876,7 @@ l'orge, nous trouvons deux moyens d'expliquer la proportion si faible de gluten 
 l'albumine insoluble peut être plus dure dans l'orge, devenir moins élastique par l'action de l'eau : ce qui peut
 permettre d'expliquer la moindre adhérence de la masse lorsque la glutine y est incorporée. Mais, d'autre part, il est
 aussi possible que la différence dans la quantité de glutine contenue dans 100 parties de froment et d'orge, 0,42 et
-0,28 = 3 2, soit la cause de toute la différence.
+0,28 = 3:2, soit la cause de toute la différence.
 
 La glutine préparée au moyen du froment, présente la même composition centésimale que l'albumine des œufs de poule, avec
 cette différence seulement qu'elle ne contient pas comme cette dernière 1,6 de soufre, mais qu'elle en contient

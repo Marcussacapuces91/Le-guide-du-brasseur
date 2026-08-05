@@ -87,11 +87,11 @@ existait primitivement dans le grain.
 
 Admettons que, dans 100 parties d'extrait de bière, il existe 0,2 de matière grasse. Cela donne pour 4,2%
 d'extrait, 0,008 de matière grasse, et, par suite, pour 400kg de bière 0,032 de matière grasse. Dans 100 kg
-d'orge, il y avait 2,1 de matière grasse ; il s'est donc perdu 2,07, ce qui est presque une perte de `69/70`.
+d'orge, il y avait 2,1 de matière grasse ; il s'est donc perdu 2,07, ce qui est presque une perte de 69/70.
 
 Passons ensuite aux substances salines. Admettons qu'il existe 0,25% de sels dans l'extrait : pour 400 kg de
 bière, par exemple, cela nous donnera 0,1kg. Mais il y avait 2,5kg de sels dans l'orge : il s'est donc produit une perte
-de 2,4 ou de `24/25`
+de 2,4 ou de 24/25.
 
 Partout, il y a donc perte pour la consommation de l'homme.
 
@@ -179,7 +179,7 @@ et dont, toutefois, une partie peut être retrouvée dans la levure, il n'y a au
 </td>
     <td style="text-align: center; width: 33%;"></td>
     <td style="text-align: right; width: 33%;" markdown="1">
-[Suivant : Chapitre 17<br>Des substances dont on ne peut se servir en place de grains pour préparer une bonne boisson](Chap. 17 - Des substances dont on ne peut se servir en place de grains pour préparer une bonne boisson.md)
+[Suivant : Chapitre 17<br>Des substances dont on peut se servir en place de grains pour préparer une bonne boisson](Chap. 17 - Des substances dont on peut se servir en place de grains pour préparer une bonne boisson.md)
 </td>
   </tr>
 </table>

@@ -65,14 +65,14 @@ Tous droits de traduction et de reproduction réservés.](/images/Guide%20du%20b
 * [Chapitre 2. Du Houblon](Chap.%202%20-%20Du%20houblon)
 * [Chapitre 3. De l'eau](Chap.%203%20-%20De%20l%27eau)
 * [Chapitre 4. Maltage ou préparation du malt](Chap.%204%20-%20Maltage%20ou%20pr%C3%A9paration%20du%20malt.md)
-  * Humidité
-  * Chaleur
-  * Air
-  * Orge
-  * Froment
-  * Seigle
-  * Avoine
-  * Diastase
+  - [Humidité](Chap.%204%20-%20Maltage%20ou%20pr%C3%A9paration%20du%20malt.md#humidite)
+  - [Chaleur](Chap.%204%20-%20Maltage%20ou%20pr%C3%A9paration%20du%20malt.md#chaleur)
+  - [Air](Chap.%204%20-%20Maltage%20ou%20pr%C3%A9paration%20du%20malt.md#air)
+  1. [Orge](Chap.%204%20-%20Maltage%20ou%20pr%C3%A9paration%20du%20malt.md#orge)
+  2. [Froment](Chap.%204%20-%20Maltage%20ou%20pr%C3%A9paration%20du%20malt.md#froment)
+  3. [Seigle](Chap.%204%20-%20Maltage%20ou%20pr%C3%A9paration%20du%20malt.md#seigle)
+  4. [Avoine](Chap.%204%20-%20Maltage%20ou%20pr%C3%A9paration%20du%20malt.md#avoine)
+  - [Diastase](Chap.%204%20-%20Maltage%20ou%20pr%C3%A9paration%20du%20malt.md#diastase)
 * [Chapitre 5. Dessiccation du malt](Chap.%205%20-%20Dessiccation%20du%20malt.md)
 * [Chapitre 6. Empatage](Chap.%206%20-%20Empatage.md)
 * [Chapitre 7. De la cuisson du mout](Chap.%207%20-%20De%20la%20cuisson%20du%20mout.md)

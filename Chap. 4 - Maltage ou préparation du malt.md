@@ -20,16 +20,14 @@ convenable que l'on puisse désirer pour la préparation de la bière. Une trans
 Les trois conditions essentielles à la germination sont : l'humidité, dont il ne doit pas cependant y avoir une trop
 grande quantité, une chaleur suffisante, le contact de l'air.
 
-## Humidité
-
-Lorsqu'on dessèche une semence arrivée à l'état de maturité et lorsqu'on la conserve, son activité
-chimique n'y est pas entièrement interrompue : mais, par suite de l'absence de déplacement de substances, provenant du
-manque d'eau, cette activité chimique est réduite à son minimum. La semence ne se modifie que lentement. Mais si l'on
-fournit extérieurement à une semence, sèche, parfaitement saine, de l'eau qui la pénètre entièrement et qui y produise
-alors les déplacements osmotiques de substances, toutes les conditions nécessaires pour que l'activité chimique puisse
-se développer sont remplies. La semence est mûre, c'est-à-dire que tout ce qui s'y trouve est mûr pour le développement
-chimique : il y avait besoin seulement d'eau pour que les substances qui s'y trouvaient pussent se déplacer et réagir
-les unes sur les autres.
+*<a id="humidite">Humidité</a>* — Lorsqu'on dessèche une semence arrivée à l'état de maturité et lorsqu'on la
+conserve, son activité chimique n'y est pas entièrement interrompue : mais, par suite de l'absence de déplacement de
+substances, provenant du manque d'eau, cette activité chimique est réduite à son minimum. La semence ne se modifie que
+lentement. Mais si l'on fournit extérieurement à une semence, sèche, parfaitement saine, de l'eau qui la pénètre
+entièrement et qui y produise alors les déplacements osmotiques de substances, toutes les conditions nécessaires pour
+que l'activité chimique puisse se développer sont remplies. La semence est mûre, c'est-à-dire que tout ce qui s'y trouve
+est mûr pour le développement chimique : il y avait besoin seulement d'eau pour que les substances qui s'y trouvaient
+pussent se déplacer et réagir les unes sur les autres.
 
 La première action que l'eau exerce sur la semence est de pénétrer les parties sèches ; une conséquence de ce fait est
 la dissolution des parties intégrantes solubles qui étaient intercalées sous forme de masses solides, sèches, entre les
@@ -56,9 +54,8 @@ d'être générale. Quoi qu'il en soit, l'observation est juste, et il ressort c
 c'est surtout par l'action de l'eau humectant là semence que la vie, endormie dans cette semence, est éveillée, et que
 c'est par conséquent surtout par l'action de l'eau qu'il y a vie.
 
-## Chaleur
-
-Toute réaction en chimie organique exige sa température spéciale : la température du grain en germination
+*<a id="chaleur">Chaleur</a>* — Toute réaction en chimie organique exige sa température spéciale : la température du 
+grain en germination
 ne dépasse pas la chaleur ordinaire du printemps. Mais c'est une tout autre question de savoir si l'opération, lorsqu'on
 la régularise au point de vue de la fabrication, ne peut pas être effectuée à une température plus élevée. Dans la
 préparation de la bière, on expose d'abord le grain humecté à une température de même degré que la chaleur produite à la
@@ -66,9 +63,8 @@ surface de la terre par le soleil au printemps, afin de produire sur la semence 
 le grain, on le traite par l'eau chaude et on porte la température au degré le plus élevé auquel on puisse l'amener afin
 d'accélérer l'opération.
 
-## Air
-
-Dans la germination du grain, un des nombreux résultats de l'action vitale, l'air est indispensable, tant pour
+*<a id="air">Air</a>* — Dans la germination du grain, un des nombreux résultats de l'action vitale, l'air est
+indispensable, tant pour
 déterminer la transformation des matières que pour la maintenir en activité.
 
 C'est par cette raison que l'on sème les semences dans des sols légers que l'on ne doit, dans aucun cas, comprimer
@@ -240,7 +236,7 @@ Les germes sont donc très riches en matières albumineuses : on les emploie la 
 on considère le dégagement abondant d'ammoniaque qu'ils produisent en se putréfiant, on comprend qu'ils soient
 éminemment propres à cet usage. — En ce qui concerne les principes qui exercent une action utile dans la préparation de
 la bière, on peut admettre comme terme moyen que, par la séparation de ces radicelles, il se produit, pour la
-préparation de la bière, une perte de 0,75 à 1 Pour 100 des matières albumineuses qui étaient contenues dans l'orge. En
+préparation de la bière, une perte de 0,75 à 1% des matières albumineuses qui étaient contenues dans l'orge. En
 outre, il est évident que la matière cellulaire des radicelles s'est produite aux dépens des substances utile du grain,
 et que, à ce point de vue, une certaine quantité de substances utiles a été perdue pour la préparation de la bière : les
 matières non azotées solubles et les substances inorganiques contenues dans la radicule nous représentent encore un
@@ -541,7 +537,7 @@ que les substances albumineuses ne paraissent pas diminuer sensiblement de poids
 tard, lorsque la plumule commence à se développer plus complètement, il en est tout autrement ; mais la semence arrivée
 à ce degré de développement n'a plus rien de commun avec le malt qu'il nous importe seul de connaître ici.
 
-## <a name="66-71">Orge</a> {#Orge}
+## <a name="66-71">Orge</a>
 
 <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
 
@@ -1516,9 +1512,8 @@ Nous commencerons d'abord par procéder en peu de mots à l'examen de l'espèce 
 dans les grains germés, comme on l'admet encore actuellement en général dans la science, pour partir ensuite de là et
 faire ressortir celles de ses propriétés qui sont susceptibles de généralisation[^39].
 
-## Diastase
-
-Cette substance qui, ainsi qu'on l'admet en général actuellement, se produit dans les semences par la
+*<a id="diastase">Diastase</a>* — Cette substance qui, ainsi qu'on l'admet en général actuellement, se produit dans les
+semences par la
 germination, a été l'objet de recherches faites par Payen et Persoz. Mais Kirchhoff avait, dès 1812, indiqué ses
 propriétés d'une manière qui, bien que moins exclusive à notre avis (ainsi que nous le montrerons plus loin), est assez
 précise pour que l'on puisse lui attribuer l'honneur d'avoir découvert qu'il existe dans le grain une petite quantité

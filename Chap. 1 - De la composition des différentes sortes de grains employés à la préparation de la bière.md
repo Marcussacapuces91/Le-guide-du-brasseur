@@ -880,7 +880,7 @@ aussi possible que la différence dans la quantité de glutine contenue dans 100
 
 La glutine préparée au moyen du froment, présente la même composition centésimale que l'albumine des œufs de poule, avec
 cette différence seulement qu'elle ne contient pas comme cette dernière 1,6 de soufre, mais qu'elle en contient
-seulement 1%[^23]. Les substances albumineuses solubles et insolubles du froment et de l'orge ne se distinguent de la
+seulement 1%[^22]. Les substances albumineuses solubles et insolubles du froment et de l'orge ne se distinguent de la
 glutine que par la proportion du soufre : je ne m'occuperai donc pas ici de la composition de ces substances qui est
 suffisamment connue.
 
@@ -893,7 +893,7 @@ qu'elle résulte de ce qui précède.
 **Tableau comparatif de la composition du froment et de l'orge**
 </figcaption>
   <table>
-    <tr><td></td><td colspan=2>Froment</td><td colspan=2>Orge</td></tr>
+    <tr><td>                                                                 </td><th colspan=2>Froment</th><th colspan=2>Orge</th></tr>
     <tr><th>Amidon                                                           </th><td> 57,0 </td><td> 67,9 </td><td> 53,8 </td><td> 65,7 </td></tr>
     <tr><th>Dextrine                                                         </th><td>  4,5 </td><td>  5,4 </td><td>  4,5 </td><td>  5,5 </td></tr>
     <tr><th>Glutine, soluble dans l'alcool, insoluble dans l'eau             </th><td> 0,42 </td><td>  0,5 </td><td> 0,28 </td><td>  0,3 </td></tr>

@@ -213,11 +213,11 @@ indiquées.
 <table style="width: 100%;">
   <tr>
     <td style="text-align: left; width: 33%;" markdown="1">
-[Précédent : Chapitre 1](Chap. 1 - De la composition des différentes sortes de grains employés à la préparation de la bière.md)
+[Précédent : Chapitre 1<br>De la composition des différentes sortes de grains employés à la préparation de la bière](Chap. 1 - De la composition des différentes sortes de grains employés à la préparation de la bière.md)
 </td>
     <td style="text-align: center; width: 33%;"></td>
     <td style="text-align: right; width: 33%;" markdown="1">
-[Suivant : Chapitre 3](Chap. 3 - De l'eau.md)
+[Suivant : Chapitre 3<br>De l'eau](Chap. 3 - De l'eau.md)
 </td>
   </tr>
 </table>

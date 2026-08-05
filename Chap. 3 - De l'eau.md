@@ -92,11 +92,11 @@ Cela arrive du reste rarement dans la Hollande en général si propre.
 <table style="width: 100%;">
   <tr>
     <td style="text-align: left; width: 33%;" markdown="1">
-[Précédent : Chapitre 2](Chap. 2 - Du houblon.md)
+[Précédent : Chapitre 2<br>Du houblon](Chap. 2 - Du houblon.md)
 </td>
     <td style="text-align: center; width: 33%;"></td>
     <td style="text-align: right; width: 33%;" markdown="1">
-[Suivant : Chapitre 4](Chap. 4 - Maltage ou préparation du malt.md)
+[Suivant : Chapitre 4<br>Maltage ou préparation du malt](Chap. 4 - Maltage ou préparation du malt.md)
 </td>
   </tr>
 </table>

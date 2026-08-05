@@ -3,7 +3,7 @@ title: Chapitre premier
 description: De la composition des différentes sortes de grains employés à la préparation de la bière
 ---
 
-# {{ title }}
+# {{ page.title }}
 
 Si l'on voulait s'occuper des diverses semences au moyen desquelles on peut préparer de la bière, ce n'est qu'avec
 difficulté que l'on pourrait en fixer le nombre. Toutes les substances qui contiennent de l'amidon, peuvent fournir de

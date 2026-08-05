@@ -425,7 +425,7 @@ qui correspondent à l'orge desséchée.
 | **Matière grasse**          |        2,1         |      2,5       |
 | **Substances inorganiques** |        2,5         |      3,1       |
 | **Eau**                     |        18,1        |      ---       |
-| **Autres substances         |        1,6         |      2,0       |
+| **Autres substances**       |        1,6         |      2,0       |
 |                             |     **100,0**      |   **100,0**    |
 
 </figure>
@@ -450,17 +450,17 @@ suivants :
 <figure markdown='1'>
   <figcaption>Analyse des cendres d'Orge.</figcaption>
   <table>
-    <tr><th>                  </th><th colspan=2>Veltman</th><th colspan=2>Moesman</th></tr>
-    <tr><th>Potasse           </th><td colspan=2> 17,0  </td><td colspan=2> 17,5  </td></tr>
-    <tr><th>Soude             </th><td colspan=2>  5,9  </td><td colspan=2>  6,3  </td></tr>
-    <tr><th>Chaux             </th><td colspan=2>  2,7  </td><td colspan=2>  3,1  </td></tr>
-    <tr><th>Magnésie          </th><td colspan=2>  7,2  </td><td colspan=2>  6,8  </td></tr>
-    <tr><th>Sesquioxyde de fer</th><td colspan=2>  0,5  </td><td colspan=2>  0,5  </td></tr>
-    <tr><th>Acide phosphorique</th><td colspan=2> 30,3  </td><td colspan=2> 31,0<sup>*</sup></td></tr>
-    <tr><th>Acide sulfurique  </th><td colspan=2>  1,4  </td><td colspan=2>  1,5  </td></tr>
-    <tr><th>Acide silicique insoluble</th><td>7,1</td><td rowspan=2>33,1</td><td>7,0</td><td rowspan=2>33,7</td></tr>
+    <tr><th>                         </th><th colspan=2>Veltman</th><th colspan=2>Moesman</th></tr>
+    <tr><th>Potasse                  </th><td colspan=2> 17,0  </td><td colspan=2> 17,5  </td></tr>
+    <tr><th>Soude                    </th><td colspan=2>  5,9  </td><td colspan=2>  6,3  </td></tr>
+    <tr><th>Chaux                    </th><td colspan=2>  2,7  </td><td colspan=2>  3,1  </td></tr>
+    <tr><th>Magnésie                 </th><td colspan=2>  7,2  </td><td colspan=2>  6,8  </td></tr>
+    <tr><th>Sesquioxyde de fer       </th><td colspan=2>  0,5  </td><td colspan=2>  0,5  </td></tr>
+    <tr><th>Acide phosphorique       </th><td colspan=2> 30,3  </td><td colspan=2> 31,0<sup>*</sup></td></tr>
+    <tr><th>Acide sulfurique         </th><td colspan=2>  1,4  </td><td colspan=2>  1,5  </td></tr>
+    <tr><th>Acide silicique insoluble</th><td>7,1</td><td rowspan=2>}<br>} 33,1<br>}</td><td>7,0</td><td rowspan=2>33,7</td></tr>
     <tr><th>Acide silicique soluble  </th><td>26,0</td><td>26,7</td></tr>
-    <tr><th>Chlore            </th><td colspan=2>  1,3  </td><td colspan=2>  1,3  </td></tr>
+    <tr><th>Chlore                   </th><td colspan=2>  1,3  </td><td colspan=2>  1,3  </td></tr>
   </table>
   <figcaption style="font-size: 75%">
     * : Cet acide phosphorique pr. vient de la cendre d'un malt d'orge. 

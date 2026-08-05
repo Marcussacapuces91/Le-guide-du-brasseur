@@ -458,7 +458,7 @@ suivants :
     <tr><th>Sesquioxyde de fer       </th><td colspan=2>  0,5  </td><td colspan=2>  0,5  </td></tr>
     <tr><th>Acide phosphorique       </th><td colspan=2> 30,3  </td><td colspan=2> 31,0<sup>*</sup></td></tr>
     <tr><th>Acide sulfurique         </th><td colspan=2>  1,4  </td><td colspan=2>  1,5  </td></tr>
-    <tr><th>Acide silicique insoluble</th><td>7,1</td><td rowspan=2>}<br>} 33,1<br>}</td><td>7,0</td><td rowspan=2>33,7</td></tr>
+    <tr><th>Acide silicique insoluble</th><td>7,1</td><td rowspan=2>}<br>} 33,1<br>}</td><td>7,0</td><td rowspan=2>}<br>} 33,7<br>}</td></tr>
     <tr><th>Acide silicique soluble  </th><td>26,0</td><td>26,7</td></tr>
     <tr><th>Chlore                   </th><td colspan=2>  1,3  </td><td colspan=2>  1,3  </td></tr>
   </table>
@@ -488,24 +488,25 @@ nous faisons abstraction de la quantité d'acide silicique et de sesquioxyde de 
   </table>
 </figure>
 
-1,4 d'acide sulfurique exigent, pour former du sulfate de potasse, 1,6 de potasse ; <br/>il reste
-`17,1 - 1,6 = 15,4 KO`.
+1,4 d'acide sulfurique exigent, pour former du sulfate de potasse, 1,6 de potasse ;
+<br/>il reste `17,1 - 1,6 = 15,4` KO.
 
 1,3 de chlore, pour former du chlorure de sodium, demandent 0,8 de sodium : 0,8 de sodium correspondent à 1,1 NaO : 
-<br/>il reste `6 - 1,1 = 4,9 NaO`.
+<br/>il reste `6 - 1,1 = 4,9` NaO.
 
 Si nous considérons la totalité de l'acide phosphorique comme combinée aux bases que nous trouvons encore dans la
 cendre, nous obtenons :
 
 <figure markdown='1'>
-  <table>
-    <tr><th>        </th><th>Bases </th><th>Acide<br/>phosphorique </th><th>                     </th></tr>
-    <tr><th>Potasse </th><td> 15,4 </td><td>      11,6             </td><td>PO<sub>5</sub>, 2 KO </td></tr>
-    <tr><th>Soude   </th><td>  4,9 </td><td>       5,7             </td><td>PO<sub>5</sub>, 2 NaO</td></tr>
-    <tr><th>Magnésie</th><td>  7,0 </td><td>      12,6             </td><td>PO<sub>5</sub>, 2 MgO</td></tr>
-    <tr><th>Chaux   </th><td>  3,0 </td><td>       2,5             </td><td>PO<sub>5</sub>, 3 CaO</td></tr>
-    <tr><th>Total   </th><td>      </td><th>      32,4             </th><td>                     </td></tr>
-  </table>
+
+|               | Bases | Acide<br/>phosphorique |                       |
+|---------------|:-----:|:----------------------:|:----------------------|
+| **Potasse**   | 15,4  |          11,6          | PO<sub>5</sub>, 2 KO  |
+| **Soude**     |  4,9  |          5,7           | PO<sub>5</sub>, 2 NaO |
+| **Magnésie**  |  7,0  |          12,6          | PO<sub>5</sub>, 2 MgO |
+| **Chaux**     |  3,0  |          2,5           | PO<sub>5</sub>, 3 CaO |
+| **Total**     |       |        **32,4**        |                       |
+
 </figure>
 
 Il ressort de là évidemment que presque toutes les bases trouvent dans la cendre d'orge une quantité d'acide

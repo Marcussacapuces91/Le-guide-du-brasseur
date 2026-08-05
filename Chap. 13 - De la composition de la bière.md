@@ -52,8 +52,9 @@ très variable d'acide carbonique : la plus grande partie de cet acide s'est pe
 la bière. Lorsque la bière a cessé de mousser, elle doit contenir au maximum un volume d'acide carbonique à peu près
 égal au sien, ce qui représente en poids à peu près 2 grammes pour 1 litre de bière[^1].
 
-*Alcool.* — La quantité d'alcool contenue dans la bière varie aussi notablement, entre les limites de 2 à 8%, en sorte
-que les bières les plus fortes, relativement à la quantité d'alcool, marchent de pair avec les vins les plus faibles.
+*<a id="alcool">Alcool</a>.* — La quantité d'alcool contenue dans la bière varie aussi notablement, entre les limites de
+2 à 8%, en sorte que les bières les plus fortes, relativement à la quantité d'alcool, marchent de pair avec les vins les
+plus faibles.
 
 La quantité d'alcool contenue dans la bière ne dépend pas seulement de la quantité de grains qui a été employée à la
 préparation de la bière : si l'on a employé beaucoup de grains, si l'on a traité convenablement le malt et si la
@@ -65,10 +66,10 @@ quantité de substance susceptible de se transformer en levure, qui préexistait
 les bières d'une saveur douce ne sont pas très alcooliques et que les bières riches en alcool ne sont pas douces, de
 même que cela se présente pour le vin.
 
-*Extrait.* — Moins on a employé de grains pour la préparation d'une bière, moins cette bière contient de substances
-solides. C'est ce qui se présente lorsque l'amidon du malt a été transformé aussi complètement que possible en sucre
-pendant l'empâtage et lorsque, dans la fermentation, le sucre a été transformé aussi complètement que possible en alcool
-et en acide carbonique.
+*<a id="extrait">Extrait</a>.* — Moins on a employé de grains pour la préparation d'une bière, moins cette bière
+contient de substances solides. C'est ce qui se présente lorsque l'amidon du malt a été transformé aussi complètement
+que possible en sucre pendant l'empâtage et lorsque, dans la fermentation, le sucre a été transformé aussi complètement
+que possible en alcool et en acide carbonique.
 
 Des bières très fortes, c'est-à-dire très alcooliques, peuvent donc donner seulement une petite quantité de matières
 solides par l'évaporation. Mais ce résidu contient alors une quantité considérable de substances salines et, sous ce

@@ -3,6 +3,10 @@ title: Généralités
 description: De la bière.
 ---
 
+# {{ page.title }}
+# <small>{{ page.description }}</small>
+
+
 La bière est une boisson que l'on obtient en traitant par l'eau des grains modifiés par une germination modérée et en
 faisant fermenter le liquide ainsi obtenu : elle est donc plus ou moins alcoolique.
 
@@ -145,8 +149,8 @@ tous les phénomènes exceptionnels que l'on rencontre dans la fabrication des b
 
 <table style="width: 100%;">
   <tr>
-    <td style="text-align: left; width: 33%;"></td>
-    <td style="text-align: center; width: 33%;"></td>
+    <td style="text-align: left; width: 33%;">&nbsp;</td>
+    <td style="text-align: center; width: 33%;">&nbsp;</td>
     <td style="text-align: right; width: 33%;" markdown="1">
 [Suivant : Chapitre 1](Chap. 1 - De la composition des différentes sortes de grains employés à la préparation de la bière.md)
 </td>

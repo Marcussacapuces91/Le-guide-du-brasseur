@@ -217,7 +217,7 @@ indiquées.
 </td>
     <td style="text-align: center; width: 33%;"></td>
     <td style="text-align: right; width: 33%;" markdown="1">
-[Suivant : Chapitre 3](Chap. 3 - De l%27eau.md)
+[Suivant : Chapitre 3](Chap. 3 - De l'eau.md)
 </td>
   </tr>
 </table>

@@ -20,7 +20,9 @@ convenable que l'on puisse désirer pour la préparation de la bière. Une trans
 Les trois conditions essentielles à la germination sont : l'humidité, dont il ne doit pas cependant y avoir une trop
 grande quantité, une chaleur suffisante, le contact de l'air.
 
-*Humidité*. — Lorsqu'on dessèche une semence arrivée à l'état de maturité et lorsqu'on la conserve, son activité
+## Humidité
+
+Lorsqu'on dessèche une semence arrivée à l'état de maturité et lorsqu'on la conserve, son activité
 chimique n'y est pas entièrement interrompue : mais, par suite de l'absence de déplacement de substances, provenant du
 manque d'eau, cette activité chimique est réduite à son minimum. La semence ne se modifie que lentement. Mais si l'on
 fournit extérieurement à une semence, sèche, parfaitement saine, de l'eau qui la pénètre entièrement et qui y produise
@@ -54,7 +56,9 @@ d'être générale. Quoi qu'il en soit, l'observation est juste, et il ressort c
 c'est surtout par l'action de l'eau humectant là semence que la vie, endormie dans cette semence, est éveillée, et que
 c'est par conséquent surtout par l'action de l'eau qu'il y a vie.
 
-*Chaleur*. — Toute réaction en chimie organique exige sa température spéciale : la température du grain en germination
+## Chaleur
+
+Toute réaction en chimie organique exige sa température spéciale : la température du grain en germination
 ne dépasse pas la chaleur ordinaire du printemps. Mais c'est une tout autre question de savoir si l'opération, lorsqu'on
 la régularise au point de vue de la fabrication, ne peut pas être effectuée à une température plus élevée. Dans la
 préparation de la bière, on expose d'abord le grain humecté à une température de même degré que la chaleur produite à la
@@ -62,7 +66,9 @@ surface de la terre par le soleil au printemps, afin de produire sur la semence 
 le grain, on le traite par l'eau chaude et on porte la température au degré le plus élevé auquel on puisse l'amener afin
 d'accélérer l'opération.
 
-*Air*. — Dans la germination du grain, un des nombreux résultats de l'action vitale, l'air est indispensable, tant pour
+## Air
+
+Dans la germination du grain, un des nombreux résultats de l'action vitale, l'air est indispensable, tant pour
 déterminer la transformation des matières que pour la maintenir en activité.
 
 C'est par cette raison que l'on sème les semences dans des sols légers que l'on ne doit, dans aucun cas, comprimer
@@ -535,7 +541,7 @@ que les substances albumineuses ne paraissent pas diminuer sensiblement de poids
 tard, lorsque la plumule commence à se développer plus complètement, il en est tout autrement ; mais la semence arrivée
 à ce degré de développement n'a plus rien de commun avec le malt qu'il nous importe seul de connaître ici.
 
-## <a name="66-71">Orge</a>. {#Orge}
+## <a name="66-71">Orge</a> {#Orge}
 
 <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
 
@@ -627,7 +633,7 @@ des radicules ont de l'importance, non seulement pour la fabrication de la bièr
 phénomènes de la germination et, par suite, aussi pour la connaissance plus approfondie de la préparation du malt
 d'orge.
 
-## Froment.
+## Froment
 
 <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
   <table style="width: 100%;">
@@ -689,7 +695,7 @@ Par la comparaison de ces nombres, nous voyons :
 5. Que la quantité des matières grasses n'a subi dans ce cas aucune diminution ;
 6. Que la quantité des substances albumineuses s'est élevée de 13,9 à 14,5.
 
-## Seigle.
+## Seigle
 
 <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
   <table style="width: 100%;">
@@ -748,7 +754,7 @@ De l'examen de ces nombres, il résulte :
 5. Que la quantité de matière grasse n'a pas diminué.
 6. Que la quantité des substances albumineuses a augmenté.
 
-## Avoine.
+## Avoine
 
 <figure markdown='1' style="width: 75%; margin-left: auto; margin-right: auto;">
   <table style="width: 100%;">
@@ -1307,7 +1313,7 @@ différence qui existe entre les nombreuses sortes d'amidons, nous ne sommes que
 recherches des chimistes français. Il en est de même pour les nombreuses espèces de gommes et de mucilages.
 
 Je dois m'en tenir ici à la désignation qui, d'après l'état actuel de la science exprime le caractère général de la
-substance; il serait impossible d'établir ici en passant une distinction qui ait quelque valeur.
+substance ; il serait impossible d'établir ici en passant une distinction qui ait quelque valeur.
 
 Mais je n'ai pas voulu laisser croire que, aux dénominations d'amidon, de dextrine et de sucre indiqués ici, vînt se
 rattacher seulement la représentation de trois substances parfaitement définies, et ce qui m'a engagé à faire cette
@@ -1510,7 +1516,9 @@ Nous commencerons d'abord par procéder en peu de mots à l'examen de l'espèce 
 dans les grains germés, comme on l'admet encore actuellement en général dans la science, pour partir ensuite de là et
 faire ressortir celles de ses propriétés qui sont susceptibles de généralisation[^39].
 
-*Diastase.* —- Cette substance qui, ainsi qu'on l'admet en général actuellement, se produit dans les semences par la
+## Diastase
+
+Cette substance qui, ainsi qu'on l'admet en général actuellement, se produit dans les semences par la
 germination, a été l'objet de recherches faites par Payen et Persoz. Mais Kirchhoff avait, dès 1812, indiqué ses
 propriétés d'une manière qui, bien que moins exclusive à notre avis (ainsi que nous le montrerons plus loin), est assez
 précise pour que l'on puisse lui attribuer l'honneur d'avoir découvert qu'il existe dans le grain une petite quantité
@@ -1537,8 +1545,8 @@ Il est à peine besoin de faire remarquer que cette substance n'est pas chimique
 un groupement chimique spécial, ce devrait être ici un mélange d'albumine végétale non modifiée, de dextrine, de
 combinaisons salines insolubles dans l'alcool et de l'agent modificateur proprement dit. —- Le produit impur, tel qu'on
 l'obtient par le mode de préparation indiqué, forme, après avoir été desséché, une substance pulvérulente, soluble dans
-l'eau et dans l'alcool faible, insoluble dans l'alcool, et qui n'est pas précipitée de sa dissolution aqueuse par l'
-acétate basique de plomb.
+l'eau et dans l'alcool faible, insoluble dans l'alcool, et qui n'est pas précipitée de sa dissolution aqueuse par
+l'acétate basique de plomb.
 
 On peut encore obtenir la diastase de la manière suivante. On mélange la farine de malt d'orge avec une petite quantité
 d'eau ; on filtre et on chauffe à une température de 70°, ce qui détermine la coagulation de l'albumine. Si on filtré la
@@ -1549,7 +1557,7 @@ température. La substance ainsi obtenue est également désignée sous le nom d
 Mais elle est également d'une très grande impureté. Elle doit contenir une quantité considérable de dextrine et de sels
 organiques insolubles.
 
-Quelque impure qu'elle soit, on ne peut en retirer du malt d'orge que 1 à 2 millièmes.
+Quelques impures qu'elle soit, on ne peut en retirer du malt d'orge que 1 à 2 millièmes.
 
 Si on expose au contact de l'air cette diastase à l'état humide, elle perd très rapidement sa faculté modificatrice. A
 l'état sec, elle ne la perd que très lentement : par l'ébullition, elle la perd immédiatement.
@@ -2002,11 +2010,10 @@ trouve, à sa place, de la dextrine et du sucre.
 Le sang, pendant qu'il circule dans l'animal vivant, possède cette faculté au plus haut degré. Immédiatement après
 l'injection d'une certaine quantité d'empois dans la veine jugulaire d'un lapin, on ne pouvait plus retrouver aucun
 indice d'amidon dans le sang; mais on pouvait bientôt y constater la présence du sucre, bien que, avant l'expérience, il
-n'eût été possible de constater la présence d'aucune trace de sucre
-
-dans le sang du même animal. Pendant les cinq premières heures, la quantité de sucre contenue dans le sang du lapin
-allait toujours en augmentant ; mais, au bout de ce temps, elle commençait à diminuer et, sept heures après
-l'expérience, il n'y avait plus de sucre dans le sang du lapin.
+n'eût été possible de constater la présence d'aucune trace de sucre dans le sang du même animal. Pendant les cinq
+premières heures, la quantité de sucre contenue dans le sang du lapin allait toujours en augmentant ; mais, au bout de
+ce temps, elle commençait à diminuer et, sept heures après l'expérience, il n'y avait plus de sucre dans le sang du
+lapin.
 
 La même expérience, répétée sur des chiens, a donné le même résultat.
 
@@ -2257,13 +2264,33 @@ transformer l'amidon, lorsqu'on le conserve à la température ordinaire, préci
 
 [^2]: Journal de pharmacie. 3e série, t. XIV, p. 105.
 
-[^3]: J'ai donné, p. 18, les analyses que Veltman et Moesman ont faites de la cendre d'orge et de malt d'orge. Par l'inspection des résultats, on s'apercevra que le malt, par le lavage et le ramollissement au moyen de l'eau (c'est, en effet, de cette manière qu'il avait été préparé), a perdu une quantité notable de sels solubles ; à ce point de vue, les résultats de ces analyses présentent de l'importance. Le malt fortement desséché, est indiqué dans ces analyses, est visiblement d'une origine différente : il en est de même du malt desséché : on ne peut donc pas comparer les résultats de l'analyse de leurs cendres avec ceux de l'analyse des cendres d'orge. Mais si nous comparons les résultats de l'analyse des cendres de malt desséché à l'air avec ceux des cendres d'orge, nous trouvons qu'il existe dans le malt : Moins de potasse, de soude, de magnésie, d'acide sulfurique et de chlore ; Plus de chaux et de sesquioxyde de fer; La même quantité d'acide phosphorique. Une certaine quantité de chaux est donc passée de l'eau dans le malt et la quantité de chaux qui est en combinaison avec l'acide phosphorique est par suite plus considérable ; d'autre part, une certaine quantité des chlorures solubles et des sulfates de soude, de potasse et de magnésie qui sont contenus dans le grain en a été soustraite. L'augmentation du sesquioxyde de fer est la conséquence de ce qu'une portion du fer des conduits de la pompe qui amène l'eau s'est dissoute et a pénétré ensuite le malt. Mais, en admettant que, dans le ramollissement du grain, il y ait dissolution de sels solubles, la quantité en est, dans tous les cas. peu considérable.
+[^3]: J'ai donné, p. 18, les analyses que Veltman et Moesman ont faites de la cendre d'orge et de malt d'orge. Par
+      l'inspection des résultats, on s'apercevra que le malt, par le lavage et le ramollissement au moyen de l'eau
+      (c'est, en effet, de cette manière qu'il avait été préparé), a perdu une quantité notable de sels solubles ; à ce
+      point de vue, les résultats de ces analyses présentent de l'importance. Le malt fortement desséché, est indiqué
+      dans ces analyses, est visiblement d'une origine différente : il en est de même du malt desséché : on ne peut donc
+      pas comparer les résultats de l'analyse de leurs cendres avec ceux de l'analyse des cendres d'orge. Mais si nous
+      comparons les résultats de l'analyse des cendres de malt desséché à l'air avec ceux des cendres d'orge, nous
+      trouvons qu'il existe dans le malt : Moins de potasse, de soude, de magnésie, d'acide sulfurique et de chlore ;
+      Plus de chaux et de sesquioxyde de fer ; La même quantité d'acide phosphorique. Une certaine quantité de chaux est
+      donc passée de l'eau dans le malt et la quantité de chaux qui est en combinaison avec l'acide phosphorique est par
+      suite plus considérable ; d'autre part, une certaine quantité des chlorures solubles et des sulfates de soude, de
+      potasse et de magnésie qui sont contenus dans le grain en a été soustraite. L'augmentation du sesquioxyde de fer
+      est la conséquence de ce qu'une portion du fer des conduits de la pompe qui amène l'eau s'est dissoute et a
+      pénétré ensuite le malt. Mais, en admettant que, dans le ramollissement du grain, il y ait dissolution de sels
+      solubles, la quantité en est, dans tous les cas. peu considérable.
 
 [^4]: Erdmann's Journal für praktische Chemie, t. LXIII, p. 49.
 
-[^5]: Proust (*Annales de chimie et de physique*, 1817, 2e série, t. V, p. 342) a prétendu que l'orge a perdu par la germination 1/3 de son poids.<br/>Thomson (*Annales de chimie et de physique*, 1817, 2e série, t. VI, p. 216) émet avec raison une opinion contraire : l'orge et le malt étant tous deux supposés secs, Thomson a trouvé 8 pour 100 de perte, ce qui s'accorde avec les résultats obtenus en grand.
+[^5]: Proust (*Annales de chimie et de physique*, 1817, 2e série, t. V, p. 342) a prétendu que l'orge a perdu par la
+      germination 1/3 de son poids.
 
-[^6]: Nous avons indiqué, p. .51, que dans une expérience, nous avons obtenu seulement 0,57%, et cela en employant de l'eau distillée. Un résultat de 1,5% trouvé pratiquement parait donc douteux.
+      Thomson (*Annales de chimie et de physique*, 1817, 2e série, t. VI, p. 216) émet avec raison une opinion
+      contraire : l'orge et le malt étant tous deux supposés secs, Thomson a trouvé 8 pour 100 de perte, ce qui
+      s'accorde avec les résultats obtenus en grand.
+
+[^6]: Nous avons indiqué, p. 51, que dans une expérience, nous avons obtenu seulement 0,57%, et cela en employant de
+      l'eau distillée. Un résultat de 1,5% trouvé pratiquement parait donc douteux.
 
 [^7]: Erdman's *Journal fûr praklische chemie*, t. LXVI, p. 311 et 318.
 
@@ -2293,9 +2320,13 @@ transformer l'amidon, lorsqu'on le conserve à la température ordinaire, préci
 
 [^20]: *Nouveau système de chimie organique*, t. I, 1838, p. 452.
 
-[^21]: Chevreul, *Nouvelles Annales du Muséum d'Histoire naturelle*. Paris, 1834, t. III, p. 241. nous donne un aperçu historique sur l'état de la question dans lequel il cite presque tout ce qui a été publié sur l'amidon jusqu'à cette année. Voir aussi Dumas (*Traité de Chimie appliquée aux arts*, t. IV, p. 65), la bibliographie du chap. II, qui traite de l'amidon, des fécules et de la dextrine. Voir également *Erdmann's Journal*, t. II,
+[^21]: Chevreul, *Nouvelles Annales du Muséum d'Histoire naturelle*. Paris, 1834, t. III, p. 241. nous donne un aperçu
+       historique sur l'état de la question dans lequel il cite presque tout ce qui a été publié sur l'amidon jusqu'à
+       cette année. Voir aussi Dumas (*Traité de Chimie appliquée aux arts*, t. IV, p. 65), la bibliographie du
+       chap. II, qui traite de l'amidon, des fécules et de la dextrine. Voir également *Erdmann's Journal*, t. II,
 
-[^22]: *Mémoire sur le développement des végétaux*, 1844 p. 83, et Précis de Chimie industrielle, 4e édition, 1859, t II, p. 46.
+[^22]: *Mémoire sur le développement des végétaux*, 1844 p. 83, et *Précis de Chimie industrielle*,
+       4e édition, 1859, t II, p. 46.
 
 [^23]: *Poggendorff's Annalen*, t. XXXII, p. 129.
 
@@ -2319,7 +2350,26 @@ transformer l'amidon, lorsqu'on le conserve à la température ordinaire, préci
 
 [^33]: *L'Institut*, n° 1083, p. 338.
 
-[^34]: En ce qui concerne les sucres, nous ferons même remarquer que non seulement, à côté du sucre de cannes ou saccharose et du sucre de fruits ou glucose, il viendrait se ranger d'autres corps analogues, mais que l'on devrait peut-être même admettre plusieurs espèces de saccharoses et de glucoses ; ainsi Berthelot (Chimie organique fondée sur la synthèse, t. II, p. 2481), considère la glucose du malt comme étant une glucose spéciale qu'il désigne sous le nom de maltose, et il lui assigne les caractères suivants :<br/>« Sous l'influence de la diastase, rerment particulier contenu dans l'orge germée, l'amidon se change en une glucose particulière dont la nature a été établie principalement par les travaux de M. Biot et par ceux de M. Dubrunfaut. Cette transformation s'opère dans l'infusion de malt (orge germée), destinée à préparer la bière ; elle précède la transformation alcoolique qui donne naissance à cette boisson.<br/>« La maltose parait être également, au moins dans certains cas, le premier terme de la métamorphose de l'amidon sous l'influence ménagée des acides et précéder la formation définitive de la glucose ordinaire.<br/>« La maltose est cristallisable, mais seulement à la façon de la glucose ordinaire, avec laquelle elle offre de très grandes analogies. Elle est un peu moins soluble dans l'alcool, mais elle se distingue surtout par son pouvoir rotatoire, qui est dextrogire et triple de celui de la glucose ordinaire ; de plus, il parait être constant dès les premiers moments de la dissolution.<br/>« La maltose, soumise a une action prolongée des acides étendus, se change en glucose ordinaire ».
+[^34]: En ce qui concerne les sucres, nous ferons même remarquer que non seulement, à côté du sucre de cannes ou
+       saccharose et du sucre de fruits ou glucose, il viendrait se ranger d'autres corps analogues, mais que l'on
+       devrait peut-être même admettre plusieurs espèces de saccharoses et de glucoses ; ainsi Berthelot (*Chimie
+       organique fondée sur la synthèse*, t. II, p. 2481), considère la glucose du malt comme étant une glucose spéciale
+       qu'il désigne sous le nom de maltose, et il lui assigne les caractères suivants :
+
+       « Sous l'influence de la diastase, rerment particulier contenu dans l'orge germée, l'amidon se change en une
+       glucose particulière dont la nature a été établie principalement par les travaux de M. Biot et par ceux de
+       M. Dubrunfaut. Cette transformation s'opère dans l'infusion de malt (orge germée), destinée à préparer la bière ;
+       elle précède la transformation alcoolique qui donne naissance à cette boisson.
+
+       « La maltose parait être également, au moins dans certains cas, le premier terme de la métamorphose de l'amidon
+       sous l'influence ménagée des acides et précéder la formation définitive de la glucose ordinaire.
+
+       « La maltose est cristallisable, mais seulement à la façon de la glucose ordinaire, avec laquelle elle offre de
+       très grandes analogies. Elle est un peu moins soluble dans l'alcool, mais elle se distingue surtout par son
+       pouvoir rotatoire, qui est dextrogire et triple de celui de la glucose ordinaire ; de plus, il parait être
+       constant dès les premiers moments de la dissolution.
+
+       « La maltose, soumise a une action prolongée des acides étendus, se change en glucose ordinaire ».
 
 [^35]: *Gährung's Chemie*, l. c., p. 36.
 
@@ -2335,13 +2385,22 @@ transformer l'amidon, lorsqu'on le conserve à la température ordinaire, préci
 
 [^41]: *Journal de Chimie médicale*, 1833, p. 634.
 
-[^42]: Lacambre (*Traité complet de la fabrication des bières*, t.I, p. 73), dit que la diastase ne perd pas sa faculté modificatrice immédiatement au-dessus de 75e : d'après lui, elle la perd seulement à une température de 92 à 94°C, bien que, d'après ses observations, son action soit déjà plus faible à une température de 84 à 85°C.
+[^42]: Lacambre (*Traité complet de la fabrication des bières*, t.I, p. 73), dit que la diastase ne perd pas sa faculté
+       modificatrice immédiatement au-dessus de 75e : d'après lui, elle la perd seulement à une température de 92 à
+       94°C, bien que, d'après ses observations, son action soit déjà plus faible à une température de 84 à 85°C.
 
 [^43]: Littéralement : la substance mère (*de moederstof*).
 
 [^44]: Littéralement un grenier d'approvisionnement (*voorraadschuur.*)
 
-[^45]: Je ne dois pas pas omettre d'indiquer ici que l'infusion de noix de galle produit un précipité dans la liqueur, obtenue au moyen du malt, dont on a probablement séparé les substances albumineuses coagulables en la faisant bouillir. D'après cela, l'acide tannique du houblon devrait précipiter les substances albumineuses solides du malt ; mais la réaction n'a pas lieu lorsqu'on ajoute une quantité suffisante d'acide lactique. Cette liqueur, dans laquelle il se trouve en même temps de l'acide tannique et de l'acide lactique, peut être légèrement trouble, ce qui vient de la précipitation d'un tannate ; mais, par l'action de la chaleur, la liqueur redevient claire. Cette réaction particulière nous permettra plus tard d'expliquer comment il peut rester des substances albumineuses solubles dans la liqueur que l'on a fait bouillir avec du houblon.
+[^45]: Je ne dois pas omettre d'indiquer ici que l'infusion de noix de galle produit un précipité dans la liqueur,
+       obtenue au moyen du malt, dont on a probablement séparé les substances albumineuses coagulables en la faisant
+       bouillir. D'après cela, l'acide tannique du houblon devrait précipiter les substances albumineuses solides du
+       malt ; mais la réaction n'a pas lieu lorsqu'on ajoute une quantité suffisante d'acide lactique. Cette liqueur,
+       dans laquelle il se trouve en même temps de l'acide tannique et de l'acide lactique, peut être légèrement
+       trouble, ce qui vient de la précipitation d'un tannate ; mais, par l'action de la chaleur, la liqueur redevient
+       claire. Cette réaction particulière nous permettra plus tard d'expliquer comment il peut rester des substances
+       albumineuses solubles dans la liqueur que l'on a fait bouillir avec du houblon.
 
 [^46]: *Schweigger's Journal*, 1812, t. XIV, p. 289.
 
@@ -2349,7 +2408,9 @@ transformer l'amidon, lorsqu'on le conserve à la température ordinaire, préci
 
 [^48]: *Annales de Chimie et de Physique*, 3e série, t. XXIX, p. 1.
 
-[^49]: On n'obtient pas par cette méthode la totalité du sucre, puisque, dans la pâte même, une portion du sucre est transformée immédiatement par la fermentation en alcool et en acide carbonique : il se produit donc dans la mise en pâte une quantité de dextrine relativement plus considérable que celle du sucre.
+[^49]: On n'obtient pas par cette méthode la totalité du sucre, puisque, dans la pâte même, une portion du sucre est
+       transformée immédiatement par la fermentation en alcool et en acide carbonique : il se produit donc dans la mise
+       en pâte une quantité de dextrine relativement plus considérable que celle du sucre.
 
 [^50]: *De Wijn*, p. 65.
 
@@ -2371,4 +2432,6 @@ transformer l'amidon, lorsqu'on le conserve à la température ordinaire, préci
 
 [^59]: *Chimie appliquée à la Physiologie*. Paris, 1856, p. 38.
 
-[^60]: Le malt ne contient que 1/2 pour 100 de sucre, et cependant il est connu pour sa saveur douce ; cela vient de ce que le liquide mélangé qui se trouve dans la cavité buccale, transforme instantanément en sucre la dextrine du malt.
+[^60]: Le malt ne contient que 1/2 pour 100 de sucre, et cependant il est connu pour sa saveur douce ; cela vient de ce
+       que le liquide mélangé qui se trouve dans la cavité buccale, transforme instantanément en sucre la dextrine du
+       malt.

@@ -411,8 +411,10 @@ farine mais sur le grain d'orge entier avec son enveloppe, ainsi que cela est n�
 préparation de la bière. Nous reproduisons ci-dessous ces chiffres déjà connus, et nous ajoutons en regard les nombres
 qui correspondent à l'orge desséchée.
 
-<figure markdown='1'>
-  <figcaption markdown="1">**Composition de l'orge, d'après Oudemans.**</figcaption>
+<figure markdown="1">
+  <figcaption markdown="1">
+**Composition de l'orge, d'après Oudemans.**
+</figcaption>
 
 |                             | Orge non desséchée | Orge desséchée |
 |-----------------------------|:------------------:|:--------------:|

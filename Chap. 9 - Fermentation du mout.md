@@ -1,6 +1,6 @@
 ---
-title: Chapitre 10
-descrption: Fermentation du moût.
+title: Chapitre 9
+description: Fermentation du moût.
 ---
 
 # {{ page.title }}

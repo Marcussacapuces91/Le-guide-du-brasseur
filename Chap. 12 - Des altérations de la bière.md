@@ -17,7 +17,7 @@ seulement sur la nécessité de tenir la bière à l'abri du contact de l'air.
 Une conséquence de la préservation incomplète du contact de l'air est la formation d'une certaine quantité d'acide
 acétique. Les bières passent alors à l'état de bières aigres.
 
-*Bières aigres.* — Lorsque l'alcool est étendu et lorsqu'il se trouve en contact avec des molécules qui sont à l'état
+*<a id="aigres">Bières aigres.</a>* — Lorsque l'alcool est étendu et lorsqu'il se trouve en contact avec des molécules qui sont à l'état
 d'activité chimique, il se transforme par l'action de l'oxygène de l'air en acide acétique :
 C<sub>4</sub>H<sub>6</sub>O<sub>2</sub> + O<sub>4</sub> = C<sub>4</sub>H<sub>4</sub>O<sub>4</sub> + 2HO. La production
 du vinaigre par procédé rapide en est un exemple. Il existe dans la bière une quantité abondante de molécules en
@@ -44,7 +44,7 @@ température du cellier n'est pas suffisamment basse. Dans des cruches ou dans d
 la bière devienne acide, parce que l'air qui est nécessaire pour transformer l'alcool en acide acétique ne peut pas y
 avoir accès.
 
-*Bières plates.* — Plus d'une cause peut contribuer à ce que les bières deviennent plates. Dans le cas le plus simple,
+*<a id="plates">Bières plates.</a>* — Plus d'une cause peut contribuer à ce que les bières deviennent plates. Dans le cas le plus simple,
 l'absence de saveur de la bière peut être seulement la conséquence de ce qu'il s'est volatilisé de l'acide carbonique.
 J'ai déjà observé à plusieurs reprises que, dans aucune bière, l'acide carbonique ne peut faire défaut ; que, quelque
 faible que cette fermentation puisse être, il doit toujours se produire dans la bière une fermentation, en sorte que,
@@ -55,19 +55,18 @@ moyen de la fermentation superficielle que dans les bières obtenues au moyen de
 Si, dans une bière quelconque, pour qu'elle soit réellement une bière, il doit se trouver et se produire de l'acide
 carbonique, une bière qui a perdu tout son acide carbonique peut, par cette raison, être déjà considérée comme malade :
 mais l'essence de la maladie présente une cause plus intime que le simple dégagement de l'acide carbonique. La totalité
-de la portion de la levure qui est soluble ou la totalité de
+de la portion de la levure qui est soluble ou la totalité de la substance susceptible de déterminer la fermentation peut
+être consommée, ou bien encore tout le sucre qui devait entretenir cette fermentation lente a pu être décomposé. Dans
+cette dernière hypothèse, la bière ne peut plus devenir acide : par suite du manque de sucre et d'acide carbonique, elle
+devient fade.
 
-la substance susceptible de déterminer la fermentation peut être consommée, ou bien encore tout le sucre qui devait
-entretenir cette fermentation lente a pu être décomposé. Dans cette dernière hypothèse, la bière ne peut plus devenir
-acide : par suite du manque de sucre et d'acide carbonique, elle devient fade.
-
-*Bières filantes.* — Le fait que certaines bières deviennent filantes peut être attribué à ce que la dextrine qui existe
-dans la bière et le sucre qui s'y trouve encore se transforment en mucus végétal. Desfosses a reproduit artificiellement
-cette transformation en faisant bouillir la levure de bière avec de l'eau, en ajoutant à cette liqueur une grande
-quantité de sucre, et en laissant reposer le tout pendant quelque temps dans un endroit chaud. Le mucus végétal qui se
-produit fait devenir bientôt la liqueur épaisse. Péligot, en traitant de la même manière le gluten, a obtenu une
-quantité de mucus végétal égale à environ 1/3 de la quantité de sucre employée[^1]. Je me suis déjà occupé de cette
-question dans un autre ouvrage[^2].
+*<a id="filantes">Bières filantes</a>.* — Le fait que certaines bières deviennent filantes peut être attribué à ce que 
+la dextrine qui existe dans la bière et le sucre qui s'y trouve encore se transforment en mucus végétal. Desfosses a
+reproduit artificiellement cette transformation en faisant bouillir la levure de bière avec de l'eau, en ajoutant à
+cette liqueur une grande quantité de sucre, et en laissant reposer le tout pendant quelque temps dans un endroit chaud.
+Le mucus végétal qui se produit fait devenir bientôt la liqueur épaisse. Péligot, en traitant de la même manière le
+gluten, a obtenu une quantité de mucus végétal égale à environ 1/3 de la quantité de sucre employée[^1]. Je me suis déjà
+occupé de cette question dans un autre ouvrage[^2].
 
 Lorsque cette maladie se produit dans la bière, elle parait provenir de phénomènes morbides préexistant dans le malt et
 dans le moût.
@@ -77,12 +76,12 @@ froment, la transformation se produit à un degré plus ou moins prononcé, sans
 bière de ce genre est caractérisée par sa consistance presque sirupeuse, bien que la quantité d'extrait qui s'y trouve
 n'indique pas qu'il y existe en somme une grande quantité de dextrine. Cela se présente d'une manière frappante dans le
 lambick provenant d'une brasserie d'Utrecht. Cette bière, lorsqu'on la verse, forme une colonne filiforme : elle est
-très épaisse et ne comporte pas plus de 3,5 pour 100 d'extrait. La dextrine s'est donc transformée en mucus végétal.
+très épaisse et ne comporte pas plus de 3,5% d'extrait. La dextrine s'est donc transformée en mucus végétal.
 
-*Bières moisies.* — Les bières plates moisissent rapidement : la moisissure d'une bière est, dans la plupart des cas, la
-conséquence de ce qu'elle était plate. Mais, d'autre part, la production de la moisissure dans une bière peut provenir
-de ce qu'elle a été enfermée dans des tonneaux dont les parois étaient couvertes de moisissures, ainsi que cela peut
-arriver à des tonneaux qui ont séjourné dans des caves où l'air n'a que difficilement accès.
+*<a id="moisies">Bières moisies</a>.* — Les bières plates moisissent rapidement : la moisissure d'une bière est, dans la
+plupart des cas, la conséquence de ce qu'elle était plate. Mais, d'autre part, la production de la moisissure dans une
+bière peut provenir de ce qu'elle a été enfermée dans des tonneaux dont les parois étaient couvertes de moisissures,
+ainsi que cela peut arriver à des tonneaux qui ont séjourné dans des caves où l'air n'a que difficilement accès.
 
 
 <table style="width: 100%;">

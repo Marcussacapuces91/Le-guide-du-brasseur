@@ -43,7 +43,7 @@ qu'elles devraient encore s'élever à moitié. Il a trouvé, en outre, dans 100
 
 <figure markdown='1'>
   <table>
-    <tr><td></td><th>Folioles<br>de la fleure</th><th>Poussière<br>jaune</th><th>Folioles<br>et poussière<br>ensemble</th></tr>
+    <tr><td></td><th>Folioles<br>de la fleur</th><th>Poussière<br>jaune</th><th>Folioles<br>et poussière<br>ensemble</th></tr>
     <tr><th>Huile volatile         </th><td>  ... </td><td> 0,12 </td><td>  0,12 </td></tr>
     <tr><th>Acide tannique         </th><td>  1,6 </td><td> 0,7  </td><td>  2,3  </td></tr>
     <tr><th>Substance amère        </th><td>  4,7 </td><td> 3,0  </td><td>  7,7  </td></tr>

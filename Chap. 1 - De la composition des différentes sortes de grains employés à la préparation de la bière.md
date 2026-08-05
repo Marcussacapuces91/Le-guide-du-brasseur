@@ -450,8 +450,10 @@ hordéique en distillant avec de l'acide sulfurique l'orge dont on a séparé la
 Les analyses de cendres d'orge faites par Veltman et Moesman dans le laboratoire d'Utrecht donnent les résultats
 suivants :
 
-<figure markdown='1'>
-  <figcaption>Analyse des cendres d'Orge.</figcaption>
+<figure markdown="1">
+  <figcaption>
+**Analyse des cendres d'Orge.**
+</figcaption>
   <table>
     <tr><th>                         </th><th colspan=2>Veltman</th><th colspan=2>Moesman</th></tr>
     <tr><th>Potasse                  </th><td colspan=2> 17,0  </td><td colspan=2> 17,5  </td></tr>
@@ -664,7 +666,7 @@ est la suivante :
 <figure markdown='1'>
   <figcaption markdown='1'>
 **Analyse des cendres de froment**
-  </figcaption>
+</figcaption>
   <table>
     <tr><th>                   </th><th colspan=2> Will et Fresenius </th><th rowspan=2> Bichon </th><th rowspan=2> Thon </th><th rowspan=2> Petzhold </th><th rowspan=2> Boussingault<br/>Bechelbronn. </th><th rowspan=2> Erdmann </th></tr>
     <tr><th>                   </th><th> Froment roux </th><th> Froment blanc </th></tr>
@@ -889,7 +891,7 @@ qu'elle résulte de ce qui précède.
 <figure markdown='1'>
   <figcaption markdown='1'>
 **Tableau comparatif de la composition du froment et de l'orge**
-  </figcaption>
+</figcaption>
   <table>
     <tr><td></td><td colspan=2>Froment</td><td colspan=2>Orge</td></tr>
     <tr><th>Amidon                                                           </th><td> 57,0 </td><td> 67,9 </td><td> 53,8 </td><td> 65,7 </td></tr>
@@ -913,12 +915,13 @@ qu'elle résulte de ce qui précède.
     <td style="text-align: left; width: 33%;" markdown="1">
 [Précédent : Généralités](Généralités.md)
 </td>
-    <td style="text-align: center; width: 33%;"></td>
+    <td style="text-align: center; width: 33%;">&nbsp;</td>
     <td style="text-align: right; width: 33%;" markdown="1">
 [Suivant : Chapitre 2](Chap. 2 - Du houblon.md)
 </td>
   </tr>
 </table>
+
 
 [^1]: *Ältere und neuere Erfahrungen*, Ièna.
 

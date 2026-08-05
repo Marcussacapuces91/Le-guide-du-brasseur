@@ -45,7 +45,7 @@ clairement. Relativement à la quantité de substances albumineuses qu'elle cont
 ranger comme substance nutritive presque au même rang que les pois et les haricots.
 
 Mais, dans la fabrication de la bière, à partir du commencement du traitement du grain jusques et y compris la
-fermentation qui termine l'opération, il se produit une perte qui est complète sous quelque rapport qu'on la considère.
+fermentation qui termine l'opération, il se produit une perte qui est complète sous quelques rapports qu'on la considère.
 
 Nous pouvons encore évaluer d'une autre manière la perte qui se produit pour la consommation de l'homme dans la
 préparation de la bière, en prenant pour point de départ les analyses de l'orge et du malt d'orge qui ont été faites par
@@ -53,52 +53,45 @@ Oudemans et que nous avons indiquées p. 17.
 
 Dans 100 parties d'orge desséchée à l'air, on trouve :
 
-Amidon et dextrine
+<figure>
+    <table>
+        <tr><th> Amidon et dextrine      </th><td> 58,3 </td></tr>
+        <tr><th> Substances albumineuses </th><td>  9,7 </td></tr>
+        <tr><th> Matière grasse          </th><td>  2,1 </td></tr>
+        <tr><th> Substances inorganiques </th><td>  2,5 </td></tr>
+        <tr><th>                         </th><th> 72,6 </th></tr>
+    </table>
+</figure>
 
-58,3
-
-Substances albumineuses
-
-9,7
-
-Matière grasse
-
-2,1
-
-Substances inorganiques
-
-2,5 72,6
-
-Supposons maintenant une bière préparée au moyen de 100 livres d'orge transformée en malt et au moyen d'une
-
-quantité d'eau suffisante pour qu'il puisse se produire 400 livres de bière, et admettons encore pour plus de simplicité
+Supposons maintenant une bière préparée au moyen de 100 livres d'orge transformée en malt et au moyen d'une quantité
+d'eau suffisante pour qu'il puisse se produire 400 livres de bière, et admettons encore pour plus de simplicité
 que le poids de la bière est le même que celui de l'unité de mesure. La question se réduit alors à savoir quelle portion
 de ces 72 livres de parties constituantes utiles on retrouve dans la bière.
 
-Si cette bière contient en poids 4,2 p. 400 d'extrait et 3,5 p. 100 d'alcool, c'est une bière d'une bonne consommation,
+Si cette bière contient en poids 4,2% d'extrait et 3,5% d'alcool, c'est une bière d'une bonne consommation,
 d'une force convenable et d'une puissance nutritive suffisante.
 
 400 kilos de bière contiennent alors 14 kilos d'alcool et 17 kilos d'extrait ; en admettant que ce dernier soit composé
 uniquement de sucre et de dextrine, et en supposant pour plus de simplicité que ces substances peuvent toutes deux être
 représentées par 2025, l'alcool étant représenté par 1150. — Il existe alors dans 400 kilos de bière 31 kilos de parties
 constituantes utiles provenant de 58,3 amidon et dextrine. Sur 100 kilos d'orge, il se perd donc, pour la consommation
-de l'homme, par la transformation de l'orge en bière 58,3 - 31 = 27,3 kilos ou presque la moitié du tout.
+de l'homme, par la transformation de l'orge en bière `58,3 - 31 = 27,3 kg` ou presque la moitié du tout.
 
 Pour les substances albumineuses, on obtient du reste un résultat encore moins satisfaisant.
 
-Admettons que la bière ait donné 4,2 p. 100 d'extrait et que cet extrait ait fourni par l'analyse 1,5 p. 100 d'azote. Si
+Admettons que la bière ait donné 4,2% d'extrait et que cet extrait ait fourni par l'analyse 1,5% d'azote. Si
 nous tenons compte de cet azote comme provenant des substances albumineuses, nous trouvons que, dans 1 kilo de bière, il
-existe 0g,4 de substances albumineuses, c'est-à-dire que 400 kilos de bière contiennent 1k,6 de substances albumineuses.
-Il y en avait 9k,7 dans le grain. Sur 9k,7, il s'est donc perdu 8k, l, c'est-à-dire presque les 5/6 de la quantité qui
+existe 0,4g de substances albumineuses, c'est-à-dire que 400 kilos de bière contiennent 1,6kg de substances albumineuses.
+Il y en avait 9,7kg dans le grain. Sur 9,7kg, il s'est donc perdu 8kg, l, c'est-à-dire presque les 5/6 de la quantité qui
 existait primitivement dans le grain.
 
-Admettons que, dans 100 parties d'extrait de bière, il existe 0,2 de matière grasse. Cela donne pour 4;2 p. 100
-d'extrait, 0,008 de matière grasse, et, par suite, pour 400 kilos de bière 0,032 de matière grasse. Dans 100 kilos
-d'orge, il y avait 2,1 de matière grasse ; il s'est donc perdu 2,07, ce qui est presque une perte de 69
+Admettons que, dans 100 parties d'extrait de bière, il existe 0,2 de matière grasse. Cela donne pour 4,2%
+d'extrait, 0,008 de matière grasse, et, par suite, pour 400kg de bière 0,032 de matière grasse. Dans 100 kg
+d'orge, il y avait 2,1 de matière grasse ; il s'est donc perdu 2,07, ce qui est presque une perte de `69/70`.
 
-Passons ensuite aux substances salines. Admettons qu'il existe 0,25 p. 100 de sels dans l'extrait : pour 400 kilos de
-bière, par exemple, cela nous donnera 0k,1. Mais il y avait 2k,5 de sels dans l'orge : il s'est donc produit une perte
-de 2,4 ou de 24/25
+Passons ensuite aux substances salines. Admettons qu'il existe 0,25% de sels dans l'extrait : pour 400 kg de
+bière, par exemple, cela nous donnera 0,1kg. Mais il y avait 2,5kg de sels dans l'orge : il s'est donc produit une perte
+de 2,4 ou de `24/25`
 
 Partout, il y a donc perte pour la consommation de l'homme.
 
@@ -127,9 +120,8 @@ Le résultat final est donc que, dans la préparation de la bière, 1/4 des part
 substances albumineuses de l'orge sont perdus pour la consommation de l'homme et des bestiaux.
 
 Sur 400 kilos d'orge employés à la préparation de la bière, 100 kilos sont donc perdus pour la consommation de l'homme
-et des bestiaux sous forme d'amidon et de dextrine : sur 600 kilos d'orge, 100 kilos sont perdus sous forme de sub-
-
-stances albumineuses. Si l'on emploie du froment, la perte n'est pas moindre.
+et des bestiaux sous forme d'amidon et de dextrine : sur 600 kilos d'orge, 100 kilos sont perdus sous forme de
+substances albumineuses. Si l'on emploie du froment, la perte n'est pas moindre.
 
 Dans l'exemple que nous avons choisi, nous avons admis, ainsi qu'on a pu le voir, que l'opération était bien conduite.
 Nous avons admis notamment que, dans la préparation de la bière, il se dissolvait une quantité des principes utiles de
@@ -140,8 +132,8 @@ partis pour arriver à ce résultat que, dans la préparation de la bière, le 1
 dans l'orge est perdu pour la consommation de l'homme et des bestiaux. En ce qui concerne les substances albumineuses,
 je pense que la perte a été étudiée avec un développement suffisant.
 
-Dans l'orge desséchée à. l'air, il existe 58,3 p. 100 d'amidon et de dextrine (p. 215). Il en reste 1/4 dans la drêche (
-p. 172) : en effet 16,6 est le 1/4 de 58,6 + 6,6 = 65,2 ». — Il reste donc en nombres ronds 45 p. 100 d'amidon et de
+Dans l'orge desséchée à l'air, il existe 58,3% d'amidon et de dextrine (p. 215). Il en reste 1/4 dans la drêche
+(p. 172) : en effet 16,6 est le 1/4 de `58,6 + 6,6 = 65,2`[^1]. — Il reste donc en nombres ronds 45% d'amidon et de
 dextrine de l'orge desséchée à l'air. En nombres ronds, 17 parties de sucre et de dextrine, 14 parties d'alcool et 14
 parties d'acide carbonique se forment aux dépens de ces 45 parties de sucre. — Ces 14 parties d'acide carbonique qui se
 dégagent, sont le 1/4 de 58,3 ou la quantité totale d'amidon et de dextrine contenue dans l'orge.
@@ -153,15 +145,11 @@ imparfaite de la question qui nous occupe si nous nous en tenions seulement aux 
 grain, il s'est produit une substance gommeuse, du sucre et, en outre, de l'alcool. Pour 1150 parties d'alcool qui se
 sont produites aux dépens de l'amidon, il a disparu 1100 parties d'acide carbonique. Ces 1100 parties sont absolument
 perdues. D'autre part, au point de vue physiologique, l'alcool n'est pas comparable à l'amidon : relativement à la perte
-de 1/4 que subit l'amidon des grains dans la préparation de
-
-1. Ces nombres sont relatifs au malt touraillé, mais ils peuvent nous servir ici d'exemple.
-
-la bière, nous devons donc modifier notre jugement ; en effet, il se produit une substance qui exerce une action
-excitante sur l'organisme et dont l'action salutaire sur cet organisme est suffisamment prouvée, du moins lorsqu'on l'
-emploie à l'état étendu. Cela est surtout vrai lorsque cette substance se trouve en présence de l'albumine, de la
-dextrine, du sucre de fruits, de l'acide lactique, de la substance amère du houblon et des phosphates qui constituent,
-avec l'alcool, les parties constituantes principales de la bière.
+de 1/4 que subit l'amidon des grains dans la préparation de la bière, nous devons donc modifier notre jugement ; en
+effet, il se produit une substance qui exerce une action excitante sur l'organisme et dont l'action salutaire sur cet
+organisme est suffisamment prouvée, du moins lorsqu'on l'emploie à l'état étendu. Cela est surtout vrai lorsque cette
+substance se trouve en présence de l'albumine, de la dextrine, du sucre de fruits, de l'acide lactique, de la substance
+amère du houblon et des phosphates qui constituent, avec l'alcool, les parties constituantes principales de la bière.
 
 En ce qui concerne la question de savoir si une partie d'alcool, lorsque cet alcool est étendu et mélangé avec d'autres
 substances nutritives, peut, au point de vue de l'effet utile, être considérée comme équivalente à 2 parties d'amidon,
@@ -183,3 +171,18 @@ propriété de reproduire les matières qui ont été consommées.
 En ce qui concerne, au contraire, la perte de 1/6 des substances albumineuses qui a lieu dans la préparation de la bière
 et dont, toutefois, une partie peut être retrouvée dans la levure, il n'y a aucune justification à présenter.
 
+
+<table style="width: 100%;">
+  <tr>
+    <td style="text-align: left; width: 33%;" markdown="1">
+[Précédent : Chapitre 15<br>Falsification de la bière](Chap. 15 - Falsification de la bière.md)
+</td>
+    <td style="text-align: center; width: 33%;"></td>
+    <td style="text-align: right; width: 33%;" markdown="1">
+[Suivant : Chapitre 17<br>Des substances dont on ne peut se servir en place de grains pour préparer une bonne boisson](Chap. 17 - Des substances dont on ne peut se servir en place de grains pour préparer une bonne boisson.md)
+</td>
+  </tr>
+</table>
+
+
+[^1]: Ces nombres sont relatifs au malt touraillé, mais ils peuvent nous servir ici d'exemple.

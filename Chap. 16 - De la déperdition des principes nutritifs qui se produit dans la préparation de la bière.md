@@ -179,7 +179,7 @@ et dont, toutefois, une partie peut être retrouvée dans la levure, il n'y a au
 </td>
     <td style="text-align: center; width: 33%;"></td>
     <td style="text-align: right; width: 33%;" markdown="1">
-[Suivant : Chapitre 17<br>Des substances dont on ne peut se servir en place de grains pour préparer une bonne boisson](Chap. 17 - Des substances dont on ne peut se servir en place de grains pour préparer une bonne boisson.md)
+[Suivant : Chapitre 17<br>Des substances dont on peut se servir en place de grains pour préparer une bonne boisson](Chap. 17 - Des substances dont on peut se servir en place de grains pour préparer une bonne boisson.md)
 </td>
   </tr>
 </table>

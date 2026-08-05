@@ -539,8 +539,10 @@ Nous en citerons quelques-unes[^13].
 
 Boussingault et Polson ont obtenu les résultats suivants[^14] :
 
-<figure markdown='1'>
-  <figcaption>Analyse du froment</figcaption>
+<figure markdown="1">
+  <figcaption markdown="1">
+**Analyse du froment**
+</figcaption>
   <table>
     <tr><th>                         </th><th>Boussingault</th><th colspan=2>Polson</th></tr>
     <tr><th> Amidon                  </th><td> 59,7       </td><td> 62,3<sup>*</sup></td><td>56,9<sup>**</sup></td></tr>
